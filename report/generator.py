@@ -61,6 +61,8 @@ Score: {p.score}
         md += f"""
 ## {t.name}
 
+📝 中文简介: {t.zh_intro or "—"}
+📄 英文原文: {t.description or "—"}
 ⭐ 当日新增: +{t.stars_today}
 总 Stars: {t.stars}
 语言: {t.language}
@@ -110,6 +112,12 @@ h2{font-size:20px;margin:0 0 16px;display:flex;align-items:center;gap:8px}
 .paper .t{font-weight:600}
 .paper .d{font-size:13px;color:var(--muted);margin-top:4px}
 .empty{color:var(--muted);font-style:italic;padding:12px 0}
+.trend{border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin:12px 0}
+.trend-head{display:flex;justify-content:space-between;align-items:baseline;gap:12px;flex-wrap:wrap}
+.trend-head a{font-size:15px;font-weight:600;color:var(--accent2)}
+.trend-meta{font-size:12px;color:var(--muted);white-space:nowrap}
+.trend-intro{font-size:14px;color:var(--ink);margin-top:8px;line-height:1.6}
+.trend-orig{font-size:12px;color:var(--muted);margin-top:6px;font-style:italic}
 footer{text-align:center;color:var(--muted);font-size:13px;padding:32px 16px 48px}
 @media(max-width:720px){.stats{grid-template-columns:repeat(2,1fr)}}
 """
@@ -127,6 +135,24 @@ def _chip_style(cat):
         if name == cat:
             return f"background:{bg};color:{fg};border:1px solid {bd}"
     return "background:#f1f5f9;color:#475569;border:1px solid #e2e8f0"
+
+
+def _trending_card(t):
+    """GitHub 真实热门榜卡片：含项目名、数据、简单中文简介与原文。"""
+    name = html.escape(t.name)
+    url = html.escape(t.url or "")
+    intro = html.escape(t.zh_intro or "—")
+    lang = html.escape(t.language or "—")
+    origin = html.escape(t.description or "")
+    orig_html = f'<div class="trend-orig">原文：{origin}</div>' if origin else ""
+    return f'''<div class="trend">
+  <div class="trend-head">
+    <a href="{url}" target="_blank" rel="noopener">{name}</a>
+    <span class="trend-meta">+{t.stars_today} ★/24h · 总 {t.stars} ★ · {lang}</span>
+  </div>
+  <div class="trend-intro">{intro}</div>
+  {orig_html}
+</div>'''
 
 
 def _bar_row(name, value, max_value, display, url=None, warn=False):
@@ -186,16 +212,7 @@ def generate_html():
 
     # ---- GitHub 真实热门榜（github.com/trending）----
     if trending:
-        trending_html = "".join(
-            _bar_row(
-                t.name,
-                t.stars_today,
-                max_today,
-                f"⭐ +{t.stars_today} / 24h · 总 {t.stars}",
-                url=t.url,
-            )
-            for t in trending
-        )
+        trending_html = "".join(_trending_card(t) for t in trending)
     else:
         trending_html = (
             '<div class="empty">暂无可用的 GitHub Trending 数据'

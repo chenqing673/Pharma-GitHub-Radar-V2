@@ -56,6 +56,8 @@ class TrendingRepo(Base):
     url = Column(String(500))
     description = Column(Text)
     language = Column(String(100))
+    topics = Column(String(300))
+    zh_intro = Column(Text)
     stars = Column(Integer)
     stars_today = Column(Integer)
     since = Column(String(20))

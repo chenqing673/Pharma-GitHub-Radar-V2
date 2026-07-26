@@ -75,6 +75,7 @@ elif page == "GitHub热门":
                     "当日新增": t.stars_today,
                     "总Stars": t.stars,
                     "语言": t.language,
+                    "中文简介": t.zh_intro or "—",
                     "链接": t.url,
                 }
                 for t in trending
@@ -85,6 +86,10 @@ elif page == "GitHub热门":
         fig = px.bar(df, x="项目", y="当日新增",
                      title=f"GitHub Trending（{since}）当日新增 Star")
         st.plotly_chart(fig)
+
+        st.subheader("📝 中文简介明细")
+        for t in trending:
+            st.markdown(f"**{t.name}** — {t.zh_intro or '—'}")
     else:
         st.info("暂无可用的 GitHub Trending 数据，请先运行 python main.py 采集。")
 

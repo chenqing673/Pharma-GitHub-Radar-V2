@@ -13,6 +13,7 @@ V2 专业版是一个 **GitHub 研发情报监控系统**，重点不是 AI 制�
 ## 功能
 
 - GitHub Trending 监控（github.com/trending 官方增速榜，独立板块「🔥 GitHub 真实热门榜」）
+- 真实热门榜**中文简介**（为每个 Trending 项目自动生成简单中文介绍，离线词表方案即可工作；可选 LLM 升级为流畅全文翻译）
 - Star 增长速度分析（本项目关键词仓库的本地 star 差值，与 Trending 榜单区分）
 - AI Drug Discovery 项目发现
 - RDKit / Chemistry 项目追踪
@@ -88,8 +89,8 @@ streamlit run dashboard/app.py
 
 每次运行 `python main.py`（或 GitHub Actions 每日触发）都会在项目根目录生成：
 
-- `index.html` —— 漂亮的可视化情报主页（统计卡片 + Star 排行榜 + 快速增长榜 + 分类分布 + 最新论文），可直接作为 GitHub Pages 站点
-- `DAILY_REPORT.md` —— 纯文本日报（兼容 Markdown 阅读）
+- `index.html` —— 漂亮的可视化情报主页（统计卡片 + Star 排行榜 + 快速增长榜 + 分类分布 + 最新论文），可直接作为 GitHub Pages 站点。其中「🔥 GitHub 真实热门榜」每个项目都带**简单中文简介**（语言 + 主要技术方向），并附英文原文
+- `DAILY_REPORT.md` —— 纯文本日报（兼容 Markdown 阅读），热门榜同样含中文简介与原文
 
 ## 如何使用
 
@@ -141,6 +142,13 @@ streamlit run dashboard/app.py  # 交互式 Dashboard，访问 http://localhost:
 - `TG_TOKEN` / `TG_CHAT_ID`：Telegram 机器人（可选，用于每日推送）
 
 关键词与阈值在 `config.yaml` 中配置。
+
+### 真实热门榜「中文简介」配置
+
+每个 GitHub Trending 项目都会自动生成一句简单中文简介，展示在情报主页、日报与 Dashboard 中：
+
+- **默认（离线词表方案）**：基于 GitHub 返回的 `语言` + `topics` 主题标签，配合内置「英文技术词→中文」词表生成，例如「使用 Python 开发；主要方向：机器学习、大语言模型、智能体。」，并附英文原文。无需任何外部 API，CI 每天自动运行即可。
+- **可选（LLM 全文翻译）**：若希望简介更流畅自然，在 `.env` 或仓库 **Secrets** 中设置 `ZH_INTRO_LLM=1` 并提供 `LLM_API_KEY`（以及可选的 `LLM_BASE_URL` / `LLM_MODEL`，兼容 OpenAI 接口），则改用 LLM 把项目摘要成 1-2 句中文。未配置时自动降级为离线方案，不影响主流程。
 
 ## Docker 部署
 
