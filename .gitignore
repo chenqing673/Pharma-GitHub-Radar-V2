@@ -3,6 +3,8 @@ __pycache__/
 .env
 data/*.db
 data/*.db-journal
+# 放行情报库，使 StarHistory 跨 workflow run 持久化（快速增长榜依赖它）
+!data/pharma_radar.db
 .DS_Store
 .streamlit/
 .workbuddy/

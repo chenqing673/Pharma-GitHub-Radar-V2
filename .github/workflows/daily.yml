@@ -5,6 +5,11 @@ on:
     - cron: "0 1 * * *"
   workflow_dispatch:
 
+# 串行执行：防止手动触发与定时任务同时跑导致 db 并发写 / push 冲突
+concurrency:
+  group: radar-daily
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
