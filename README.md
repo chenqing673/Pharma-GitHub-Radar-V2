@@ -87,13 +87,47 @@ streamlit run dashboard/app.py
 - `index.html` —— 漂亮的可视化情报主页（统计卡片 + Star 排行榜 + 快速增长榜 + 分类分布 + 最新论文），可直接作为 GitHub Pages 站点
 - `DAILY_REPORT.md` —— 纯文本日报（兼容 Markdown 阅读）
 
-部署到 GitHub Pages：
+## 如何使用
 
-1. 仓库 **Settings → Pages → Build and deployment → Source：Deploy from a branch → 选择 `gh-pages`**
+**只看情报主页（推荐）：** 浏览器直接打开 GitHub Pages 地址即可，无需安装任何东西（见下方部署地址）。
+
+**自己跑 / 看真实数据：**
+
+```bash
+pip install -r requirements.txt
+python main.py                  # 采集 → 评分 → 入库 → 生成 index.html + DAILY_REPORT.md
+streamlit run dashboard/app.py  # 交互式 Dashboard，访问 http://localhost:8501
+```
+
+> 生成的 `index.html` 用浏览器直接打开也能看（与 Pages 同一套页面）。
+
+## 部署 GitHub Pages
+
+每次运行 `python main.py`（或 GitHub Actions 每日触发）都会生成上面的 `index.html` 与 `DAILY_REPORT.md`。
+
+1. **首次启用**：仓库 **Settings → Pages → Build and deployment → Source：Deploy from a branch → 分支选 `gh-pages` / 根目录 → Save**（若打开站点地址是 404，通常是这一步没做）
 2. 推送 `/main` 后，`pages.yml` 工作流会自动把 `index.html` 发布到 `gh-pages` 分支
 3. 访问 `https://<user>.github.io/<repo>/` 即可看到每日自动更新的情报主页
 
+> 本项目地址：`https://chenqing673.github.io/Pharma-GitHub-Radar-V2/`
 > 也可在本地用 `python -m http.server` 直接预览生成的 `index.html`。
+
+### 立即获取真实数据（手动触发）
+
+页面数据来自最近一次 `python main.py` 的运行结果。刚克隆 / 首次推送时页面显示的是**示例数据**，想立刻看到真实 GitHub 数据，无需等待每日定时：
+
+1. 打开仓库 **Actions** 标签页
+2. 选择工作流 **Pharma Radar Daily Update**
+3. 点击 **Run workflow → Run**
+
+工作流会用 Actions 自带的 `GITHUB_TOKEN` 采集并重新生成 `index.html`，提交后 `pages.yml` 自动重新发布。
+
+### 数据说明
+
+- 报告内容为「最近一次生成的快照」，每天 **UTC 01:00** 由 `daily.yml` 自动刷新
+- 首次推送的页面为占位示例数据，首次真实运行后会被真实 GitHub / arXiv 数据覆盖
+- Telegram 推送为可选项：在 **Settings → Secrets → Actions** 添加 `TG_TOKEN`、`TG_CHAT_ID` 后才会发送，不影响采集与 Pages
+- 关键词与阈值在 `config.yaml` 中配置
 
 ## 配置
 
