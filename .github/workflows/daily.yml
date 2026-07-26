@@ -25,12 +25,29 @@ jobs:
       - name: Run Radar
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python main.py
+        run: |
+          echo "=== before run: working dir ==="
+          pwd
+          ls -la index.html DAILY_REPORT.md 2>/dev/null || echo "(files not present)"
+          echo "=== running main.py ==="
+          python main.py
+          echo "=== exit: $? ==="
+          echo "=== after run: file presence + size ==="
+          ls -la index.html DAILY_REPORT.md
 
       - name: Commit report
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
+          echo "=== git status ==="
+          git status --short
           git add .
-          git commit -m "Daily radar update" || exit 0
-          git push
+          echo "=== staged changes ==="
+          git diff --cached --stat
+          if git diff-index --quiet --cached HEAD; then
+            echo "=== no staged changes, skipping commit ==="
+          else
+            git commit -m "Daily radar update $(date -u +'%Y-%m-%d %H:%M UTC)'"
+            git push
+            echo "=== pushed ==="
+          fi
