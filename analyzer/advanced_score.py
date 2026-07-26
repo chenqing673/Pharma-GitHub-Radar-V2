@@ -29,6 +29,8 @@ def chemistry_score(text):
     ]
 
     score = 0
+    if text is None:
+        return 0
     text = text.lower()
 
     for k in keywords:
@@ -42,7 +44,7 @@ def pharma_score(project):
     score = (
         star_score(project.get("stars", 0))
         + fork_score(project.get("forks", 0))
-        + chemistry_score(project.get("description", ""))
+        + chemistry_score(project.get("description") or "")
     )
 
     return round(score, 2)

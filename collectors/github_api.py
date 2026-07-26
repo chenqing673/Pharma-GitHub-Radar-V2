@@ -39,7 +39,7 @@ def collect_github():
                     "url": repo["html_url"],
                     "stars": repo["stargazers_count"],
                     "forks": repo["forks_count"],
-                    "description": repo["description"],
+                    "description": repo.get("description") or "",
                 }
             )
 

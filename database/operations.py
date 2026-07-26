@@ -27,7 +27,7 @@ def save_projects(projects):
                 stars=p["stars"],
                 forks=p["forks"],
                 score=p.get("score", 0.0),
-                description=p.get("description", ""),
+                description=p.get("description") or "",
                 category=p.get("category", "Other"),
                 ai_score=p.get("ai_score", 0.0),
                 tech_tags=p.get("tech_tags", ""),
