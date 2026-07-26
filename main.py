@@ -1,4 +1,5 @@
 from collectors.github_api import collect_github
+from collectors.github_trending import collect_github_trending
 from collectors.arxiv import collect_arxiv
 
 from analyzer.scoring import calculate_score
@@ -7,7 +8,7 @@ from analyzer.category import classify
 from analyzer.readme_analyzer import get_readme, analyze_readme
 
 from database.db import init_db
-from database.operations import save_projects, save_papers
+from database.operations import save_projects, save_papers, save_trending
 
 from report.generator import generate_report
 from notification.telegram import send_message
@@ -34,6 +35,10 @@ def main():
             p["readme_summary"] = ""
 
     save_projects(projects)
+
+    # GitHub 官方 Trending 真实热门榜（区别于上面的 keyword Star 排行榜）
+    trending = collect_github_trending("daily")
+    save_trending(trending, "daily")
 
     papers = collect_arxiv()
     save_papers(papers)

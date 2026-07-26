@@ -1,5 +1,5 @@
 from database.db import get_session
-from database.models import GithubProject, StarHistory
+from database.models import GithubProject, StarHistory, TrendingRepo
 
 
 def top_star_projects(limit=20):
@@ -42,3 +42,15 @@ def fast_growth_projects(limit=20):
     result.sort(key=lambda x: x["growth"], reverse=True)
 
     return result[:limit]
+
+
+def top_trending(limit=20, since="daily"):
+    """GitHub 官方 Trending 真实热门榜（按当日新增 Star 降序）。"""
+    db = get_session()
+    return (
+        db.query(TrendingRepo)
+        .filter_by(since=since)
+        .order_by(TrendingRepo.stars_today.desc())
+        .limit(limit)
+        .all()
+    )

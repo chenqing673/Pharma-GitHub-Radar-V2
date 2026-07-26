@@ -3,8 +3,8 @@ import pandas as pd
 import plotly.express as px
 
 from database.db import get_session
-from database.models import GithubProject, StarHistory
-from analyzer.ranking import fast_growth_projects, top_star_projects
+from database.models import GithubProject, StarHistory, TrendingRepo
+from analyzer.ranking import fast_growth_projects, top_star_projects, top_trending
 from analyzer.statistics import category_statistics
 
 st.set_page_config(page_title="Pharma GitHub Radar", layout="wide")
@@ -14,7 +14,7 @@ st.title("🧬 Pharma GitHub Radar V2")
 st.sidebar.title("功能")
 page = st.sidebar.selectbox(
     "选择",
-    ["Star排行榜", "快速增长榜", "趋势分析", "分类统计"],
+    ["Star排行榜", "快速增长榜", "GitHub热门", "趋势分析", "分类统计"],
 )
 
 # -----------------------
@@ -57,6 +57,38 @@ elif page == "快速增长榜":
     st.plotly_chart(fig)
 
 # -----------------------
+# GitHub 真实热门榜
+# -----------------------
+elif page == "GitHub热门":
+    st.header("🔥 GitHub 真实热门榜（24h）")
+    st.caption("数据来自 github.com/trending（GitHub 官方按 star 增速排名），"
+               "与关键词 Star 排行榜不同，反映全站近期真正快速增长的仓库。")
+
+    since = st.radio("周期", ["daily", "weekly", "monthly"], horizontal=True)
+    trending = top_trending(20, since)
+
+    if trending:
+        df = pd.DataFrame(
+            [
+                {
+                    "项目": t.name,
+                    "当日新增": t.stars_today,
+                    "总Stars": t.stars,
+                    "语言": t.language,
+                    "链接": t.url,
+                }
+                for t in trending
+            ]
+        )
+        st.dataframe(df, use_container_width=True)
+
+        fig = px.bar(df, x="项目", y="当日新增",
+                     title=f"GitHub Trending（{since}）当日新增 Star")
+        st.plotly_chart(fig)
+    else:
+        st.info("暂无可用的 GitHub Trending 数据，请先运行 python main.py 采集。")
+
+# -----------------------
 # 趋势分析
 # -----------------------
 elif page == "趋势分析":
@@ -90,7 +122,7 @@ elif page == "趋势分析":
 # -----------------------
 # 分类统计
 # -----------------------
-else:
+elif page == "分类统计":
     st.header("🧬 AI制药分类排行")
 
     counter = category_statistics()
