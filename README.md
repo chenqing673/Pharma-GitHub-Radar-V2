@@ -2,6 +2,10 @@
 
 > AI 药物研发技术情报监控系统（GitHub 研发情报雷达）
 
+🌐 **在线情报主页**：https://chenqing673.github.io/Pharma-GitHub-Radar-V2/
+
+> ⚠️ GitHub Pages 仅对 **public 仓库**免费。若 Settings → Pages 提示 Upgrade / 付费，请先把仓库设为 public（Settings → Danger Zone → Change repository visibility → Make public），再设置 Pages 源为 `gh-pages` 分支。
+
 V2 专业版是一个 **GitHub 研发情报监控系统**，重点不是 AI 制药知识推理，而是：
 
 > **自动监控 GitHub 热门项目、Star 快速增长项目、AI / 药物研发趋势，并生成每日技术情报主页。**
@@ -105,7 +109,7 @@ streamlit run dashboard/app.py  # 交互式 Dashboard，访问 http://localhost:
 
 每次运行 `python main.py`（或 GitHub Actions 每日触发）都会生成上面的 `index.html` 与 `DAILY_REPORT.md`。
 
-1. **首次启用**：仓库 **Settings → Pages → Build and deployment → Source：Deploy from a branch → 分支选 `gh-pages` / 根目录 → Save**（若打开站点地址是 404，通常是这一步没做）
+1. **首次启用**：仓库需为 **public**（private 仓库启用 Pages 会被要求升级付费）。然后 **Settings → Pages → Build and deployment → Source：Deploy from a branch → 分支选 `gh-pages` / 根目录 → Save**（若打开站点地址是 404，通常是这一步没做）
 2. 推送 `/main` 后，`pages.yml` 工作流会自动把 `index.html` 发布到 `gh-pages` 分支
 3. 访问 `https://<user>.github.io/<repo>/` 即可看到每日自动更新的情报主页
 
