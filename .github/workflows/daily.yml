@@ -44,15 +44,11 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          echo "=== git status ==="
-          git status --short
           git add .
-          echo "=== staged changes ==="
-          git diff --cached --stat
-          if git diff-index --quiet --cached HEAD; then
-            echo "=== no staged changes, skipping commit ==="
+          if git diff --cached --quiet; then
+            echo "no changes to commit, skipping"
           else
-            git commit -m "Daily radar update $(date -u +'%Y-%m-%d %H:%M UTC)'"
+            git commit -m "Daily radar update"
             git push
-            echo "=== pushed ==="
+            echo "pushed"
           fi
