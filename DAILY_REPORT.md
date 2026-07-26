@@ -6,13 +6,13 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 31809
-Score: 526.19
+⭐ Stars: 31839
+Score: 526.74
 
 ### deepchem/deepchem
 
-⭐ Stars: 6898
-Score: 232.18
+⭐ Stars: 6899
+Score: 232.24
 
 ### rdkit/rdkit
 
@@ -42,12 +42,12 @@ Score: 16.86
 ### MolecularAI/REINVENT4
 
 ⭐ Stars: 821
-Score: 19.31
+Score: 19.36
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 720
-Score: 10.3
+⭐ Stars: 721
+Score: 10.31
 
 ### xjtulyc/MedgeClaw
 
@@ -87,7 +87,7 @@ Score: 6.95
 ### MinkaiXu/GeoDiff
 
 ⭐ Stars: 417
-Score: 8.47
+Score: 8.42
 
 ### qinheming/BIoClaw
 
@@ -112,7 +112,7 @@ Score: 6.0
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 31809
+当前Stars: 31839
 
 
 ## oddt/oddt

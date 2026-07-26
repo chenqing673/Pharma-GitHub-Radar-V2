@@ -1,7 +1,7 @@
 import html
 from datetime import datetime
 
-from analyzer.ranking import top_star_projects, fast_growth_projects
+from analyzer.ranking import top_star_projects, fast_growth_projects, top_trending
 from analyzer.statistics import category_statistics
 
 from database.db import get_session
@@ -46,6 +46,25 @@ Score: {p.score}
 
 今日增长: +{p['growth']}
 当前Stars: {p['stars']}
+
+"""
+
+    md += """
+
+# 🔥 GitHub 真实热门榜（24h）
+
+> 数据来自 github.com/trending（GitHub 官方按 star 增速排名），与上方关键词搜索的「Star 排行榜」不同，反映全站近期真正快速增长的仓库。
+
+"""
+
+    for t in top_trending(20, "daily"):
+        md += f"""
+## {t.name}
+
+⭐ 当日新增: +{t.stars_today}
+总 Stars: {t.stars}
+语言: {t.language}
+{t.url}
 
 """
 
@@ -124,23 +143,26 @@ def generate_html():
     db = get_session()
     top = top_star_projects(20)
     growth = fast_growth_projects(20)
+    trending = top_trending(20, "daily")
     cats = category_statistics()
     papers = db.query(Paper).order_by(Paper.created.desc()).limit(10).all()
     total = db.query(GithubProject).count()
 
     top_star = top[0] if top else None
     top_growth = growth[0] if growth else None
+    top_trend = trending[0] if trending else None
     max_stars = max((p.stars for p in top), default=1)
     max_growth = max((g["growth"] for g in growth), default=1)
+    max_today = max((t.stars_today for t in trending), default=1)
     max_cat = max(cats.values(), default=1)
     now = datetime.now().strftime("%Y-%m-%d %H:%M")
 
     # ---- 统计卡片 ----
     stats_html = f'''
 <div class="stats">
-  <div class="stat"><div class="k">监控项目</div><div class="v">{total}</div><div class="s">GitHub 仓库</div></div>
+  <div class="stat"><div class="k">监控项目</div><div class="v">{total}</div><div class="s">关键词 GitHub 仓库</div></div>
   <div class="stat"><div class="k">🔥 最高 Star</div><div class="v">{top_star.stars if top_star else 0}</div><div class="s">{html.escape(top_star.name) if top_star else "—"}</div></div>
-  <div class="stat"><div class="k">🚀 今日最大增长</div><div class="v">+{top_growth["growth"] if top_growth else 0}</div><div class="s">{html.escape(top_growth["name"]) if top_growth else "—"}</div></div>
+  <div class="stat"><div class="k">🚀 Trending 当日新增</div><div class="v">+{top_trend.stars_today if top_trend else 0}</div><div class="s">{html.escape(top_trend.name) if top_trend else "—"}</div></div>
   <div class="stat"><div class="k">📚 论文追踪</div><div class="v">{len(papers)}</div><div class="s">arXiv 最新</div></div>
 </div>'''
 
@@ -153,7 +175,7 @@ def generate_html():
     else:
         star_html = '<div class="empty">暂无数据，请先运行 python main.py 采集。</div>'
 
-    # ---- 快速增长榜 ----
+    # ---- 快速增长榜（本地 keyword 项目 star 差值）----
     if growth:
         growth_html = "".join(
             _bar_row(g["name"], g["growth"], max_growth, f"+{g['growth']}", warn=True)
@@ -161,6 +183,24 @@ def generate_html():
         )
     else:
         growth_html = '<div class="empty">数据不足（需至少两次采集记录）才能计算增长。</div>'
+
+    # ---- GitHub 真实热门榜（github.com/trending）----
+    if trending:
+        trending_html = "".join(
+            _bar_row(
+                t.name,
+                t.stars_today,
+                max_today,
+                f"⭐ +{t.stars_today} / 24h · 总 {t.stars}",
+                url=t.url,
+            )
+            for t in trending
+        )
+    else:
+        trending_html = (
+            '<div class="empty">暂无可用的 GitHub Trending 数据'
+            "（采集失败或网络受限，不影响其余板块）。</div>"
+        )
 
     # ---- 分类分布 ----
     if cats:
@@ -203,7 +243,12 @@ def generate_html():
 <div class="wrap">
   <section>{stats_html}</section>
   <section><h2>⭐ GitHub 热门项目（Star 排行榜）</h2><div class="card">{star_html}</div></section>
-  <section><h2>🚀 Star 快速增长榜</h2><div class="card">{growth_html}</div></section>
+  <section><h2>🚀 Star 快速增长榜</h2><div class="card">{growth_html}</div>
+    <p class="s" style="color:var(--muted);font-size:13px;margin-top:10px">本榜为本项目关键词仓库的本地 star 差值（需连续运行多天才有数据）。</p>
+  </section>
+  <section><h2>🔥 GitHub 真实热门榜（24h）</h2><div class="card">{trending_html}</div>
+    <p class="s" style="color:var(--muted);font-size:13px;margin-top:10px">数据来自 <a href="https://github.com/trending?since=daily" target="_blank" rel="noopener">github.com/trending</a>（GitHub 官方按 star 增速排名），反映全站近期真正快速增长的仓库，与上方关键词排行榜不同。</p>
+  </section>
   <section><h2>🧬 AI 制药分类分布</h2><div class="card">{cat_html}</div></section>
   <section><h2>📚 最新 arXiv 论文</h2><div class="card">{paper_html}</div></section>
 </div>

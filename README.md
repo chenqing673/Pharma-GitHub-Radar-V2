@@ -12,8 +12,8 @@ V2 专业版是一个 **GitHub 研发情报监控系统**，重点不是 AI 制�
 
 ## 功能
 
-- GitHub Trending 监控
-- Star 增长速度分析
+- GitHub Trending 监控（github.com/trending 官方增速榜，独立板块「🔥 GitHub 真实热门榜」）
+- Star 增长速度分析（本项目关键词仓库的本地 star 差值，与 Trending 榜单区分）
 - AI Drug Discovery 项目发现
 - RDKit / Chemistry 项目追踪
 - arXiv 论文监控

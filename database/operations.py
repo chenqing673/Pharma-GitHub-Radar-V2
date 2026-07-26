@@ -1,5 +1,5 @@
 from database.db import get_session
-from database.models import GithubProject, StarHistory, Paper
+from database.models import GithubProject, StarHistory, Paper, TrendingRepo
 
 
 def save_projects(projects):
@@ -50,5 +50,33 @@ def save_papers(papers):
                 summary=p["summary"],
             )
         )
+
+    db.commit()
+
+
+def save_trending(trending, since="daily"):
+    db = get_session()
+
+    for t in trending:
+        old = db.query(TrendingRepo).filter_by(name=t["name"]).first()
+        if old:
+            old.url = t["url"]
+            old.description = t.get("description") or ""
+            old.language = t.get("language", "")
+            old.stars = t["stars"]
+            old.stars_today = t["stars_today"]
+            old.since = since
+        else:
+            db.add(
+                TrendingRepo(
+                    name=t["name"],
+                    url=t["url"],
+                    description=t.get("description") or "",
+                    language=t.get("language", ""),
+                    stars=t["stars"],
+                    stars_today=t["stars_today"],
+                    since=since,
+                )
+            )
 
     db.commit()
