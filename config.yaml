@@ -1,0 +1,16 @@
+github:
+  keywords:
+    - drug discovery
+    - AI chemistry
+    - molecular generation
+    - retrosynthesis
+    - RDKit
+    - AlphaFold
+    - protein design
+    - docking
+    - cheminformatics
+  threshold:
+    min_stars: 100
+
+report:
+  filename: DAILY_REPORT.md
