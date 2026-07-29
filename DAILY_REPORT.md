@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 31943
-Score: 528.13
+⭐ Stars: 32030
+Score: 529.3
 
 ### deepchem/deepchem
 
-⭐ Stars: 6900
-Score: 232.25
+⭐ Stars: 6902
+Score: 232.32
 
 ### rdkit/rdkit
 
-⭐ Stars: 3534
-Score: 86.79
+⭐ Stars: 3537
+Score: 86.87
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1816
-Score: 28.81
+⭐ Stars: 1820
+Score: 28.85
 
 ### DeepGraphLearning/torchdrug
 
@@ -31,23 +31,23 @@ Score: 26.88
 
 ### molecularsets/moses
 
-⭐ Stars: 986
-Score: 23.81
+⭐ Stars: 987
+Score: 23.82
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
-⭐ Stars: 826
-Score: 16.86
+⭐ Stars: 827
+Score: 16.92
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 823
-Score: 19.38
+⭐ Stars: 824
+Score: 19.39
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 725
-Score: 10.35
+⭐ Stars: 729
+Score: 10.39
 
 ### xjtulyc/MedgeClaw
 
@@ -67,7 +67,7 @@ Score: 8.62
 ### chemosim-lab/ProLIF
 
 ⭐ Stars: 515
-Score: 10.1
+Score: 10.15
 
 ### oddt/oddt
 
@@ -96,13 +96,13 @@ Score: 5.22
 
 ### qinheming/BIoClaw
 
-⭐ Stars: 383
-Score: 4.18
+⭐ Stars: 377
+Score: 4.12
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 372
-Score: 6.02
+⭐ Stars: 373
+Score: 6.03
 
 
 
@@ -111,44 +111,110 @@ Score: 6.02
 
 ## LeonChaoX/qinyan-academic-skills
 
-今日增长: +3
-当前Stars: 725
+今日增长: +4
+当前Stars: 729
 
 
 ## ai4s-research/awesome-ai-for-science
 
-今日增长: +3
-当前Stars: 1816
-
-
-## MolecularAI/REINVENT4
-
-今日增长: +2
-当前Stars: 823
+今日增长: +4
+当前Stars: 1820
 
 
 ## rdkit/rdkit
 
+今日增长: +3
+当前Stars: 3537
+
+
+## deepchem/deepchem
+
 今日增长: +2
-当前Stars: 3534
+当前Stars: 6902
+
+
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +2
+当前Stars: 286
+
+
+## NVIDIA-BioNeMo/bionemo-recipes
+
+今日增长: +1
+当前Stars: 827
+
+
+## aurekaresearch/OpenDDE
+
+今日增长: +1
+当前Stars: 373
+
+
+## dengjianyuan/Survey_AI_Drug_Discovery
+
+今日增长: +1
+当前Stars: 339
+
+
+## benb111/awesome-small-molecule-ml
+
+今日增长: +1
+当前Stars: 241
+
+
+## MolecularAI/REINVENT4
+
+今日增长: +1
+当前Stars: 824
+
+
+## NVIDIA/nvalchemi-toolkit
+
+今日增长: +1
+当前Stars: 122
+
+
+## RadonPy/RadonPy
+
+今日增长: +1
+当前Stars: 273
+
+
+## molecularsets/moses
+
+今日增长: +1
+当前Stars: 987
 
 
 ## thomas0809/MolScribe
 
 今日增长: +1
-当前Stars: 323
+当前Stars: 324
+
+
+## NVIDIA-BioNeMo/nvMolKit
+
+今日增长: +1
+当前Stars: 267
+
+
+## NVIDIA-BioNeMo/genmol
+
+今日增长: +1
+当前Stars: 193
+
+
+## MolecularAI/PaRoutes
+
+今日增长: +1
+当前Stars: 91
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 31943
-
-
-## deepchem/deepchem
-
-今日增长: +0
-当前Stars: 6900
+当前Stars: 32030
 
 
 ## DeepGraphLearning/torchdrug
@@ -157,76 +223,10 @@ Score: 6.02
 当前Stars: 1583
 
 
-## NVIDIA-BioNeMo/bionemo-recipes
-
-今日增长: +0
-当前Stars: 826
-
-
 ## xjtulyc/MedgeClaw
 
 今日增长: +0
 当前Stars: 668
-
-
-## oddt/oddt
-
-今日增长: +0
-当前Stars: 468
-
-
-## aurekaresearch/OpenDDE
-
-今日增长: +0
-当前Stars: 372
-
-
-## DSPsleeporg/smiles-transformer
-
-今日增长: +0
-当前Stars: 359
-
-
-## dengjianyuan/Survey_AI_Drug_Discovery
-
-今日增长: +0
-当前Stars: 338
-
-
-## DeepWism/DeepWism-miRNA
-
-今日增长: +0
-当前Stars: 329
-
-
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +0
-当前Stars: 284
-
-
-## AstraZeneca/awesome-drug-discovery-knowledge-graphs
-
-今日增长: +0
-当前Stars: 264
-
-
-## PatWalters/resources_2025
-
-今日增长: +0
-当前Stars: 264
-
-
-## benb111/awesome-small-molecule-ml
-
-今日增长: +0
-当前Stars: 240
-
-
-## mattragoza/LiGAN
-
-今日增长: +0
-当前Stars: 238
 
 
 
@@ -253,6 +253,16 @@ https://github.com/permissionlesstech/bitchat
 总 Stars: 13553
 语言: Rust
 https://github.com/block/buzz
+
+
+## bradautomates/claude-video
+
+📝 中文简介: 使用 Python 开发。
+📄 英文原文: Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
+⭐ 当日新增: +988
+总 Stars: 12252
+语言: Python
+https://github.com/bradautomates/claude-video
 
 
 ## alibaba/open-code-review
@@ -295,24 +305,44 @@ https://github.com/CoreBunch/Instatic
 https://github.com/pbakaus/impeccable
 
 
-## yorukot/superfile
-
-📝 中文简介: 使用 Go 开发；主要方向：bubbletea、命令行工具、file-manager、filemanager、filesystem、Go、hacktoberfest、linux-app、terminal-app、terminal-based、tui。
-📄 英文原文: Pretty fancy and modern terminal file manager
-⭐ 当日新增: +600
-总 Stars: 21002
-语言: Go
-https://github.com/yorukot/superfile
-
-
 ## moeru-ai/airi
 
 📝 中文简介: 使用 TypeScript 开发；主要方向：ai-companion、ai-vtuber、airi、digital-life、grok-companion、live2d、neuro-sama、neurosama、openclaw、vrm、vtuber。
 📄 英文原文: 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-⭐ 当日新增: +572
-总 Stars: 44189
+⭐ 当日新增: +797
+总 Stars: 44895
 语言: TypeScript
 https://github.com/moeru-ai/airi
+
+
+## yorukot/superfile
+
+📝 中文简介: 使用 Go 开发；主要方向：bubbletea、命令行工具、file-manager、filemanager、filesystem、Go、hacktoberfest、linux-app、terminal-app、terminal-based、tui。
+📄 英文原文: Pretty fancy and modern terminal file manager
+⭐ 当日新增: +662
+总 Stars: 21568
+语言: Go
+https://github.com/yorukot/superfile
+
+
+## affaan-m/ECC
+
+📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：ai-agents、anthropic、claude、claude-code、developer-tools、大语言模型、mcp、productivity。
+📄 英文原文: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+⭐ 当日新增: +636
+总 Stars: 234963
+语言: JavaScript
+https://github.com/affaan-m/ECC
+
+
+## opengeos/GeoLibre
+
+📝 中文简介: 使用 TypeScript 开发；主要方向：data-science、duckdb、geospatial、maplibre、maplibre-gl-js、tauri-app。
+📄 英文原文: A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.
+⭐ 当日新增: +607
+总 Stars: 3500
+语言: TypeScript
+https://github.com/opengeos/GeoLibre
 
 
 ## amnezia-vpn/amnezia-client
@@ -335,24 +365,14 @@ https://github.com/amnezia-vpn/amnezia-client
 https://github.com/shiyu-coder/Kronos
 
 
-## bradautomates/claude-video
+## virgiliojr94/book-to-skill
 
 📝 中文简介: 使用 Python 开发。
-📄 英文原文: Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
-⭐ 当日新增: +434
-总 Stars: 11259
+📄 英文原文: Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
+⭐ 当日新增: +423
+总 Stars: 11646
 语言: Python
-https://github.com/bradautomates/claude-video
-
-
-## opengeos/GeoLibre
-
-📝 中文简介: 使用 TypeScript 开发；主要方向：data-science、duckdb、geospatial、maplibre、maplibre-gl-js、tauri-app。
-📄 英文原文: A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.
-⭐ 当日新增: +420
-总 Stars: 2825
-语言: TypeScript
-https://github.com/opengeos/GeoLibre
+https://github.com/virgiliojr94/book-to-skill
 
 
 ## OtterMind/Chat2DB
@@ -385,6 +405,16 @@ https://github.com/anthropics/claude-cookbooks
 https://github.com/NanmiCoder/MediaCrawler
 
 
+## pascalorg/editor
+
+📝 中文简介: 使用 TypeScript 开发。
+📄 英文原文: Create and share 3D architectural projects.
+⭐ 当日新增: +341
+总 Stars: 18892
+语言: TypeScript
+https://github.com/pascalorg/editor
+
+
 ## Pumpkin-MC/Pumpkin
 
 📝 中文简介: 使用 Rust 开发；主要方向：Docker、game-server、gamedev、minecraft、minecraft-bedrock-edition、minecraft-protocol、minecraft-server、networking、Rust、服务端。
@@ -395,42 +425,12 @@ https://github.com/NanmiCoder/MediaCrawler
 https://github.com/Pumpkin-MC/Pumpkin
 
 
-## permissionlesstech/bitchat-android
+## paperswithbacktest/awesome-systematic-trading
 
-📝 中文简介: 使用 Kotlin 开发。
-📄 英文原文: bluetooth mesh chat, IRC vibes
-⭐ 当日新增: +260
-总 Stars: 6785
-语言: Kotlin
-https://github.com/permissionlesstech/bitchat-android
-
-
-## mvanhorn/last30days-skill
-
-📝 中文简介: 使用 Python 开发；主要方向：ai-prompts、ai-skill、bluesky、claude、claude-code、clawhub、deep-research、hackernews、instagram、openclaw、polymarket、recency、reddit、research、social-media、tiktok、trends、twitter、web-search、youtube。
-📄 英文原文: AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-⭐ 当日新增: +240
-总 Stars: 54278
+📝 中文简介: 使用 Python 开发；主要方向：algorithmic-trading、algotrading、alpha、arbitrage-bot、awesome、awesome-list、book、finance、futures、futures-historical-data、futures-market、futuresmarkets、paper、quant、quantitative-finance、quantitative-trading、trading-algorithms、trading-bot、trading-strategies。
+📄 英文原文: A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
+⭐ 当日新增: +309
+总 Stars: 9786
 语言: Python
-https://github.com/mvanhorn/last30days-skill
-
-
-## andrewyng/aisuite
-
-📝 中文简介: 使用 Python 开发。
-📄 英文原文: Simple, unified interface to multiple Generative AI providers
-⭐ 当日新增: +187
-总 Stars: 15441
-语言: Python
-https://github.com/andrewyng/aisuite
-
-
-## jenkinsci/jenkins
-
-📝 中文简介: 使用 Java 开发；主要方向：cicd、continuous-delivery、continuous-deployment、continuous-integration、DevOps、groovy、hacktoberfest、Java、jenkins、pipelines-as-code。
-📄 英文原文: Jenkins automation server
-⭐ 当日新增: +180
-总 Stars: 25913
-语言: Java
-https://github.com/jenkinsci/jenkins
+https://github.com/paperswithbacktest/awesome-systematic-trading
 
