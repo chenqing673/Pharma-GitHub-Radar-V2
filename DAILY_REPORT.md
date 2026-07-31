@@ -6,13 +6,13 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 32130
-Score: 530.7
+⭐ Stars: 32219
+Score: 531.89
 
 ### deepchem/deepchem
 
 ⭐ Stars: 6904
-Score: 232.39
+Score: 232.29
 
 ### rdkit/rdkit
 
@@ -21,8 +21,8 @@ Score: 86.93
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1820
-Score: 28.85
+⭐ Stars: 1822
+Score: 28.87
 
 ### DeepGraphLearning/torchdrug
 
@@ -36,18 +36,18 @@ Score: 23.82
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
-⭐ Stars: 827
-Score: 16.92
+⭐ Stars: 828
+Score: 16.98
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 825
-Score: 19.5
+⭐ Stars: 827
+Score: 19.52
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 731
-Score: 10.41
+⭐ Stars: 735
+Score: 10.45
 
 ### xjtulyc/MedgeClaw
 
@@ -66,8 +66,8 @@ Score: 8.67
 
 ### chemosim-lab/ProLIF
 
-⭐ Stars: 526
-Score: 10.31
+⭐ Stars: 527
+Score: 10.32
 
 ### oddt/oddt
 
@@ -86,18 +86,18 @@ Score: 6.95
 
 ### MinkaiXu/GeoDiff
 
-⭐ Stars: 417
-Score: 8.47
+⭐ Stars: 418
+Score: 8.48
 
 ### maabuu/posebusters
 
-⭐ Stars: 392
-Score: 5.22
+⭐ Stars: 394
+Score: 5.24
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 376
-Score: 6.06
+⭐ Stars: 380
+Score: 6.15
 
 ### qinheming/BIoClaw
 
@@ -109,124 +109,124 @@ Score: 4.09
 # 🚀 Star快速增长榜
 
 
-## chemosim-lab/ProLIF
-
-今日增长: +11
-当前Stars: 526
-
-
-## jaechang-hits/SciAgent-Skills
+## LeonChaoX/qinyan-academic-skills
 
 今日增长: +4
-当前Stars: 290
+当前Stars: 735
 
 
 ## aurekaresearch/OpenDDE
 
-今日增长: +3
-当前Stars: 376
+今日增长: +4
+当前Stars: 380
 
 
-## deepchem/deepchem
-
-今日增长: +2
-当前Stars: 6904
-
-
-## LeonChaoX/qinyan-academic-skills
+## jaechang-hits/SciAgent-Skills
 
 今日增长: +2
-当前Stars: 731
+当前Stars: 292
 
 
-## xjtulyc/MedgeClaw
+## ai4s-research/awesome-ai-for-science
 
-今日增长: +1
-当前Stars: 669
-
-
-## NVIDIA/MegaMolBART
-
-今日增长: +1
-当前Stars: 185
+今日增长: +2
+当前Stars: 1822
 
 
 ## MolecularAI/REINVENT4
 
-今日增长: +1
-当前Stars: 825
+今日增长: +2
+当前Stars: 827
 
 
-## NVIDIA/nvalchemi-toolkit
+## maabuu/posebusters
 
-今日增长: +1
-当前Stars: 123
-
-
-## rdkit/rdkit
-
-今日增长: +1
-当前Stars: 3538
+今日增长: +2
+当前Stars: 394
 
 
-## cbouy/mols2grid
+## NVIDIA-BioNeMo/bionemo-recipes
 
 今日增长: +1
-当前Stars: 258
+当前Stars: 828
 
 
-## Hanjun-Dai/GLN
-
-今日增长: +1
-当前Stars: 143
-
-
-## Laboratoire-de-Chemoinformatique/SynPlanner
+## schwallergroup/ai4chem_course
 
 今日增长: +1
-当前Stars: 57
+当前Stars: 287
+
+
+## argonne-lcf/ChemGraph
+
+今日增长: +1
+当前Stars: 138
+
+
+## OSU-NLP-Group/ChemMCP
+
+今日增长: +1
+当前Stars: 70
+
+
+## JacksonBurns/fastsolv
+
+今日增长: +1
+当前Stars: 52
+
+
+## chemosim-lab/ProLIF
+
+今日增长: +1
+当前Stars: 527
+
+
+## AngelRuizMoreno/Jupyter_Dock
+
+今日增长: +1
+当前Stars: 284
+
+
+## rdkit/rdkit-js
+
+今日增长: +1
+当前Stars: 242
+
+
+## Mishima-syk/py4chemoinformatics
+
+今日增长: +1
+当前Stars: 236
+
+
+## basf/MolPipeline
+
+今日增长: +1
+当前Stars: 226
+
+
+## MinkaiXu/GeoDiff
+
+今日增长: +1
+当前Stars: 418
+
+
+## gcorso/torsional-diffusion
+
+今日增长: +1
+当前Stars: 288
+
+
+## DeepGraphLearning/ConfGF
+
+今日增长: +1
+当前Stars: 174
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 32130
-
-
-## NVIDIA-BioNeMo/bionemo-recipes
-
-今日增长: +0
-当前Stars: 827
-
-
-## oddt/oddt
-
-今日增长: +0
-当前Stars: 468
-
-
-## DSPsleeporg/smiles-transformer
-
-今日增长: +0
-当前Stars: 358
-
-
-## dengjianyuan/Survey_AI_Drug_Discovery
-
-今日增长: +0
-当前Stars: 339
-
-
-## DeepWism/DeepWism-miRNA
-
-今日增长: +0
-当前Stars: 329
-
-
-## AstraZeneca/awesome-drug-discovery-knowledge-graphs
-
-今日增长: +0
-当前Stars: 264
+当前Stars: 32219
 
 
 
@@ -265,16 +265,6 @@ https://github.com/block/buzz
 https://github.com/virgiliojr94/book-to-skill
 
 
-## pascalorg/editor
-
-📝 中文简介: 使用 TypeScript 开发。
-📄 英文原文: Create and share 3D architectural projects.
-⭐ 当日新增: +1022
-总 Stars: 19663
-语言: TypeScript
-https://github.com/pascalorg/editor
-
-
 ## bradautomates/claude-video
 
 📝 中文简介: 使用 Python 开发。
@@ -285,14 +275,14 @@ https://github.com/pascalorg/editor
 https://github.com/bradautomates/claude-video
 
 
-## paperswithbacktest/awesome-systematic-trading
+## different-ai/openwork
 
-📝 中文简介: 使用 Python 开发；主要方向：algorithmic-trading、algotrading、alpha、arbitrage-bot、awesome、awesome-list、book、finance、futures、futures-historical-data、futures-market、futuresmarkets、paper、quant、quantitative-finance、quantitative-trading、trading-algorithms、trading-bot、trading-strategies。
-📄 英文原文: A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
-⭐ 当日新增: +945
-总 Stars: 10485
-语言: Python
-https://github.com/paperswithbacktest/awesome-systematic-trading
+📝 中文简介: 使用 TypeScript 开发。
+📄 英文原文: The open-source alternative to Claude Cowork (powered by opencode)
+⭐ 当日新增: +915
+总 Stars: 18873
+语言: TypeScript
+https://github.com/different-ai/openwork
 
 
 ## citrolabs/ego-lite
@@ -315,16 +305,6 @@ https://github.com/citrolabs/ego-lite
 https://github.com/CoreBunch/Instatic
 
 
-## affaan-m/ECC
-
-📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：ai-agents、anthropic、claude、claude-code、developer-tools、大语言模型、mcp、productivity。
-📄 英文原文: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-⭐ 当日新增: +857
-总 Stars: 235698
-语言: JavaScript
-https://github.com/affaan-m/ECC
-
-
 ## pbakaus/impeccable
 
 📝 中文简介: 使用 JavaScript（前端/全栈） 开发。
@@ -335,14 +315,14 @@ https://github.com/affaan-m/ECC
 https://github.com/pbakaus/impeccable
 
 
-## huggingface/speech-to-speech
+## affaan-m/ECC
 
-📝 中文简介: 使用 Python 开发；主要方向：ai、assistant、language-model、机器学习、Python、speech、speech-synthesis、speech-to-text、speech-translation。
-📄 英文原文: Build local voice agents with open-source models
-⭐ 当日新增: +827
-总 Stars: 7981
-语言: Python
-https://github.com/huggingface/speech-to-speech
+📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：ai-agents、anthropic、claude、claude-code、developer-tools、大语言模型、mcp、productivity。
+📄 英文原文: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+⭐ 当日新增: +804
+总 Stars: 236310
+语言: JavaScript
+https://github.com/affaan-m/ECC
 
 
 ## moeru-ai/airi
@@ -385,6 +365,36 @@ https://github.com/yorukot/superfile
 https://github.com/1jehuang/jcode
 
 
+## huggingface/speech-to-speech
+
+📝 中文简介: 使用 Python 开发；主要方向：ai、assistant、language-model、机器学习、Python、speech、speech-synthesis、speech-to-text、speech-translation。
+📄 英文原文: Build local voice agents with open-source models
+⭐ 当日新增: +628
+总 Stars: 9120
+语言: Python
+https://github.com/huggingface/speech-to-speech
+
+
+## pascalorg/editor
+
+📝 中文简介: 使用 TypeScript 开发。
+📄 英文原文: Create and share 3D architectural projects.
+⭐ 当日新增: +625
+总 Stars: 20198
+语言: TypeScript
+https://github.com/pascalorg/editor
+
+
+## paperswithbacktest/awesome-systematic-trading
+
+📝 中文简介: 使用 Python 开发；主要方向：algorithmic-trading、algotrading、alpha、arbitrage-bot、awesome、awesome-list、book、finance、futures、futures-historical-data、futures-market、futuresmarkets、paper、quant、quantitative-finance、quantitative-trading、trading-algorithms、trading-bot、trading-strategies。
+📄 英文原文: A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
+⭐ 当日新增: +621
+总 Stars: 11183
+语言: Python
+https://github.com/paperswithbacktest/awesome-systematic-trading
+
+
 ## obra/superpowers
 
 📝 中文简介: 使用 Shell 脚本 开发；主要方向：ai、brainstorming、coding、obra、sdlc、skills、subagent-driven-development、superpowers。
@@ -423,14 +433,4 @@ https://github.com/shiyu-coder/Kronos
 总 Stars: 27228
 语言: Java
 https://github.com/OtterMind/Chat2DB
-
-
-## anthropics/claude-cookbooks
-
-📝 中文简介: 使用 Jupyter  notebooks（数据科学） 开发。
-📄 英文原文: A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-⭐ 当日新增: +379
-总 Stars: 50311
-语言: Jupyter Notebook
-https://github.com/anthropics/claude-cookbooks
 
