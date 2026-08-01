@@ -6,13 +6,13 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 32219
-Score: 531.89
+⭐ Stars: 32284
+Score: 532.94
 
 ### deepchem/deepchem
 
-⭐ Stars: 6904
-Score: 232.29
+⭐ Stars: 6908
+Score: 232.33
 
 ### rdkit/rdkit
 
@@ -21,13 +21,13 @@ Score: 86.93
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1822
-Score: 28.87
+⭐ Stars: 1825
+Score: 29.0
 
 ### DeepGraphLearning/torchdrug
 
-⭐ Stars: 1582
-Score: 26.92
+⭐ Stars: 1584
+Score: 26.94
 
 ### molecularsets/moses
 
@@ -46,8 +46,8 @@ Score: 19.52
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 735
-Score: 10.45
+⭐ Stars: 739
+Score: 10.49
 
 ### xjtulyc/MedgeClaw
 
@@ -67,7 +67,7 @@ Score: 8.67
 ### chemosim-lab/ProLIF
 
 ⭐ Stars: 527
-Score: 10.32
+Score: 10.27
 
 ### oddt/oddt
 
@@ -92,12 +92,12 @@ Score: 8.48
 ### maabuu/posebusters
 
 ⭐ Stars: 394
-Score: 5.24
+Score: 5.29
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 380
-Score: 6.15
+⭐ Stars: 383
+Score: 6.13
 
 ### qinheming/BIoClaw
 
@@ -109,124 +109,124 @@ Score: 4.09
 # 🚀 Star快速增长榜
 
 
+## deepchem/deepchem
+
+今日增长: +4
+当前Stars: 6908
+
+
 ## LeonChaoX/qinyan-academic-skills
 
 今日增长: +4
-当前Stars: 735
+当前Stars: 739
 
 
 ## aurekaresearch/OpenDDE
 
-今日增长: +4
-当前Stars: 380
-
-
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +2
-当前Stars: 292
+今日增长: +3
+当前Stars: 383
 
 
 ## ai4s-research/awesome-ai-for-science
 
-今日增长: +2
-当前Stars: 1822
+今日增长: +3
+当前Stars: 1825
 
 
-## MolecularAI/REINVENT4
-
-今日增长: +2
-当前Stars: 827
-
-
-## maabuu/posebusters
+## DeepGraphLearning/torchdrug
 
 今日增长: +2
-当前Stars: 394
-
-
-## NVIDIA-BioNeMo/bionemo-recipes
-
-今日增长: +1
-当前Stars: 828
+当前Stars: 1584
 
 
 ## schwallergroup/ai4chem_course
 
 今日增长: +1
-当前Stars: 287
+当前Stars: 288
 
 
 ## argonne-lcf/ChemGraph
 
 今日增长: +1
-当前Stars: 138
-
-
-## OSU-NLP-Group/ChemMCP
-
-今日增长: +1
-当前Stars: 70
-
-
-## JacksonBurns/fastsolv
-
-今日增长: +1
-当前Stars: 52
-
-
-## chemosim-lab/ProLIF
-
-今日增长: +1
-当前Stars: 527
-
-
-## AngelRuizMoreno/Jupyter_Dock
-
-今日增长: +1
-当前Stars: 284
-
-
-## rdkit/rdkit-js
-
-今日增长: +1
-当前Stars: 242
-
-
-## Mishima-syk/py4chemoinformatics
-
-今日增长: +1
-当前Stars: 236
+当前Stars: 139
 
 
 ## basf/MolPipeline
 
 今日增长: +1
-当前Stars: 226
+当前Stars: 227
 
 
-## MinkaiXu/GeoDiff
-
-今日增长: +1
-当前Stars: 418
-
-
-## gcorso/torsional-diffusion
+## NVIDIA-BioNeMo/genmol
 
 今日增长: +1
-当前Stars: 288
+当前Stars: 194
 
 
-## DeepGraphLearning/ConfGF
+## kaist-amsg/LocalRetro
 
 今日增长: +1
-当前Stars: 174
+当前Stars: 118
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 32219
+当前Stars: 32284
+
+
+## NVIDIA-BioNeMo/bionemo-recipes
+
+今日增长: +0
+当前Stars: 828
+
+
+## xjtulyc/MedgeClaw
+
+今日增长: +0
+当前Stars: 669
+
+
+## oddt/oddt
+
+今日增长: +0
+当前Stars: 468
+
+
+## DSPsleeporg/smiles-transformer
+
+今日增长: +0
+当前Stars: 358
+
+
+## dengjianyuan/Survey_AI_Drug_Discovery
+
+今日增长: +0
+当前Stars: 339
+
+
+## DeepWism/DeepWism-miRNA
+
+今日增长: +0
+当前Stars: 329
+
+
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +0
+当前Stars: 292
+
+
+## AstraZeneca/awesome-drug-discovery-knowledge-graphs
+
+今日增长: +0
+当前Stars: 264
+
+
+## PatWalters/resources_2025
+
+今日增长: +0
+当前Stars: 264
 
 
 
@@ -255,6 +255,16 @@ https://github.com/permissionlesstech/bitchat
 https://github.com/block/buzz
 
 
+## microsoft/AI-For-Beginners
+
+📝 中文简介: 使用 Jupyter  notebooks（数据科学） 开发；主要方向：ai、人工智能、cnn、计算机视觉、深度学习、gan、机器学习、microsoft-for-beginners、nlp、rnn。
+📄 英文原文: 12 Weeks, 24 Lessons, AI for All!
+⭐ 当日新增: +1592
+总 Stars: 55446
+语言: Jupyter Notebook
+https://github.com/microsoft/AI-For-Beginners
+
+
 ## virgiliojr94/book-to-skill
 
 📝 中文简介: 使用 Python 开发。
@@ -273,16 +283,6 @@ https://github.com/virgiliojr94/book-to-skill
 总 Stars: 12252
 语言: Python
 https://github.com/bradautomates/claude-video
-
-
-## different-ai/openwork
-
-📝 中文简介: 使用 TypeScript 开发。
-📄 英文原文: The open-source alternative to Claude Cowork (powered by opencode)
-⭐ 当日新增: +915
-总 Stars: 18873
-语言: TypeScript
-https://github.com/different-ai/openwork
 
 
 ## citrolabs/ego-lite
@@ -315,6 +315,16 @@ https://github.com/CoreBunch/Instatic
 https://github.com/pbakaus/impeccable
 
 
+## different-ai/openwork
+
+📝 中文简介: 使用 TypeScript 开发。
+📄 英文原文: The open-source alternative to Claude Cowork (powered by opencode)
+⭐ 当日新增: +806
+总 Stars: 19591
+语言: TypeScript
+https://github.com/different-ai/openwork
+
+
 ## affaan-m/ECC
 
 📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：ai-agents、anthropic、claude、claude-code、developer-tools、大语言模型、mcp、productivity。
@@ -323,6 +333,16 @@ https://github.com/pbakaus/impeccable
 总 Stars: 236310
 语言: JavaScript
 https://github.com/affaan-m/ECC
+
+
+## paperswithbacktest/awesome-systematic-trading
+
+📝 中文简介: 使用 Python 开发；主要方向：algorithmic-trading、algotrading、alpha、arbitrage-bot、awesome、awesome-list、book、finance、futures、futures-historical-data、futures-market、futuresmarkets、paper、quant、quantitative-finance、quantitative-trading、trading-algorithms、trading-bot、trading-strategies。
+📄 英文原文: A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
+⭐ 当日新增: +763
+总 Stars: 11835
+语言: Python
+https://github.com/paperswithbacktest/awesome-systematic-trading
 
 
 ## moeru-ai/airi
@@ -355,14 +375,14 @@ https://github.com/opengeos/GeoLibre
 https://github.com/yorukot/superfile
 
 
-## 1jehuang/jcode
+## mvanhorn/last30days-skill
 
-📝 中文简介: 使用 Rust 开发；主要方向：ai、ai-agent、ai-coding-agent、claude、命令行工具、coding-agent、大语言模型、mcp、openai、Rust、terminal、tui。
-📄 英文原文: The most RAM efficient harness
-⭐ 当日新增: +640
-总 Stars: 13569
-语言: Rust
-https://github.com/1jehuang/jcode
+📝 中文简介: 使用 Python 开发；主要方向：ai-prompts、ai-skill、bluesky、claude、claude-code、clawhub、deep-research、hackernews、instagram、openclaw、polymarket、recency、reddit、research、social-media、tiktok、trends、twitter、web-search、youtube。
+📄 英文原文: AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+⭐ 当日新增: +658
+总 Stars: 56305
+语言: Python
+https://github.com/mvanhorn/last30days-skill
 
 
 ## huggingface/speech-to-speech
@@ -385,16 +405,6 @@ https://github.com/huggingface/speech-to-speech
 https://github.com/pascalorg/editor
 
 
-## paperswithbacktest/awesome-systematic-trading
-
-📝 中文简介: 使用 Python 开发；主要方向：algorithmic-trading、algotrading、alpha、arbitrage-bot、awesome、awesome-list、book、finance、futures、futures-historical-data、futures-market、futuresmarkets、paper、quant、quantitative-finance、quantitative-trading、trading-algorithms、trading-bot、trading-strategies。
-📄 英文原文: A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
-⭐ 当日新增: +621
-总 Stars: 11183
-语言: Python
-https://github.com/paperswithbacktest/awesome-systematic-trading
-
-
 ## obra/superpowers
 
 📝 中文简介: 使用 Shell 脚本 开发；主要方向：ai、brainstorming、coding、obra、sdlc、skills、subagent-driven-development、superpowers。
@@ -405,6 +415,16 @@ https://github.com/paperswithbacktest/awesome-systematic-trading
 https://github.com/obra/superpowers
 
 
+## 1jehuang/jcode
+
+📝 中文简介: 使用 Rust 开发；主要方向：ai、ai-agent、ai-coding-agent、claude、命令行工具、coding-agent、大语言模型、mcp、openai、Rust、terminal、tui。
+📄 英文原文: The most RAM efficient harness
+⭐ 当日新增: +527
+总 Stars: 14677
+语言: Rust
+https://github.com/1jehuang/jcode
+
+
 ## amnezia-vpn/amnezia-client
 
 📝 中文简介: 使用 C++ 开发；主要方向：cloak、gfw、ikev2、openvpn、shadowsocks、vpn、vpn-client、vpn-server、wireguard。
@@ -413,24 +433,4 @@ https://github.com/obra/superpowers
 总 Stars: 13933
 语言: C++
 https://github.com/amnezia-vpn/amnezia-client
-
-
-## shiyu-coder/Kronos
-
-📝 中文简介: 使用 Python 开发。
-📄 英文原文: Kronos: A Foundation Model for the Language of Financial Markets
-⭐ 当日新增: +441
-总 Stars: 34627
-语言: Python
-https://github.com/shiyu-coder/Kronos
-
-
-## OtterMind/Chat2DB
-
-📝 中文简介: 使用 Java 开发；主要方向：ai、bi、chatgpt、clickhouse、clickhouse-client、数据库、datagrip、db2、dbeaver、gpt、hive、MySQL、navicat、oracle、PostgreSQL、Redis、redis-client、sqlserver、text2sql。
-📄 英文原文: 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
-⭐ 当日新增: +398
-总 Stars: 27228
-语言: Java
-https://github.com/OtterMind/Chat2DB
 
