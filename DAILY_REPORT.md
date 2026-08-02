@@ -6,8 +6,8 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 32284
-Score: 532.94
+⭐ Stars: 32347
+Score: 533.72
 
 ### deepchem/deepchem
 
@@ -16,23 +16,23 @@ Score: 232.33
 
 ### rdkit/rdkit
 
-⭐ Stars: 3538
-Score: 86.93
+⭐ Stars: 3539
+Score: 86.99
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1825
-Score: 29.0
+⭐ Stars: 1826
+Score: 29.06
 
 ### DeepGraphLearning/torchdrug
 
-⭐ Stars: 1584
-Score: 26.94
+⭐ Stars: 1585
+Score: 26.95
 
 ### molecularsets/moses
 
-⭐ Stars: 987
-Score: 23.82
+⭐ Stars: 988
+Score: 23.83
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
@@ -46,13 +46,13 @@ Score: 19.52
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 739
-Score: 10.49
+⭐ Stars: 747
+Score: 10.57
 
 ### xjtulyc/MedgeClaw
 
-⭐ Stars: 669
-Score: 14.89
+⭐ Stars: 668
+Score: 14.88
 
 ### wengong-jin/icml18-jtnn
 
@@ -96,8 +96,8 @@ Score: 5.29
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 383
-Score: 6.13
+⭐ Stars: 384
+Score: 6.14
 
 ### qinheming/BIoClaw
 
@@ -109,82 +109,70 @@ Score: 4.09
 # 🚀 Star快速增长榜
 
 
-## deepchem/deepchem
-
-今日增长: +4
-当前Stars: 6908
-
-
 ## LeonChaoX/qinyan-academic-skills
 
-今日增长: +4
-当前Stars: 739
-
-
-## aurekaresearch/OpenDDE
-
-今日增长: +3
-当前Stars: 383
-
-
-## ai4s-research/awesome-ai-for-science
-
-今日增长: +3
-当前Stars: 1825
+今日增长: +8
+当前Stars: 747
 
 
 ## DeepGraphLearning/torchdrug
 
-今日增长: +2
-当前Stars: 1584
+今日增长: +1
+当前Stars: 1585
 
 
-## schwallergroup/ai4chem_course
+## aurekaresearch/OpenDDE
 
 今日增长: +1
-当前Stars: 288
+当前Stars: 384
 
 
-## argonne-lcf/ChemGraph
-
-今日增长: +1
-当前Stars: 139
-
-
-## basf/MolPipeline
+## jaechang-hits/SciAgent-Skills
 
 今日增长: +1
-当前Stars: 227
+当前Stars: 293
 
 
-## NVIDIA-BioNeMo/genmol
-
-今日增长: +1
-当前Stars: 194
-
-
-## kaist-amsg/LocalRetro
+## ai4s-research/awesome-ai-for-science
 
 今日增长: +1
-当前Stars: 118
+当前Stars: 1826
+
+
+## InternScience/ChemClaw
+
+今日增长: +1
+当前Stars: 52
+
+
+## rdkit/rdkit
+
+今日增长: +1
+当前Stars: 3539
+
+
+## molecularsets/moses
+
+今日增长: +1
+当前Stars: 988
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 32284
+当前Stars: 32347
+
+
+## deepchem/deepchem
+
+今日增长: +0
+当前Stars: 6908
 
 
 ## NVIDIA-BioNeMo/bionemo-recipes
 
 今日增长: +0
 当前Stars: 828
-
-
-## xjtulyc/MedgeClaw
-
-今日增长: +0
-当前Stars: 669
 
 
 ## oddt/oddt
@@ -211,12 +199,6 @@ Score: 4.09
 当前Stars: 329
 
 
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +0
-当前Stars: 292
-
-
 ## AstraZeneca/awesome-drug-discovery-knowledge-graphs
 
 今日增长: +0
@@ -227,6 +209,24 @@ Score: 4.09
 
 今日增长: +0
 当前Stars: 264
+
+
+## benb111/awesome-small-molecule-ml
+
+今日增长: +0
+当前Stars: 241
+
+
+## mattragoza/LiGAN
+
+今日增长: +0
+当前Stars: 238
+
+
+## Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery
+
+今日增长: +0
+当前Stars: 211
 
 
 
@@ -255,16 +255,6 @@ https://github.com/permissionlesstech/bitchat
 https://github.com/block/buzz
 
 
-## microsoft/AI-For-Beginners
-
-📝 中文简介: 使用 Jupyter  notebooks（数据科学） 开发；主要方向：ai、人工智能、cnn、计算机视觉、深度学习、gan、机器学习、microsoft-for-beginners、nlp、rnn。
-📄 英文原文: 12 Weeks, 24 Lessons, AI for All!
-⭐ 当日新增: +1592
-总 Stars: 55446
-语言: Jupyter Notebook
-https://github.com/microsoft/AI-For-Beginners
-
-
 ## virgiliojr94/book-to-skill
 
 📝 中文简介: 使用 Python 开发。
@@ -275,6 +265,16 @@ https://github.com/microsoft/AI-For-Beginners
 https://github.com/virgiliojr94/book-to-skill
 
 
+## zhaoxuya520/reverse-skill
+
+📝 中文简介: 使用 PowerShell 开发。
+📄 英文原文: Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+⭐ 当日新增: +1320
+总 Stars: 12036
+语言: PowerShell
+https://github.com/zhaoxuya520/reverse-skill
+
+
 ## bradautomates/claude-video
 
 📝 中文简介: 使用 Python 开发。
@@ -283,6 +283,16 @@ https://github.com/virgiliojr94/book-to-skill
 总 Stars: 12252
 语言: Python
 https://github.com/bradautomates/claude-video
+
+
+## microsoft/AI-For-Beginners
+
+📝 中文简介: 使用 Jupyter  notebooks（数据科学） 开发；主要方向：ai、人工智能、cnn、计算机视觉、深度学习、gan、机器学习、microsoft-for-beginners、nlp、rnn。
+📄 英文原文: 12 Weeks, 24 Lessons, AI for All!
+⭐ 当日新增: +949
+总 Stars: 57571
+语言: Jupyter Notebook
+https://github.com/microsoft/AI-For-Beginners
 
 
 ## citrolabs/ego-lite
@@ -335,14 +345,14 @@ https://github.com/different-ai/openwork
 https://github.com/affaan-m/ECC
 
 
-## paperswithbacktest/awesome-systematic-trading
+## usekaneo/kaneo
 
-📝 中文简介: 使用 Python 开发；主要方向：algorithmic-trading、algotrading、alpha、arbitrage-bot、awesome、awesome-list、book、finance、futures、futures-historical-data、futures-market、futuresmarkets、paper、quant、quantitative-finance、quantitative-trading、trading-algorithms、trading-bot、trading-strategies。
-📄 英文原文: A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
-⭐ 当日新增: +763
-总 Stars: 11835
-语言: Python
-https://github.com/paperswithbacktest/awesome-systematic-trading
+📝 中文简介: 使用 TypeScript 开发；主要方向：hacktoberfest、hono、issue-management、issue-tracker、jira-alternative、kanban、linear-alternative、project-management、React、自托管、TypeScript。
+📄 英文原文: 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
+⭐ 当日新增: +760
+总 Stars: 5744
+语言: TypeScript
+https://github.com/usekaneo/kaneo
 
 
 ## moeru-ai/airi
@@ -385,16 +395,6 @@ https://github.com/yorukot/superfile
 https://github.com/mvanhorn/last30days-skill
 
 
-## huggingface/speech-to-speech
-
-📝 中文简介: 使用 Python 开发；主要方向：ai、assistant、language-model、机器学习、Python、speech、speech-synthesis、speech-to-text、speech-translation。
-📄 英文原文: Build local voice agents with open-source models
-⭐ 当日新增: +628
-总 Stars: 9120
-语言: Python
-https://github.com/huggingface/speech-to-speech
-
-
 ## pascalorg/editor
 
 📝 中文简介: 使用 TypeScript 开发。
@@ -425,12 +425,12 @@ https://github.com/obra/superpowers
 https://github.com/1jehuang/jcode
 
 
-## amnezia-vpn/amnezia-client
+## paperswithbacktest/awesome-systematic-trading
 
-📝 中文简介: 使用 C++ 开发；主要方向：cloak、gfw、ikev2、openvpn、shadowsocks、vpn、vpn-client、vpn-server、wireguard。
-📄 英文原文: Amnezia VPN Client (Desktop+Mobile)
-⭐ 当日新增: +515
-总 Stars: 13933
-语言: C++
-https://github.com/amnezia-vpn/amnezia-client
+📝 中文简介: 使用 Python 开发；主要方向：algorithmic-trading、algotrading、alpha、arbitrage-bot、awesome、awesome-list、book、finance、futures、futures-historical-data、futures-market、futuresmarkets、paper、quant、quantitative-finance、quantitative-trading、trading-algorithms、trading-bot、trading-strategies。
+📄 英文原文: A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
+⭐ 当日新增: +523
+总 Stars: 12321
+语言: Python
+https://github.com/paperswithbacktest/awesome-systematic-trading
 
