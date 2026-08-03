@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 32347
-Score: 533.72
+⭐ Stars: 32432
+Score: 534.92
 
 ### deepchem/deepchem
 
 ⭐ Stars: 6908
-Score: 232.33
+Score: 232.43
 
 ### rdkit/rdkit
 
-⭐ Stars: 3539
-Score: 86.99
+⭐ Stars: 3538
+Score: 86.98
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1826
-Score: 29.06
+⭐ Stars: 1829
+Score: 29.09
 
 ### DeepGraphLearning/torchdrug
 
@@ -46,8 +46,8 @@ Score: 19.52
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 747
-Score: 10.57
+⭐ Stars: 750
+Score: 10.6
 
 ### xjtulyc/MedgeClaw
 
@@ -111,56 +111,44 @@ Score: 4.09
 
 ## LeonChaoX/qinyan-academic-skills
 
-今日增长: +8
-当前Stars: 747
-
-
-## DeepGraphLearning/torchdrug
-
-今日增长: +1
-当前Stars: 1585
-
-
-## aurekaresearch/OpenDDE
-
-今日增长: +1
-当前Stars: 384
-
-
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +1
-当前Stars: 293
+今日增长: +3
+当前Stars: 750
 
 
 ## ai4s-research/awesome-ai-for-science
 
-今日增长: +1
-当前Stars: 1826
+今日增长: +3
+当前Stars: 1829
 
 
-## InternScience/ChemClaw
+## SimonsTang/feifei-companion
 
-今日增长: +1
-当前Stars: 52
-
-
-## rdkit/rdkit
-
-今日增长: +1
-当前Stars: 3539
+今日增长: +2
+当前Stars: 116
 
 
-## molecularsets/moses
+## AstraZeneca/awesome-drug-discovery-knowledge-graphs
 
 今日增长: +1
-当前Stars: 988
+当前Stars: 265
+
+
+## NVIDIA/nvalchemi-toolkit
+
+今日增长: +1
+当前Stars: 124
+
+
+## AngelRuizMoreno/Jupyter_Dock
+
+今日增长: +1
+当前Stars: 285
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 32347
+当前Stars: 32432
 
 
 ## deepchem/deepchem
@@ -169,16 +157,34 @@ Score: 4.09
 当前Stars: 6908
 
 
+## DeepGraphLearning/torchdrug
+
+今日增长: +0
+当前Stars: 1585
+
+
 ## NVIDIA-BioNeMo/bionemo-recipes
 
 今日增长: +0
 当前Stars: 828
 
 
+## xjtulyc/MedgeClaw
+
+今日增长: +0
+当前Stars: 668
+
+
 ## oddt/oddt
 
 今日增长: +0
 当前Stars: 468
+
+
+## aurekaresearch/OpenDDE
+
+今日增长: +0
+当前Stars: 384
 
 
 ## DSPsleeporg/smiles-transformer
@@ -199,10 +205,10 @@ Score: 4.09
 当前Stars: 329
 
 
-## AstraZeneca/awesome-drug-discovery-knowledge-graphs
+## jaechang-hits/SciAgent-Skills
 
 今日增长: +0
-当前Stars: 264
+当前Stars: 293
 
 
 ## PatWalters/resources_2025
@@ -223,16 +229,20 @@ Score: 4.09
 当前Stars: 238
 
 
-## Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery
-
-今日增长: +0
-当前Stars: 211
-
-
 
 # 🔥 GitHub 真实热门榜（24h）
 
 > 数据来自 github.com/trending（GitHub 官方按 star 增速排名），与上方关键词搜索的「Star 排行榜」不同，反映全站近期真正快速增长的仓库。
+
+
+## microsoft/AI-For-Beginners
+
+📝 中文简介: 使用 Jupyter  notebooks（数据科学） 开发；主要方向：ai、人工智能、cnn、计算机视觉、深度学习、gan、机器学习、microsoft-for-beginners、nlp、rnn。
+📄 英文原文: 12 Weeks, 24 Lessons, AI for All!
+⭐ 当日新增: +2629
+总 Stars: 59506
+语言: Jupyter Notebook
+https://github.com/microsoft/AI-For-Beginners
 
 
 ## permissionlesstech/bitchat
@@ -269,8 +279,8 @@ https://github.com/virgiliojr94/book-to-skill
 
 📝 中文简介: 使用 PowerShell 开发。
 📄 英文原文: Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
-⭐ 当日新增: +1320
-总 Stars: 12036
+⭐ 当日新增: +1141
+总 Stars: 14029
 语言: PowerShell
 https://github.com/zhaoxuya520/reverse-skill
 
@@ -283,16 +293,6 @@ https://github.com/zhaoxuya520/reverse-skill
 总 Stars: 12252
 语言: Python
 https://github.com/bradautomates/claude-video
-
-
-## microsoft/AI-For-Beginners
-
-📝 中文简介: 使用 Jupyter  notebooks（数据科学） 开发；主要方向：ai、人工智能、cnn、计算机视觉、深度学习、gan、机器学习、microsoft-for-beginners、nlp、rnn。
-📄 英文原文: 12 Weeks, 24 Lessons, AI for All!
-⭐ 当日新增: +949
-总 Stars: 57571
-语言: Jupyter Notebook
-https://github.com/microsoft/AI-For-Beginners
 
 
 ## citrolabs/ego-lite
@@ -325,14 +325,14 @@ https://github.com/CoreBunch/Instatic
 https://github.com/pbakaus/impeccable
 
 
-## different-ai/openwork
+## lyogavin/airllm
 
-📝 中文简介: 使用 TypeScript 开发。
-📄 英文原文: The open-source alternative to Claude Cowork (powered by opencode)
-⭐ 当日新增: +806
-总 Stars: 19591
-语言: TypeScript
-https://github.com/different-ai/openwork
+📝 中文简介: 使用 Jupyter  notebooks（数据科学） 开发；主要方向：chinese-llm、chinese-nlp、finetune、生成式 AI、instruct-gpt、instruction-set、llama、大语言模型、lora、open-models、开源、open-source-models、qlora。
+📄 英文原文: AirLLM 70B inference with single 4GB GPU
+⭐ 当日新增: +819
+总 Stars: 25870
+语言: Jupyter Notebook
+https://github.com/lyogavin/airllm
 
 
 ## affaan-m/ECC
@@ -345,16 +345,6 @@ https://github.com/different-ai/openwork
 https://github.com/affaan-m/ECC
 
 
-## usekaneo/kaneo
-
-📝 中文简介: 使用 TypeScript 开发；主要方向：hacktoberfest、hono、issue-management、issue-tracker、jira-alternative、kanban、linear-alternative、project-management、React、自托管、TypeScript。
-📄 英文原文: 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
-⭐ 当日新增: +760
-总 Stars: 5744
-语言: TypeScript
-https://github.com/usekaneo/kaneo
-
-
 ## moeru-ai/airi
 
 📝 中文简介: 使用 TypeScript 开发；主要方向：ai-companion、ai-vtuber、airi、digital-life、grok-companion、live2d、neuro-sama、neurosama、openclaw、vrm、vtuber。
@@ -363,6 +353,16 @@ https://github.com/usekaneo/kaneo
 总 Stars: 45490
 语言: TypeScript
 https://github.com/moeru-ai/airi
+
+
+## codecrafters-io/build-your-own-x
+
+📝 中文简介: 使用 Markdown 开发；主要方向：awesome-list、free、programming、tutorial-code、tutorial-exercises、tutorials。
+📄 英文原文: Master programming by recreating your favorite technologies from scratch.
+⭐ 当日新增: +674
+总 Stars: 535084
+语言: Markdown
+https://github.com/codecrafters-io/build-your-own-x
 
 
 ## opengeos/GeoLibre
@@ -385,14 +385,14 @@ https://github.com/opengeos/GeoLibre
 https://github.com/yorukot/superfile
 
 
-## mvanhorn/last30days-skill
+## Panniantong/Agent-Reach
 
-📝 中文简介: 使用 Python 开发；主要方向：ai-prompts、ai-skill、bluesky、claude、claude-code、clawhub、deep-research、hackernews、instagram、openclaw、polymarket、recency、reddit、research、social-media、tiktok、trends、twitter、web-search、youtube。
-📄 英文原文: AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-⭐ 当日新增: +658
-总 Stars: 56305
+📝 中文简介: 使用 Python 开发；主要方向：agent-infrastructure、ai-agent、ai-search、自动化、bilibili、claude-code、命令行工具、cursor、free-api、llm-tools、mcp、Python、reddit-scraper、twitter-scraper、web-scraper、xiaohongshu、youtube-transcript。
+📄 英文原文: Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+⭐ 当日新增: +659
+总 Stars: 64927
 语言: Python
-https://github.com/mvanhorn/last30days-skill
+https://github.com/Panniantong/Agent-Reach
 
 
 ## pascalorg/editor
@@ -415,22 +415,22 @@ https://github.com/pascalorg/editor
 https://github.com/obra/superpowers
 
 
-## 1jehuang/jcode
+## TencentCloud/TencentDB-Agent-Memory
 
-📝 中文简介: 使用 Rust 开发；主要方向：ai、ai-agent、ai-coding-agent、claude、命令行工具、coding-agent、大语言模型、mcp、openai、Rust、terminal、tui。
-📄 英文原文: The most RAM efficient harness
-⭐ 当日新增: +527
-总 Stars: 14677
-语言: Rust
-https://github.com/1jehuang/jcode
+📝 中文简介: 使用 TypeScript 开发；主要方向：智能体、ai-agent、embedding、大语言模型、local-first、long-term-memory、memory、openclaw-plugin、vector-search。
+📄 英文原文: TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
+⭐ 当日新增: +602
+总 Stars: 11295
+语言: TypeScript
+https://github.com/TencentCloud/TencentDB-Agent-Memory
 
 
-## paperswithbacktest/awesome-systematic-trading
+## microsoft/generative-ai-for-beginners
 
-📝 中文简介: 使用 Python 开发；主要方向：algorithmic-trading、algotrading、alpha、arbitrage-bot、awesome、awesome-list、book、finance、futures、futures-historical-data、futures-market、futuresmarkets、paper、quant、quantitative-finance、quantitative-trading、trading-algorithms、trading-bot、trading-strategies。
-📄 英文原文: A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
-⭐ 当日新增: +523
-总 Stars: 12321
-语言: Python
-https://github.com/paperswithbacktest/awesome-systematic-trading
+📝 中文简介: 使用 Jupyter  notebooks（数据科学） 开发；主要方向：ai、azure、chatgpt、dall-e、生成式 AI、generativeai、gpt、language-model、llms、microsoft-for-beginners、openai、prompt-engineering、semantic-search、Transformers。
+📄 英文原文: 21 Lessons, Get Started Building with Generative AI
+⭐ 当日新增: +588
+总 Stars: 114946
+语言: Jupyter Notebook
+https://github.com/microsoft/generative-ai-for-beginners
 
