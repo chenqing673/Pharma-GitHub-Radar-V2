@@ -6,28 +6,28 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 32547
-Score: 536.62
+⭐ Stars: 32661
+Score: 537.91
 
 ### deepchem/deepchem
 
-⭐ Stars: 6911
-Score: 232.51
+⭐ Stars: 6916
+Score: 232.66
 
 ### rdkit/rdkit
 
-⭐ Stars: 3537
-Score: 87.02
+⭐ Stars: 3538
+Score: 87.03
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1831
-Score: 29.21
+⭐ Stars: 1834
+Score: 29.24
 
 ### DeepGraphLearning/torchdrug
 
-⭐ Stars: 1585
-Score: 26.95
+⭐ Stars: 1587
+Score: 26.97
 
 ### molecularsets/moses
 
@@ -36,18 +36,18 @@ Score: 23.83
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
-⭐ Stars: 829
-Score: 16.99
+⭐ Stars: 830
+Score: 17.0
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 827
-Score: 19.52
+⭐ Stars: 830
+Score: 19.55
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 757
-Score: 10.72
+⭐ Stars: 761
+Score: 10.76
 
 ### xjtulyc/MedgeClaw
 
@@ -66,13 +66,13 @@ Score: 8.67
 
 ### chemosim-lab/ProLIF
 
-⭐ Stars: 527
-Score: 10.27
+⭐ Stars: 529
+Score: 10.29
 
 ### oddt/oddt
 
-⭐ Stars: 468
-Score: 11.03
+⭐ Stars: 469
+Score: 11.04
 
 ### wengong-jin/hgraph2graph
 
@@ -96,8 +96,8 @@ Score: 5.29
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 387
-Score: 6.22
+⭐ Stars: 388
+Score: 6.23
 
 ### qinheming/BIoClaw
 
@@ -109,73 +109,67 @@ Score: 4.09
 # 🚀 Star快速增长榜
 
 
-## LeonChaoX/qinyan-academic-skills
-
-今日增长: +7
-当前Stars: 757
-
-
 ## deepchem/deepchem
 
-今日增长: +3
-当前Stars: 6911
+今日增长: +5
+当前Stars: 6916
 
 
-## aurekaresearch/OpenDDE
+## LeonChaoX/qinyan-academic-skills
 
-今日增长: +3
-当前Stars: 387
-
-
-## NVIDIA-BioNeMo/nvMolKit
-
-今日增长: +3
-当前Stars: 270
-
-
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +2
-当前Stars: 295
+今日增长: +4
+当前Stars: 761
 
 
 ## ai4s-research/awesome-ai-for-science
 
+今日增长: +3
+当前Stars: 1834
+
+
+## MolecularAI/REINVENT4
+
+今日增长: +3
+当前Stars: 830
+
+
+## DeepGraphLearning/torchdrug
+
 今日增长: +2
-当前Stars: 1831
+当前Stars: 1587
 
 
-## NVIDIA/nvalchemi-toolkit
+## chemosim-lab/ProLIF
 
 今日增长: +2
-当前Stars: 126
+当前Stars: 529
 
 
 ## NVIDIA-BioNeMo/bionemo-recipes
 
 今日增长: +1
-当前Stars: 829
+当前Stars: 830
 
 
-## dralgroup/mlatom
-
-今日增长: +1
-当前Stars: 154
-
-
-## rdkit/rdkit-js
+## aurekaresearch/OpenDDE
 
 今日增长: +1
-当前Stars: 243
+当前Stars: 388
 
 
-## thomas0809/MolScribe
+## argonne-lcf/ChemGraph
 
 今日增长: +1
-当前Stars: 325
+当前Stars: 140
 
 
-## NVIDIA-BioNeMo/genmol
+## rdkit/rdkit
+
+今日增长: +1
+当前Stars: 3538
+
+
+## zjunlp/MolGen
 
 今日增长: +1
 当前Stars: 195
@@ -184,13 +178,7 @@ Score: 4.09
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 32547
-
-
-## DeepGraphLearning/torchdrug
-
-今日增长: +0
-当前Stars: 1585
+当前Stars: 32661
 
 
 ## xjtulyc/MedgeClaw
@@ -202,7 +190,7 @@ Score: 4.09
 ## oddt/oddt
 
 今日增长: +0
-当前Stars: 468
+当前Stars: 469
 
 
 ## DSPsleeporg/smiles-transformer
@@ -223,10 +211,22 @@ Score: 4.09
 当前Stars: 329
 
 
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +0
+当前Stars: 295
+
+
 ## AstraZeneca/awesome-drug-discovery-knowledge-graphs
 
 今日增长: +0
 当前Stars: 265
+
+
+## PatWalters/resources_2025
+
+今日增长: +0
+当前Stars: 264
 
 
 
@@ -235,14 +235,14 @@ Score: 4.09
 > 数据来自 github.com/trending（GitHub 官方按 star 增速排名），与上方关键词搜索的「Star 排行榜」不同，反映全站近期真正快速增长的仓库。
 
 
-## zhaoxuya520/reverse-skill
+## firecrawl/pdf-inspector
 
-📝 中文简介: 使用 PowerShell 开发。
-📄 英文原文: Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
-⭐ 当日新增: +2446
-总 Stars: 16195
-语言: PowerShell
-https://github.com/zhaoxuya520/reverse-skill
+📝 中文简介: 使用 Rust 开发；主要方向：markdown、Node.js、ocr-routing、pdf、pdf-classification、pdf-extraction、pdf-parser、Python、Rust、text-extraction。
+📄 英文原文: Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
+⭐ 当日新增: +2540
+总 Stars: 10274
+语言: Rust
+https://github.com/firecrawl/pdf-inspector
 
 
 ## permissionlesstech/bitchat
@@ -255,6 +255,16 @@ https://github.com/zhaoxuya520/reverse-skill
 https://github.com/permissionlesstech/bitchat
 
 
+## zhaoxuya520/reverse-skill
+
+📝 中文简介: 使用 PowerShell 开发。
+📄 英文原文: Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+⭐ 当日新增: +2297
+总 Stars: 18181
+语言: PowerShell
+https://github.com/zhaoxuya520/reverse-skill
+
+
 ## microsoft/AI-For-Beginners
 
 📝 中文简介: 使用 Jupyter  notebooks（数据科学） 开发；主要方向：ai、人工智能、cnn、计算机视觉、深度学习、gan、机器学习、microsoft-for-beginners、nlp、rnn。
@@ -265,6 +275,16 @@ https://github.com/permissionlesstech/bitchat
 https://github.com/microsoft/AI-For-Beginners
 
 
+## lyogavin/airllm
+
+📝 中文简介: 使用 Jupyter  notebooks（数据科学） 开发；主要方向：chinese-llm、chinese-nlp、finetune、生成式 AI、instruct-gpt、instruction-set、llama、大语言模型、lora、open-models、开源、open-source-models、qlora。
+📄 英文原文: AirLLM 70B inference with single 4GB GPU
+⭐ 当日新增: +1711
+总 Stars: 28516
+语言: Jupyter Notebook
+https://github.com/lyogavin/airllm
+
+
 ## block/buzz
 
 📝 中文简介: 使用 Rust 开发。
@@ -273,16 +293,6 @@ https://github.com/microsoft/AI-For-Beginners
 总 Stars: 13553
 语言: Rust
 https://github.com/block/buzz
-
-
-## firecrawl/pdf-inspector
-
-📝 中文简介: 使用 Rust 开发；主要方向：markdown、Node.js、ocr-routing、pdf、pdf-classification、pdf-extraction、pdf-parser、Python、Rust、text-extraction。
-📄 英文原文: Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
-⭐ 当日新增: +1699
-总 Stars: 8600
-语言: Rust
-https://github.com/firecrawl/pdf-inspector
 
 
 ## virgiliojr94/book-to-skill
@@ -299,20 +309,10 @@ https://github.com/virgiliojr94/book-to-skill
 
 📝 中文简介: 使用 TypeScript 开发；主要方向：智能体、ai-agent、embedding、大语言模型、local-first、long-term-memory、memory、openclaw-plugin、vector-search。
 📄 英文原文: TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
-⭐ 当日新增: +1090
-总 Stars: 12339
+⭐ 当日新增: +1111
+总 Stars: 13963
 语言: TypeScript
 https://github.com/TencentCloud/TencentDB-Agent-Memory
-
-
-## lyogavin/airllm
-
-📝 中文简介: 使用 Jupyter  notebooks（数据科学） 开发；主要方向：chinese-llm、chinese-nlp、finetune、生成式 AI、instruct-gpt、instruction-set、llama、大语言模型、lora、open-models、开源、open-source-models、qlora。
-📄 英文原文: AirLLM 70B inference with single 4GB GPU
-⭐ 当日新增: +1085
-总 Stars: 27380
-语言: Jupyter Notebook
-https://github.com/lyogavin/airllm
 
 
 ## Panniantong/Agent-Reach
@@ -335,6 +335,16 @@ https://github.com/Panniantong/Agent-Reach
 https://github.com/bradautomates/claude-video
 
 
+## esengine/DeepSeek-Reasonix
+
+📝 中文简介: 使用 Go 开发；主要方向：智能体、agent-framework、ai-agent、ai-coding、命令行工具、coding-agent、deepseek、developer-tools、ink、大语言模型、prompt-caching、r1、terminal、tool-use、tui、TypeScript。
+📄 英文原文: DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+⭐ 当日新增: +922
+总 Stars: 30922
+语言: Go
+https://github.com/esengine/DeepSeek-Reasonix
+
+
 ## citrolabs/ego-lite
 
 📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：agent-skills、ai-agent、browser、skills、skills-sh。
@@ -353,16 +363,6 @@ https://github.com/citrolabs/ego-lite
 总 Stars: 5792
 语言: TypeScript
 https://github.com/CoreBunch/Instatic
-
-
-## esengine/DeepSeek-Reasonix
-
-📝 中文简介: 使用 Go 开发；主要方向：智能体、agent-framework、ai-agent、ai-coding、命令行工具、coding-agent、deepseek、developer-tools、ink、大语言模型、prompt-caching、r1、terminal、tool-use、tui、TypeScript。
-📄 英文原文: DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
-⭐ 当日新增: +883
-总 Stars: 30121
-语言: Go
-https://github.com/esengine/DeepSeek-Reasonix
 
 
 ## pbakaus/impeccable
@@ -389,8 +389,8 @@ https://github.com/affaan-m/ECC
 
 📝 中文简介: 使用 Jupyter  notebooks（数据科学） 开发；主要方向：ai、azure、chatgpt、dall-e、生成式 AI、generativeai、gpt、language-model、llms、microsoft-for-beginners、openai、prompt-engineering、semantic-search、Transformers。
 📄 英文原文: 21 Lessons, Get Started Building with Generative AI
-⭐ 当日新增: +775
-总 Stars: 115728
+⭐ 当日新增: +783
+总 Stars: 116363
 语言: Jupyter Notebook
 https://github.com/microsoft/generative-ai-for-beginners
 
@@ -425,12 +425,12 @@ https://github.com/codecrafters-io/build-your-own-x
 https://github.com/opengeos/GeoLibre
 
 
-## usekaneo/kaneo
+## yorukot/superfile
 
-📝 中文简介: 使用 TypeScript 开发；主要方向：hacktoberfest、hono、issue-management、issue-tracker、jira-alternative、kanban、linear-alternative、project-management、React、自托管、TypeScript。
-📄 英文原文: 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
-⭐ 当日新增: +665
-总 Stars: 6938
-语言: TypeScript
-https://github.com/usekaneo/kaneo
+📝 中文简介: 使用 Go 开发；主要方向：bubbletea、命令行工具、file-manager、filemanager、filesystem、Go、hacktoberfest、linux-app、terminal-app、terminal-based、tui。
+📄 英文原文: Pretty fancy and modern terminal file manager
+⭐ 当日新增: +662
+总 Stars: 21568
+语言: Go
+https://github.com/yorukot/superfile
 
