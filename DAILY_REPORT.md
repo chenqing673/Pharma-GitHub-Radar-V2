@@ -6,28 +6,28 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 32773
-Score: 539.58
+⭐ Stars: 32849
+Score: 540.59
 
 ### deepchem/deepchem
 
-⭐ Stars: 6917
-Score: 232.87
+⭐ Stars: 6923
+Score: 232.98
 
 ### rdkit/rdkit
 
-⭐ Stars: 3539
-Score: 87.09
+⭐ Stars: 3541
+Score: 87.16
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1837
-Score: 29.27
+⭐ Stars: 1839
+Score: 29.29
 
 ### DeepGraphLearning/torchdrug
 
-⭐ Stars: 1587
-Score: 26.97
+⭐ Stars: 1586
+Score: 26.96
 
 ### molecularsets/moses
 
@@ -36,23 +36,23 @@ Score: 23.83
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
-⭐ Stars: 831
-Score: 17.01
+⭐ Stars: 834
+Score: 17.04
 
 ### MolecularAI/REINVENT4
 
 ⭐ Stars: 830
-Score: 19.55
+Score: 19.6
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 768
-Score: 10.88
+⭐ Stars: 771
+Score: 10.91
 
 ### xjtulyc/MedgeClaw
 
-⭐ Stars: 668
-Score: 14.88
+⭐ Stars: 669
+Score: 14.89
 
 ### wengong-jin/icml18-jtnn
 
@@ -61,8 +61,8 @@ Score: 15.44
 
 ### datamol-io/datamol
 
-⭐ Stars: 544
-Score: 8.69
+⭐ Stars: 545
+Score: 8.7
 
 ### chemosim-lab/ProLIF
 
@@ -89,126 +89,96 @@ Score: 6.95
 ⭐ Stars: 417
 Score: 8.47
 
+### aurekaresearch/OpenDDE
+
+⭐ Stars: 396
+Score: 6.31
+
 ### maabuu/posebusters
 
 ⭐ Stars: 394
 Score: 5.29
 
-### aurekaresearch/OpenDDE
-
-⭐ Stars: 393
-Score: 6.28
-
 ### qinheming/BIoClaw
 
-⭐ Stars: 374
-Score: 4.09
+⭐ Stars: 375
+Score: 4.1
 
 
 
 # 🚀 Star快速增长榜
 
 
-## LeonChaoX/qinyan-academic-skills
-
-今日增长: +7
-当前Stars: 768
-
-
-## aurekaresearch/OpenDDE
-
-今日增长: +5
-当前Stars: 393
-
-
-## ai4s-research/awesome-ai-for-science
-
-今日增长: +3
-当前Stars: 1837
-
-
-## datamol-io/datamol
-
-今日增长: +2
-当前Stars: 544
-
-
 ## deepchem/deepchem
 
-今日增长: +1
-当前Stars: 6917
+今日增长: +6
+当前Stars: 6923
 
 
 ## NVIDIA-BioNeMo/bionemo-recipes
 
-今日增长: +1
-当前Stars: 831
+今日增长: +3
+当前Stars: 834
 
 
-## dralgroup/mlatom
+## LeonChaoX/qinyan-academic-skills
 
-今日增长: +1
-当前Stars: 155
+今日增长: +3
+当前Stars: 771
 
 
-## argonne-lcf/ChemGraph
+## aurekaresearch/OpenDDE
 
-今日增长: +1
-当前Stars: 141
+今日增长: +3
+当前Stars: 396
+
+
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +2
+当前Stars: 297
+
+
+## ai4s-research/awesome-ai-for-science
+
+今日增长: +2
+当前Stars: 1839
 
 
 ## rdkit/rdkit
 
-今日增长: +1
-当前Stars: 3539
+今日增长: +2
+当前Stars: 3541
 
 
-## PatWalters/useful_rdkit_utils
-
-今日增长: +1
-当前Stars: 236
-
-
-## basf/MolPipeline
+## xjtulyc/MedgeClaw
 
 今日增长: +1
-当前Stars: 228
+当前Stars: 669
 
 
-## UCLCheminformatics/ScaffoldGraph
-
-今日增长: +1
-当前Stars: 202
-
-
-## NVIDIA-BioNeMo/nvMolKit
+## NVIDIA/MegaMolBART
 
 今日增长: +1
-当前Stars: 271
+当前Stars: 186
 
 
-## NVIDIA-BioNeMo/genmol
+## datamol-io/datamol
 
 今日增长: +1
-当前Stars: 196
+当前Stars: 545
+
+
+## qinheming/BIoClaw
+
+今日增长: +1
+当前Stars: 375
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 32773
-
-
-## DeepGraphLearning/torchdrug
-
-今日增长: +0
-当前Stars: 1587
-
-
-## xjtulyc/MedgeClaw
-
-今日增长: +0
-当前Stars: 668
+当前Stars: 32849
 
 
 ## oddt/oddt
@@ -229,10 +199,50 @@ Score: 4.09
 当前Stars: 339
 
 
+## DeepWism/DeepWism-miRNA
+
+今日增长: +0
+当前Stars: 329
+
+
+## AstraZeneca/awesome-drug-discovery-knowledge-graphs
+
+今日增长: +0
+当前Stars: 265
+
+
+## PatWalters/resources_2025
+
+今日增长: +0
+当前Stars: 264
+
+
+## benb111/awesome-small-molecule-ml
+
+今日增长: +0
+当前Stars: 241
+
+
+## mattragoza/LiGAN
+
+今日增长: +0
+当前Stars: 238
+
+
 
 # 🔥 GitHub 真实热门榜（24h）
 
 > 数据来自 github.com/trending（GitHub 官方按 star 增速排名），与上方关键词搜索的「Star 排行榜」不同，反映全站近期真正快速增长的仓库。
+
+
+## cloudflare/computer
+
+📝 中文简介: 使用 TypeScript 开发。
+📄 英文原文: Give your agent a computer 👾
+⭐ 当日新增: +2802
+总 Stars: 4928
+语言: TypeScript
+https://github.com/cloudflare/computer
 
 
 ## permissionlesstech/bitchat
@@ -265,14 +275,14 @@ https://github.com/zhaoxuya520/reverse-skill
 https://github.com/microsoft/AI-For-Beginners
 
 
-## TencentCloud/TencentDB-Agent-Memory
+## mattpocock/skills
 
-📝 中文简介: 使用 TypeScript 开发；主要方向：智能体、ai-agent、embedding、大语言模型、local-first、long-term-memory、memory、openclaw-plugin、vector-search。
-📄 英文原文: TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
-⭐ 当日新增: +1892
-总 Stars: 15242
-语言: TypeScript
-https://github.com/TencentCloud/TencentDB-Agent-Memory
+📝 中文简介: 使用 Shell 脚本 开发。
+📄 英文原文: Skills for Real Engineers. Straight from my .agents directory.
+⭐ 当日新增: +1873
+总 Stars: 207356
+语言: Shell
+https://github.com/mattpocock/skills
 
 
 ## block/buzz
@@ -285,16 +295,6 @@ https://github.com/TencentCloud/TencentDB-Agent-Memory
 https://github.com/block/buzz
 
 
-## firecrawl/pdf-inspector
-
-📝 中文简介: 使用 Rust 开发；主要方向：markdown、Node.js、ocr-routing、pdf、pdf-classification、pdf-extraction、pdf-parser、Python、Rust、text-extraction。
-📄 英文原文: Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
-⭐ 当日新增: +1582
-总 Stars: 11623
-语言: Rust
-https://github.com/firecrawl/pdf-inspector
-
-
 ## virgiliojr94/book-to-skill
 
 📝 中文简介: 使用 Python 开发。
@@ -303,6 +303,26 @@ https://github.com/firecrawl/pdf-inspector
 总 Stars: 12978
 语言: Python
 https://github.com/virgiliojr94/book-to-skill
+
+
+## firecrawl/pdf-inspector
+
+📝 中文简介: 使用 Rust 开发；主要方向：markdown、Node.js、ocr-routing、pdf、pdf-classification、pdf-extraction、pdf-parser、Python、Rust、text-extraction。
+📄 英文原文: Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
+⭐ 当日新增: +1190
+总 Stars: 12578
+语言: Rust
+https://github.com/firecrawl/pdf-inspector
+
+
+## TencentCloud/TencentDB-Agent-Memory
+
+📝 中文简介: 使用 TypeScript 开发；主要方向：智能体、ai-agent、embedding、大语言模型、local-first、long-term-memory、memory、openclaw-plugin、vector-search。
+📄 英文原文: TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
+⭐ 当日新增: +1057
+总 Stars: 16603
+语言: TypeScript
+https://github.com/TencentCloud/TencentDB-Agent-Memory
 
 
 ## Panniantong/Agent-Reach
@@ -325,16 +345,6 @@ https://github.com/Panniantong/Agent-Reach
 https://github.com/bradautomates/claude-video
 
 
-## obra/superpowers
-
-📝 中文简介: 使用 Shell 脚本 开发；主要方向：ai、brainstorming、coding、obra、sdlc、skills、subagent-driven-development、superpowers。
-📄 英文原文: An agentic skills framework & software development methodology that works.
-⭐ 当日新增: +931
-总 Stars: 267441
-语言: Shell
-https://github.com/obra/superpowers
-
-
 ## citrolabs/ego-lite
 
 📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：agent-skills、ai-agent、browser、skills、skills-sh。
@@ -343,16 +353,6 @@ https://github.com/obra/superpowers
 总 Stars: 4840
 语言: JavaScript
 https://github.com/citrolabs/ego-lite
-
-
-## cloudflare/computer
-
-📝 中文简介: 使用 TypeScript 开发。
-📄 英文原文: Give your agent a computer 👾
-⭐ 当日新增: +891
-总 Stars: 3414
-语言: TypeScript
-https://github.com/cloudflare/computer
 
 
 ## CoreBunch/Instatic
@@ -365,6 +365,26 @@ https://github.com/cloudflare/computer
 https://github.com/CoreBunch/Instatic
 
 
+## esengine/DeepSeek-Reasonix
+
+📝 中文简介: 使用 Go 开发；主要方向：智能体、agent-framework、ai-agent、ai-coding、命令行工具、coding-agent、deepseek、developer-tools、ink、大语言模型、prompt-caching、r1、terminal、tool-use、tui、TypeScript。
+📄 英文原文: DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+⭐ 当日新增: +888
+总 Stars: 32549
+语言: Go
+https://github.com/esengine/DeepSeek-Reasonix
+
+
+## obra/superpowers
+
+📝 中文简介: 使用 Shell 脚本 开发；主要方向：ai、brainstorming、coding、obra、sdlc、skills、subagent-driven-development、superpowers。
+📄 英文原文: An agentic skills framework & software development methodology that works.
+⭐ 当日新增: +858
+总 Stars: 268205
+语言: Shell
+https://github.com/obra/superpowers
+
+
 ## pbakaus/impeccable
 
 📝 中文简介: 使用 JavaScript（前端/全栈） 开发。
@@ -373,6 +393,16 @@ https://github.com/CoreBunch/Instatic
 总 Stars: 51698
 语言: JavaScript
 https://github.com/pbakaus/impeccable
+
+
+## huangruiteng/loopx
+
+📝 中文简介: 使用 Python 开发；主要方向：agent-control-plane、agent-ops、ai-agents、codex、long-running-agents、loop-engineering、loopx、workflow-automation。
+📄 英文原文: Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.
+⭐ 当日新增: +847
+总 Stars: 2977
+语言: Python
+https://github.com/huangruiteng/loopx
 
 
 ## lyogavin/airllm
@@ -403,34 +433,4 @@ https://github.com/affaan-m/ECC
 总 Stars: 116363
 语言: Jupyter Notebook
 https://github.com/microsoft/generative-ai-for-beginners
-
-
-## esengine/DeepSeek-Reasonix
-
-📝 中文简介: 使用 Go 开发；主要方向：智能体、agent-framework、ai-agent、ai-coding、命令行工具、coding-agent、deepseek、developer-tools、ink、大语言模型、prompt-caching、r1、terminal、tool-use、tui、TypeScript。
-📄 英文原文: DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
-⭐ 当日新增: +747
-总 Stars: 31780
-语言: Go
-https://github.com/esengine/DeepSeek-Reasonix
-
-
-## moeru-ai/airi
-
-📝 中文简介: 使用 TypeScript 开发；主要方向：ai-companion、ai-vtuber、airi、digital-life、grok-companion、live2d、neuro-sama、neurosama、openclaw、vrm、vtuber。
-📄 英文原文: 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-⭐ 当日新增: +682
-总 Stars: 45490
-语言: TypeScript
-https://github.com/moeru-ai/airi
-
-
-## codecrafters-io/build-your-own-x
-
-📝 中文简介: 使用 Markdown 开发；主要方向：awesome-list、free、programming、tutorial-code、tutorial-exercises、tutorials。
-📄 英文原文: Master programming by recreating your favorite technologies from scratch.
-⭐ 当日新增: +674
-总 Stars: 535084
-语言: Markdown
-https://github.com/codecrafters-io/build-your-own-x
 
