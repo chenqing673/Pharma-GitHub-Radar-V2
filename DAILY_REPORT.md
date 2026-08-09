@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 32932
-Score: 541.62
+⭐ Stars: 33005
+Score: 542.4
 
 ### deepchem/deepchem
 
-⭐ Stars: 6924
-Score: 232.99
+⭐ Stars: 6929
+Score: 233.09
 
 ### rdkit/rdkit
 
 ⭐ Stars: 3542
-Score: 87.17
+Score: 87.22
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1841
-Score: 29.31
+⭐ Stars: 1847
+Score: 29.37
 
 ### DeepGraphLearning/torchdrug
 
@@ -37,7 +37,7 @@ Score: 23.83
 ### NVIDIA-BioNeMo/bionemo-recipes
 
 ⭐ Stars: 835
-Score: 17.05
+Score: 17.1
 
 ### MolecularAI/REINVENT4
 
@@ -46,13 +46,13 @@ Score: 19.62
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 775
-Score: 10.95
+⭐ Stars: 779
+Score: 10.99
 
 ### xjtulyc/MedgeClaw
 
-⭐ Stars: 669
-Score: 14.89
+⭐ Stars: 668
+Score: 14.88
 
 ### wengong-jin/icml18-jtnn
 
@@ -82,7 +82,7 @@ Score: 10.71
 ### kjappelbaum/awesome-chemistry-datasets
 
 ⭐ Stars: 420
-Score: 6.95
+Score: 7.0
 
 ### MinkaiXu/GeoDiff
 
@@ -91,8 +91,8 @@ Score: 8.47
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 397
-Score: 6.32
+⭐ Stars: 398
+Score: 6.33
 
 ### maabuu/posebusters
 
@@ -109,94 +109,76 @@ Score: 4.1
 # 🚀 Star快速增长榜
 
 
-## LeonChaoX/qinyan-academic-skills
-
-今日增长: +4
-当前Stars: 775
-
-
 ## ai4s-research/awesome-ai-for-science
 
-今日增长: +2
-当前Stars: 1841
-
-
-## MolecularAI/REINVENT4
-
-今日增长: +2
-当前Stars: 832
+今日增长: +6
+当前Stars: 1847
 
 
 ## deepchem/deepchem
 
-今日增长: +1
-当前Stars: 6924
+今日增长: +5
+当前Stars: 6929
 
 
-## NVIDIA-BioNeMo/bionemo-recipes
+## LeonChaoX/qinyan-academic-skills
 
-今日增长: +1
-当前Stars: 835
+今日增长: +4
+当前Stars: 779
 
 
 ## aurekaresearch/OpenDDE
 
 今日增长: +1
-当前Stars: 397
+当前Stars: 398
 
 
-## dengjianyuan/Survey_AI_Drug_Discovery
-
-今日增长: +1
-当前Stars: 340
-
-
-## dralgroup/mlatom
+## jaechang-hits/SciAgent-Skills
 
 今日增长: +1
-当前Stars: 156
+当前Stars: 298
 
 
-## NVIDIA/nvalchemi-toolkit
-
-今日增长: +1
-当前Stars: 127
-
-
-## rdkit/rdkit
+## benb111/awesome-small-molecule-ml
 
 今日增长: +1
-当前Stars: 3542
+当前Stars: 242
 
 
-## chemosim-lab/ProLIF
-
-今日增长: +1
-当前Stars: 530
-
-
-## maabuu/posebusters
+## argonne-lcf/ChemGraph
 
 今日增长: +1
-当前Stars: 395
+当前Stars: 142
 
 
-## NVIDIA-BioNeMo/genmol
+## rdkit/rdkit-tutorials
 
 今日增长: +1
-当前Stars: 197
+当前Stars: 312
+
+
+## rdkit/rdkit-js
+
+今日增长: +1
+当前Stars: 244
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 32932
+当前Stars: 33005
 
 
-## xjtulyc/MedgeClaw
+## DeepGraphLearning/torchdrug
 
 今日增长: +0
-当前Stars: 669
+当前Stars: 1585
+
+
+## NVIDIA-BioNeMo/bionemo-recipes
+
+今日增长: +0
+当前Stars: 835
 
 
 ## oddt/oddt
@@ -211,16 +193,16 @@ Score: 4.1
 当前Stars: 358
 
 
+## dengjianyuan/Survey_AI_Drug_Discovery
+
+今日增长: +0
+当前Stars: 340
+
+
 ## DeepWism/DeepWism-miRNA
 
 今日增长: +0
 当前Stars: 329
-
-
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +0
-当前Stars: 297
 
 
 ## AstraZeneca/awesome-drug-discovery-knowledge-graphs
@@ -229,10 +211,38 @@ Score: 4.1
 当前Stars: 265
 
 
+## PatWalters/resources_2025
+
+今日增长: +0
+当前Stars: 264
+
+
+## mattragoza/LiGAN
+
+今日增长: +0
+当前Stars: 238
+
+
+## Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery
+
+今日增长: +0
+当前Stars: 211
+
+
 
 # 🔥 GitHub 真实热门榜（24h）
 
 > 数据来自 github.com/trending（GitHub 官方按 star 增速排名），与上方关键词搜索的「Star 排行榜」不同，反映全站近期真正快速增长的仓库。
+
+
+## PrimeIntellect-ai/prime-agent
+
+📝 中文简介: 使用 TypeScript 开发。
+📄 英文原文: A self-improving RLM agent for coding workflows and long-running autonomous tasks.
+⭐ 当日新增: +2483
+总 Stars: 9120
+语言: TypeScript
+https://github.com/PrimeIntellect-ai/prime-agent
 
 
 ## permissionlesstech/bitchat
@@ -253,26 +263,6 @@ https://github.com/permissionlesstech/bitchat
 总 Stars: 18181
 语言: PowerShell
 https://github.com/zhaoxuya520/reverse-skill
-
-
-## PrimeIntellect-ai/prime-agent
-
-📝 中文简介: 使用 TypeScript 开发。
-📄 英文原文: A self-improving RLM agent for coding workflows and long-running autonomous tasks.
-⭐ 当日新增: +2293
-总 Stars: 6723
-语言: TypeScript
-https://github.com/PrimeIntellect-ai/prime-agent
-
-
-## mattpocock/skills
-
-📝 中文简介: 使用 Shell 脚本 开发。
-📄 英文原文: Skills for Real Engineers. Straight from my .agents directory.
-⭐ 当日新增: +2152
-总 Stars: 208932
-语言: Shell
-https://github.com/mattpocock/skills
 
 
 ## microsoft/AI-For-Beginners
@@ -305,6 +295,16 @@ https://github.com/block/buzz
 https://github.com/virgiliojr94/book-to-skill
 
 
+## mattpocock/skills
+
+📝 中文简介: 使用 Shell 脚本 开发。
+📄 英文原文: Skills for Real Engineers. Straight from my .agents directory.
+⭐ 当日新增: +1359
+总 Stars: 210129
+语言: Shell
+https://github.com/mattpocock/skills
+
+
 ## firecrawl/pdf-inspector
 
 📝 中文简介: 使用 Rust 开发；主要方向：markdown、Node.js、ocr-routing、pdf、pdf-classification、pdf-extraction、pdf-parser、Python、Rust、text-extraction。
@@ -313,16 +313,6 @@ https://github.com/virgiliojr94/book-to-skill
 总 Stars: 12578
 语言: Rust
 https://github.com/firecrawl/pdf-inspector
-
-
-## addyosmani/agent-skills
-
-📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：agent-skills、antigravity、claude-code、codex、cursor、skills。
-📄 英文原文: Production-grade engineering skills for AI coding agents.
-⭐ 当日新增: +1131
-总 Stars: 83952
-语言: JavaScript
-https://github.com/addyosmani/agent-skills
 
 
 ## TencentCloud/TencentDB-Agent-Memory
@@ -433,4 +423,14 @@ https://github.com/lyogavin/airllm
 总 Stars: 236310
 语言: JavaScript
 https://github.com/affaan-m/ECC
+
+
+## microsoft/generative-ai-for-beginners
+
+📝 中文简介: 使用 Jupyter  notebooks（数据科学） 开发；主要方向：ai、azure、chatgpt、dall-e、生成式 AI、generativeai、gpt、language-model、llms、microsoft-for-beginners、openai、prompt-engineering、semantic-search、Transformers。
+📄 英文原文: 21 Lessons, Get Started Building with Generative AI
+⭐ 当日新增: +783
+总 Stars: 116363
+语言: Jupyter Notebook
+https://github.com/microsoft/generative-ai-for-beginners
 
