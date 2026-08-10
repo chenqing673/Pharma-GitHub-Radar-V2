@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 33005
-Score: 542.4
+⭐ Stars: 33066
+Score: 543.21
 
 ### deepchem/deepchem
 
-⭐ Stars: 6929
-Score: 233.09
+⭐ Stars: 6931
+Score: 233.31
 
 ### rdkit/rdkit
 
-⭐ Stars: 3542
-Score: 87.22
+⭐ Stars: 3544
+Score: 87.34
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1847
-Score: 29.37
+⭐ Stars: 1852
+Score: 29.42
 
 ### DeepGraphLearning/torchdrug
 
@@ -41,13 +41,13 @@ Score: 17.1
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 832
-Score: 19.62
+⭐ Stars: 833
+Score: 19.63
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 779
-Score: 10.99
+⭐ Stars: 784
+Score: 11.09
 
 ### xjtulyc/MedgeClaw
 
@@ -71,8 +71,8 @@ Score: 10.3
 
 ### oddt/oddt
 
-⭐ Stars: 469
-Score: 11.04
+⭐ Stars: 470
+Score: 11.05
 
 ### wengong-jin/hgraph2graph
 
@@ -81,8 +81,8 @@ Score: 10.71
 
 ### kjappelbaum/awesome-chemistry-datasets
 
-⭐ Stars: 420
-Score: 7.0
+⭐ Stars: 419
+Score: 6.99
 
 ### MinkaiXu/GeoDiff
 
@@ -109,64 +109,64 @@ Score: 4.1
 # 🚀 Star快速增长榜
 
 
+## LeonChaoX/qinyan-academic-skills
+
+今日增长: +5
+当前Stars: 784
+
+
 ## ai4s-research/awesome-ai-for-science
 
-今日增长: +6
-当前Stars: 1847
+今日增长: +5
+当前Stars: 1852
 
 
 ## deepchem/deepchem
 
-今日增长: +5
-当前Stars: 6929
+今日增长: +2
+当前Stars: 6931
 
 
-## LeonChaoX/qinyan-academic-skills
+## rdkit/rdkit
 
-今日增长: +4
-当前Stars: 779
-
-
-## aurekaresearch/OpenDDE
-
-今日增长: +1
-当前Stars: 398
+今日增长: +2
+当前Stars: 3544
 
 
-## jaechang-hits/SciAgent-Skills
+## MolecularAI/REINVENT4
 
 今日增长: +1
-当前Stars: 298
-
-
-## benb111/awesome-small-molecule-ml
-
-今日增长: +1
-当前Stars: 242
+当前Stars: 833
 
 
 ## argonne-lcf/ChemGraph
 
 今日增长: +1
-当前Stars: 142
+当前Stars: 143
 
 
-## rdkit/rdkit-tutorials
-
-今日增长: +1
-当前Stars: 312
-
-
-## rdkit/rdkit-js
+## NVIDIA/nvalchemi-toolkit
 
 今日增长: +1
-当前Stars: 244
+当前Stars: 128
+
+
+## AngelRuizMoreno/Jupyter_Dock
+
+今日增长: +1
+当前Stars: 286
+
+
+## thomas0809/MolScribe
+
+今日增长: +1
+当前Stars: 326
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 33005
+当前Stars: 33066
 
 
 ## DeepGraphLearning/torchdrug
@@ -181,10 +181,22 @@ Score: 4.1
 当前Stars: 835
 
 
+## xjtulyc/MedgeClaw
+
+今日增长: +0
+当前Stars: 668
+
+
 ## oddt/oddt
 
 今日增长: +0
-当前Stars: 469
+当前Stars: 470
+
+
+## aurekaresearch/OpenDDE
+
+今日增长: +0
+当前Stars: 398
 
 
 ## DSPsleeporg/smiles-transformer
@@ -205,28 +217,16 @@ Score: 4.1
 当前Stars: 329
 
 
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +0
+当前Stars: 298
+
+
 ## AstraZeneca/awesome-drug-discovery-knowledge-graphs
 
 今日增长: +0
 当前Stars: 265
-
-
-## PatWalters/resources_2025
-
-今日增长: +0
-当前Stars: 264
-
-
-## mattragoza/LiGAN
-
-今日增长: +0
-当前Stars: 238
-
-
-## Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery
-
-今日增长: +0
-当前Stars: 211
 
 
 
@@ -239,8 +239,8 @@ Score: 4.1
 
 📝 中文简介: 使用 TypeScript 开发。
 📄 英文原文: A self-improving RLM agent for coding workflows and long-running autonomous tasks.
-⭐ 当日新增: +2483
-总 Stars: 9120
+⭐ 当日新增: +2356
+总 Stars: 11459
 语言: TypeScript
 https://github.com/PrimeIntellect-ai/prime-agent
 
@@ -385,6 +385,16 @@ https://github.com/esengine/DeepSeek-Reasonix
 https://github.com/cloudflare/computer
 
 
+## msitarzewski/agency-agents
+
+📝 中文简介: 使用 Shell 脚本 开发。
+📄 英文原文: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+⭐ 当日新增: +858
+总 Stars: 140908
+语言: Shell
+https://github.com/msitarzewski/agency-agents
+
+
 ## pbakaus/impeccable
 
 📝 中文简介: 使用 JavaScript（前端/全栈） 开发。
@@ -423,14 +433,4 @@ https://github.com/lyogavin/airllm
 总 Stars: 236310
 语言: JavaScript
 https://github.com/affaan-m/ECC
-
-
-## microsoft/generative-ai-for-beginners
-
-📝 中文简介: 使用 Jupyter  notebooks（数据科学） 开发；主要方向：ai、azure、chatgpt、dall-e、生成式 AI、generativeai、gpt、language-model、llms、microsoft-for-beginners、openai、prompt-engineering、semantic-search、Transformers。
-📄 英文原文: 21 Lessons, Get Started Building with Generative AI
-⭐ 当日新增: +783
-总 Stars: 116363
-语言: Jupyter Notebook
-https://github.com/microsoft/generative-ai-for-beginners
 
