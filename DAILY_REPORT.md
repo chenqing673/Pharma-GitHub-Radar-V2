@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 33066
-Score: 543.21
+⭐ Stars: 33163
+Score: 544.43
 
 ### deepchem/deepchem
 
-⭐ Stars: 6931
-Score: 233.31
+⭐ Stars: 6935
+Score: 233.4
 
 ### rdkit/rdkit
 
-⭐ Stars: 3544
-Score: 87.34
+⭐ Stars: 3546
+Score: 87.41
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1852
-Score: 29.42
+⭐ Stars: 1855
+Score: 29.5
 
 ### DeepGraphLearning/torchdrug
 
@@ -36,18 +36,18 @@ Score: 23.83
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
-⭐ Stars: 835
-Score: 17.1
+⭐ Stars: 837
+Score: 17.12
 
 ### MolecularAI/REINVENT4
 
 ⭐ Stars: 833
-Score: 19.63
+Score: 19.73
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 784
-Score: 11.09
+⭐ Stars: 787
+Score: 11.17
 
 ### xjtulyc/MedgeClaw
 
@@ -91,13 +91,13 @@ Score: 8.47
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 398
-Score: 6.33
+⭐ Stars: 401
+Score: 6.41
 
 ### maabuu/posebusters
 
-⭐ Stars: 395
-Score: 5.3
+⭐ Stars: 397
+Score: 5.32
 
 ### qinheming/BIoClaw
 
@@ -109,76 +109,70 @@ Score: 4.1
 # 🚀 Star快速增长榜
 
 
-## LeonChaoX/qinyan-academic-skills
+## jaechang-hits/SciAgent-Skills
 
-今日增长: +5
-当前Stars: 784
-
-
-## ai4s-research/awesome-ai-for-science
-
-今日增长: +5
-当前Stars: 1852
+今日增长: +6
+当前Stars: 304
 
 
 ## deepchem/deepchem
 
+今日增长: +4
+当前Stars: 6935
+
+
+## LeonChaoX/qinyan-academic-skills
+
+今日增长: +3
+当前Stars: 787
+
+
+## aurekaresearch/OpenDDE
+
+今日增长: +3
+当前Stars: 401
+
+
+## ai4s-research/awesome-ai-for-science
+
+今日增长: +3
+当前Stars: 1855
+
+
+## NVIDIA/nvalchemi-toolkit
+
+今日增长: +3
+当前Stars: 131
+
+
+## NVIDIA-BioNeMo/bionemo-recipes
+
 今日增长: +2
-当前Stars: 6931
+当前Stars: 837
 
 
 ## rdkit/rdkit
 
 今日增长: +2
-当前Stars: 3544
+当前Stars: 3546
 
 
-## MolecularAI/REINVENT4
+## maabuu/posebusters
 
-今日增长: +1
-当前Stars: 833
-
-
-## argonne-lcf/ChemGraph
-
-今日增长: +1
-当前Stars: 143
-
-
-## NVIDIA/nvalchemi-toolkit
-
-今日增长: +1
-当前Stars: 128
-
-
-## AngelRuizMoreno/Jupyter_Dock
-
-今日增长: +1
-当前Stars: 286
-
-
-## thomas0809/MolScribe
-
-今日增长: +1
-当前Stars: 326
+今日增长: +2
+当前Stars: 397
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 33066
+当前Stars: 33163
 
 
 ## DeepGraphLearning/torchdrug
 
 今日增长: +0
 当前Stars: 1585
-
-
-## NVIDIA-BioNeMo/bionemo-recipes
-
-今日增长: +0
-当前Stars: 835
 
 
 ## xjtulyc/MedgeClaw
@@ -191,12 +185,6 @@ Score: 4.1
 
 今日增长: +0
 当前Stars: 470
-
-
-## aurekaresearch/OpenDDE
-
-今日增长: +0
-当前Stars: 398
 
 
 ## DSPsleeporg/smiles-transformer
@@ -217,16 +205,28 @@ Score: 4.1
 当前Stars: 329
 
 
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +0
-当前Stars: 298
-
-
 ## AstraZeneca/awesome-drug-discovery-knowledge-graphs
 
 今日增长: +0
 当前Stars: 265
+
+
+## PatWalters/resources_2025
+
+今日增长: +0
+当前Stars: 264
+
+
+## benb111/awesome-small-molecule-ml
+
+今日增长: +0
+当前Stars: 242
+
+
+## mattragoza/LiGAN
+
+今日增长: +0
+当前Stars: 238
 
 
 
@@ -239,8 +239,8 @@ Score: 4.1
 
 📝 中文简介: 使用 TypeScript 开发。
 📄 英文原文: A self-improving RLM agent for coding workflows and long-running autonomous tasks.
-⭐ 当日新增: +2356
-总 Stars: 11459
+⭐ 当日新增: +2642
+总 Stars: 13206
 语言: TypeScript
 https://github.com/PrimeIntellect-ai/prime-agent
 
@@ -305,6 +305,16 @@ https://github.com/virgiliojr94/book-to-skill
 https://github.com/mattpocock/skills
 
 
+## msitarzewski/agency-agents
+
+📝 中文简介: 使用 Shell 脚本 开发。
+📄 英文原文: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+⭐ 当日新增: +1349
+总 Stars: 141909
+语言: Shell
+https://github.com/msitarzewski/agency-agents
+
+
 ## firecrawl/pdf-inspector
 
 📝 中文简介: 使用 Rust 开发；主要方向：markdown、Node.js、ocr-routing、pdf、pdf-classification、pdf-extraction、pdf-parser、Python、Rust、text-extraction。
@@ -343,6 +353,26 @@ https://github.com/Panniantong/Agent-Reach
 总 Stars: 12252
 语言: Python
 https://github.com/bradautomates/claude-video
+
+
+## semantica-agi/semantica
+
+📝 中文简介: 使用 Python 开发；主要方向：agent-memory、ai、ai-governance、ai-infrastructure、人工智能、context-engineering、context-graphs、data-engineering、decision-intelligence、developer-tools、explainable-ai、生成式 AI、graph-rag、knowledge-graph、大语言模型、ontology、provenance、Python、reasoning、semantic-search。
+📄 英文原文: Graph-Native Infrastructure for Context and Accountable AI Systems
+⭐ 当日新增: +970
+总 Stars: 4230
+语言: Python
+https://github.com/semantica-agi/semantica
+
+
+## Comfy-Org/ComfyUI
+
+📝 中文简介: 使用 Python 开发；主要方向：ai、comfy、comfyui、Python、PyTorch、stable-diffusion。
+📄 英文原文: The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+⭐ 当日新增: +922
+总 Stars: 126401
+语言: Python
+https://github.com/Comfy-Org/ComfyUI
 
 
 ## citrolabs/ego-lite
@@ -385,16 +415,6 @@ https://github.com/esengine/DeepSeek-Reasonix
 https://github.com/cloudflare/computer
 
 
-## msitarzewski/agency-agents
-
-📝 中文简介: 使用 Shell 脚本 开发。
-📄 英文原文: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-⭐ 当日新增: +858
-总 Stars: 140908
-语言: Shell
-https://github.com/msitarzewski/agency-agents
-
-
 ## pbakaus/impeccable
 
 📝 中文简介: 使用 JavaScript（前端/全栈） 开发。
@@ -413,24 +433,4 @@ https://github.com/pbakaus/impeccable
 总 Stars: 2977
 语言: Python
 https://github.com/huangruiteng/loopx
-
-
-## lyogavin/airllm
-
-📝 中文简介: 使用 Jupyter  notebooks（数据科学） 开发；主要方向：chinese-llm、chinese-nlp、finetune、生成式 AI、instruct-gpt、instruction-set、llama、大语言模型、lora、open-models、开源、open-source-models、qlora。
-📄 英文原文: AirLLM 70B inference with single 4GB GPU
-⭐ 当日新增: +833
-总 Stars: 29196
-语言: Jupyter Notebook
-https://github.com/lyogavin/airllm
-
-
-## affaan-m/ECC
-
-📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：ai-agents、anthropic、claude、claude-code、developer-tools、大语言模型、mcp、productivity。
-📄 英文原文: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-⭐ 当日新增: +804
-总 Stars: 236310
-语言: JavaScript
-https://github.com/affaan-m/ECC
 
