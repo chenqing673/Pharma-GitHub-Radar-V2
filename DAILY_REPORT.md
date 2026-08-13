@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 33250
-Score: 545.65
+⭐ Stars: 33348
+Score: 547.08
 
 ### deepchem/deepchem
 
 ⭐ Stars: 6938
-Score: 233.43
+Score: 233.53
 
 ### rdkit/rdkit
 
-⭐ Stars: 3547
-Score: 87.42
+⭐ Stars: 3550
+Score: 87.4
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1862
-Score: 29.57
+⭐ Stars: 1865
+Score: 29.6
 
 ### DeepGraphLearning/torchdrug
 
@@ -36,8 +36,8 @@ Score: 23.83
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
-⭐ Stars: 839
-Score: 17.14
+⭐ Stars: 840
+Score: 17.15
 
 ### MolecularAI/REINVENT4
 
@@ -46,13 +46,13 @@ Score: 19.73
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 791
-Score: 11.21
+⭐ Stars: 794
+Score: 11.24
 
 ### xjtulyc/MedgeClaw
 
-⭐ Stars: 668
-Score: 14.88
+⭐ Stars: 667
+Score: 14.82
 
 ### wengong-jin/icml18-jtnn
 
@@ -91,130 +91,88 @@ Score: 8.47
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 405
-Score: 6.5
+⭐ Stars: 406
+Score: 6.51
 
 ### maabuu/posebusters
 
-⭐ Stars: 397
-Score: 5.32
+⭐ Stars: 398
+Score: 5.33
 
 ### qinheming/BIoClaw
 
-⭐ Stars: 375
-Score: 4.1
+⭐ Stars: 382
+Score: 4.17
 
 
 
 # 🚀 Star快速增长榜
 
 
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +17
-当前Stars: 321
-
-
-## ai4s-research/awesome-ai-for-science
+## qinheming/BIoClaw
 
 今日增长: +7
-当前Stars: 1862
+当前Stars: 382
 
 
-## NVIDIA/nvalchemi-toolkit
+## jaechang-hits/SciAgent-Skills
 
-今日增长: +5
-当前Stars: 136
+今日增长: +6
+当前Stars: 327
 
 
 ## LeonChaoX/qinyan-academic-skills
 
-今日增长: +4
-当前Stars: 791
+今日增长: +3
+当前Stars: 794
 
 
-## aurekaresearch/OpenDDE
-
-今日增长: +4
-当前Stars: 405
-
-
-## deepchem/deepchem
+## ai4s-research/awesome-ai-for-science
 
 今日增长: +3
-当前Stars: 6938
-
-
-## SimonsTang/feifei-companion
-
-今日增长: +3
-当前Stars: 109
-
-
-## NVIDIA-BioNeMo/bionemo-recipes
-
-今日增长: +2
-当前Stars: 839
-
-
-## PatWalters/resources_2025
-
-今日增长: +2
-当前Stars: 266
-
-
-## dengjianyuan/Survey_AI_Drug_Discovery
-
-今日增长: +1
-当前Stars: 341
-
-
-## argonne-lcf/ChemGraph
-
-今日增长: +1
-当前Stars: 144
+当前Stars: 1865
 
 
 ## rdkit/rdkit
 
-今日增长: +1
-当前Stars: 3547
+今日增长: +3
+当前Stars: 3550
 
 
-## jensengroup/xyz2mol
-
-今日增长: +1
-当前Stars: 302
-
-
-## thomas0809/MolScribe
+## NVIDIA-BioNeMo/bionemo-recipes
 
 今日增长: +1
-当前Stars: 327
+当前Stars: 840
 
 
-## peteboyd/lammps_interface
-
-今日增长: +1
-当前Stars: 170
-
-
-## Laboratoire-de-Chemoinformatique/SynPlanner
+## aurekaresearch/OpenDDE
 
 今日增长: +1
-当前Stars: 58
+当前Stars: 406
 
 
-## yuqianghan/editretro
+## maabuu/posebusters
 
 今日增长: +1
-当前Stars: 35
+当前Stars: 398
+
+
+## amorehead/awesome-molecular-generation
+
+今日增长: +1
+当前Stars: 344
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 33250
+当前Stars: 33348
+
+
+## deepchem/deepchem
+
+今日增长: +0
+当前Stars: 6938
 
 
 ## DeepGraphLearning/torchdrug
@@ -223,16 +181,68 @@ Score: 4.1
 当前Stars: 1585
 
 
-## xjtulyc/MedgeClaw
+## oddt/oddt
 
 今日增长: +0
-当前Stars: 668
+当前Stars: 470
+
+
+## DSPsleeporg/smiles-transformer
+
+今日增长: +0
+当前Stars: 358
+
+
+## dengjianyuan/Survey_AI_Drug_Discovery
+
+今日增长: +0
+当前Stars: 341
+
+
+## DeepWism/DeepWism-miRNA
+
+今日增长: +0
+当前Stars: 329
+
+
+## AstraZeneca/awesome-drug-discovery-knowledge-graphs
+
+今日增长: +0
+当前Stars: 265
+
+
+## PatWalters/resources_2025
+
+今日增长: +0
+当前Stars: 266
+
+
+## benb111/awesome-small-molecule-ml
+
+今日增长: +0
+当前Stars: 242
+
+
+## mattragoza/LiGAN
+
+今日增长: +0
+当前Stars: 238
 
 
 
 # 🔥 GitHub 真实热门榜（24h）
 
 > 数据来自 github.com/trending（GitHub 官方按 star 增速排名），与上方关键词搜索的「Star 排行榜」不同，反映全站近期真正快速增长的仓库。
+
+
+## cathrynlavery/diagram-design
+
+📝 中文简介: 使用 HTML 开发。
+📄 英文原文: 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
+⭐ 当日新增: +2855
+总 Stars: 11069
+语言: HTML
+https://github.com/cathrynlavery/diagram-design
 
 
 ## permissionlesstech/bitchat
@@ -265,6 +275,16 @@ https://github.com/zhaoxuya520/reverse-skill
 https://github.com/microsoft/AI-For-Beginners
 
 
+## msitarzewski/agency-agents
+
+📝 中文简介: 使用 Shell 脚本 开发。
+📄 英文原文: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+⭐ 当日新增: +1873
+总 Stars: 144665
+语言: Shell
+https://github.com/msitarzewski/agency-agents
+
+
 ## block/buzz
 
 📝 中文简介: 使用 Rust 开发。
@@ -293,6 +313,16 @@ https://github.com/virgiliojr94/book-to-skill
 总 Stars: 210129
 语言: Shell
 https://github.com/mattpocock/skills
+
+
+## stablyai/orca
+
+📝 中文简介: 使用 TypeScript 开发；主要方向：ade、agent-ide、ai-agents、claude-code、命令行工具、codex、cursor-agent、devtools、ghostty、ide、mobile-app、opencode、orchestration、parallel-agents、pi、terminal、worktrees、yc-backed。
+📄 英文原文: Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
+⭐ 当日新增: +1235
+总 Stars: 44059
+语言: TypeScript
+https://github.com/stablyai/orca
 
 
 ## firecrawl/pdf-inspector
@@ -345,16 +375,6 @@ https://github.com/Panniantong/Agent-Reach
 https://github.com/bradautomates/claude-video
 
 
-## msitarzewski/agency-agents
-
-📝 中文简介: 使用 Shell 脚本 开发。
-📄 英文原文: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-⭐ 当日新增: +958
-总 Stars: 143475
-语言: Shell
-https://github.com/msitarzewski/agency-agents
-
-
 ## Comfy-Org/ComfyUI
 
 📝 中文简介: 使用 Python 开发；主要方向：ai、comfy、comfyui、Python、PyTorch、stable-diffusion。
@@ -375,16 +395,6 @@ https://github.com/Comfy-Org/ComfyUI
 https://github.com/citrolabs/ego-lite
 
 
-## semantica-agi/semantica
-
-📝 中文简介: 使用 Python 开发；主要方向：agent-memory、ai、ai-governance、ai-infrastructure、人工智能、context-engineering、context-graphs、data-engineering、decision-intelligence、developer-tools、explainable-ai、生成式 AI、graph-rag、knowledge-graph、大语言模型、ontology、provenance、Python、reasoning、semantic-search。
-📄 英文原文: Graph-Native Infrastructure for Context and Accountable AI Systems
-⭐ 当日新增: +893
-总 Stars: 5001
-语言: Python
-https://github.com/semantica-agi/semantica
-
-
 ## CoreBunch/Instatic
 
 📝 中文简介: 使用 TypeScript 开发；主要方向：cms、css、css-framework、page-builder、static、website。
@@ -403,16 +413,6 @@ https://github.com/CoreBunch/Instatic
 总 Stars: 32549
 语言: Go
 https://github.com/esengine/DeepSeek-Reasonix
-
-
-## stablyai/orca
-
-📝 中文简介: 使用 TypeScript 开发；主要方向：ade、agent-ide、ai-agents、claude-code、命令行工具、codex、cursor-agent、devtools、ghostty、ide、mobile-app、opencode、orchestration、parallel-agents、pi、terminal、worktrees、yc-backed。
-📄 英文原文: Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
-⭐ 当日新增: +875
-总 Stars: 42927
-语言: TypeScript
-https://github.com/stablyai/orca
 
 
 ## cloudflare/computer
