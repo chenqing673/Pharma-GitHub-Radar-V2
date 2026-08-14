@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 33348
-Score: 547.08
+⭐ Stars: 33449
+Score: 548.44
 
 ### deepchem/deepchem
 
-⭐ Stars: 6938
-Score: 233.53
+⭐ Stars: 6939
+Score: 233.54
 
 ### rdkit/rdkit
 
-⭐ Stars: 3550
-Score: 87.4
+⭐ Stars: 3551
+Score: 87.41
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1865
-Score: 29.6
+⭐ Stars: 1872
+Score: 29.67
 
 ### DeepGraphLearning/torchdrug
 
@@ -36,18 +36,18 @@ Score: 23.83
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
-⭐ Stars: 840
-Score: 17.15
+⭐ Stars: 843
+Score: 17.23
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 833
-Score: 19.73
+⭐ Stars: 835
+Score: 19.75
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 794
-Score: 11.24
+⭐ Stars: 797
+Score: 11.27
 
 ### xjtulyc/MedgeClaw
 
@@ -61,13 +61,13 @@ Score: 15.44
 
 ### datamol-io/datamol
 
-⭐ Stars: 545
-Score: 8.7
+⭐ Stars: 546
+Score: 8.71
 
 ### chemosim-lab/ProLIF
 
-⭐ Stars: 530
-Score: 10.3
+⭐ Stars: 533
+Score: 10.33
 
 ### oddt/oddt
 
@@ -81,8 +81,8 @@ Score: 10.71
 
 ### kjappelbaum/awesome-chemistry-datasets
 
-⭐ Stars: 419
-Score: 6.99
+⭐ Stars: 418
+Score: 6.98
 
 ### MinkaiXu/GeoDiff
 
@@ -91,18 +91,18 @@ Score: 8.47
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 406
-Score: 6.51
+⭐ Stars: 408
+Score: 6.53
 
 ### maabuu/posebusters
 
-⭐ Stars: 398
-Score: 5.33
+⭐ Stars: 399
+Score: 5.34
 
 ### qinheming/BIoClaw
 
-⭐ Stars: 382
-Score: 4.17
+⭐ Stars: 398
+Score: 4.33
 
 
 
@@ -111,122 +111,122 @@ Score: 4.17
 
 ## qinheming/BIoClaw
 
+今日增长: +16
+当前Stars: 398
+
+
+## ai4s-research/awesome-ai-for-science
+
 今日增长: +7
-当前Stars: 382
+当前Stars: 1872
 
 
 ## jaechang-hits/SciAgent-Skills
 
 今日增长: +6
-当前Stars: 327
+当前Stars: 333
+
+
+## NVIDIA-BioNeMo/bionemo-recipes
+
+今日增长: +3
+当前Stars: 843
 
 
 ## LeonChaoX/qinyan-academic-skills
 
 今日增长: +3
-当前Stars: 794
+当前Stars: 797
 
 
-## ai4s-research/awesome-ai-for-science
-
-今日增长: +3
-当前Stars: 1865
-
-
-## rdkit/rdkit
+## chemosim-lab/ProLIF
 
 今日增长: +3
-当前Stars: 3550
-
-
-## NVIDIA-BioNeMo/bionemo-recipes
-
-今日增长: +1
-当前Stars: 840
+当前Stars: 533
 
 
 ## aurekaresearch/OpenDDE
 
+今日增长: +2
+当前Stars: 408
+
+
+## MolecularAI/REINVENT4
+
+今日增长: +2
+当前Stars: 835
+
+
+## argonne-lcf/ChemGraph
+
+今日增长: +2
+当前Stars: 146
+
+
+## rdkit/rdkit-js
+
+今日增长: +2
+当前Stars: 246
+
+
+## deepchem/deepchem
+
 今日增长: +1
-当前Stars: 406
+当前Stars: 6939
+
+
+## AstraZeneca/awesome-drug-discovery-knowledge-graphs
+
+今日增长: +1
+当前Stars: 266
+
+
+## dralgroup/mlatom
+
+今日增长: +1
+当前Stars: 157
+
+
+## NVIDIA/nvalchemi-toolkit
+
+今日增长: +1
+当前Stars: 137
+
+
+## rdkit/rdkit
+
+今日增长: +1
+当前Stars: 3551
+
+
+## datamol-io/datamol
+
+今日增长: +1
+当前Stars: 546
 
 
 ## maabuu/posebusters
 
 今日增长: +1
-当前Stars: 398
+当前Stars: 399
 
 
-## amorehead/awesome-molecular-generation
+## jensengroup/xyz2mol
 
 今日增长: +1
-当前Stars: 344
+当前Stars: 303
+
+
+## yuqianghan/editretro
+
+今日增长: +1
+当前Stars: 36
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 33348
-
-
-## deepchem/deepchem
-
-今日增长: +0
-当前Stars: 6938
-
-
-## DeepGraphLearning/torchdrug
-
-今日增长: +0
-当前Stars: 1585
-
-
-## oddt/oddt
-
-今日增长: +0
-当前Stars: 470
-
-
-## DSPsleeporg/smiles-transformer
-
-今日增长: +0
-当前Stars: 358
-
-
-## dengjianyuan/Survey_AI_Drug_Discovery
-
-今日增长: +0
-当前Stars: 341
-
-
-## DeepWism/DeepWism-miRNA
-
-今日增长: +0
-当前Stars: 329
-
-
-## AstraZeneca/awesome-drug-discovery-knowledge-graphs
-
-今日增长: +0
-当前Stars: 265
-
-
-## PatWalters/resources_2025
-
-今日增长: +0
-当前Stars: 266
-
-
-## benb111/awesome-small-molecule-ml
-
-今日增长: +0
-当前Stars: 242
-
-
-## mattragoza/LiGAN
-
-今日增长: +0
-当前Stars: 238
+当前Stars: 33449
 
 
 
@@ -239,8 +239,8 @@ Score: 4.17
 
 📝 中文简介: 使用 HTML 开发。
 📄 英文原文: 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
-⭐ 当日新增: +2855
-总 Stars: 11069
+⭐ 当日新增: +4475
+总 Stars: 15000
 语言: HTML
 https://github.com/cathrynlavery/diagram-design
 
@@ -275,16 +275,6 @@ https://github.com/zhaoxuya520/reverse-skill
 https://github.com/microsoft/AI-For-Beginners
 
 
-## msitarzewski/agency-agents
-
-📝 中文简介: 使用 Shell 脚本 开发。
-📄 英文原文: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-⭐ 当日新增: +1873
-总 Stars: 144665
-语言: Shell
-https://github.com/msitarzewski/agency-agents
-
-
 ## block/buzz
 
 📝 中文简介: 使用 Rust 开发。
@@ -313,6 +303,16 @@ https://github.com/virgiliojr94/book-to-skill
 总 Stars: 210129
 语言: Shell
 https://github.com/mattpocock/skills
+
+
+## macro-inc/macro
+
+📝 中文简介: 使用 Rust 开发；主要方向：智能体、ai、ai-agents、all-in-one、crm、crm-system、email、linear、mcp、messaging、notes、notion、office、Rust、slack、slack-alternative、startup、startup-tools、TypeScript、workspace。
+📄 英文原文: Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
+⭐ 当日新增: +1239
+总 Stars: 2662
+语言: Rust
+https://github.com/macro-inc/macro
 
 
 ## stablyai/orca
