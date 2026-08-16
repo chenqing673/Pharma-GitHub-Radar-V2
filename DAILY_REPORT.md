@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 33521
-Score: 549.36
+⭐ Stars: 33596
+Score: 550.36
 
 ### deepchem/deepchem
 
-⭐ Stars: 6938
-Score: 233.58
+⭐ Stars: 6940
+Score: 233.6
 
 ### rdkit/rdkit
 
-⭐ Stars: 3555
-Score: 87.45
+⭐ Stars: 3557
+Score: 87.62
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1872
-Score: 29.72
+⭐ Stars: 1874
+Score: 29.74
 
 ### DeepGraphLearning/torchdrug
 
@@ -36,23 +36,23 @@ Score: 23.83
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
-⭐ Stars: 844
-Score: 17.24
+⭐ Stars: 843
+Score: 17.23
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 835
-Score: 19.75
+⭐ Stars: 837
+Score: 19.77
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 801
-Score: 11.31
+⭐ Stars: 804
+Score: 11.34
 
 ### xjtulyc/MedgeClaw
 
-⭐ Stars: 666
-Score: 14.81
+⭐ Stars: 665
+Score: 14.75
 
 ### wengong-jin/icml18-jtnn
 
@@ -91,76 +91,70 @@ Score: 8.47
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 410
-Score: 6.55
+⭐ Stars: 412
+Score: 6.62
+
+### qinheming/BIoClaw
+
+⭐ Stars: 402
+Score: 4.42
 
 ### maabuu/posebusters
 
 ⭐ Stars: 399
 Score: 5.34
 
-### qinheming/BIoClaw
-
-⭐ Stars: 394
-Score: 4.34
-
 
 
 # 🚀 Star快速增长榜
 
 
+## qinheming/BIoClaw
+
+今日增长: +8
+当前Stars: 402
+
+
 ## LeonChaoX/qinyan-academic-skills
 
-今日增长: +4
-当前Stars: 801
-
-
-## rdkit/rdkit
-
-今日增长: +4
-当前Stars: 3555
-
-
-## jaechang-hits/SciAgent-Skills
-
 今日增长: +3
-当前Stars: 336
+当前Stars: 804
+
+
+## deepchem/deepchem
+
+今日增长: +2
+当前Stars: 6940
 
 
 ## aurekaresearch/OpenDDE
 
 今日增长: +2
-当前Stars: 410
+当前Stars: 412
 
 
-## NVIDIA-BioNeMo/bionemo-recipes
+## ai4s-research/awesome-ai-for-science
 
-今日增长: +1
-当前Stars: 844
-
-
-## NVIDIA/nvalchemi-toolkit
-
-今日增长: +1
-当前Stars: 138
+今日增长: +2
+当前Stars: 1874
 
 
-## wengong-jin/hgraph2graph
+## MolecularAI/REINVENT4
 
-今日增长: +1
-当前Stars: 442
+今日增长: +2
+当前Stars: 837
 
 
-## thomas0809/MolScribe
+## rdkit/rdkit
 
-今日增长: +1
-当前Stars: 328
+今日增长: +2
+当前Stars: 3557
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 33521
+当前Stars: 33596
 
 
 ## DeepGraphLearning/torchdrug
@@ -191,6 +185,12 @@ Score: 4.34
 
 今日增长: +0
 当前Stars: 329
+
+
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +0
+当前Stars: 336
 
 
 ## AstraZeneca/awesome-drug-discovery-knowledge-graphs
@@ -235,16 +235,6 @@ Score: 4.34
 > 数据来自 github.com/trending（GitHub 官方按 star 增速排名），与上方关键词搜索的「Star 排行榜」不同，反映全站近期真正快速增长的仓库。
 
 
-## cathrynlavery/diagram-design
-
-📝 中文简介: 使用 HTML 开发。
-📄 英文原文: 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
-⭐ 当日新增: +3646
-总 Stars: 17321
-语言: HTML
-https://github.com/cathrynlavery/diagram-design
-
-
 ## permissionlesstech/bitchat
 
 📝 中文简介: 使用 Swift 开发；主要方向：bluetooth、bluetooth-le、decentralized、e2e-encryption、iOS、macOS、mesh-network、messaging、nostr、Swift。
@@ -265,6 +255,16 @@ https://github.com/permissionlesstech/bitchat
 https://github.com/zhaoxuya520/reverse-skill
 
 
+## public-apis/public-apis
+
+📝 中文简介: 使用 Python 开发；主要方向：API、apis、dataset、development、free、list、lists、开源、public、public-api、public-apis、resources、software。
+📄 英文原文: A collective list of free APIs
+⭐ 当日新增: +2260
+总 Stars: 460234
+语言: Python
+https://github.com/public-apis/public-apis
+
+
 ## microsoft/AI-For-Beginners
 
 📝 中文简介: 使用 Jupyter  notebooks（数据科学） 开发；主要方向：ai、人工智能、cnn、计算机视觉、深度学习、gan、机器学习、microsoft-for-beginners、nlp、rnn。
@@ -283,6 +283,16 @@ https://github.com/microsoft/AI-For-Beginners
 总 Stars: 13553
 语言: Rust
 https://github.com/block/buzz
+
+
+## cathrynlavery/diagram-design
+
+📝 中文简介: 使用 HTML 开发。
+📄 英文原文: 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
+⭐ 当日新增: +1607
+总 Stars: 18678
+语言: HTML
+https://github.com/cathrynlavery/diagram-design
 
 
 ## virgiliojr94/book-to-skill
@@ -335,16 +345,6 @@ https://github.com/firecrawl/pdf-inspector
 https://github.com/semantica-agi/semantica
 
 
-## github/spec-kit
-
-📝 中文简介: 使用 Python 开发；主要方向：ai、copilot、development、engineering、prd、spec、spec-driven。
-📄 英文原文: 💫 Toolkit to help you get started with Spec-Driven Development
-⭐ 当日新增: +1160
-总 Stars: 128542
-语言: Python
-https://github.com/github/spec-kit
-
-
 ## PrimeIntellect-ai/prime-agent
 
 📝 中文简介: 使用 TypeScript 开发。
@@ -395,6 +395,16 @@ https://github.com/bradautomates/claude-video
 https://github.com/Comfy-Org/ComfyUI
 
 
+## github/spec-kit
+
+📝 中文简介: 使用 Python 开发；主要方向：ai、copilot、development、engineering、prd、spec、spec-driven。
+📄 英文原文: 💫 Toolkit to help you get started with Spec-Driven Development
+⭐ 当日新增: +892
+总 Stars: 129224
+语言: Python
+https://github.com/github/spec-kit
+
+
 ## CoreBunch/Instatic
 
 📝 中文简介: 使用 TypeScript 开发；主要方向：cms、css、css-framework、page-builder、static、website。
@@ -423,14 +433,4 @@ https://github.com/esengine/DeepSeek-Reasonix
 总 Stars: 5818
 语言: TypeScript
 https://github.com/cloudflare/computer
-
-
-## pbakaus/impeccable
-
-📝 中文简介: 使用 JavaScript（前端/全栈） 开发。
-📄 英文原文: The design language that makes your AI harness better at design.
-⭐ 当日新增: +847
-总 Stars: 51698
-语言: JavaScript
-https://github.com/pbakaus/impeccable
 
