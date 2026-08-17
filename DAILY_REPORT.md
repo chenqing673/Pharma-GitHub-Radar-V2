@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 33596
-Score: 550.36
+⭐ Stars: 33658
+Score: 551.03
 
 ### deepchem/deepchem
 
-⭐ Stars: 6940
-Score: 233.6
+⭐ Stars: 6943
+Score: 233.73
 
 ### rdkit/rdkit
 
-⭐ Stars: 3557
-Score: 87.62
+⭐ Stars: 3558
+Score: 87.63
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1874
-Score: 29.74
+⭐ Stars: 1877
+Score: 29.82
 
 ### DeepGraphLearning/torchdrug
 
@@ -36,23 +36,23 @@ Score: 23.83
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
-⭐ Stars: 843
-Score: 17.23
+⭐ Stars: 844
+Score: 17.24
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 837
-Score: 19.77
+⭐ Stars: 838
+Score: 19.83
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 804
-Score: 11.34
+⭐ Stars: 806
+Score: 11.36
 
 ### xjtulyc/MedgeClaw
 
-⭐ Stars: 665
-Score: 14.75
+⭐ Stars: 640
+Score: 13.8
 
 ### wengong-jin/icml18-jtnn
 
@@ -72,7 +72,7 @@ Score: 10.33
 ### oddt/oddt
 
 ⭐ Stars: 470
-Score: 11.05
+Score: 11.1
 
 ### wengong-jin/hgraph2graph
 
@@ -91,70 +91,88 @@ Score: 8.47
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 412
-Score: 6.62
-
-### qinheming/BIoClaw
-
-⭐ Stars: 402
-Score: 4.42
+⭐ Stars: 414
+Score: 6.64
 
 ### maabuu/posebusters
 
 ⭐ Stars: 399
 Score: 5.34
 
+### qinheming/BIoClaw
+
+⭐ Stars: 376
+Score: 4.11
+
 
 
 # 🚀 Star快速增长榜
 
 
-## qinheming/BIoClaw
+## deepchem/deepchem
 
-今日增长: +8
-当前Stars: 402
+今日增长: +3
+当前Stars: 6943
+
+
+## ai4s-research/awesome-ai-for-science
+
+今日增长: +3
+当前Stars: 1877
 
 
 ## LeonChaoX/qinyan-academic-skills
 
-今日增长: +3
-当前Stars: 804
-
-
-## deepchem/deepchem
-
 今日增长: +2
-当前Stars: 6940
+当前Stars: 806
 
 
 ## aurekaresearch/OpenDDE
 
 今日增长: +2
-当前Stars: 412
+当前Stars: 414
 
 
-## ai4s-research/awesome-ai-for-science
+## NVIDIA-BioNeMo/bionemo-recipes
 
-今日增长: +2
-当前Stars: 1874
+今日增长: +1
+当前Stars: 844
+
+
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +1
+当前Stars: 337
 
 
 ## MolecularAI/REINVENT4
 
-今日增长: +2
-当前Stars: 837
+今日增长: +1
+当前Stars: 838
 
 
 ## rdkit/rdkit
 
-今日增长: +2
-当前Stars: 3557
+今日增长: +1
+当前Stars: 3558
+
+
+## RadonPy/RadonPy
+
+今日增长: +1
+当前Stars: 274
+
+
+## NVIDIA-BioNeMo/nvMolKit
+
+今日增长: +1
+当前Stars: 271
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 33596
+当前Stars: 33658
 
 
 ## DeepGraphLearning/torchdrug
@@ -187,12 +205,6 @@ Score: 5.34
 当前Stars: 329
 
 
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +0
-当前Stars: 336
-
-
 ## AstraZeneca/awesome-drug-discovery-knowledge-graphs
 
 今日增长: +0
@@ -215,18 +227,6 @@ Score: 5.34
 
 今日增长: +0
 当前Stars: 238
-
-
-## Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery
-
-今日增长: +0
-当前Stars: 211
-
-
-## dockstring/dockstring
-
-今日增长: +0
-当前Stars: 187
 
 
 
@@ -253,16 +253,6 @@ https://github.com/permissionlesstech/bitchat
 总 Stars: 18181
 语言: PowerShell
 https://github.com/zhaoxuya520/reverse-skill
-
-
-## public-apis/public-apis
-
-📝 中文简介: 使用 Python 开发；主要方向：API、apis、dataset、development、free、list、lists、开源、public、public-api、public-apis、resources、software。
-📄 英文原文: A collective list of free APIs
-⭐ 当日新增: +2260
-总 Stars: 460234
-语言: Python
-https://github.com/public-apis/public-apis
 
 
 ## microsoft/AI-For-Beginners
@@ -293,6 +283,16 @@ https://github.com/block/buzz
 总 Stars: 18678
 语言: HTML
 https://github.com/cathrynlavery/diagram-design
+
+
+## public-apis/public-apis
+
+📝 中文简介: 使用 Python 开发；主要方向：API、apis、dataset、development、free、list、lists、开源、public、public-api、public-apis、resources、software。
+📄 英文原文: A collective list of free APIs
+⭐ 当日新增: +1588
+总 Stars: 461891
+语言: Python
+https://github.com/public-apis/public-apis
 
 
 ## virgiliojr94/book-to-skill
