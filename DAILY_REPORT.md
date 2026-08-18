@@ -6,28 +6,28 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 33658
-Score: 551.03
+⭐ Stars: 33753
+Score: 552.23
 
 ### deepchem/deepchem
 
-⭐ Stars: 6943
-Score: 233.73
+⭐ Stars: 6944
+Score: 233.74
 
 ### rdkit/rdkit
 
-⭐ Stars: 3558
-Score: 87.63
+⭐ Stars: 3560
+Score: 87.65
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1877
-Score: 29.82
+⭐ Stars: 1880
+Score: 29.85
 
 ### DeepGraphLearning/torchdrug
 
-⭐ Stars: 1585
-Score: 26.95
+⭐ Stars: 1586
+Score: 26.91
 
 ### molecularsets/moses
 
@@ -46,8 +46,8 @@ Score: 19.83
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 806
-Score: 11.36
+⭐ Stars: 808
+Score: 11.43
 
 ### xjtulyc/MedgeClaw
 
@@ -91,8 +91,8 @@ Score: 8.47
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 414
-Score: 6.64
+⭐ Stars: 416
+Score: 6.66
 
 ### maabuu/posebusters
 
@@ -109,76 +109,76 @@ Score: 4.11
 # 🚀 Star快速增长榜
 
 
-## deepchem/deepchem
-
-今日增长: +3
-当前Stars: 6943
-
-
 ## ai4s-research/awesome-ai-for-science
 
 今日增长: +3
-当前Stars: 1877
+当前Stars: 1880
 
 
 ## LeonChaoX/qinyan-academic-skills
 
 今日增长: +2
-当前Stars: 806
+当前Stars: 808
 
 
 ## aurekaresearch/OpenDDE
 
 今日增长: +2
-当前Stars: 414
+当前Stars: 416
 
 
-## NVIDIA-BioNeMo/bionemo-recipes
+## NVIDIA/nvalchemi-toolkit
 
-今日增长: +1
-当前Stars: 844
-
-
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +1
-当前Stars: 337
-
-
-## MolecularAI/REINVENT4
-
-今日增长: +1
-当前Stars: 838
+今日增长: +2
+当前Stars: 140
 
 
 ## rdkit/rdkit
 
+今日增长: +2
+当前Stars: 3560
+
+
+## hesther/espsim
+
+今日增长: +2
+当前Stars: 238
+
+
+## deepchem/deepchem
+
 今日增长: +1
-当前Stars: 3558
+当前Stars: 6944
 
 
-## RadonPy/RadonPy
-
-今日增长: +1
-当前Stars: 274
-
-
-## NVIDIA-BioNeMo/nvMolKit
+## DeepGraphLearning/torchdrug
 
 今日增长: +1
-当前Stars: 271
+当前Stars: 1586
+
+
+## Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery
+
+今日增长: +1
+当前Stars: 212
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 33658
+当前Stars: 33753
 
 
-## DeepGraphLearning/torchdrug
+## NVIDIA-BioNeMo/bionemo-recipes
 
 今日增长: +0
-当前Stars: 1585
+当前Stars: 844
+
+
+## xjtulyc/MedgeClaw
+
+今日增长: +0
+当前Stars: 640
 
 
 ## oddt/oddt
@@ -205,6 +205,12 @@ Score: 4.11
 当前Stars: 329
 
 
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +0
+当前Stars: 337
+
+
 ## AstraZeneca/awesome-drug-discovery-knowledge-graphs
 
 今日增长: +0
@@ -221,12 +227,6 @@ Score: 4.11
 
 今日增长: +0
 当前Stars: 242
-
-
-## mattragoza/LiGAN
-
-今日增长: +0
-当前Stars: 238
 
 
 
@@ -335,6 +335,16 @@ https://github.com/stablyai/orca
 https://github.com/firecrawl/pdf-inspector
 
 
+## harry0703/MoneyPrinterTurbo
+
+📝 中文简介: 使用 Python 开发；主要方向：ai-video-generator、content-creation、ffmpeg、instagram-reels、大语言模型、Python、short-video、subtitles、text-to-speech、tiktok、video-automation、video-workflow、workflow-automation、youtube-shorts。
+📄 英文原文: 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+⭐ 当日新增: +1189
+总 Stars: 106234
+语言: Python
+https://github.com/harry0703/MoneyPrinterTurbo
+
+
 ## semantica-agi/semantica
 
 📝 中文简介: 使用 Python 开发；主要方向：agent-memory、ai、ai-governance、ai-infrastructure、人工智能、context-engineering、context-graphs、data-engineering、decision-intelligence、developer-tools、explainable-ai、生成式 AI、graph-rag、knowledge-graph、大语言模型、ontology、provenance、Python、reasoning、semantic-search。
@@ -385,6 +395,16 @@ https://github.com/Panniantong/Agent-Reach
 https://github.com/bradautomates/claude-video
 
 
+## cordiverse/cordis
+
+📝 中文简介: 使用 TypeScript 开发；主要方向：effect、框架、Node.js、插件。
+📄 英文原文: Meta-Framework of Spatiotemporal Composability
+⭐ 当日新增: +957
+总 Stars: 5650
+语言: TypeScript
+https://github.com/cordiverse/cordis
+
+
 ## Comfy-Org/ComfyUI
 
 📝 中文简介: 使用 Python 开发；主要方向：ai、comfy、comfyui、Python、PyTorch、stable-diffusion。
@@ -413,24 +433,4 @@ https://github.com/github/spec-kit
 总 Stars: 5792
 语言: TypeScript
 https://github.com/CoreBunch/Instatic
-
-
-## esengine/DeepSeek-Reasonix
-
-📝 中文简介: 使用 Go 开发；主要方向：智能体、agent-framework、ai-agent、ai-coding、命令行工具、coding-agent、deepseek、developer-tools、ink、大语言模型、prompt-caching、r1、terminal、tool-use、tui、TypeScript。
-📄 英文原文: DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
-⭐ 当日新增: +888
-总 Stars: 32549
-语言: Go
-https://github.com/esengine/DeepSeek-Reasonix
-
-
-## cloudflare/computer
-
-📝 中文简介: 使用 TypeScript 开发。
-📄 英文原文: Give your agent a computer 👾
-⭐ 当日新增: +872
-总 Stars: 5818
-语言: TypeScript
-https://github.com/cloudflare/computer
 
