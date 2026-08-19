@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 33753
-Score: 552.23
+⭐ Stars: 33839
+Score: 553.44
 
 ### deepchem/deepchem
 
 ⭐ Stars: 6944
-Score: 233.74
+Score: 233.79
 
 ### rdkit/rdkit
 
-⭐ Stars: 3560
-Score: 87.65
+⭐ Stars: 3561
+Score: 87.66
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1880
-Score: 29.85
+⭐ Stars: 1884
+Score: 29.94
 
 ### DeepGraphLearning/torchdrug
 
@@ -36,18 +36,18 @@ Score: 23.83
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
-⭐ Stars: 844
-Score: 17.24
+⭐ Stars: 845
+Score: 17.3
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 838
-Score: 19.83
+⭐ Stars: 839
+Score: 19.84
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 808
-Score: 11.43
+⭐ Stars: 810
+Score: 11.5
 
 ### xjtulyc/MedgeClaw
 
@@ -66,8 +66,8 @@ Score: 8.71
 
 ### chemosim-lab/ProLIF
 
-⭐ Stars: 533
-Score: 10.33
+⭐ Stars: 534
+Score: 10.34
 
 ### oddt/oddt
 
@@ -84,15 +84,15 @@ Score: 10.72
 ⭐ Stars: 418
 Score: 6.98
 
+### aurekaresearch/OpenDDE
+
+⭐ Stars: 417
+Score: 6.67
+
 ### MinkaiXu/GeoDiff
 
 ⭐ Stars: 417
 Score: 8.47
-
-### aurekaresearch/OpenDDE
-
-⭐ Stars: 416
-Score: 6.66
 
 ### maabuu/posebusters
 
@@ -111,68 +111,80 @@ Score: 4.11
 
 ## ai4s-research/awesome-ai-for-science
 
-今日增长: +3
-当前Stars: 1880
+今日增长: +4
+当前Stars: 1884
 
 
 ## LeonChaoX/qinyan-academic-skills
 
 今日增长: +2
-当前Stars: 808
+当前Stars: 810
+
+
+## NVIDIA-BioNeMo/bionemo-recipes
+
+今日增长: +1
+当前Stars: 845
 
 
 ## aurekaresearch/OpenDDE
 
-今日增长: +2
-当前Stars: 416
+今日增长: +1
+当前Stars: 417
+
+
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +1
+当前Stars: 338
+
+
+## MolecularAI/REINVENT4
+
+今日增长: +1
+当前Stars: 839
 
 
 ## NVIDIA/nvalchemi-toolkit
 
-今日增长: +2
-当前Stars: 140
+今日增长: +1
+当前Stars: 141
 
 
 ## rdkit/rdkit
 
-今日增长: +2
-当前Stars: 3560
+今日增长: +1
+当前Stars: 3561
 
 
-## hesther/espsim
-
-今日增长: +2
-当前Stars: 238
-
-
-## deepchem/deepchem
+## chemosim-lab/ProLIF
 
 今日增长: +1
-当前Stars: 6944
+当前Stars: 534
 
 
-## DeepGraphLearning/torchdrug
-
-今日增长: +1
-当前Stars: 1586
-
-
-## Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery
+## rdkit/rdkit-js
 
 今日增长: +1
-当前Stars: 212
+当前Stars: 247
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 33753
+当前Stars: 33839
 
 
-## NVIDIA-BioNeMo/bionemo-recipes
+## deepchem/deepchem
 
 今日增长: +0
-当前Stars: 844
+当前Stars: 6944
+
+
+## DeepGraphLearning/torchdrug
+
+今日增长: +0
+当前Stars: 1586
 
 
 ## xjtulyc/MedgeClaw
@@ -205,12 +217,6 @@ Score: 4.11
 当前Stars: 329
 
 
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +0
-当前Stars: 337
-
-
 ## AstraZeneca/awesome-drug-discovery-knowledge-graphs
 
 今日增长: +0
@@ -221,12 +227,6 @@ Score: 4.11
 
 今日增长: +0
 当前Stars: 266
-
-
-## benb111/awesome-small-molecule-ml
-
-今日增长: +0
-当前Stars: 242
 
 
 
@@ -243,6 +243,16 @@ Score: 4.11
 总 Stars: 32464
 语言: Swift
 https://github.com/permissionlesstech/bitchat
+
+
+## harry0703/MoneyPrinterTurbo
+
+📝 中文简介: 使用 Python 开发；主要方向：ai-video-generator、content-creation、ffmpeg、instagram-reels、大语言模型、Python、short-video、subtitles、text-to-speech、tiktok、video-automation、video-workflow、workflow-automation、youtube-shorts。
+📄 英文原文: 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+⭐ 当日新增: +2304
+总 Stars: 108695
+语言: Python
+https://github.com/harry0703/MoneyPrinterTurbo
 
 
 ## zhaoxuya520/reverse-skill
@@ -285,16 +295,6 @@ https://github.com/block/buzz
 https://github.com/cathrynlavery/diagram-design
 
 
-## public-apis/public-apis
-
-📝 中文简介: 使用 Python 开发；主要方向：API、apis、dataset、development、free、list、lists、开源、public、public-api、public-apis、resources、software。
-📄 英文原文: A collective list of free APIs
-⭐ 当日新增: +1588
-总 Stars: 461891
-语言: Python
-https://github.com/public-apis/public-apis
-
-
 ## virgiliojr94/book-to-skill
 
 📝 中文简介: 使用 Python 开发。
@@ -335,16 +335,6 @@ https://github.com/stablyai/orca
 https://github.com/firecrawl/pdf-inspector
 
 
-## harry0703/MoneyPrinterTurbo
-
-📝 中文简介: 使用 Python 开发；主要方向：ai-video-generator、content-creation、ffmpeg、instagram-reels、大语言模型、Python、short-video、subtitles、text-to-speech、tiktok、video-automation、video-workflow、workflow-automation、youtube-shorts。
-📄 英文原文: 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
-⭐ 当日新增: +1189
-总 Stars: 106234
-语言: Python
-https://github.com/harry0703/MoneyPrinterTurbo
-
-
 ## semantica-agi/semantica
 
 📝 中文简介: 使用 Python 开发；主要方向：agent-memory、ai、ai-governance、ai-infrastructure、人工智能、context-engineering、context-graphs、data-engineering、decision-intelligence、developer-tools、explainable-ai、生成式 AI、graph-rag、knowledge-graph、大语言模型、ontology、provenance、Python、reasoning、semantic-search。
@@ -383,6 +373,16 @@ https://github.com/TencentCloud/TencentDB-Agent-Memory
 总 Stars: 65881
 语言: Python
 https://github.com/Panniantong/Agent-Reach
+
+
+## public-apis/public-apis
+
+📝 中文简介: 使用 Python 开发；主要方向：API、apis、dataset、development、free、list、lists、开源、public、public-api、public-apis、resources、software。
+📄 英文原文: A collective list of free APIs
+⭐ 当日新增: +1005
+总 Stars: 464657
+语言: Python
+https://github.com/public-apis/public-apis
 
 
 ## bradautomates/claude-video
