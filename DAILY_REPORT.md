@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 33839
-Score: 553.44
+⭐ Stars: 33924
+Score: 554.59
 
 ### deepchem/deepchem
 
-⭐ Stars: 6944
-Score: 233.79
+⭐ Stars: 6942
+Score: 233.77
 
 ### rdkit/rdkit
 
-⭐ Stars: 3561
-Score: 87.66
+⭐ Stars: 3562
+Score: 87.62
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1884
-Score: 29.94
+⭐ Stars: 1886
+Score: 29.96
 
 ### DeepGraphLearning/torchdrug
 
@@ -31,28 +31,28 @@ Score: 26.91
 
 ### molecularsets/moses
 
-⭐ Stars: 988
-Score: 23.83
+⭐ Stars: 987
+Score: 23.82
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
-⭐ Stars: 845
-Score: 17.3
+⭐ Stars: 846
+Score: 17.31
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 839
-Score: 19.84
+⭐ Stars: 840
+Score: 19.85
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 810
-Score: 11.5
+⭐ Stars: 813
+Score: 11.53
 
 ### xjtulyc/MedgeClaw
 
 ⭐ Stars: 640
-Score: 13.8
+Score: 13.85
 
 ### wengong-jin/icml18-jtnn
 
@@ -92,12 +92,12 @@ Score: 6.67
 ### MinkaiXu/GeoDiff
 
 ⭐ Stars: 417
-Score: 8.47
+Score: 8.42
 
 ### maabuu/posebusters
 
-⭐ Stars: 399
-Score: 5.34
+⭐ Stars: 400
+Score: 5.35
 
 ### qinheming/BIoClaw
 
@@ -109,76 +109,64 @@ Score: 4.11
 # 🚀 Star快速增长榜
 
 
-## ai4s-research/awesome-ai-for-science
-
-今日增长: +4
-当前Stars: 1884
-
-
 ## LeonChaoX/qinyan-academic-skills
 
+今日增长: +3
+当前Stars: 813
+
+
+## ai4s-research/awesome-ai-for-science
+
 今日增长: +2
-当前Stars: 810
+当前Stars: 1886
+
+
+## amorehead/awesome-molecular-generation
+
+今日增长: +2
+当前Stars: 346
 
 
 ## NVIDIA-BioNeMo/bionemo-recipes
 
 今日增长: +1
-当前Stars: 845
+当前Stars: 846
 
 
-## aurekaresearch/OpenDDE
-
-今日增长: +1
-当前Stars: 417
-
-
-## jaechang-hits/SciAgent-Skills
+## dockstring/dockstring
 
 今日增长: +1
-当前Stars: 338
+当前Stars: 188
 
 
 ## MolecularAI/REINVENT4
 
 今日增长: +1
-当前Stars: 839
-
-
-## NVIDIA/nvalchemi-toolkit
-
-今日增长: +1
-当前Stars: 141
+当前Stars: 840
 
 
 ## rdkit/rdkit
 
 今日增长: +1
-当前Stars: 3561
+当前Stars: 3562
 
 
-## chemosim-lab/ProLIF
-
-今日增长: +1
-当前Stars: 534
-
-
-## rdkit/rdkit-js
+## maabuu/posebusters
 
 今日增长: +1
-当前Stars: 247
+当前Stars: 400
+
+
+## rdkit/rdkit-tutorials
+
+今日增长: +1
+当前Stars: 313
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 33839
-
-
-## deepchem/deepchem
-
-今日增长: +0
-当前Stars: 6944
+当前Stars: 33924
 
 
 ## DeepGraphLearning/torchdrug
@@ -199,6 +187,12 @@ Score: 4.11
 当前Stars: 470
 
 
+## aurekaresearch/OpenDDE
+
+今日增长: +0
+当前Stars: 417
+
+
 ## DSPsleeporg/smiles-transformer
 
 今日增长: +0
@@ -215,6 +209,12 @@ Score: 4.11
 
 今日增长: +0
 当前Stars: 329
+
+
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +0
+当前Stars: 338
 
 
 ## AstraZeneca/awesome-drug-discovery-knowledge-graphs
@@ -245,16 +245,6 @@ Score: 4.11
 https://github.com/permissionlesstech/bitchat
 
 
-## harry0703/MoneyPrinterTurbo
-
-📝 中文简介: 使用 Python 开发；主要方向：ai-video-generator、content-creation、ffmpeg、instagram-reels、大语言模型、Python、short-video、subtitles、text-to-speech、tiktok、video-automation、video-workflow、workflow-automation、youtube-shorts。
-📄 英文原文: 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
-⭐ 当日新增: +2304
-总 Stars: 108695
-语言: Python
-https://github.com/harry0703/MoneyPrinterTurbo
-
-
 ## zhaoxuya520/reverse-skill
 
 📝 中文简介: 使用 PowerShell 开发。
@@ -265,6 +255,16 @@ https://github.com/harry0703/MoneyPrinterTurbo
 https://github.com/zhaoxuya520/reverse-skill
 
 
+## harry0703/MoneyPrinterTurbo
+
+📝 中文简介: 使用 Python 开发；主要方向：ai-video-generator、content-creation、ffmpeg、instagram-reels、大语言模型、Python、short-video、subtitles、text-to-speech、tiktok、video-automation、video-workflow、workflow-automation、youtube-shorts。
+📄 英文原文: 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+⭐ 当日新增: +2221
+总 Stars: 110900
+语言: Python
+https://github.com/harry0703/MoneyPrinterTurbo
+
+
 ## microsoft/AI-For-Beginners
 
 📝 中文简介: 使用 Jupyter  notebooks（数据科学） 开发；主要方向：ai、人工智能、cnn、计算机视觉、深度学习、gan、机器学习、microsoft-for-beginners、nlp、rnn。
@@ -273,6 +273,16 @@ https://github.com/zhaoxuya520/reverse-skill
 总 Stars: 60990
 语言: Jupyter Notebook
 https://github.com/microsoft/AI-For-Beginners
+
+
+## mattpocock/skills
+
+📝 中文简介: 使用 Shell 脚本 开发。
+📄 英文原文: Skills for Real Engineers. Straight from my .agents directory.
+⭐ 当日新增: +1894
+总 Stars: 223923
+语言: Shell
+https://github.com/mattpocock/skills
 
 
 ## block/buzz
@@ -305,14 +315,14 @@ https://github.com/cathrynlavery/diagram-design
 https://github.com/virgiliojr94/book-to-skill
 
 
-## mattpocock/skills
+## amadeusprotocol/node
 
-📝 中文简介: 使用 Shell 脚本 开发。
-📄 英文原文: Skills for Real Engineers. Straight from my .agents directory.
-⭐ 当日新增: +1359
-总 Stars: 210129
-语言: Shell
-https://github.com/mattpocock/skills
+📝 中文简介: 使用 Rust 开发。
+📄 英文原文: —
+⭐ 当日新增: +1397
+总 Stars: 4584
+语言: Rust
+https://github.com/amadeusprotocol/node
 
 
 ## stablyai/orca
@@ -423,14 +433,4 @@ https://github.com/Comfy-Org/ComfyUI
 总 Stars: 129224
 语言: Python
 https://github.com/github/spec-kit
-
-
-## CoreBunch/Instatic
-
-📝 中文简介: 使用 TypeScript 开发；主要方向：cms、css、css-framework、page-builder、static、website。
-📄 英文原文: The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.
-⭐ 当日新增: +888
-总 Stars: 5792
-语言: TypeScript
-https://github.com/CoreBunch/Instatic
 
