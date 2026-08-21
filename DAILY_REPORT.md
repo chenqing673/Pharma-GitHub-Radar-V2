@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 33924
-Score: 554.59
+⭐ Stars: 34012
+Score: 555.47
 
 ### deepchem/deepchem
 
-⭐ Stars: 6942
-Score: 233.77
+⭐ Stars: 6945
+Score: 233.85
 
 ### rdkit/rdkit
 
-⭐ Stars: 3562
-Score: 87.62
+⭐ Stars: 3561
+Score: 87.61
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1886
-Score: 29.96
+⭐ Stars: 1889
+Score: 30.04
 
 ### DeepGraphLearning/torchdrug
 
@@ -31,8 +31,8 @@ Score: 26.91
 
 ### molecularsets/moses
 
-⭐ Stars: 987
-Score: 23.82
+⭐ Stars: 986
+Score: 23.81
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
@@ -41,13 +41,13 @@ Score: 17.31
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 840
-Score: 19.85
+⭐ Stars: 841
+Score: 19.91
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 813
-Score: 11.53
+⭐ Stars: 814
+Score: 11.54
 
 ### xjtulyc/MedgeClaw
 
@@ -61,13 +61,13 @@ Score: 15.44
 
 ### datamol-io/datamol
 
-⭐ Stars: 546
-Score: 8.71
+⭐ Stars: 545
+Score: 8.7
 
 ### chemosim-lab/ProLIF
 
 ⭐ Stars: 534
-Score: 10.34
+Score: 10.29
 
 ### oddt/oddt
 
@@ -81,8 +81,8 @@ Score: 10.72
 
 ### kjappelbaum/awesome-chemistry-datasets
 
-⭐ Stars: 418
-Score: 6.98
+⭐ Stars: 419
+Score: 6.99
 
 ### aurekaresearch/OpenDDE
 
@@ -109,70 +109,70 @@ Score: 4.11
 # 🚀 Star快速增长榜
 
 
-## LeonChaoX/qinyan-academic-skills
+## deepchem/deepchem
 
 今日增长: +3
-当前Stars: 813
+当前Stars: 6945
 
 
 ## ai4s-research/awesome-ai-for-science
 
-今日增长: +2
-当前Stars: 1886
+今日增长: +3
+当前Stars: 1889
 
 
-## amorehead/awesome-molecular-generation
-
-今日增长: +2
-当前Stars: 346
-
-
-## NVIDIA-BioNeMo/bionemo-recipes
+## LeonChaoX/qinyan-academic-skills
 
 今日增长: +1
-当前Stars: 846
+当前Stars: 814
 
 
-## dockstring/dockstring
+## jaechang-hits/SciAgent-Skills
 
 今日增长: +1
-当前Stars: 188
+当前Stars: 339
 
 
 ## MolecularAI/REINVENT4
 
 今日增长: +1
-当前Stars: 840
+当前Stars: 841
 
 
-## rdkit/rdkit
-
-今日增长: +1
-当前Stars: 3562
-
-
-## maabuu/posebusters
+## kjappelbaum/awesome-chemistry-datasets
 
 今日增长: +1
-当前Stars: 400
+当前Stars: 419
 
 
-## rdkit/rdkit-tutorials
+## NVIDIA/nvalchemi-toolkit
 
 今日增长: +1
-当前Stars: 313
+当前Stars: 142
+
+
+## RadonPy/RadonPy
+
+今日增长: +1
+当前Stars: 275
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 33924
+当前Stars: 34012
 
 
 ## DeepGraphLearning/torchdrug
 
 今日增长: +0
 当前Stars: 1586
+
+
+## NVIDIA-BioNeMo/bionemo-recipes
+
+今日增长: +0
+当前Stars: 846
 
 
 ## xjtulyc/MedgeClaw
@@ -199,22 +199,10 @@ Score: 4.11
 当前Stars: 358
 
 
-## dengjianyuan/Survey_AI_Drug_Discovery
-
-今日增长: +0
-当前Stars: 341
-
-
 ## DeepWism/DeepWism-miRNA
 
 今日增长: +0
 当前Stars: 329
-
-
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +0
-当前Stars: 338
 
 
 ## AstraZeneca/awesome-drug-discovery-knowledge-graphs
@@ -229,10 +217,32 @@ Score: 4.11
 当前Stars: 266
 
 
+## benb111/awesome-small-molecule-ml
+
+今日增长: +0
+当前Stars: 242
+
+
+## mattragoza/LiGAN
+
+今日增长: +0
+当前Stars: 238
+
+
 
 # 🔥 GitHub 真实热门榜（24h）
 
 > 数据来自 github.com/trending（GitHub 官方按 star 增速排名），与上方关键词搜索的「Star 排行榜」不同，反映全站近期真正快速增长的仓库。
+
+
+## harry0703/MoneyPrinterTurbo
+
+📝 中文简介: 使用 Python 开发；主要方向：ai-video-generator、content-creation、ffmpeg、instagram-reels、大语言模型、Python、short-video、subtitles、text-to-speech、tiktok、video-automation、video-workflow、workflow-automation、youtube-shorts。
+📄 英文原文: 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+⭐ 当日新增: +2761
+总 Stars: 113036
+语言: Python
+https://github.com/harry0703/MoneyPrinterTurbo
 
 
 ## permissionlesstech/bitchat
@@ -255,14 +265,14 @@ https://github.com/permissionlesstech/bitchat
 https://github.com/zhaoxuya520/reverse-skill
 
 
-## harry0703/MoneyPrinterTurbo
+## mattpocock/skills
 
-📝 中文简介: 使用 Python 开发；主要方向：ai-video-generator、content-creation、ffmpeg、instagram-reels、大语言模型、Python、short-video、subtitles、text-to-speech、tiktok、video-automation、video-workflow、workflow-automation、youtube-shorts。
-📄 英文原文: 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
-⭐ 当日新增: +2221
-总 Stars: 110900
-语言: Python
-https://github.com/harry0703/MoneyPrinterTurbo
+📝 中文简介: 使用 Shell 脚本 开发。
+📄 英文原文: Skills for Real Engineers. Straight from my .agents directory.
+⭐ 当日新增: +2192
+总 Stars: 226730
+语言: Shell
+https://github.com/mattpocock/skills
 
 
 ## microsoft/AI-For-Beginners
@@ -273,16 +283,6 @@ https://github.com/harry0703/MoneyPrinterTurbo
 总 Stars: 60990
 语言: Jupyter Notebook
 https://github.com/microsoft/AI-For-Beginners
-
-
-## mattpocock/skills
-
-📝 中文简介: 使用 Shell 脚本 开发。
-📄 英文原文: Skills for Real Engineers. Straight from my .agents directory.
-⭐ 当日新增: +1894
-总 Stars: 223923
-语言: Shell
-https://github.com/mattpocock/skills
 
 
 ## block/buzz
@@ -303,6 +303,16 @@ https://github.com/block/buzz
 总 Stars: 18678
 语言: HTML
 https://github.com/cathrynlavery/diagram-design
+
+
+## AprilNEA/OpenLogi
+
+📝 中文简介: 使用 Rust 开发；主要方向：dpi、gpui、hid、hidpp、local-first、logitech、logitech-mouse、logitech-options、mouse-remapping、mx-master、privacy、Rust、smartshift。
+📄 英文原文: ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
+⭐ 当日新增: +1545
+总 Stars: 11968
+语言: Rust
+https://github.com/AprilNEA/OpenLogi
 
 
 ## virgiliojr94/book-to-skill
@@ -415,22 +425,12 @@ https://github.com/bradautomates/claude-video
 https://github.com/cordiverse/cordis
 
 
-## Comfy-Org/ComfyUI
+## volcengine/OpenViking
 
-📝 中文简介: 使用 Python 开发；主要方向：ai、comfy、comfyui、Python、PyTorch、stable-diffusion。
-📄 英文原文: The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-⭐ 当日新增: +922
-总 Stars: 126401
+📝 中文简介: 使用 Python 开发；主要方向：agent-memory、agent-plugins、agentic-rag、context-database、dsh-plugin、self-evolving。
+📄 英文原文: Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
+⭐ 当日新增: +950
+总 Stars: 31068
 语言: Python
-https://github.com/Comfy-Org/ComfyUI
-
-
-## github/spec-kit
-
-📝 中文简介: 使用 Python 开发；主要方向：ai、copilot、development、engineering、prd、spec、spec-driven。
-📄 英文原文: 💫 Toolkit to help you get started with Spec-Driven Development
-⭐ 当日新增: +892
-总 Stars: 129224
-语言: Python
-https://github.com/github/spec-kit
+https://github.com/volcengine/OpenViking
 
