@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 34012
-Score: 555.47
+⭐ Stars: 34080
+Score: 556.5
 
 ### deepchem/deepchem
 
-⭐ Stars: 6945
-Score: 233.85
+⭐ Stars: 6950
+Score: 233.95
 
 ### rdkit/rdkit
 
-⭐ Stars: 3561
-Score: 87.61
+⭐ Stars: 3560
+Score: 87.6
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1889
-Score: 30.04
+⭐ Stars: 1893
+Score: 30.08
 
 ### DeepGraphLearning/torchdrug
 
@@ -77,7 +77,7 @@ Score: 11.1
 ### wengong-jin/hgraph2graph
 
 ⭐ Stars: 442
-Score: 10.72
+Score: 10.67
 
 ### kjappelbaum/awesome-chemistry-datasets
 
@@ -86,8 +86,8 @@ Score: 6.99
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 417
-Score: 6.67
+⭐ Stars: 418
+Score: 6.73
 
 ### MinkaiXu/GeoDiff
 
@@ -111,56 +111,50 @@ Score: 4.11
 
 ## deepchem/deepchem
 
-今日增长: +3
-当前Stars: 6945
+今日增长: +5
+当前Stars: 6950
 
 
 ## ai4s-research/awesome-ai-for-science
 
+今日增长: +4
+当前Stars: 1893
+
+
+## NVIDIA/nvalchemi-toolkit
+
 今日增长: +3
-当前Stars: 1889
+当前Stars: 145
 
 
-## LeonChaoX/qinyan-academic-skills
+## aurekaresearch/OpenDDE
 
 今日增长: +1
-当前Stars: 814
+当前Stars: 418
 
 
 ## jaechang-hits/SciAgent-Skills
 
 今日增长: +1
-当前Stars: 339
+当前Stars: 340
 
 
-## MolecularAI/REINVENT4
-
-今日增长: +1
-当前Stars: 841
-
-
-## kjappelbaum/awesome-chemistry-datasets
+## MolecularAI/PaRoutes
 
 今日增长: +1
-当前Stars: 419
+当前Stars: 92
 
 
-## NVIDIA/nvalchemi-toolkit
-
-今日增长: +1
-当前Stars: 142
-
-
-## RadonPy/RadonPy
+## kheyer/Retrosynthesis-Prediction
 
 今日增长: +1
-当前Stars: 275
+当前Stars: 68
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 34012
+当前Stars: 34080
 
 
 ## DeepGraphLearning/torchdrug
@@ -175,6 +169,12 @@ Score: 4.11
 当前Stars: 846
 
 
+## LeonChaoX/qinyan-academic-skills
+
+今日增长: +0
+当前Stars: 814
+
+
 ## xjtulyc/MedgeClaw
 
 今日增长: +0
@@ -187,16 +187,16 @@ Score: 4.11
 当前Stars: 470
 
 
-## aurekaresearch/OpenDDE
-
-今日增长: +0
-当前Stars: 417
-
-
 ## DSPsleeporg/smiles-transformer
 
 今日增长: +0
 当前Stars: 358
+
+
+## dengjianyuan/Survey_AI_Drug_Discovery
+
+今日增长: +0
+当前Stars: 340
 
 
 ## DeepWism/DeepWism-miRNA
@@ -235,14 +235,14 @@ Score: 4.11
 > 数据来自 github.com/trending（GitHub 官方按 star 增速排名），与上方关键词搜索的「Star 排行榜」不同，反映全站近期真正快速增长的仓库。
 
 
-## harry0703/MoneyPrinterTurbo
+## mattpocock/skills
 
-📝 中文简介: 使用 Python 开发；主要方向：ai-video-generator、content-creation、ffmpeg、instagram-reels、大语言模型、Python、short-video、subtitles、text-to-speech、tiktok、video-automation、video-workflow、workflow-automation、youtube-shorts。
-📄 英文原文: 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
-⭐ 当日新增: +2761
-总 Stars: 113036
-语言: Python
-https://github.com/harry0703/MoneyPrinterTurbo
+📝 中文简介: 使用 Shell 脚本 开发。
+📄 英文原文: Skills for Real Engineers. Straight from my .agents directory.
+⭐ 当日新增: +3362
+总 Stars: 229630
+语言: Shell
+https://github.com/mattpocock/skills
 
 
 ## permissionlesstech/bitchat
@@ -263,16 +263,6 @@ https://github.com/permissionlesstech/bitchat
 总 Stars: 18181
 语言: PowerShell
 https://github.com/zhaoxuya520/reverse-skill
-
-
-## mattpocock/skills
-
-📝 中文简介: 使用 Shell 脚本 开发。
-📄 英文原文: Skills for Real Engineers. Straight from my .agents directory.
-⭐ 当日新增: +2192
-总 Stars: 226730
-语言: Shell
-https://github.com/mattpocock/skills
 
 
 ## microsoft/AI-For-Beginners
@@ -305,16 +295,6 @@ https://github.com/block/buzz
 https://github.com/cathrynlavery/diagram-design
 
 
-## AprilNEA/OpenLogi
-
-📝 中文简介: 使用 Rust 开发；主要方向：dpi、gpui、hid、hidpp、local-first、logitech、logitech-mouse、logitech-options、mouse-remapping、mx-master、privacy、Rust、smartshift。
-📄 英文原文: ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
-⭐ 当日新增: +1545
-总 Stars: 11968
-语言: Rust
-https://github.com/AprilNEA/OpenLogi
-
-
 ## virgiliojr94/book-to-skill
 
 📝 中文简介: 使用 Python 开发。
@@ -335,6 +315,16 @@ https://github.com/virgiliojr94/book-to-skill
 https://github.com/amadeusprotocol/node
 
 
+## AprilNEA/OpenLogi
+
+📝 中文简介: 使用 Rust 开发；主要方向：dpi、gpui、hid、hidpp、local-first、logitech、logitech-mouse、logitech-options、mouse-remapping、mx-master、privacy、Rust、smartshift。
+📄 英文原文: ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
+⭐ 当日新增: +1380
+总 Stars: 12989
+语言: Rust
+https://github.com/AprilNEA/OpenLogi
+
+
 ## stablyai/orca
 
 📝 中文简介: 使用 TypeScript 开发；主要方向：ade、agent-ide、ai-agents、claude-code、命令行工具、codex、cursor-agent、devtools、ghostty、ide、mobile-app、opencode、orchestration、parallel-agents、pi、terminal、worktrees、yc-backed。
@@ -343,6 +333,16 @@ https://github.com/amadeusprotocol/node
 总 Stars: 44059
 语言: TypeScript
 https://github.com/stablyai/orca
+
+
+## harry0703/MoneyPrinterTurbo
+
+📝 中文简介: 使用 Python 开发；主要方向：ai-video-generator、content-creation、ffmpeg、instagram-reels、大语言模型、Python、short-video、subtitles、text-to-speech、tiktok、video-automation、video-workflow、workflow-automation、youtube-shorts。
+📄 英文原文: 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+⭐ 当日新增: +1201
+总 Stars: 113974
+语言: Python
+https://github.com/harry0703/MoneyPrinterTurbo
 
 
 ## firecrawl/pdf-inspector
@@ -395,6 +395,16 @@ https://github.com/TencentCloud/TencentDB-Agent-Memory
 https://github.com/Panniantong/Agent-Reach
 
 
+## mahlernim/google-timeline-visualizer
+
+📝 中文简介: 使用 Kotlin 开发。
+📄 英文原文: Visualize your year in travel using your Google Location History (Timeline) data
+⭐ 当日新增: +1053
+总 Stars: 2248
+语言: Kotlin
+https://github.com/mahlernim/google-timeline-visualizer
+
+
 ## public-apis/public-apis
 
 📝 中文简介: 使用 Python 开发；主要方向：API、apis、dataset、development、free、list、lists、开源、public、public-api、public-apis、resources、software。
@@ -423,14 +433,4 @@ https://github.com/bradautomates/claude-video
 总 Stars: 5650
 语言: TypeScript
 https://github.com/cordiverse/cordis
-
-
-## volcengine/OpenViking
-
-📝 中文简介: 使用 Python 开发；主要方向：agent-memory、agent-plugins、agentic-rag、context-database、dsh-plugin、self-evolving。
-📄 英文原文: Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-⭐ 当日新增: +950
-总 Stars: 31068
-语言: Python
-https://github.com/volcengine/OpenViking
 
