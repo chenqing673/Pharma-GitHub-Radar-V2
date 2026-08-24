@@ -6,33 +6,33 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 34134
-Score: 557.09
+⭐ Stars: 34189
+Score: 557.74
 
 ### deepchem/deepchem
 
-⭐ Stars: 6950
-Score: 234.0
+⭐ Stars: 6955
+Score: 234.1
 
 ### rdkit/rdkit
 
-⭐ Stars: 3561
-Score: 87.66
+⭐ Stars: 3562
+Score: 87.67
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1896
-Score: 30.11
+⭐ Stars: 1897
+Score: 30.12
 
 ### DeepGraphLearning/torchdrug
 
-⭐ Stars: 1586
-Score: 26.91
+⭐ Stars: 1587
+Score: 26.92
 
 ### molecularsets/moses
 
-⭐ Stars: 986
-Score: 23.81
+⭐ Stars: 987
+Score: 23.82
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
@@ -41,23 +41,23 @@ Score: 17.32
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 842
-Score: 19.92
+⭐ Stars: 843
+Score: 19.93
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 818
-Score: 11.58
+⭐ Stars: 821
+Score: 11.66
 
 ### xjtulyc/MedgeClaw
 
-⭐ Stars: 640
-Score: 13.85
+⭐ Stars: 641
+Score: 13.86
 
 ### wengong-jin/icml18-jtnn
 
-⭐ Stars: 564
-Score: 15.44
+⭐ Stars: 565
+Score: 15.45
 
 ### datamol-io/datamol
 
@@ -79,15 +79,15 @@ Score: 11.1
 ⭐ Stars: 442
 Score: 10.67
 
-### kjappelbaum/awesome-chemistry-datasets
-
-⭐ Stars: 419
-Score: 6.99
-
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 418
-Score: 6.73
+⭐ Stars: 420
+Score: 6.75
+
+### kjappelbaum/awesome-chemistry-datasets
+
+⭐ Stars: 420
+Score: 7.05
 
 ### MinkaiXu/GeoDiff
 
@@ -109,124 +109,124 @@ Score: 4.11
 # 🚀 Star快速增长榜
 
 
+## deepchem/deepchem
+
+今日增长: +5
+当前Stars: 6955
+
+
 ## LeonChaoX/qinyan-academic-skills
 
-今日增长: +4
-当前Stars: 818
+今日增长: +3
+当前Stars: 821
+
+
+## aurekaresearch/OpenDDE
+
+今日增长: +2
+当前Stars: 420
+
+
+## DeepGraphLearning/torchdrug
+
+今日增长: +1
+当前Stars: 1587
+
+
+## xjtulyc/MedgeClaw
+
+今日增长: +1
+当前Stars: 641
+
+
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +1
+当前Stars: 341
 
 
 ## ai4s-research/awesome-ai-for-science
 
-今日增长: +3
-当前Stars: 1896
-
-
-## NVIDIA-BioNeMo/bionemo-recipes
-
 今日增长: +1
-当前Stars: 847
-
-
-## Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery
-
-今日增长: +1
-当前Stars: 213
+当前Stars: 1897
 
 
 ## MolecularAI/REINVENT4
 
 今日增长: +1
-当前Stars: 842
+当前Stars: 843
 
 
-## NVIDIA/nvalchemi-toolkit
+## kjappelbaum/awesome-chemistry-datasets
 
 今日增长: +1
-当前Stars: 146
+当前Stars: 420
+
+
+## schwallergroup/ai4chem_course
+
+今日增长: +1
+当前Stars: 289
+
+
+## kjappelbaum/gptchem
+
+今日增长: +1
+当前Stars: 260
+
+
+## OSU-NLP-Group/ChemMCP
+
+今日增长: +1
+当前Stars: 71
 
 
 ## rdkit/rdkit
 
 今日增长: +1
-当前Stars: 3561
+当前Stars: 3562
 
 
-## thomas0809/MolScribe
+## rdkit/rdkit-js
 
 今日增长: +1
-当前Stars: 329
+当前Stars: 247
+
+
+## molecularsets/moses
+
+今日增长: +1
+当前Stars: 987
+
+
+## wengong-jin/icml18-jtnn
+
+今日增长: +1
+当前Stars: 565
+
+
+## NVIDIA-BioNeMo/nvMolKit
+
+今日增长: +1
+当前Stars: 272
+
+
+## NVIDIA-BioNeMo/genmol
+
+今日增长: +1
+当前Stars: 198
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 34134
+当前Stars: 34189
 
 
-## deepchem/deepchem
-
-今日增长: +0
-当前Stars: 6950
-
-
-## DeepGraphLearning/torchdrug
+## NVIDIA-BioNeMo/bionemo-recipes
 
 今日增长: +0
-当前Stars: 1586
-
-
-## xjtulyc/MedgeClaw
-
-今日增长: +0
-当前Stars: 640
-
-
-## oddt/oddt
-
-今日增长: +0
-当前Stars: 470
-
-
-## aurekaresearch/OpenDDE
-
-今日增长: +0
-当前Stars: 418
-
-
-## DSPsleeporg/smiles-transformer
-
-今日增长: +0
-当前Stars: 358
-
-
-## dengjianyuan/Survey_AI_Drug_Discovery
-
-今日增长: +0
-当前Stars: 340
-
-
-## DeepWism/DeepWism-miRNA
-
-今日增长: +0
-当前Stars: 329
-
-
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +0
-当前Stars: 340
-
-
-## AstraZeneca/awesome-drug-discovery-knowledge-graphs
-
-今日增长: +0
-当前Stars: 266
-
-
-## PatWalters/resources_2025
-
-今日增长: +0
-当前Stars: 266
+当前Stars: 847
 
 
 
@@ -235,12 +235,22 @@ Score: 4.11
 > 数据来自 github.com/trending（GitHub 官方按 star 增速排名），与上方关键词搜索的「Star 排行榜」不同，反映全站近期真正快速增长的仓库。
 
 
+## openai/codex
+
+📝 中文简介: 使用 Rust 开发。
+📄 英文原文: Lightweight coding agent that runs in your terminal
+⭐ 当日新增: +2715
+总 Stars: 115445
+语言: Rust
+https://github.com/openai/codex
+
+
 ## mattpocock/skills
 
 📝 中文简介: 使用 Shell 脚本 开发。
 📄 英文原文: Skills for Real Engineers. Straight from my .agents directory.
-⭐ 当日新增: +2683
-总 Stars: 232184
+⭐ 当日新增: +2447
+总 Stars: 233970
 语言: Shell
 https://github.com/mattpocock/skills
 
@@ -275,16 +285,6 @@ https://github.com/zhaoxuya520/reverse-skill
 https://github.com/microsoft/AI-For-Beginners
 
 
-## block/buzz
-
-📝 中文简介: 使用 Rust 开发。
-📄 英文原文: A hive mind communication platform
-⭐ 当日新增: +1710
-总 Stars: 13553
-语言: Rust
-https://github.com/block/buzz
-
-
 ## cathrynlavery/diagram-design
 
 📝 中文简介: 使用 HTML 开发。
@@ -293,26 +293,6 @@ https://github.com/block/buzz
 总 Stars: 18678
 语言: HTML
 https://github.com/cathrynlavery/diagram-design
-
-
-## openai/codex
-
-📝 中文简介: 使用 Rust 开发。
-📄 英文原文: Lightweight coding agent that runs in your terminal
-⭐ 当日新增: +1544
-总 Stars: 113550
-语言: Rust
-https://github.com/openai/codex
-
-
-## virgiliojr94/book-to-skill
-
-📝 中文简介: 使用 Python 开发。
-📄 英文原文: Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
-⭐ 当日新增: +1421
-总 Stars: 12978
-语言: Python
-https://github.com/virgiliojr94/book-to-skill
 
 
 ## amadeusprotocol/node
@@ -375,6 +355,16 @@ https://github.com/semantica-agi/semantica
 https://github.com/PrimeIntellect-ai/prime-agent
 
 
+## Alishahryar1/free-claude-code
+
+📝 中文简介: 使用 Python 开发。
+📄 英文原文: Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
+⭐ 当日新增: +1081
+总 Stars: 48027
+语言: Python
+https://github.com/Alishahryar1/free-claude-code
+
+
 ## TencentCloud/TencentDB-Agent-Memory
 
 📝 中文简介: 使用 TypeScript 开发；主要方向：智能体、ai-agent、embedding、大语言模型、local-first、long-term-memory、memory、openclaw-plugin、vector-search。
@@ -393,6 +383,16 @@ https://github.com/TencentCloud/TencentDB-Agent-Memory
 总 Stars: 65881
 语言: Python
 https://github.com/Panniantong/Agent-Reach
+
+
+## AprilNEA/OpenLogi
+
+📝 中文简介: 使用 Rust 开发；主要方向：dpi、gpui、hid、hidpp、local-first、logitech、logitech-mouse、logitech-options、mouse-remapping、mx-master、privacy、Rust、smartshift。
+📄 英文原文: ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
+⭐ 当日新增: +1009
+总 Stars: 15022
+语言: Rust
+https://github.com/AprilNEA/OpenLogi
 
 
 ## public-apis/public-apis
@@ -415,16 +415,6 @@ https://github.com/public-apis/public-apis
 https://github.com/bradautomates/claude-video
 
 
-## AprilNEA/OpenLogi
-
-📝 中文简介: 使用 Rust 开发；主要方向：dpi、gpui、hid、hidpp、local-first、logitech、logitech-mouse、logitech-options、mouse-remapping、mx-master、privacy、Rust、smartshift。
-📄 英文原文: ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
-⭐ 当日新增: +959
-总 Stars: 13992
-语言: Rust
-https://github.com/AprilNEA/OpenLogi
-
-
 ## cordiverse/cordis
 
 📝 中文简介: 使用 TypeScript 开发；主要方向：effect、框架、Node.js、插件。
@@ -433,4 +423,14 @@ https://github.com/AprilNEA/OpenLogi
 总 Stars: 5650
 语言: TypeScript
 https://github.com/cordiverse/cordis
+
+
+## volcengine/OpenViking
+
+📝 中文简介: 使用 Python 开发；主要方向：agent-memory、agent-plugins、agentic-rag、context-database、dsh-plugin、self-evolving。
+📄 英文原文: Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
+⭐ 当日新增: +950
+总 Stars: 31068
+语言: Python
+https://github.com/volcengine/OpenViking
 
