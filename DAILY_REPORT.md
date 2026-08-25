@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 34189
-Score: 557.74
+⭐ Stars: 34305
+Score: 559.4
 
 ### deepchem/deepchem
 
-⭐ Stars: 6955
-Score: 234.1
+⭐ Stars: 6959
+Score: 234.19
 
 ### rdkit/rdkit
 
 ⭐ Stars: 3562
-Score: 87.67
+Score: 87.72
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1897
-Score: 30.12
+⭐ Stars: 1905
+Score: 30.3
 
 ### DeepGraphLearning/torchdrug
 
@@ -41,13 +41,13 @@ Score: 17.32
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 843
-Score: 19.93
+⭐ Stars: 844
+Score: 19.94
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 821
-Score: 11.66
+⭐ Stars: 828
+Score: 11.73
 
 ### xjtulyc/MedgeClaw
 
@@ -67,7 +67,7 @@ Score: 8.7
 ### chemosim-lab/ProLIF
 
 ⭐ Stars: 534
-Score: 10.29
+Score: 10.34
 
 ### oddt/oddt
 
@@ -81,8 +81,8 @@ Score: 10.67
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 420
-Score: 6.75
+⭐ Stars: 423
+Score: 6.83
 
 ### kjappelbaum/awesome-chemistry-datasets
 
@@ -96,8 +96,8 @@ Score: 8.42
 
 ### maabuu/posebusters
 
-⭐ Stars: 400
-Score: 5.35
+⭐ Stars: 401
+Score: 5.36
 
 ### qinheming/BIoClaw
 
@@ -109,118 +109,88 @@ Score: 4.11
 # 🚀 Star快速增长榜
 
 
-## deepchem/deepchem
+## ai4s-research/awesome-ai-for-science
 
-今日增长: +5
-当前Stars: 6955
+今日增长: +8
+当前Stars: 1905
 
 
 ## LeonChaoX/qinyan-academic-skills
 
-今日增长: +3
-当前Stars: 821
+今日增长: +7
+当前Stars: 828
+
+
+## deepchem/deepchem
+
+今日增长: +4
+当前Stars: 6959
 
 
 ## aurekaresearch/OpenDDE
 
+今日增长: +3
+当前Stars: 423
+
+
+## argonne-lcf/ChemGraph
+
 今日增长: +2
-当前Stars: 420
+当前Stars: 148
 
 
-## DeepGraphLearning/torchdrug
+## NVIDIA/nvalchemi-toolkit
 
-今日增长: +1
-当前Stars: 1587
-
-
-## xjtulyc/MedgeClaw
-
-今日增长: +1
-当前Stars: 641
+今日增长: +2
+当前Stars: 148
 
 
 ## jaechang-hits/SciAgent-Skills
 
 今日增长: +1
-当前Stars: 341
-
-
-## ai4s-research/awesome-ai-for-science
-
-今日增长: +1
-当前Stars: 1897
+当前Stars: 342
 
 
 ## MolecularAI/REINVENT4
 
 今日增长: +1
-当前Stars: 843
-
-
-## kjappelbaum/awesome-chemistry-datasets
-
-今日增长: +1
-当前Stars: 420
-
-
-## schwallergroup/ai4chem_course
-
-今日增长: +1
-当前Stars: 289
+当前Stars: 844
 
 
 ## kjappelbaum/gptchem
 
 今日增长: +1
-当前Stars: 260
+当前Stars: 261
 
 
-## OSU-NLP-Group/ChemMCP
-
-今日增长: +1
-当前Stars: 71
-
-
-## rdkit/rdkit
+## maabuu/posebusters
 
 今日增长: +1
-当前Stars: 3562
+当前Stars: 401
 
 
-## rdkit/rdkit-js
-
-今日增长: +1
-当前Stars: 247
-
-
-## molecularsets/moses
+## thomas0809/MolScribe
 
 今日增长: +1
-当前Stars: 987
+当前Stars: 330
 
 
-## wengong-jin/icml18-jtnn
-
-今日增长: +1
-当前Stars: 565
-
-
-## NVIDIA-BioNeMo/nvMolKit
+## gmh14/data_efficient_grammar
 
 今日增长: +1
-当前Stars: 272
-
-
-## NVIDIA-BioNeMo/genmol
-
-今日增长: +1
-当前Stars: 198
+当前Stars: 101
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 34189
+当前Stars: 34305
+
+
+## DeepGraphLearning/torchdrug
+
+今日增长: +0
+当前Stars: 1587
 
 
 ## NVIDIA-BioNeMo/bionemo-recipes
@@ -229,20 +199,50 @@ Score: 4.11
 当前Stars: 847
 
 
+## xjtulyc/MedgeClaw
+
+今日增长: +0
+当前Stars: 641
+
+
+## oddt/oddt
+
+今日增长: +0
+当前Stars: 470
+
+
+## DSPsleeporg/smiles-transformer
+
+今日增长: +0
+当前Stars: 358
+
+
+## dengjianyuan/Survey_AI_Drug_Discovery
+
+今日增长: +0
+当前Stars: 339
+
+
+## DeepWism/DeepWism-miRNA
+
+今日增长: +0
+当前Stars: 329
+
+
 
 # 🔥 GitHub 真实热门榜（24h）
 
 > 数据来自 github.com/trending（GitHub 官方按 star 增速排名），与上方关键词搜索的「Star 排行榜」不同，反映全站近期真正快速增长的仓库。
 
 
-## openai/codex
+## freestylefly/awesome-gpt-image-2
 
-📝 中文简介: 使用 Rust 开发。
-📄 英文原文: Lightweight coding agent that runs in your terminal
-⭐ 当日新增: +2715
-总 Stars: 115445
-语言: Rust
-https://github.com/openai/codex
+📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：agents、ai-image-generation、chatgpt、dsh-plugin、gpt-image-2、image-prompts、prompt-as-code、prompt-engineering、skills、workflow-automation。
+📄 英文原文: Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+⭐ 当日新增: +2449
+总 Stars: 15672
+语言: JavaScript
+https://github.com/freestylefly/awesome-gpt-image-2
 
 
 ## mattpocock/skills
@@ -273,6 +273,16 @@ https://github.com/permissionlesstech/bitchat
 总 Stars: 18181
 语言: PowerShell
 https://github.com/zhaoxuya520/reverse-skill
+
+
+## openai/codex
+
+📝 中文简介: 使用 Rust 开发。
+📄 英文原文: Lightweight coding agent that runs in your terminal
+⭐ 当日新增: +1994
+总 Stars: 117168
+语言: Rust
+https://github.com/openai/codex
 
 
 ## microsoft/AI-For-Beginners
@@ -355,14 +365,14 @@ https://github.com/semantica-agi/semantica
 https://github.com/PrimeIntellect-ai/prime-agent
 
 
-## Alishahryar1/free-claude-code
+## AprilNEA/OpenLogi
 
-📝 中文简介: 使用 Python 开发。
-📄 英文原文: Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
-⭐ 当日新增: +1081
-总 Stars: 48027
-语言: Python
-https://github.com/Alishahryar1/free-claude-code
+📝 中文简介: 使用 Rust 开发；主要方向：dpi、gpui、hid、hidpp、local-first、logitech、logitech-mouse、logitech-options、mouse-remapping、mx-master、privacy、Rust、smartshift。
+📄 英文原文: ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
+⭐ 当日新增: +1097
+总 Stars: 15922
+语言: Rust
+https://github.com/AprilNEA/OpenLogi
 
 
 ## TencentCloud/TencentDB-Agent-Memory
@@ -385,14 +395,14 @@ https://github.com/TencentCloud/TencentDB-Agent-Memory
 https://github.com/Panniantong/Agent-Reach
 
 
-## AprilNEA/OpenLogi
+## basecamp/omarchy
 
-📝 中文简介: 使用 Rust 开发；主要方向：dpi、gpui、hid、hidpp、local-first、logitech、logitech-mouse、logitech-options、mouse-remapping、mx-master、privacy、Rust、smartshift。
-📄 英文原文: ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
-⭐ 当日新增: +1009
-总 Stars: 15022
-语言: Rust
-https://github.com/AprilNEA/OpenLogi
+📝 中文简介: 使用 Shell 脚本 开发。
+📄 英文原文: Beautiful, Modern & Opinionated Linux
+⭐ 当日新增: +1056
+总 Stars: 30226
+语言: Shell
+https://github.com/basecamp/omarchy
 
 
 ## public-apis/public-apis
@@ -423,14 +433,4 @@ https://github.com/bradautomates/claude-video
 总 Stars: 5650
 语言: TypeScript
 https://github.com/cordiverse/cordis
-
-
-## volcengine/OpenViking
-
-📝 中文简介: 使用 Python 开发；主要方向：agent-memory、agent-plugins、agentic-rag、context-database、dsh-plugin、self-evolving。
-📄 英文原文: Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-⭐ 当日新增: +950
-总 Stars: 31068
-语言: Python
-https://github.com/volcengine/OpenViking
 
