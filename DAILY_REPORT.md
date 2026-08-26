@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 34305
-Score: 559.4
+⭐ Stars: 34468
+Score: 561.93
 
 ### deepchem/deepchem
 
-⭐ Stars: 6959
-Score: 234.19
+⭐ Stars: 6960
+Score: 234.25
 
 ### rdkit/rdkit
 
-⭐ Stars: 3562
-Score: 87.72
+⭐ Stars: 3564
+Score: 87.79
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1905
-Score: 30.3
+⭐ Stars: 1909
+Score: 30.39
 
 ### DeepGraphLearning/torchdrug
 
@@ -32,7 +32,7 @@ Score: 26.92
 ### molecularsets/moses
 
 ⭐ Stars: 987
-Score: 23.82
+Score: 23.87
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
@@ -41,13 +41,13 @@ Score: 17.32
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 844
-Score: 19.94
+⭐ Stars: 846
+Score: 19.91
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 828
-Score: 11.73
+⭐ Stars: 833
+Score: 11.78
 
 ### xjtulyc/MedgeClaw
 
@@ -77,12 +77,12 @@ Score: 11.1
 ### wengong-jin/hgraph2graph
 
 ⭐ Stars: 442
-Score: 10.67
+Score: 10.72
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 423
-Score: 6.83
+⭐ Stars: 425
+Score: 6.85
 
 ### kjappelbaum/awesome-chemistry-datasets
 
@@ -96,8 +96,8 @@ Score: 8.42
 
 ### maabuu/posebusters
 
-⭐ Stars: 401
-Score: 5.36
+⭐ Stars: 402
+Score: 5.42
 
 ### qinheming/BIoClaw
 
@@ -109,82 +109,82 @@ Score: 4.11
 # 🚀 Star快速增长榜
 
 
-## ai4s-research/awesome-ai-for-science
-
-今日增长: +8
-当前Stars: 1905
-
-
 ## LeonChaoX/qinyan-academic-skills
 
-今日增长: +7
-当前Stars: 828
+今日增长: +5
+当前Stars: 833
 
 
-## deepchem/deepchem
+## ai4s-research/awesome-ai-for-science
 
 今日增长: +4
-当前Stars: 6959
+当前Stars: 1909
 
 
 ## aurekaresearch/OpenDDE
 
-今日增长: +3
-当前Stars: 423
+今日增长: +2
+当前Stars: 425
 
 
-## argonne-lcf/ChemGraph
+## MolecularAI/REINVENT4
 
 今日增长: +2
-当前Stars: 148
+当前Stars: 846
 
 
-## NVIDIA/nvalchemi-toolkit
+## rdkit/rdkit
 
 今日增长: +2
-当前Stars: 148
+当前Stars: 3564
+
+
+## deepchem/deepchem
+
+今日增长: +1
+当前Stars: 6960
 
 
 ## jaechang-hits/SciAgent-Skills
 
 今日增长: +1
-当前Stars: 342
+当前Stars: 343
 
 
-## MolecularAI/REINVENT4
-
-今日增长: +1
-当前Stars: 844
-
-
-## kjappelbaum/gptchem
+## AstraZeneca/awesome-drug-discovery-knowledge-graphs
 
 今日增长: +1
-当前Stars: 261
+当前Stars: 267
+
+
+## schwallergroup/ai4chem_course
+
+今日增长: +1
+当前Stars: 290
 
 
 ## maabuu/posebusters
 
 今日增长: +1
-当前Stars: 401
+当前Stars: 402
 
 
 ## thomas0809/MolScribe
 
 今日增长: +1
-当前Stars: 330
+当前Stars: 331
 
 
-## gmh14/data_efficient_grammar
+## gcorso/torsional-diffusion
 
 今日增长: +1
-当前Stars: 101
+当前Stars: 289
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 34305
+当前Stars: 34468
 
 
 ## DeepGraphLearning/torchdrug
@@ -235,16 +235,6 @@ Score: 4.11
 > 数据来自 github.com/trending（GitHub 官方按 star 增速排名），与上方关键词搜索的「Star 排行榜」不同，反映全站近期真正快速增长的仓库。
 
 
-## freestylefly/awesome-gpt-image-2
-
-📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：agents、ai-image-generation、chatgpt、dsh-plugin、gpt-image-2、image-prompts、prompt-as-code、prompt-engineering、skills、workflow-automation。
-📄 英文原文: Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
-⭐ 当日新增: +2449
-总 Stars: 15672
-语言: JavaScript
-https://github.com/freestylefly/awesome-gpt-image-2
-
-
 ## mattpocock/skills
 
 📝 中文简介: 使用 Shell 脚本 开发。
@@ -275,16 +265,6 @@ https://github.com/permissionlesstech/bitchat
 https://github.com/zhaoxuya520/reverse-skill
 
 
-## openai/codex
-
-📝 中文简介: 使用 Rust 开发。
-📄 英文原文: Lightweight coding agent that runs in your terminal
-⭐ 当日新增: +1994
-总 Stars: 117168
-语言: Rust
-https://github.com/openai/codex
-
-
 ## microsoft/AI-For-Beginners
 
 📝 中文简介: 使用 Jupyter  notebooks（数据科学） 开发；主要方向：ai、人工智能、cnn、计算机视觉、深度学习、gan、机器学习、microsoft-for-beginners、nlp、rnn。
@@ -293,6 +273,16 @@ https://github.com/openai/codex
 总 Stars: 60990
 语言: Jupyter Notebook
 https://github.com/microsoft/AI-For-Beginners
+
+
+## freestylefly/awesome-gpt-image-2
+
+📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：agents、ai-image-generation、chatgpt、dsh-plugin、gpt-image-2、image-prompts、prompt-as-code、prompt-engineering、skills、workflow-automation。
+📄 英文原文: Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+⭐ 当日新增: +1698
+总 Stars: 18266
+语言: JavaScript
+https://github.com/freestylefly/awesome-gpt-image-2
 
 
 ## cathrynlavery/diagram-design
@@ -313,6 +303,16 @@ https://github.com/cathrynlavery/diagram-design
 总 Stars: 4584
 语言: Rust
 https://github.com/amadeusprotocol/node
+
+
+## MadsLorentzen/ai-job-search
+
+📝 中文简介: 使用 Python 开发；主要方向：ai、ai-agents、career、claude-code、cover-letter、cv、interview-preparation、job-application、job-hunting、job-search、latex、resume。
+📄 英文原文: The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
+⭐ 当日新增: +1265
+总 Stars: 35389
+语言: Python
+https://github.com/MadsLorentzen/ai-job-search
 
 
 ## stablyai/orca
@@ -355,6 +355,16 @@ https://github.com/firecrawl/pdf-inspector
 https://github.com/semantica-agi/semantica
 
 
+## openai/codex
+
+📝 中文简介: 使用 Rust 开发。
+📄 英文原文: Lightweight coding agent that runs in your terminal
+⭐ 当日新增: +1181
+总 Stars: 118185
+语言: Rust
+https://github.com/openai/codex
+
+
 ## PrimeIntellect-ai/prime-agent
 
 📝 中文简介: 使用 TypeScript 开发。
@@ -373,6 +383,16 @@ https://github.com/PrimeIntellect-ai/prime-agent
 总 Stars: 15922
 语言: Rust
 https://github.com/AprilNEA/OpenLogi
+
+
+## basecamp/omarchy
+
+📝 中文简介: 使用 Shell 脚本 开发。
+📄 英文原文: Beautiful, Modern & Opinionated Linux
+⭐ 当日新增: +1083
+总 Stars: 31346
+语言: Shell
+https://github.com/basecamp/omarchy
 
 
 ## TencentCloud/TencentDB-Agent-Memory
@@ -395,16 +415,6 @@ https://github.com/TencentCloud/TencentDB-Agent-Memory
 https://github.com/Panniantong/Agent-Reach
 
 
-## basecamp/omarchy
-
-📝 中文简介: 使用 Shell 脚本 开发。
-📄 英文原文: Beautiful, Modern & Opinionated Linux
-⭐ 当日新增: +1056
-总 Stars: 30226
-语言: Shell
-https://github.com/basecamp/omarchy
-
-
 ## public-apis/public-apis
 
 📝 中文简介: 使用 Python 开发；主要方向：API、apis、dataset、development、free、list、lists、开源、public、public-api、public-apis、resources、software。
@@ -423,14 +433,4 @@ https://github.com/public-apis/public-apis
 总 Stars: 12252
 语言: Python
 https://github.com/bradautomates/claude-video
-
-
-## cordiverse/cordis
-
-📝 中文简介: 使用 TypeScript 开发；主要方向：effect、框架、Node.js、插件。
-📄 英文原文: Meta-Framework of Spatiotemporal Composability
-⭐ 当日新增: +957
-总 Stars: 5650
-语言: TypeScript
-https://github.com/cordiverse/cordis
 
