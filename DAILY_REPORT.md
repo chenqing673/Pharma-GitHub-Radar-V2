@@ -6,38 +6,38 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 34984
-Score: 568.64
+⭐ Stars: 35769
+Score: 579.59
 
 ### deepchem/deepchem
 
-⭐ Stars: 6962
-Score: 234.32
+⭐ Stars: 6964
+Score: 234.44
 
 ### rdkit/rdkit
 
-⭐ Stars: 3565
-Score: 87.9
+⭐ Stars: 3567
+Score: 88.02
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1915
-Score: 30.5
+⭐ Stars: 1918
+Score: 30.58
 
 ### DeepGraphLearning/torchdrug
 
 ⭐ Stars: 1587
-Score: 26.92
+Score: 26.97
 
 ### molecularsets/moses
 
-⭐ Stars: 987
-Score: 23.87
+⭐ Stars: 988
+Score: 23.88
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 848
-Score: 19.88
+⭐ Stars: 849
+Score: 19.89
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
@@ -46,8 +46,8 @@ Score: 17.32
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 837
-Score: 11.87
+⭐ Stars: 842
+Score: 12.02
 
 ### xjtulyc/MedgeClaw
 
@@ -66,8 +66,8 @@ Score: 8.7
 
 ### chemosim-lab/ProLIF
 
-⭐ Stars: 535
-Score: 10.35
+⭐ Stars: 536
+Score: 10.46
 
 ### oddt/oddt
 
@@ -81,8 +81,8 @@ Score: 10.72
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 428
-Score: 6.88
+⭐ Stars: 433
+Score: 6.98
 
 ### kjappelbaum/awesome-chemistry-datasets
 
@@ -109,106 +109,106 @@ Score: 4.11
 # 🚀 Star快速增长榜
 
 
-## ai4s-research/awesome-ai-for-science
-
-今日增长: +6
-当前Stars: 1915
-
-
 ## LeonChaoX/qinyan-academic-skills
 
-今日增长: +4
-当前Stars: 837
+今日增长: +5
+当前Stars: 842
 
 
 ## aurekaresearch/OpenDDE
 
+今日增长: +5
+当前Stars: 433
+
+
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +4
+当前Stars: 348
+
+
+## ai4s-research/awesome-ai-for-science
+
 今日增长: +3
-当前Stars: 428
+当前Stars: 1918
 
 
 ## deepchem/deepchem
 
 今日增长: +2
-当前Stars: 6962
-
-
-## MolecularAI/REINVENT4
-
-今日增长: +2
-当前Stars: 848
-
-
-## NVIDIA/nvalchemi-toolkit
-
-今日增长: +2
-当前Stars: 150
-
-
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +1
-当前Stars: 344
-
-
-## dralgroup/mlatom
-
-今日增长: +1
-当前Stars: 158
+当前Stars: 6964
 
 
 ## rdkit/rdkit
 
+今日增长: +2
+当前Stars: 3567
+
+
+## AstraZeneca/awesome-drug-discovery-knowledge-graphs
+
 今日增长: +1
-当前Stars: 3565
+当前Stars: 268
+
+
+## dockstring/dockstring
+
+今日增长: +1
+当前Stars: 189
+
+
+## MolecularAI/REINVENT4
+
+今日增长: +1
+当前Stars: 849
+
+
+## kjappelbaum/gptchem
+
+今日增长: +1
+当前Stars: 262
+
+
+## argonne-lcf/ChemGraph
+
+今日增长: +1
+当前Stars: 149
+
+
+## volkamerlab/ai_in_chemistry_workshop
+
+今日增长: +1
+当前Stars: 81
 
 
 ## chemosim-lab/ProLIF
 
 今日增长: +1
-当前Stars: 535
+当前Stars: 536
 
 
-## RadonPy/RadonPy
-
-今日增长: +1
-当前Stars: 276
-
-
-## hesther/espsim
+## molecularsets/moses
 
 今日增长: +1
-当前Stars: 239
-
-
-## basf/MolPipeline
-
-今日增长: +1
-当前Stars: 228
+当前Stars: 988
 
 
 ## thomas0809/MolScribe
 
 今日增长: +1
-当前Stars: 332
+当前Stars: 333
 
 
-## MolecularAI/PaRoutes
-
-今日增长: +1
-当前Stars: 93
-
-
-## deepforestsci/DeepRetro
+## NVIDIA-BioNeMo/nvMolKit
 
 今日增长: +1
-当前Stars: 30
+当前Stars: 273
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 34984
+当前Stars: 35769
 
 
 ## DeepGraphLearning/torchdrug
@@ -235,14 +235,14 @@ Score: 4.11
 > 数据来自 github.com/trending（GitHub 官方按 star 增速排名），与上方关键词搜索的「Star 排行榜」不同，反映全站近期真正快速增长的仓库。
 
 
-## freestylefly/awesome-gpt-image-2
+## tt-a1i/archify
 
-📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：agents、ai-image-generation、chatgpt、dsh-plugin、gpt-image-2、image-prompts、prompt-as-code、prompt-engineering、skills、workflow-automation。
-📄 英文原文: Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
-⭐ 当日新增: +4050
-总 Stars: 22421
+📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：agent-skills、architecture-as-code、architecture-diagram、claude-skill、code-visualization、codex、coding-agents、data-flow-diagram、deepseek-harness、developer-tools、diagram-as-code、diagrams、diagrams-as-code、dsh-plugin、mermaid-alternative、opencode、sequence-diagram、software-architecture、system-design、text-to-diagram。
+📄 英文原文: Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
+⭐ 当日新增: +4561
+总 Stars: 25528
 语言: JavaScript
-https://github.com/freestylefly/awesome-gpt-image-2
+https://github.com/tt-a1i/archify
 
 
 ## mattpocock/skills
@@ -275,6 +275,16 @@ https://github.com/permissionlesstech/bitchat
 https://github.com/zhaoxuya520/reverse-skill
 
 
+## bilawalsidhu/gods-eye-view
+
+📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：3d-globe、cesium、flight-tracking、geospatial、geospatial-intelligence、gis、osint、photogrammetry、satellite-tracking、spatial-intelligence、webgl、worldview。
+📄 英文原文: A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+⭐ 当日新增: +1984
+总 Stars: 10022
+语言: JavaScript
+https://github.com/bilawalsidhu/gods-eye-view
+
+
 ## microsoft/AI-For-Beginners
 
 📝 中文简介: 使用 Jupyter  notebooks（数据科学） 开发；主要方向：ai、人工智能、cnn、计算机视觉、深度学习、gan、机器学习、microsoft-for-beginners、nlp、rnn。
@@ -283,6 +293,16 @@ https://github.com/zhaoxuya520/reverse-skill
 总 Stars: 60990
 语言: Jupyter Notebook
 https://github.com/microsoft/AI-For-Beginners
+
+
+## freestylefly/awesome-gpt-image-2
+
+📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：agents、ai-image-generation、chatgpt、dsh-plugin、gpt-image-2、image-prompts、prompt-as-code、prompt-engineering、skills、workflow-automation。
+📄 英文原文: Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+⭐ 当日新增: +1687
+总 Stars: 23968
+语言: JavaScript
+https://github.com/freestylefly/awesome-gpt-image-2
 
 
 ## cathrynlavery/diagram-design
@@ -295,16 +315,6 @@ https://github.com/microsoft/AI-For-Beginners
 https://github.com/cathrynlavery/diagram-design
 
 
-## DietrichGebert/ponytail
-
-📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：agent-skills、ai-agents、claude、claude-code、claude-code-plugin、cursor-rules、developer-tools、大语言模型、prompt-engineering、yagni。
-📄 英文原文: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-⭐ 当日新增: +1598
-总 Stars: 113349
-语言: JavaScript
-https://github.com/DietrichGebert/ponytail
-
-
 ## amadeusprotocol/node
 
 📝 中文简介: 使用 Rust 开发。
@@ -315,14 +325,14 @@ https://github.com/DietrichGebert/ponytail
 https://github.com/amadeusprotocol/node
 
 
-## calesthio/OpenMontage
+## DietrichGebert/ponytail
 
-📝 中文简介: 使用 Python 开发；主要方向：智能体、agentic-ai、ai、claude、copilot、cursor、elevenlabs、ffmpeg、flux、image-generation、开源、openai、Python、remotion、stable-diffusion、text-to-speech、text-to-video、video-generation、video-production。
-📄 英文原文: World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
-⭐ 当日新增: +1284
-总 Stars: 51774
-语言: Python
-https://github.com/calesthio/OpenMontage
+📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：agent-skills、ai-agents、claude、claude-code、claude-code-plugin、cursor-rules、developer-tools、大语言模型、prompt-engineering、yagni。
+📄 英文原文: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+⭐ 当日新增: +1396
+总 Stars: 114815
+语言: JavaScript
+https://github.com/DietrichGebert/ponytail
 
 
 ## MadsLorentzen/ai-job-search
@@ -385,6 +395,16 @@ https://github.com/semantica-agi/semantica
 https://github.com/openai/codex
 
 
+## calesthio/OpenMontage
+
+📝 中文简介: 使用 Python 开发；主要方向：智能体、agentic-ai、ai、claude、copilot、cursor、elevenlabs、ffmpeg、flux、image-generation、开源、openai、Python、remotion、stable-diffusion、text-to-speech、text-to-video、video-generation、video-production。
+📄 英文原文: World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+⭐ 当日新增: +1144
+总 Stars: 52914
+语言: Python
+https://github.com/calesthio/OpenMontage
+
+
 ## PrimeIntellect-ai/prime-agent
 
 📝 中文简介: 使用 TypeScript 开发。
@@ -413,24 +433,4 @@ https://github.com/AprilNEA/OpenLogi
 总 Stars: 31346
 语言: Shell
 https://github.com/basecamp/omarchy
-
-
-## TencentCloud/TencentDB-Agent-Memory
-
-📝 中文简介: 使用 TypeScript 开发；主要方向：智能体、ai-agent、embedding、大语言模型、local-first、long-term-memory、memory、openclaw-plugin、vector-search。
-📄 英文原文: TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
-⭐ 当日新增: +1057
-总 Stars: 16603
-语言: TypeScript
-https://github.com/TencentCloud/TencentDB-Agent-Memory
-
-
-## Panniantong/Agent-Reach
-
-📝 中文简介: 使用 Python 开发；主要方向：agent-infrastructure、ai-agent、ai-search、自动化、bilibili、claude-code、命令行工具、cursor、free-api、llm-tools、mcp、Python、reddit-scraper、twitter-scraper、web-scraper、xiaohongshu、youtube-transcript。
-📄 英文原文: Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-⭐ 当日新增: +1057
-总 Stars: 65881
-语言: Python
-https://github.com/Panniantong/Agent-Reach
 
