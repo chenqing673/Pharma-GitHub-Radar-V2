@@ -6,18 +6,18 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 35769
-Score: 579.59
+⭐ Stars: 37015
+Score: 595.85
 
 ### deepchem/deepchem
 
-⭐ Stars: 6964
-Score: 234.44
+⭐ Stars: 6967
+Score: 234.47
 
 ### rdkit/rdkit
 
-⭐ Stars: 3567
-Score: 88.02
+⭐ Stars: 3570
+Score: 88.15
 
 ### ai4s-research/awesome-ai-for-science
 
@@ -36,8 +36,8 @@ Score: 23.88
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 849
-Score: 19.89
+⭐ Stars: 850
+Score: 19.9
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
@@ -46,8 +46,8 @@ Score: 17.32
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 842
-Score: 12.02
+⭐ Stars: 844
+Score: 12.04
 
 ### xjtulyc/MedgeClaw
 
@@ -61,8 +61,8 @@ Score: 15.45
 
 ### datamol-io/datamol
 
-⭐ Stars: 545
-Score: 8.7
+⭐ Stars: 546
+Score: 8.71
 
 ### chemosim-lab/ProLIF
 
@@ -81,8 +81,8 @@ Score: 10.72
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 433
-Score: 6.98
+⭐ Stars: 434
+Score: 6.99
 
 ### kjappelbaum/awesome-chemistry-datasets
 
@@ -109,106 +109,58 @@ Score: 4.11
 # 🚀 Star快速增长榜
 
 
-## LeonChaoX/qinyan-academic-skills
+## deepchem/deepchem
 
-今日增长: +5
-当前Stars: 842
-
-
-## aurekaresearch/OpenDDE
-
-今日增长: +5
-当前Stars: 433
+今日增长: +3
+当前Stars: 6967
 
 
 ## jaechang-hits/SciAgent-Skills
 
-今日增长: +4
-当前Stars: 348
-
-
-## ai4s-research/awesome-ai-for-science
-
 今日增长: +3
-当前Stars: 1918
-
-
-## deepchem/deepchem
-
-今日增长: +2
-当前Stars: 6964
+当前Stars: 351
 
 
 ## rdkit/rdkit
 
+今日增长: +3
+当前Stars: 3570
+
+
+## LeonChaoX/qinyan-academic-skills
+
 今日增长: +2
-当前Stars: 3567
+当前Stars: 844
 
 
-## AstraZeneca/awesome-drug-discovery-knowledge-graphs
-
-今日增长: +1
-当前Stars: 268
-
-
-## dockstring/dockstring
+## aurekaresearch/OpenDDE
 
 今日增长: +1
-当前Stars: 189
+当前Stars: 434
 
 
 ## MolecularAI/REINVENT4
 
 今日增长: +1
-当前Stars: 849
+当前Stars: 850
 
 
-## kjappelbaum/gptchem
-
-今日增长: +1
-当前Stars: 262
-
-
-## argonne-lcf/ChemGraph
+## datamol-io/datamol
 
 今日增长: +1
-当前Stars: 149
+当前Stars: 546
 
 
-## volkamerlab/ai_in_chemistry_workshop
-
-今日增长: +1
-当前Stars: 81
-
-
-## chemosim-lab/ProLIF
+## amorehead/awesome-molecular-generation
 
 今日增长: +1
-当前Stars: 536
-
-
-## molecularsets/moses
-
-今日增长: +1
-当前Stars: 988
-
-
-## thomas0809/MolScribe
-
-今日增长: +1
-当前Stars: 333
-
-
-## NVIDIA-BioNeMo/nvMolKit
-
-今日增长: +1
-当前Stars: 273
+当前Stars: 347
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 35769
+当前Stars: 37015
 
 
 ## DeepGraphLearning/torchdrug
@@ -229,6 +181,54 @@ Score: 4.11
 当前Stars: 641
 
 
+## oddt/oddt
+
+今日增长: +0
+当前Stars: 470
+
+
+## DSPsleeporg/smiles-transformer
+
+今日增长: +0
+当前Stars: 358
+
+
+## dengjianyuan/Survey_AI_Drug_Discovery
+
+今日增长: +0
+当前Stars: 339
+
+
+## DeepWism/DeepWism-miRNA
+
+今日增长: +0
+当前Stars: 329
+
+
+## AstraZeneca/awesome-drug-discovery-knowledge-graphs
+
+今日增长: +0
+当前Stars: 268
+
+
+## PatWalters/resources_2025
+
+今日增长: +0
+当前Stars: 266
+
+
+## benb111/awesome-small-molecule-ml
+
+今日增长: +0
+当前Stars: 242
+
+
+## mattragoza/LiGAN
+
+今日增长: +0
+当前Stars: 238
+
+
 
 # 🔥 GitHub 真实热门榜（24h）
 
@@ -239,10 +239,20 @@ Score: 4.11
 
 📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：agent-skills、architecture-as-code、architecture-diagram、claude-skill、code-visualization、codex、coding-agents、data-flow-diagram、deepseek-harness、developer-tools、diagram-as-code、diagrams、diagrams-as-code、dsh-plugin、mermaid-alternative、opencode、sequence-diagram、software-architecture、system-design、text-to-diagram。
 📄 英文原文: Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-⭐ 当日新增: +4561
-总 Stars: 25528
+⭐ 当日新增: +4562
+总 Stars: 28578
 语言: JavaScript
 https://github.com/tt-a1i/archify
+
+
+## bilawalsidhu/gods-eye-view
+
+📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：3d-globe、cesium、flight-tracking、geospatial、geospatial-intelligence、gis、osint、photogrammetry、satellite-tracking、spatial-intelligence、webgl、worldview。
+📄 英文原文: A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+⭐ 当日新增: +3829
+总 Stars: 11503
+语言: JavaScript
+https://github.com/bilawalsidhu/gods-eye-view
 
 
 ## mattpocock/skills
@@ -275,16 +285,6 @@ https://github.com/permissionlesstech/bitchat
 https://github.com/zhaoxuya520/reverse-skill
 
 
-## bilawalsidhu/gods-eye-view
-
-📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：3d-globe、cesium、flight-tracking、geospatial、geospatial-intelligence、gis、osint、photogrammetry、satellite-tracking、spatial-intelligence、webgl、worldview。
-📄 英文原文: A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-⭐ 当日新增: +1984
-总 Stars: 10022
-语言: JavaScript
-https://github.com/bilawalsidhu/gods-eye-view
-
-
 ## microsoft/AI-For-Beginners
 
 📝 中文简介: 使用 Jupyter  notebooks（数据科学） 开发；主要方向：ai、人工智能、cnn、计算机视觉、深度学习、gan、机器学习、microsoft-for-beginners、nlp、rnn。
@@ -300,7 +300,7 @@ https://github.com/microsoft/AI-For-Beginners
 📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：agents、ai-image-generation、chatgpt、dsh-plugin、gpt-image-2、image-prompts、prompt-as-code、prompt-engineering、skills、workflow-automation。
 📄 英文原文: Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
 ⭐ 当日新增: +1687
-总 Stars: 23968
+总 Stars: 24508
 语言: JavaScript
 https://github.com/freestylefly/awesome-gpt-image-2
 
@@ -330,7 +330,7 @@ https://github.com/amadeusprotocol/node
 📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：agent-skills、ai-agents、claude、claude-code、claude-code-plugin、cursor-rules、developer-tools、大语言模型、prompt-engineering、yagni。
 📄 英文原文: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 ⭐ 当日新增: +1396
-总 Stars: 114815
+总 Stars: 115702
 语言: JavaScript
 https://github.com/DietrichGebert/ponytail
 
@@ -400,7 +400,7 @@ https://github.com/openai/codex
 📝 中文简介: 使用 Python 开发；主要方向：智能体、agentic-ai、ai、claude、copilot、cursor、elevenlabs、ffmpeg、flux、image-generation、开源、openai、Python、remotion、stable-diffusion、text-to-speech、text-to-video、video-generation、video-production。
 📄 英文原文: World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
 ⭐ 当日新增: +1144
-总 Stars: 52914
+总 Stars: 53512
 语言: Python
 https://github.com/calesthio/OpenMontage
 
