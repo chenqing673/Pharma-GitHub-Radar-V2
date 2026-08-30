@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 37015
-Score: 595.85
+⭐ Stars: 38112
+Score: 610.67
 
 ### deepchem/deepchem
 
-⭐ Stars: 6967
-Score: 234.47
+⭐ Stars: 6968
+Score: 234.58
 
 ### rdkit/rdkit
 
-⭐ Stars: 3570
-Score: 88.15
+⭐ Stars: 3571
+Score: 88.21
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1918
-Score: 30.58
+⭐ Stars: 1920
+Score: 30.6
 
 ### DeepGraphLearning/torchdrug
 
@@ -36,18 +36,18 @@ Score: 23.88
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 850
-Score: 19.9
+⭐ Stars: 851
+Score: 19.91
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
-⭐ Stars: 847
-Score: 17.32
+⭐ Stars: 848
+Score: 17.33
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 844
-Score: 12.04
+⭐ Stars: 848
+Score: 12.08
 
 ### xjtulyc/MedgeClaw
 
@@ -76,18 +76,18 @@ Score: 11.1
 
 ### wengong-jin/hgraph2graph
 
-⭐ Stars: 442
-Score: 10.72
+⭐ Stars: 443
+Score: 10.73
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 434
-Score: 6.99
+⭐ Stars: 435
+Score: 7.0
 
 ### kjappelbaum/awesome-chemistry-datasets
 
-⭐ Stars: 420
-Score: 7.05
+⭐ Stars: 421
+Score: 7.06
 
 ### MinkaiXu/GeoDiff
 
@@ -96,8 +96,8 @@ Score: 8.42
 
 ### maabuu/posebusters
 
-⭐ Stars: 402
-Score: 5.42
+⭐ Stars: 401
+Score: 5.41
 
 ### qinheming/BIoClaw
 
@@ -109,70 +109,106 @@ Score: 4.11
 # 🚀 Star快速增长榜
 
 
-## deepchem/deepchem
+## LeonChaoX/qinyan-academic-skills
 
-今日增长: +3
-当前Stars: 6967
+今日增长: +4
+当前Stars: 848
 
 
 ## jaechang-hits/SciAgent-Skills
 
-今日增长: +3
-当前Stars: 351
+今日增长: +4
+当前Stars: 355
 
 
-## rdkit/rdkit
-
-今日增长: +3
-当前Stars: 3570
-
-
-## LeonChaoX/qinyan-academic-skills
+## ai4s-research/awesome-ai-for-science
 
 今日增长: +2
-当前Stars: 844
+当前Stars: 1920
+
+
+## deepchem/deepchem
+
+今日增长: +1
+当前Stars: 6968
+
+
+## NVIDIA-BioNeMo/bionemo-recipes
+
+今日增长: +1
+当前Stars: 848
 
 
 ## aurekaresearch/OpenDDE
 
 今日增长: +1
-当前Stars: 434
+当前Stars: 435
+
+
+## AstraZeneca/awesome-drug-discovery-knowledge-graphs
+
+今日增长: +1
+当前Stars: 269
 
 
 ## MolecularAI/REINVENT4
 
 今日增长: +1
-当前Stars: 850
+当前Stars: 851
 
 
-## datamol-io/datamol
-
-今日增长: +1
-当前Stars: 546
-
-
-## amorehead/awesome-molecular-generation
+## kjappelbaum/awesome-chemistry-datasets
 
 今日增长: +1
-当前Stars: 347
+当前Stars: 421
+
+
+## dralgroup/mlatom
+
+今日增长: +1
+当前Stars: 159
+
+
+## sherrylixuecheng/awesome-ai4chem
+
+今日增长: +1
+当前Stars: 49
+
+
+## rdkit/rdkit
+
+今日增长: +1
+当前Stars: 3571
+
+
+## jensengroup/xyz2mol
+
+今日增长: +1
+当前Stars: 304
+
+
+## PatWalters/useful_rdkit_utils
+
+今日增长: +1
+当前Stars: 237
+
+
+## wengong-jin/hgraph2graph
+
+今日增长: +1
+当前Stars: 443
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 37015
+当前Stars: 38112
 
 
 ## DeepGraphLearning/torchdrug
 
 今日增长: +0
 当前Stars: 1587
-
-
-## NVIDIA-BioNeMo/bionemo-recipes
-
-今日增长: +0
-当前Stars: 847
 
 
 ## xjtulyc/MedgeClaw
@@ -193,42 +229,6 @@ Score: 4.11
 当前Stars: 358
 
 
-## dengjianyuan/Survey_AI_Drug_Discovery
-
-今日增长: +0
-当前Stars: 339
-
-
-## DeepWism/DeepWism-miRNA
-
-今日增长: +0
-当前Stars: 329
-
-
-## AstraZeneca/awesome-drug-discovery-knowledge-graphs
-
-今日增长: +0
-当前Stars: 268
-
-
-## PatWalters/resources_2025
-
-今日增长: +0
-当前Stars: 266
-
-
-## benb111/awesome-small-molecule-ml
-
-今日增长: +0
-当前Stars: 242
-
-
-## mattragoza/LiGAN
-
-今日增长: +0
-当前Stars: 238
-
-
 
 # 🔥 GitHub 真实热门榜（24h）
 
@@ -239,20 +239,10 @@ Score: 4.11
 
 📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：agent-skills、architecture-as-code、architecture-diagram、claude-skill、code-visualization、codex、coding-agents、data-flow-diagram、deepseek-harness、developer-tools、diagram-as-code、diagrams、diagrams-as-code、dsh-plugin、mermaid-alternative、opencode、sequence-diagram、software-architecture、system-design、text-to-diagram。
 📄 英文原文: Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-⭐ 当日新增: +4562
-总 Stars: 28578
+⭐ 当日新增: +3902
+总 Stars: 31790
 语言: JavaScript
 https://github.com/tt-a1i/archify
-
-
-## bilawalsidhu/gods-eye-view
-
-📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：3d-globe、cesium、flight-tracking、geospatial、geospatial-intelligence、gis、osint、photogrammetry、satellite-tracking、spatial-intelligence、webgl、worldview。
-📄 英文原文: A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-⭐ 当日新增: +3829
-总 Stars: 11503
-语言: JavaScript
-https://github.com/bilawalsidhu/gods-eye-view
 
 
 ## mattpocock/skills
@@ -295,6 +285,16 @@ https://github.com/zhaoxuya520/reverse-skill
 https://github.com/microsoft/AI-For-Beginners
 
 
+## bilawalsidhu/gods-eye-view
+
+📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：3d-globe、cesium、flight-tracking、geospatial、geospatial-intelligence、gis、osint、photogrammetry、satellite-tracking、spatial-intelligence、webgl、worldview。
+📄 英文原文: A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+⭐ 当日新增: +1855
+总 Stars: 12901
+语言: JavaScript
+https://github.com/bilawalsidhu/gods-eye-view
+
+
 ## freestylefly/awesome-gpt-image-2
 
 📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：agents、ai-image-generation、chatgpt、dsh-plugin、gpt-image-2、image-prompts、prompt-as-code、prompt-engineering、skills、workflow-automation。
@@ -313,6 +313,16 @@ https://github.com/freestylefly/awesome-gpt-image-2
 总 Stars: 18678
 语言: HTML
 https://github.com/cathrynlavery/diagram-design
+
+
+## K-Dense-AI/scientific-agent-skills
+
+📝 中文简介: 使用 Python 开发；主要方向：agent-skills、ai-scientist、生物信息学、chemoinformatics、claude、claude-skills、claudecode、clinical-research、computational-biology、data-analysis、药物发现、基因组学、materials-science、metabolomics、proteomics、scientific-computing、scientific-visualization。
+📄 英文原文: Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+⭐ 当日新增: +1587
+总 Stars: 38112
+语言: Python
+https://github.com/K-Dense-AI/scientific-agent-skills
 
 
 ## amadeusprotocol/node
@@ -393,16 +403,6 @@ https://github.com/semantica-agi/semantica
 总 Stars: 118185
 语言: Rust
 https://github.com/openai/codex
-
-
-## calesthio/OpenMontage
-
-📝 中文简介: 使用 Python 开发；主要方向：智能体、agentic-ai、ai、claude、copilot、cursor、elevenlabs、ffmpeg、flux、image-generation、开源、openai、Python、remotion、stable-diffusion、text-to-speech、text-to-video、video-generation、video-production。
-📄 英文原文: World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
-⭐ 当日新增: +1144
-总 Stars: 53512
-语言: Python
-https://github.com/calesthio/OpenMontage
 
 
 ## PrimeIntellect-ai/prime-agent
