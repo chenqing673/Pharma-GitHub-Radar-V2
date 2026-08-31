@@ -6,13 +6,13 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 38112
-Score: 610.67
+⭐ Stars: 39833
+Score: 633.58
 
 ### deepchem/deepchem
 
-⭐ Stars: 6968
-Score: 234.58
+⭐ Stars: 6969
+Score: 234.59
 
 ### rdkit/rdkit
 
@@ -21,8 +21,8 @@ Score: 88.21
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1920
-Score: 30.6
+⭐ Stars: 1921
+Score: 30.61
 
 ### DeepGraphLearning/torchdrug
 
@@ -34,20 +34,20 @@ Score: 26.97
 ⭐ Stars: 988
 Score: 23.88
 
+### LeonChaoX/qinyan-academic-skills
+
+⭐ Stars: 854
+Score: 12.19
+
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 851
-Score: 19.91
+⭐ Stars: 852
+Score: 19.97
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
 ⭐ Stars: 848
 Score: 17.33
-
-### LeonChaoX/qinyan-academic-skills
-
-⭐ Stars: 848
-Score: 12.08
 
 ### xjtulyc/MedgeClaw
 
@@ -111,104 +111,68 @@ Score: 4.11
 
 ## LeonChaoX/qinyan-academic-skills
 
-今日增长: +4
-当前Stars: 848
+今日增长: +6
+当前Stars: 854
 
 
 ## jaechang-hits/SciAgent-Skills
 
-今日增长: +4
-当前Stars: 355
+今日增长: +2
+当前Stars: 357
 
 
-## ai4s-research/awesome-ai-for-science
+## NVIDIA/nvalchemi-toolkit
 
 今日增长: +2
-当前Stars: 1920
+当前Stars: 152
 
 
 ## deepchem/deepchem
 
 今日增长: +1
-当前Stars: 6968
+当前Stars: 6969
 
 
-## NVIDIA-BioNeMo/bionemo-recipes
-
-今日增长: +1
-当前Stars: 848
-
-
-## aurekaresearch/OpenDDE
+## ai4s-research/awesome-ai-for-science
 
 今日增长: +1
-当前Stars: 435
-
-
-## AstraZeneca/awesome-drug-discovery-knowledge-graphs
-
-今日增长: +1
-当前Stars: 269
+当前Stars: 1921
 
 
 ## MolecularAI/REINVENT4
 
 今日增长: +1
-当前Stars: 851
-
-
-## kjappelbaum/awesome-chemistry-datasets
-
-今日增长: +1
-当前Stars: 421
+当前Stars: 852
 
 
 ## dralgroup/mlatom
 
 今日增长: +1
-当前Stars: 159
+当前Stars: 160
 
 
-## sherrylixuecheng/awesome-ai4chem
-
-今日增长: +1
-当前Stars: 49
-
-
-## rdkit/rdkit
+## thomas0809/MolScribe
 
 今日增长: +1
-当前Stars: 3571
-
-
-## jensengroup/xyz2mol
-
-今日增长: +1
-当前Stars: 304
-
-
-## PatWalters/useful_rdkit_utils
-
-今日增长: +1
-当前Stars: 237
-
-
-## wengong-jin/hgraph2graph
-
-今日增长: +1
-当前Stars: 443
+当前Stars: 334
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 38112
+当前Stars: 39833
 
 
 ## DeepGraphLearning/torchdrug
 
 今日增长: +0
 当前Stars: 1587
+
+
+## NVIDIA-BioNeMo/bionemo-recipes
+
+今日增长: +0
+当前Stars: 848
 
 
 ## xjtulyc/MedgeClaw
@@ -223,10 +187,46 @@ Score: 4.11
 当前Stars: 470
 
 
+## aurekaresearch/OpenDDE
+
+今日增长: +0
+当前Stars: 435
+
+
 ## DSPsleeporg/smiles-transformer
 
 今日增长: +0
 当前Stars: 358
+
+
+## dengjianyuan/Survey_AI_Drug_Discovery
+
+今日增长: +0
+当前Stars: 339
+
+
+## DeepWism/DeepWism-miRNA
+
+今日增长: +0
+当前Stars: 329
+
+
+## AstraZeneca/awesome-drug-discovery-knowledge-graphs
+
+今日增长: +0
+当前Stars: 269
+
+
+## PatWalters/resources_2025
+
+今日增长: +0
+当前Stars: 266
+
+
+## benb111/awesome-small-molecule-ml
+
+今日增长: +0
+当前Stars: 242
 
 
 
@@ -239,8 +239,8 @@ Score: 4.11
 
 📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：agent-skills、architecture-as-code、architecture-diagram、claude-skill、code-visualization、codex、coding-agents、data-flow-diagram、deepseek-harness、developer-tools、diagram-as-code、diagrams、diagrams-as-code、dsh-plugin、mermaid-alternative、opencode、sequence-diagram、software-architecture、system-design、text-to-diagram。
 📄 英文原文: Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-⭐ 当日新增: +3902
-总 Stars: 31790
+⭐ 当日新增: +3722
+总 Stars: 35882
 语言: JavaScript
 https://github.com/tt-a1i/archify
 
@@ -315,16 +315,6 @@ https://github.com/freestylefly/awesome-gpt-image-2
 https://github.com/cathrynlavery/diagram-design
 
 
-## K-Dense-AI/scientific-agent-skills
-
-📝 中文简介: 使用 Python 开发；主要方向：agent-skills、ai-scientist、生物信息学、chemoinformatics、claude、claude-skills、claudecode、clinical-research、computational-biology、data-analysis、药物发现、基因组学、materials-science、metabolomics、proteomics、scientific-computing、scientific-visualization。
-📄 英文原文: Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
-⭐ 当日新增: +1587
-总 Stars: 38112
-语言: Python
-https://github.com/K-Dense-AI/scientific-agent-skills
-
-
 ## amadeusprotocol/node
 
 📝 中文简介: 使用 Rust 开发。
@@ -343,6 +333,16 @@ https://github.com/amadeusprotocol/node
 总 Stars: 115702
 语言: JavaScript
 https://github.com/DietrichGebert/ponytail
+
+
+## THU-MAIC/OpenMAIC
+
+📝 中文简介: 使用 TypeScript 开发。
+📄 英文原文: Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
+⭐ 当日新增: +1370
+总 Stars: 24940
+语言: TypeScript
+https://github.com/THU-MAIC/OpenMAIC
 
 
 ## MadsLorentzen/ai-job-search
@@ -415,6 +415,16 @@ https://github.com/openai/codex
 https://github.com/PrimeIntellect-ai/prime-agent
 
 
+## K-Dense-AI/scientific-agent-skills
+
+📝 中文简介: 使用 Python 开发；主要方向：agent-skills、ai-scientist、生物信息学、chemoinformatics、claude、claude-skills、claudecode、clinical-research、computational-biology、data-analysis、药物发现、基因组学、materials-science、metabolomics、proteomics、scientific-computing、scientific-visualization。
+📄 英文原文: Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+⭐ 当日新增: +1114
+总 Stars: 39834
+语言: Python
+https://github.com/K-Dense-AI/scientific-agent-skills
+
+
 ## AprilNEA/OpenLogi
 
 📝 中文简介: 使用 Rust 开发；主要方向：dpi、gpui、hid、hidpp、local-first、logitech、logitech-mouse、logitech-options、mouse-remapping、mx-master、privacy、Rust、smartshift。
@@ -423,14 +433,4 @@ https://github.com/PrimeIntellect-ai/prime-agent
 总 Stars: 15922
 语言: Rust
 https://github.com/AprilNEA/OpenLogi
-
-
-## basecamp/omarchy
-
-📝 中文简介: 使用 Shell 脚本 开发。
-📄 英文原文: Beautiful, Modern & Opinionated Linux
-⭐ 当日新增: +1083
-总 Stars: 31346
-语言: Shell
-https://github.com/basecamp/omarchy
 
