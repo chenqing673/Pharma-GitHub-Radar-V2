@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 39833
-Score: 633.58
+⭐ Stars: 40969
+Score: 648.89
 
 ### deepchem/deepchem
 
-⭐ Stars: 6969
-Score: 234.59
+⭐ Stars: 6970
+Score: 234.6
 
 ### rdkit/rdkit
 
-⭐ Stars: 3571
-Score: 88.21
+⭐ Stars: 3572
+Score: 88.22
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1921
-Score: 30.61
+⭐ Stars: 1926
+Score: 30.71
 
 ### DeepGraphLearning/torchdrug
 
@@ -36,8 +36,8 @@ Score: 23.88
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 854
-Score: 12.19
+⭐ Stars: 856
+Score: 12.21
 
 ### MolecularAI/REINVENT4
 
@@ -81,8 +81,8 @@ Score: 10.73
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 435
-Score: 7.0
+⭐ Stars: 436
+Score: 6.96
 
 ### kjappelbaum/awesome-chemistry-datasets
 
@@ -109,58 +109,82 @@ Score: 4.11
 # 🚀 Star快速增长榜
 
 
+## ai4s-research/awesome-ai-for-science
+
+今日增长: +5
+当前Stars: 1926
+
+
 ## LeonChaoX/qinyan-academic-skills
 
-今日增长: +6
-当前Stars: 854
-
-
-## jaechang-hits/SciAgent-Skills
-
 今日增长: +2
-当前Stars: 357
+当前Stars: 856
 
 
 ## NVIDIA/nvalchemi-toolkit
 
 今日增长: +2
-当前Stars: 152
+当前Stars: 154
 
 
 ## deepchem/deepchem
 
 今日增长: +1
-当前Stars: 6969
+当前Stars: 6970
 
 
-## ai4s-research/awesome-ai-for-science
-
-今日增长: +1
-当前Stars: 1921
-
-
-## MolecularAI/REINVENT4
+## aurekaresearch/OpenDDE
 
 今日增长: +1
-当前Stars: 852
+当前Stars: 436
 
 
-## dralgroup/mlatom
-
-今日增长: +1
-当前Stars: 160
-
-
-## thomas0809/MolScribe
+## PatWalters/resources_2025
 
 今日增长: +1
-当前Stars: 334
+当前Stars: 267
+
+
+## dockstring/dockstring
+
+今日增长: +1
+当前Stars: 190
+
+
+## schwallergroup/ai4chem_course
+
+今日增长: +1
+当前Stars: 291
+
+
+## SimonsTang/feifei-companion
+
+今日增长: +1
+当前Stars: 101
+
+
+## rdkit/rdkit
+
+今日增长: +1
+当前Stars: 3572
+
+
+## NVIDIA-BioNeMo/genmol
+
+今日增长: +1
+当前Stars: 199
+
+
+## Laboratoire-de-Chemoinformatique/SynPlanner
+
+今日增长: +1
+当前Stars: 59
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 39833
+当前Stars: 40969
 
 
 ## DeepGraphLearning/torchdrug
@@ -187,12 +211,6 @@ Score: 4.11
 当前Stars: 470
 
 
-## aurekaresearch/OpenDDE
-
-今日增长: +0
-当前Stars: 435
-
-
 ## DSPsleeporg/smiles-transformer
 
 今日增长: +0
@@ -211,24 +229,6 @@ Score: 4.11
 当前Stars: 329
 
 
-## AstraZeneca/awesome-drug-discovery-knowledge-graphs
-
-今日增长: +0
-当前Stars: 269
-
-
-## PatWalters/resources_2025
-
-今日增长: +0
-当前Stars: 266
-
-
-## benb111/awesome-small-molecule-ml
-
-今日增长: +0
-当前Stars: 242
-
-
 
 # 🔥 GitHub 真实热门榜（24h）
 
@@ -239,10 +239,20 @@ Score: 4.11
 
 📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：agent-skills、architecture-as-code、architecture-diagram、claude-skill、code-visualization、codex、coding-agents、data-flow-diagram、deepseek-harness、developer-tools、diagram-as-code、diagrams、diagrams-as-code、dsh-plugin、mermaid-alternative、opencode、sequence-diagram、software-architecture、system-design、text-to-diagram。
 📄 英文原文: Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-⭐ 当日新增: +3722
-总 Stars: 35882
+⭐ 当日新增: +3991
+总 Stars: 39733
 语言: JavaScript
 https://github.com/tt-a1i/archify
+
+
+## THU-MAIC/OpenMAIC
+
+📝 中文简介: 使用 TypeScript 开发。
+📄 英文原文: Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
+⭐ 当日新增: +2824
+总 Stars: 27895
+语言: TypeScript
+https://github.com/THU-MAIC/OpenMAIC
 
 
 ## mattpocock/skills
@@ -265,14 +275,14 @@ https://github.com/mattpocock/skills
 https://github.com/permissionlesstech/bitchat
 
 
-## zhaoxuya520/reverse-skill
+## K-Dense-AI/scientific-agent-skills
 
-📝 中文简介: 使用 PowerShell 开发。
-📄 英文原文: Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
-⭐ 当日新增: +2297
-总 Stars: 18181
-语言: PowerShell
-https://github.com/zhaoxuya520/reverse-skill
+📝 中文简介: 使用 Python 开发；主要方向：agent-skills、ai-scientist、生物信息学、chemoinformatics、claude、claude-skills、claudecode、clinical-research、computational-biology、data-analysis、药物发现、基因组学、materials-science、metabolomics、proteomics、scientific-computing、scientific-visualization。
+📄 英文原文: Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+⭐ 当日新增: +1980
+总 Stars: 40969
+语言: Python
+https://github.com/K-Dense-AI/scientific-agent-skills
 
 
 ## microsoft/AI-For-Beginners
@@ -315,6 +325,16 @@ https://github.com/freestylefly/awesome-gpt-image-2
 https://github.com/cathrynlavery/diagram-design
 
 
+## zhaoxuya520/reverse-skill
+
+📝 中文简介: 使用 PowerShell 开发。
+📄 英文原文: Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+⭐ 当日新增: +1401
+总 Stars: 33388
+语言: PowerShell
+https://github.com/zhaoxuya520/reverse-skill
+
+
 ## amadeusprotocol/node
 
 📝 中文简介: 使用 Rust 开发。
@@ -333,16 +353,6 @@ https://github.com/amadeusprotocol/node
 总 Stars: 115702
 语言: JavaScript
 https://github.com/DietrichGebert/ponytail
-
-
-## THU-MAIC/OpenMAIC
-
-📝 中文简介: 使用 TypeScript 开发。
-📄 英文原文: Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
-⭐ 当日新增: +1370
-总 Stars: 24940
-语言: TypeScript
-https://github.com/THU-MAIC/OpenMAIC
 
 
 ## MadsLorentzen/ai-job-search
@@ -375,16 +385,6 @@ https://github.com/stablyai/orca
 https://github.com/harry0703/MoneyPrinterTurbo
 
 
-## firecrawl/pdf-inspector
-
-📝 中文简介: 使用 Rust 开发；主要方向：markdown、Node.js、ocr-routing、pdf、pdf-classification、pdf-extraction、pdf-parser、Python、Rust、text-extraction。
-📄 英文原文: Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
-⭐ 当日新增: +1190
-总 Stars: 12578
-语言: Rust
-https://github.com/firecrawl/pdf-inspector
-
-
 ## semantica-agi/semantica
 
 📝 中文简介: 使用 Python 开发；主要方向：agent-memory、ai、ai-governance、ai-infrastructure、人工智能、context-engineering、context-graphs、data-engineering、decision-intelligence、developer-tools、explainable-ai、生成式 AI、graph-rag、knowledge-graph、大语言模型、ontology、provenance、Python、reasoning、semantic-search。
@@ -415,16 +415,6 @@ https://github.com/openai/codex
 https://github.com/PrimeIntellect-ai/prime-agent
 
 
-## K-Dense-AI/scientific-agent-skills
-
-📝 中文简介: 使用 Python 开发；主要方向：agent-skills、ai-scientist、生物信息学、chemoinformatics、claude、claude-skills、claudecode、clinical-research、computational-biology、data-analysis、药物发现、基因组学、materials-science、metabolomics、proteomics、scientific-computing、scientific-visualization。
-📄 英文原文: Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
-⭐ 当日新增: +1114
-总 Stars: 39834
-语言: Python
-https://github.com/K-Dense-AI/scientific-agent-skills
-
-
 ## AprilNEA/OpenLogi
 
 📝 中文简介: 使用 Rust 开发；主要方向：dpi、gpui、hid、hidpp、local-first、logitech、logitech-mouse、logitech-options、mouse-remapping、mx-master、privacy、Rust、smartshift。
@@ -433,4 +423,14 @@ https://github.com/K-Dense-AI/scientific-agent-skills
 总 Stars: 15922
 语言: Rust
 https://github.com/AprilNEA/OpenLogi
+
+
+## basecamp/omarchy
+
+📝 中文简介: 使用 Shell 脚本 开发。
+📄 英文原文: Beautiful, Modern & Opinionated Linux
+⭐ 当日新增: +1083
+总 Stars: 31346
+语言: Shell
+https://github.com/basecamp/omarchy
 
