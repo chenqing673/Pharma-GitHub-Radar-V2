@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 40969
-Score: 648.89
+⭐ Stars: 41713
+Score: 658.98
 
 ### deepchem/deepchem
 
-⭐ Stars: 6970
-Score: 234.6
+⭐ Stars: 6972
+Score: 234.57
 
 ### rdkit/rdkit
 
-⭐ Stars: 3572
-Score: 88.22
+⭐ Stars: 3573
+Score: 88.28
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1926
-Score: 30.71
+⭐ Stars: 1930
+Score: 30.8
 
 ### DeepGraphLearning/torchdrug
 
@@ -36,8 +36,8 @@ Score: 23.88
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 856
-Score: 12.21
+⭐ Stars: 862
+Score: 12.27
 
 ### MolecularAI/REINVENT4
 
@@ -46,8 +46,8 @@ Score: 19.97
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
-⭐ Stars: 848
-Score: 17.33
+⭐ Stars: 850
+Score: 17.35
 
 ### xjtulyc/MedgeClaw
 
@@ -81,13 +81,13 @@ Score: 10.73
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 436
-Score: 6.96
+⭐ Stars: 442
+Score: 7.02
 
 ### kjappelbaum/awesome-chemistry-datasets
 
-⭐ Stars: 421
-Score: 7.06
+⭐ Stars: 422
+Score: 7.12
 
 ### MinkaiXu/GeoDiff
 
@@ -109,94 +109,100 @@ Score: 4.11
 # 🚀 Star快速增长榜
 
 
-## ai4s-research/awesome-ai-for-science
-
-今日增长: +5
-当前Stars: 1926
-
-
 ## LeonChaoX/qinyan-academic-skills
 
+今日增长: +6
+当前Stars: 862
+
+
+## aurekaresearch/OpenDDE
+
+今日增长: +6
+当前Stars: 442
+
+
+## ai4s-research/awesome-ai-for-science
+
+今日增长: +4
+当前Stars: 1930
+
+
+## Tyche-MKR/scientific-agent-skills
+
+今日增长: +3
+当前Stars: 63
+
+
+## deepchem/deepchem
+
 今日增长: +2
-当前Stars: 856
+当前Stars: 6972
+
+
+## NVIDIA-BioNeMo/bionemo-recipes
+
+今日增长: +2
+当前Stars: 850
+
+
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +2
+当前Stars: 359
 
 
 ## NVIDIA/nvalchemi-toolkit
 
 今日增长: +2
-当前Stars: 154
+当前Stars: 156
 
 
-## deepchem/deepchem
-
-今日增长: +1
-当前Stars: 6970
-
-
-## aurekaresearch/OpenDDE
+## kjappelbaum/awesome-chemistry-datasets
 
 今日增长: +1
-当前Stars: 436
-
-
-## PatWalters/resources_2025
-
-今日增长: +1
-当前Stars: 267
-
-
-## dockstring/dockstring
-
-今日增长: +1
-当前Stars: 190
-
-
-## schwallergroup/ai4chem_course
-
-今日增长: +1
-当前Stars: 291
-
-
-## SimonsTang/feifei-companion
-
-今日增长: +1
-当前Stars: 101
+当前Stars: 422
 
 
 ## rdkit/rdkit
 
 今日增长: +1
-当前Stars: 3572
+当前Stars: 3573
+
+
+## jensengroup/xyz2mol
+
+今日增长: +1
+当前Stars: 305
+
+
+## RadonPy/RadonPy
+
+今日增长: +1
+当前Stars: 277
 
 
 ## NVIDIA-BioNeMo/genmol
 
 今日增长: +1
-当前Stars: 199
+当前Stars: 200
 
 
-## Laboratoire-de-Chemoinformatique/SynPlanner
+## deepforestsci/DeepRetro
 
 今日增长: +1
-当前Stars: 59
+当前Stars: 31
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 40969
+当前Stars: 41713
 
 
 ## DeepGraphLearning/torchdrug
 
 今日增长: +0
 当前Stars: 1587
-
-
-## NVIDIA-BioNeMo/bionemo-recipes
-
-今日增长: +0
-当前Stars: 848
 
 
 ## xjtulyc/MedgeClaw
@@ -223,12 +229,6 @@ Score: 4.11
 当前Stars: 339
 
 
-## DeepWism/DeepWism-miRNA
-
-今日增长: +0
-当前Stars: 329
-
-
 
 # 🔥 GitHub 真实热门榜（24h）
 
@@ -249,8 +249,8 @@ https://github.com/tt-a1i/archify
 
 📝 中文简介: 使用 TypeScript 开发。
 📄 英文原文: Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
-⭐ 当日新增: +2824
-总 Stars: 27895
+⭐ 当日新增: +3128
+总 Stars: 29795
 语言: TypeScript
 https://github.com/THU-MAIC/OpenMAIC
 
@@ -273,16 +273,6 @@ https://github.com/mattpocock/skills
 总 Stars: 32464
 语言: Swift
 https://github.com/permissionlesstech/bitchat
-
-
-## K-Dense-AI/scientific-agent-skills
-
-📝 中文简介: 使用 Python 开发；主要方向：agent-skills、ai-scientist、生物信息学、chemoinformatics、claude、claude-skills、claudecode、clinical-research、computational-biology、data-analysis、药物发现、基因组学、materials-science、metabolomics、proteomics、scientific-computing、scientific-visualization。
-📄 英文原文: Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
-⭐ 当日新增: +1980
-总 Stars: 40969
-语言: Python
-https://github.com/K-Dense-AI/scientific-agent-skills
 
 
 ## microsoft/AI-For-Beginners
@@ -433,4 +423,14 @@ https://github.com/AprilNEA/OpenLogi
 总 Stars: 31346
 语言: Shell
 https://github.com/basecamp/omarchy
+
+
+## TencentCloud/TencentDB-Agent-Memory
+
+📝 中文简介: 使用 TypeScript 开发；主要方向：智能体、ai-agent、embedding、大语言模型、local-first、long-term-memory、memory、openclaw-plugin、vector-search。
+📄 英文原文: TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
+⭐ 当日新增: +1057
+总 Stars: 16603
+语言: TypeScript
+https://github.com/TencentCloud/TencentDB-Agent-Memory
 
