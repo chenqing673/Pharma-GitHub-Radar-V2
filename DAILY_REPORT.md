@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 41713
-Score: 658.98
+⭐ Stars: 42166
+Score: 665.31
 
 ### deepchem/deepchem
 
 ⭐ Stars: 6972
-Score: 234.57
+Score: 234.67
 
 ### rdkit/rdkit
 
-⭐ Stars: 3573
-Score: 88.28
+⭐ Stars: 3574
+Score: 88.29
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1930
-Score: 30.8
+⭐ Stars: 1934
+Score: 30.84
 
 ### DeepGraphLearning/torchdrug
 
@@ -36,8 +36,8 @@ Score: 23.88
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 862
-Score: 12.27
+⭐ Stars: 863
+Score: 12.33
 
 ### MolecularAI/REINVENT4
 
@@ -61,8 +61,8 @@ Score: 15.45
 
 ### datamol-io/datamol
 
-⭐ Stars: 546
-Score: 8.71
+⭐ Stars: 547
+Score: 8.72
 
 ### chemosim-lab/ProLIF
 
@@ -74,15 +74,15 @@ Score: 10.46
 ⭐ Stars: 470
 Score: 11.1
 
+### aurekaresearch/OpenDDE
+
+⭐ Stars: 443
+Score: 7.08
+
 ### wengong-jin/hgraph2graph
 
 ⭐ Stars: 443
 Score: 10.73
-
-### aurekaresearch/OpenDDE
-
-⭐ Stars: 442
-Score: 7.02
 
 ### kjappelbaum/awesome-chemistry-datasets
 
@@ -96,8 +96,8 @@ Score: 8.42
 
 ### maabuu/posebusters
 
-⭐ Stars: 401
-Score: 5.41
+⭐ Stars: 402
+Score: 5.42
 
 ### qinheming/BIoClaw
 
@@ -109,100 +109,82 @@ Score: 4.11
 # 🚀 Star快速增长榜
 
 
-## LeonChaoX/qinyan-academic-skills
+## Tyche-MKR/scientific-agent-skills
 
-今日增长: +6
-当前Stars: 862
-
-
-## aurekaresearch/OpenDDE
-
-今日增长: +6
-当前Stars: 442
+今日增长: +35
+当前Stars: 98
 
 
 ## ai4s-research/awesome-ai-for-science
 
 今日增长: +4
-当前Stars: 1930
+当前Stars: 1934
 
 
-## Tyche-MKR/scientific-agent-skills
+## LeonChaoX/qinyan-academic-skills
 
-今日增长: +3
-当前Stars: 63
-
-
-## deepchem/deepchem
-
-今日增长: +2
-当前Stars: 6972
+今日增长: +1
+当前Stars: 863
 
 
-## NVIDIA-BioNeMo/bionemo-recipes
+## aurekaresearch/OpenDDE
 
-今日增长: +2
-当前Stars: 850
+今日增长: +1
+当前Stars: 443
 
 
-## jaechang-hits/SciAgent-Skills
+## argonne-lcf/ChemGraph
 
-今日增长: +2
-当前Stars: 359
+今日增长: +1
+当前Stars: 150
 
 
 ## NVIDIA/nvalchemi-toolkit
 
-今日增长: +2
-当前Stars: 156
-
-
-## kjappelbaum/awesome-chemistry-datasets
-
 今日增长: +1
-当前Stars: 422
+当前Stars: 157
 
 
 ## rdkit/rdkit
 
 今日增长: +1
-当前Stars: 3573
+当前Stars: 3574
 
 
-## jensengroup/xyz2mol
-
-今日增长: +1
-当前Stars: 305
-
-
-## RadonPy/RadonPy
+## datamol-io/datamol
 
 今日增长: +1
-当前Stars: 277
+当前Stars: 547
 
 
-## NVIDIA-BioNeMo/genmol
-
-今日增长: +1
-当前Stars: 200
-
-
-## deepforestsci/DeepRetro
+## maabuu/posebusters
 
 今日增长: +1
-当前Stars: 31
+当前Stars: 402
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 41713
+当前Stars: 42166
+
+
+## deepchem/deepchem
+
+今日增长: +0
+当前Stars: 6972
 
 
 ## DeepGraphLearning/torchdrug
 
 今日增长: +0
 当前Stars: 1587
+
+
+## NVIDIA-BioNeMo/bionemo-recipes
+
+今日增长: +0
+当前Stars: 850
 
 
 ## xjtulyc/MedgeClaw
@@ -229,6 +211,24 @@ Score: 4.11
 当前Stars: 339
 
 
+## DeepWism/DeepWism-miRNA
+
+今日增长: +0
+当前Stars: 329
+
+
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +0
+当前Stars: 359
+
+
+## AstraZeneca/awesome-drug-discovery-knowledge-graphs
+
+今日增长: +0
+当前Stars: 269
+
+
 
 # 🔥 GitHub 真实热门榜（24h）
 
@@ -253,16 +253,6 @@ https://github.com/tt-a1i/archify
 总 Stars: 29795
 语言: TypeScript
 https://github.com/THU-MAIC/OpenMAIC
-
-
-## mattpocock/skills
-
-📝 中文简介: 使用 Shell 脚本 开发。
-📄 英文原文: Skills for Real Engineers. Straight from my .agents directory.
-⭐ 当日新增: +2447
-总 Stars: 233970
-语言: Shell
-https://github.com/mattpocock/skills
 
 
 ## permissionlesstech/bitchat
@@ -339,8 +329,8 @@ https://github.com/amadeusprotocol/node
 
 📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：agent-skills、ai-agents、claude、claude-code、claude-code-plugin、cursor-rules、developer-tools、大语言模型、prompt-engineering、yagni。
 📄 英文原文: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-⭐ 当日新增: +1396
-总 Stars: 115702
+⭐ 当日新增: +1354
+总 Stars: 122072
 语言: JavaScript
 https://github.com/DietrichGebert/ponytail
 
@@ -393,6 +383,16 @@ https://github.com/semantica-agi/semantica
 总 Stars: 118185
 语言: Rust
 https://github.com/openai/codex
+
+
+## mattpocock/skills
+
+📝 中文简介: 使用 Shell 脚本 开发。
+📄 英文原文: Skills for Real Engineers. Straight from my .agents directory.
+⭐ 当日新增: +1166
+总 Stars: 245506
+语言: Shell
+https://github.com/mattpocock/skills
 
 
 ## PrimeIntellect-ai/prime-agent
