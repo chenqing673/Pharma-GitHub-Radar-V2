@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 42166
-Score: 665.31
+⭐ Stars: 42445
+Score: 668.95
 
 ### deepchem/deepchem
 
-⭐ Stars: 6972
-Score: 234.67
+⭐ Stars: 6973
+Score: 234.68
 
 ### rdkit/rdkit
 
-⭐ Stars: 3574
-Score: 88.29
+⭐ Stars: 3575
+Score: 88.3
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1934
-Score: 30.84
+⭐ Stars: 1938
+Score: 30.93
 
 ### DeepGraphLearning/torchdrug
 
@@ -36,18 +36,18 @@ Score: 23.88
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 863
-Score: 12.33
+⭐ Stars: 867
+Score: 12.37
 
 ### MolecularAI/REINVENT4
 
 ⭐ Stars: 852
-Score: 19.97
+Score: 20.02
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
-⭐ Stars: 850
-Score: 17.35
+⭐ Stars: 851
+Score: 17.41
 
 ### xjtulyc/MedgeClaw
 
@@ -56,8 +56,8 @@ Score: 13.86
 
 ### wengong-jin/icml18-jtnn
 
-⭐ Stars: 565
-Score: 15.45
+⭐ Stars: 566
+Score: 15.46
 
 ### datamol-io/datamol
 
@@ -66,8 +66,8 @@ Score: 8.72
 
 ### chemosim-lab/ProLIF
 
-⭐ Stars: 536
-Score: 10.46
+⭐ Stars: 537
+Score: 10.47
 
 ### oddt/oddt
 
@@ -76,8 +76,8 @@ Score: 11.1
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 443
-Score: 7.08
+⭐ Stars: 445
+Score: 7.1
 
 ### wengong-jin/hgraph2graph
 
@@ -86,8 +86,8 @@ Score: 10.73
 
 ### kjappelbaum/awesome-chemistry-datasets
 
-⭐ Stars: 422
-Score: 7.12
+⭐ Stars: 423
+Score: 7.13
 
 ### MinkaiXu/GeoDiff
 
@@ -109,82 +109,76 @@ Score: 4.11
 # 🚀 Star快速增长榜
 
 
-## Tyche-MKR/scientific-agent-skills
+## LeonChaoX/qinyan-academic-skills
 
-今日增长: +35
-当前Stars: 98
+今日增长: +4
+当前Stars: 867
 
 
 ## ai4s-research/awesome-ai-for-science
 
 今日增长: +4
-当前Stars: 1934
-
-
-## LeonChaoX/qinyan-academic-skills
-
-今日增长: +1
-当前Stars: 863
+当前Stars: 1938
 
 
 ## aurekaresearch/OpenDDE
 
-今日增长: +1
-当前Stars: 443
-
-
-## argonne-lcf/ChemGraph
-
-今日增长: +1
-当前Stars: 150
+今日增长: +2
+当前Stars: 445
 
 
 ## NVIDIA/nvalchemi-toolkit
 
+今日增长: +2
+当前Stars: 159
+
+
+## deepchem/deepchem
+
 今日增长: +1
-当前Stars: 157
+当前Stars: 6973
+
+
+## NVIDIA-BioNeMo/bionemo-recipes
+
+今日增长: +1
+当前Stars: 851
+
+
+## kjappelbaum/awesome-chemistry-datasets
+
+今日增长: +1
+当前Stars: 423
 
 
 ## rdkit/rdkit
 
 今日增长: +1
-当前Stars: 3574
+当前Stars: 3575
 
 
-## datamol-io/datamol
-
-今日增长: +1
-当前Stars: 547
-
-
-## maabuu/posebusters
+## chemosim-lab/ProLIF
 
 今日增长: +1
-当前Stars: 402
+当前Stars: 537
+
+
+## wengong-jin/icml18-jtnn
+
+今日增长: +1
+当前Stars: 566
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 42166
-
-
-## deepchem/deepchem
-
-今日增长: +0
-当前Stars: 6972
+当前Stars: 42445
 
 
 ## DeepGraphLearning/torchdrug
 
 今日增长: +0
 当前Stars: 1587
-
-
-## NVIDIA-BioNeMo/bionemo-recipes
-
-今日增长: +0
-当前Stars: 850
 
 
 ## xjtulyc/MedgeClaw
@@ -229,6 +223,12 @@ Score: 4.11
 当前Stars: 269
 
 
+## PatWalters/resources_2025
+
+今日增长: +0
+当前Stars: 267
+
+
 
 # 🔥 GitHub 真实热门榜（24h）
 
@@ -265,6 +265,16 @@ https://github.com/THU-MAIC/OpenMAIC
 https://github.com/permissionlesstech/bitchat
 
 
+## DietrichGebert/ponytail
+
+📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：agent-skills、ai-agents、claude、claude-code、claude-code-plugin、cursor-rules、developer-tools、大语言模型、prompt-engineering、yagni。
+📄 英文原文: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+⭐ 当日新增: +2128
+总 Stars: 123787
+语言: JavaScript
+https://github.com/DietrichGebert/ponytail
+
+
 ## microsoft/AI-For-Beginners
 
 📝 中文简介: 使用 Jupyter  notebooks（数据科学） 开发；主要方向：ai、人工智能、cnn、计算机视觉、深度学习、gan、机器学习、microsoft-for-beginners、nlp、rnn。
@@ -295,6 +305,26 @@ https://github.com/bilawalsidhu/gods-eye-view
 https://github.com/freestylefly/awesome-gpt-image-2
 
 
+## debpalash/VoiceStudio
+
+📝 中文简介: 使用 Python 开发；主要方向：ai、audiobook、cuda、dubbing、elevenlabs-alternative、huggingface、local-first、mlx、omnivoice-studio、speech-to-text、tauri、text-to-speech、transcription、translate、tts、voice-ai、voice-cloning、voice-generation、voicestudio、workflow。
+📄 英文原文: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+⭐ 当日新增: +1672
+总 Stars: 16561
+语言: Python
+https://github.com/debpalash/VoiceStudio
+
+
+## google-research/timesfm
+
+📝 中文简介: 使用 Python 开发。
+📄 英文原文: TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+⭐ 当日新增: +1618
+总 Stars: 30775
+语言: Python
+https://github.com/google-research/timesfm
+
+
 ## cathrynlavery/diagram-design
 
 📝 中文简介: 使用 HTML 开发。
@@ -303,6 +333,16 @@ https://github.com/freestylefly/awesome-gpt-image-2
 总 Stars: 18678
 语言: HTML
 https://github.com/cathrynlavery/diagram-design
+
+
+## mattpocock/skills
+
+📝 中文简介: 使用 Shell 脚本 开发。
+📄 英文原文: Skills for Real Engineers. Straight from my .agents directory.
+⭐ 当日新增: +1601
+总 Stars: 247931
+语言: Shell
+https://github.com/mattpocock/skills
 
 
 ## zhaoxuya520/reverse-skill
@@ -325,16 +365,6 @@ https://github.com/zhaoxuya520/reverse-skill
 https://github.com/amadeusprotocol/node
 
 
-## DietrichGebert/ponytail
-
-📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：agent-skills、ai-agents、claude、claude-code、claude-code-plugin、cursor-rules、developer-tools、大语言模型、prompt-engineering、yagni。
-📄 英文原文: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-⭐ 当日新增: +1354
-总 Stars: 122072
-语言: JavaScript
-https://github.com/DietrichGebert/ponytail
-
-
 ## MadsLorentzen/ai-job-search
 
 📝 中文简介: 使用 Python 开发；主要方向：ai、ai-agents、career、claude-code、cover-letter、cv、interview-preparation、job-application、job-hunting、job-search、latex、resume。
@@ -353,6 +383,16 @@ https://github.com/MadsLorentzen/ai-job-search
 总 Stars: 44059
 语言: TypeScript
 https://github.com/stablyai/orca
+
+
+## blader/humanizer
+
+📝 中文简介: 使用 Python 开发；主要方向：agent-skills、ai-writing、claude-code、codex、cursor、prompt-engineering、writing-tools。
+📄 英文原文: Agent skill that removes signs of AI-generated writing from text
+⭐ 当日新增: +1208
+总 Stars: 41733
+语言: Python
+https://github.com/blader/humanizer
 
 
 ## harry0703/MoneyPrinterTurbo
@@ -385,16 +425,6 @@ https://github.com/semantica-agi/semantica
 https://github.com/openai/codex
 
 
-## mattpocock/skills
-
-📝 中文简介: 使用 Shell 脚本 开发。
-📄 英文原文: Skills for Real Engineers. Straight from my .agents directory.
-⭐ 当日新增: +1166
-总 Stars: 245506
-语言: Shell
-https://github.com/mattpocock/skills
-
-
 ## PrimeIntellect-ai/prime-agent
 
 📝 中文简介: 使用 TypeScript 开发。
@@ -403,34 +433,4 @@ https://github.com/mattpocock/skills
 总 Stars: 14225
 语言: TypeScript
 https://github.com/PrimeIntellect-ai/prime-agent
-
-
-## AprilNEA/OpenLogi
-
-📝 中文简介: 使用 Rust 开发；主要方向：dpi、gpui、hid、hidpp、local-first、logitech、logitech-mouse、logitech-options、mouse-remapping、mx-master、privacy、Rust、smartshift。
-📄 英文原文: ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
-⭐ 当日新增: +1097
-总 Stars: 15922
-语言: Rust
-https://github.com/AprilNEA/OpenLogi
-
-
-## basecamp/omarchy
-
-📝 中文简介: 使用 Shell 脚本 开发。
-📄 英文原文: Beautiful, Modern & Opinionated Linux
-⭐ 当日新增: +1083
-总 Stars: 31346
-语言: Shell
-https://github.com/basecamp/omarchy
-
-
-## TencentCloud/TencentDB-Agent-Memory
-
-📝 中文简介: 使用 TypeScript 开发；主要方向：智能体、ai-agent、embedding、大语言模型、local-first、long-term-memory、memory、openclaw-plugin、vector-search。
-📄 英文原文: TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
-⭐ 当日新增: +1057
-总 Stars: 16603
-语言: TypeScript
-https://github.com/TencentCloud/TencentDB-Agent-Memory
 
