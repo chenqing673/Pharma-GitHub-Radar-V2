@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 42445
-Score: 668.95
+⭐ Stars: 42688
+Score: 672.33
 
 ### deepchem/deepchem
 
-⭐ Stars: 6973
-Score: 234.68
+⭐ Stars: 6975
+Score: 234.8
 
 ### rdkit/rdkit
 
-⭐ Stars: 3575
-Score: 88.3
+⭐ Stars: 3574
+Score: 88.34
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1938
-Score: 30.93
+⭐ Stars: 1940
+Score: 30.95
 
 ### DeepGraphLearning/torchdrug
 
@@ -37,22 +37,22 @@ Score: 23.88
 ### LeonChaoX/qinyan-academic-skills
 
 ⭐ Stars: 867
-Score: 12.37
+Score: 12.42
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 852
-Score: 20.02
+⭐ Stars: 853
+Score: 20.03
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
 ⭐ Stars: 851
-Score: 17.41
+Score: 17.46
 
 ### xjtulyc/MedgeClaw
 
-⭐ Stars: 641
-Score: 13.86
+⭐ Stars: 642
+Score: 13.87
 
 ### wengong-jin/icml18-jtnn
 
@@ -67,7 +67,7 @@ Score: 8.72
 ### chemosim-lab/ProLIF
 
 ⭐ Stars: 537
-Score: 10.47
+Score: 10.52
 
 ### oddt/oddt
 
@@ -76,13 +76,13 @@ Score: 11.1
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 445
-Score: 7.1
+⭐ Stars: 446
+Score: 7.11
 
 ### wengong-jin/hgraph2graph
 
-⭐ Stars: 443
-Score: 10.73
+⭐ Stars: 444
+Score: 10.74
 
 ### kjappelbaum/awesome-chemistry-datasets
 
@@ -109,70 +109,70 @@ Score: 4.11
 # 🚀 Star快速增长榜
 
 
-## LeonChaoX/qinyan-academic-skills
+## deepchem/deepchem
 
-今日增长: +4
-当前Stars: 867
+今日增长: +2
+当前Stars: 6975
 
 
 ## ai4s-research/awesome-ai-for-science
 
-今日增长: +4
-当前Stars: 1938
+今日增长: +2
+当前Stars: 1940
+
+
+## Tyche-MKR/scientific-agent-skills
+
+今日增长: +2
+当前Stars: 100
+
+
+## xjtulyc/MedgeClaw
+
+今日增长: +1
+当前Stars: 642
 
 
 ## aurekaresearch/OpenDDE
 
-今日增长: +2
-当前Stars: 445
+今日增长: +1
+当前Stars: 446
 
 
-## NVIDIA/nvalchemi-toolkit
-
-今日增长: +2
-当前Stars: 159
-
-
-## deepchem/deepchem
+## jaechang-hits/SciAgent-Skills
 
 今日增长: +1
-当前Stars: 6973
+当前Stars: 360
 
 
-## NVIDIA-BioNeMo/bionemo-recipes
-
-今日增长: +1
-当前Stars: 851
-
-
-## kjappelbaum/awesome-chemistry-datasets
+## MolecularAI/REINVENT4
 
 今日增长: +1
-当前Stars: 423
+当前Stars: 853
 
 
-## rdkit/rdkit
-
-今日增长: +1
-当前Stars: 3575
-
-
-## chemosim-lab/ProLIF
+## JacksonBurns/fastsolv
 
 今日增长: +1
-当前Stars: 537
+当前Stars: 53
 
 
-## wengong-jin/icml18-jtnn
+## basf/MolPipeline
 
 今日增长: +1
-当前Stars: 566
+当前Stars: 229
+
+
+## wengong-jin/hgraph2graph
+
+今日增长: +1
+当前Stars: 444
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 42445
+当前Stars: 42688
 
 
 ## DeepGraphLearning/torchdrug
@@ -181,10 +181,16 @@ Score: 4.11
 当前Stars: 1587
 
 
-## xjtulyc/MedgeClaw
+## NVIDIA-BioNeMo/bionemo-recipes
 
 今日增长: +0
-当前Stars: 641
+当前Stars: 851
+
+
+## LeonChaoX/qinyan-academic-skills
+
+今日增长: +0
+当前Stars: 867
 
 
 ## oddt/oddt
@@ -209,12 +215,6 @@ Score: 4.11
 
 今日增长: +0
 当前Stars: 329
-
-
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +0
-当前Stars: 359
 
 
 ## AstraZeneca/awesome-drug-discovery-knowledge-graphs
@@ -255,6 +255,16 @@ https://github.com/tt-a1i/archify
 https://github.com/THU-MAIC/OpenMAIC
 
 
+## mattpocock/skills
+
+📝 中文简介: 使用 Shell 脚本 开发。
+📄 英文原文: Skills for Real Engineers. Straight from my .agents directory.
+⭐ 当日新增: +2758
+总 Stars: 250726
+语言: Shell
+https://github.com/mattpocock/skills
+
+
 ## permissionlesstech/bitchat
 
 📝 中文简介: 使用 Swift 开发；主要方向：bluetooth、bluetooth-le、decentralized、e2e-encryption、iOS、macOS、mesh-network、messaging、nostr、Swift。
@@ -263,16 +273,6 @@ https://github.com/THU-MAIC/OpenMAIC
 总 Stars: 32464
 语言: Swift
 https://github.com/permissionlesstech/bitchat
-
-
-## DietrichGebert/ponytail
-
-📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：agent-skills、ai-agents、claude、claude-code、claude-code-plugin、cursor-rules、developer-tools、大语言模型、prompt-engineering、yagni。
-📄 英文原文: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-⭐ 当日新增: +2128
-总 Stars: 123787
-语言: JavaScript
-https://github.com/DietrichGebert/ponytail
 
 
 ## microsoft/AI-For-Beginners
@@ -305,44 +305,14 @@ https://github.com/bilawalsidhu/gods-eye-view
 https://github.com/freestylefly/awesome-gpt-image-2
 
 
-## debpalash/VoiceStudio
+## DietrichGebert/ponytail
 
-📝 中文简介: 使用 Python 开发；主要方向：ai、audiobook、cuda、dubbing、elevenlabs-alternative、huggingface、local-first、mlx、omnivoice-studio、speech-to-text、tauri、text-to-speech、transcription、translate、tts、voice-ai、voice-cloning、voice-generation、voicestudio、workflow。
-📄 英文原文: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-⭐ 当日新增: +1672
-总 Stars: 16561
-语言: Python
-https://github.com/debpalash/VoiceStudio
-
-
-## google-research/timesfm
-
-📝 中文简介: 使用 Python 开发。
-📄 英文原文: TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
-⭐ 当日新增: +1618
-总 Stars: 30775
-语言: Python
-https://github.com/google-research/timesfm
-
-
-## cathrynlavery/diagram-design
-
-📝 中文简介: 使用 HTML 开发。
-📄 英文原文: 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
-⭐ 当日新增: +1607
-总 Stars: 18678
-语言: HTML
-https://github.com/cathrynlavery/diagram-design
-
-
-## mattpocock/skills
-
-📝 中文简介: 使用 Shell 脚本 开发。
-📄 英文原文: Skills for Real Engineers. Straight from my .agents directory.
-⭐ 当日新增: +1601
-总 Stars: 247931
-语言: Shell
-https://github.com/mattpocock/skills
+📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：agent-skills、ai-agents、claude、claude-code、claude-code-plugin、cursor-rules、developer-tools、大语言模型、prompt-engineering、yagni。
+📄 英文原文: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+⭐ 当日新增: +1679
+总 Stars: 126471
+语言: JavaScript
+https://github.com/DietrichGebert/ponytail
 
 
 ## zhaoxuya520/reverse-skill
@@ -365,6 +335,16 @@ https://github.com/zhaoxuya520/reverse-skill
 https://github.com/amadeusprotocol/node
 
 
+## debpalash/VoiceStudio
+
+📝 中文简介: 使用 Python 开发；主要方向：ai、audiobook、cuda、dubbing、elevenlabs-alternative、huggingface、local-first、mlx、omnivoice-studio、speech-to-text、tauri、text-to-speech、transcription、translate、tts、voice-ai、voice-cloning、voice-generation、voicestudio、workflow。
+📄 英文原文: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+⭐ 当日新增: +1345
+总 Stars: 18231
+语言: Python
+https://github.com/debpalash/VoiceStudio
+
+
 ## MadsLorentzen/ai-job-search
 
 📝 中文简介: 使用 Python 开发；主要方向：ai、ai-agents、career、claude-code、cover-letter、cv、interview-preparation、job-application、job-hunting、job-search、latex、resume。
@@ -383,16 +363,6 @@ https://github.com/MadsLorentzen/ai-job-search
 总 Stars: 44059
 语言: TypeScript
 https://github.com/stablyai/orca
-
-
-## blader/humanizer
-
-📝 中文简介: 使用 Python 开发；主要方向：agent-skills、ai-writing、claude-code、codex、cursor、prompt-engineering、writing-tools。
-📄 英文原文: Agent skill that removes signs of AI-generated writing from text
-⭐ 当日新增: +1208
-总 Stars: 41733
-语言: Python
-https://github.com/blader/humanizer
 
 
 ## harry0703/MoneyPrinterTurbo
@@ -433,4 +403,34 @@ https://github.com/openai/codex
 总 Stars: 14225
 语言: TypeScript
 https://github.com/PrimeIntellect-ai/prime-agent
+
+
+## affaan-m/ECC
+
+📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：ai-agents、anthropic、claude、claude-code、developer-tools、大语言模型、mcp、productivity。
+📄 英文原文: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+⭐ 当日新增: +1135
+总 Stars: 248685
+语言: JavaScript
+https://github.com/affaan-m/ECC
+
+
+## blader/humanizer
+
+📝 中文简介: 使用 Python 开发；主要方向：agent-skills、ai-writing、claude-code、codex、cursor、prompt-engineering、writing-tools。
+📄 英文原文: Agent skill that removes signs of AI-generated writing from text
+⭐ 当日新增: +1130
+总 Stars: 42868
+语言: Python
+https://github.com/blader/humanizer
+
+
+## AprilNEA/OpenLogi
+
+📝 中文简介: 使用 Rust 开发；主要方向：dpi、gpui、hid、hidpp、local-first、logitech、logitech-mouse、logitech-options、mouse-remapping、mx-master、privacy、Rust、smartshift。
+📄 英文原文: ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
+⭐ 当日新增: +1097
+总 Stars: 15922
+语言: Rust
+https://github.com/AprilNEA/OpenLogi
 
