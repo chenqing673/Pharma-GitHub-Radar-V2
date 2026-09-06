@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 42688
-Score: 672.33
+⭐ Stars: 43023
+Score: 676.68
 
 ### deepchem/deepchem
 
-⭐ Stars: 6975
-Score: 234.8
+⭐ Stars: 6976
+Score: 234.81
 
 ### rdkit/rdkit
 
-⭐ Stars: 3574
-Score: 88.34
+⭐ Stars: 3575
+Score: 88.35
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1940
-Score: 30.95
+⭐ Stars: 1942
+Score: 30.97
 
 ### DeepGraphLearning/torchdrug
 
@@ -36,8 +36,8 @@ Score: 23.88
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 867
-Score: 12.42
+⭐ Stars: 871
+Score: 12.51
 
 ### MolecularAI/REINVENT4
 
@@ -46,8 +46,8 @@ Score: 20.03
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
-⭐ Stars: 851
-Score: 17.46
+⭐ Stars: 852
+Score: 17.47
 
 ### xjtulyc/MedgeClaw
 
@@ -76,8 +76,8 @@ Score: 11.1
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 446
-Score: 7.11
+⭐ Stars: 448
+Score: 7.08
 
 ### wengong-jin/hgraph2graph
 
@@ -109,70 +109,88 @@ Score: 4.11
 # 🚀 Star快速增长榜
 
 
-## deepchem/deepchem
+## LeonChaoX/qinyan-academic-skills
+
+今日增长: +4
+当前Stars: 871
+
+
+## aurekaresearch/OpenDDE
 
 今日增长: +2
-当前Stars: 6975
+当前Stars: 448
 
 
 ## ai4s-research/awesome-ai-for-science
 
 今日增长: +2
-当前Stars: 1940
+当前Stars: 1942
 
 
-## Tyche-MKR/scientific-agent-skills
-
-今日增长: +2
-当前Stars: 100
-
-
-## xjtulyc/MedgeClaw
+## deepchem/deepchem
 
 今日增长: +1
-当前Stars: 642
+当前Stars: 6976
 
 
-## aurekaresearch/OpenDDE
+## NVIDIA-BioNeMo/bionemo-recipes
 
 今日增长: +1
-当前Stars: 446
+当前Stars: 852
 
 
 ## jaechang-hits/SciAgent-Skills
 
 今日增长: +1
-当前Stars: 360
+当前Stars: 361
 
 
-## MolecularAI/REINVENT4
-
-今日增长: +1
-当前Stars: 853
-
-
-## JacksonBurns/fastsolv
+## benb111/awesome-small-molecule-ml
 
 今日增长: +1
-当前Stars: 53
+当前Stars: 243
+
+
+## argonne-lcf/ChemGraph
+
+今日增长: +1
+当前Stars: 151
+
+
+## SimonsTang/feifei-companion
+
+今日增长: +1
+当前Stars: 102
+
+
+## rdkit/rdkit
+
+今日增长: +1
+当前Stars: 3575
+
+
+## RadonPy/RadonPy
+
+今日增长: +1
+当前Stars: 278
 
 
 ## basf/MolPipeline
 
 今日增长: +1
-当前Stars: 229
+当前Stars: 230
 
 
-## wengong-jin/hgraph2graph
+## NVIDIA-BioNeMo/nvMolKit
 
 今日增长: +1
-当前Stars: 444
+当前Stars: 274
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 42688
+当前Stars: 43023
 
 
 ## DeepGraphLearning/torchdrug
@@ -181,16 +199,10 @@ Score: 4.11
 当前Stars: 1587
 
 
-## NVIDIA-BioNeMo/bionemo-recipes
+## xjtulyc/MedgeClaw
 
 今日增长: +0
-当前Stars: 851
-
-
-## LeonChaoX/qinyan-academic-skills
-
-今日增长: +0
-当前Stars: 867
+当前Stars: 642
 
 
 ## oddt/oddt
@@ -215,18 +227,6 @@ Score: 4.11
 
 今日增长: +0
 当前Stars: 329
-
-
-## AstraZeneca/awesome-drug-discovery-knowledge-graphs
-
-今日增长: +0
-当前Stars: 269
-
-
-## PatWalters/resources_2025
-
-今日增长: +0
-当前Stars: 267
 
 
 
@@ -255,12 +255,22 @@ https://github.com/tt-a1i/archify
 https://github.com/THU-MAIC/OpenMAIC
 
 
+## DietrichGebert/ponytail
+
+📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：agent-skills、ai-agents、claude、claude-code、claude-code-plugin、cursor-rules、developer-tools、大语言模型、prompt-engineering、yagni。
+📄 英文原文: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+⭐ 当日新增: +2845
+总 Stars: 128218
+语言: JavaScript
+https://github.com/DietrichGebert/ponytail
+
+
 ## mattpocock/skills
 
 📝 中文简介: 使用 Shell 脚本 开发。
 📄 英文原文: Skills for Real Engineers. Straight from my .agents directory.
-⭐ 当日新增: +2758
-总 Stars: 250726
+⭐ 当日新增: +2692
+总 Stars: 253000
 语言: Shell
 https://github.com/mattpocock/skills
 
@@ -305,16 +315,6 @@ https://github.com/bilawalsidhu/gods-eye-view
 https://github.com/freestylefly/awesome-gpt-image-2
 
 
-## DietrichGebert/ponytail
-
-📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：agent-skills、ai-agents、claude、claude-code、claude-code-plugin、cursor-rules、developer-tools、大语言模型、prompt-engineering、yagni。
-📄 英文原文: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-⭐ 当日新增: +1679
-总 Stars: 126471
-语言: JavaScript
-https://github.com/DietrichGebert/ponytail
-
-
 ## zhaoxuya520/reverse-skill
 
 📝 中文简介: 使用 PowerShell 开发。
@@ -343,6 +343,16 @@ https://github.com/amadeusprotocol/node
 总 Stars: 18231
 语言: Python
 https://github.com/debpalash/VoiceStudio
+
+
+## affaan-m/ECC
+
+📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：ai-agents、anthropic、claude、claude-code、developer-tools、大语言模型、mcp、productivity。
+📄 英文原文: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+⭐ 当日新增: +1314
+总 Stars: 250147
+语言: JavaScript
+https://github.com/affaan-m/ECC
 
 
 ## MadsLorentzen/ai-job-search
@@ -405,26 +415,6 @@ https://github.com/openai/codex
 https://github.com/PrimeIntellect-ai/prime-agent
 
 
-## affaan-m/ECC
-
-📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：ai-agents、anthropic、claude、claude-code、developer-tools、大语言模型、mcp、productivity。
-📄 英文原文: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-⭐ 当日新增: +1135
-总 Stars: 248685
-语言: JavaScript
-https://github.com/affaan-m/ECC
-
-
-## blader/humanizer
-
-📝 中文简介: 使用 Python 开发；主要方向：agent-skills、ai-writing、claude-code、codex、cursor、prompt-engineering、writing-tools。
-📄 英文原文: Agent skill that removes signs of AI-generated writing from text
-⭐ 当日新增: +1130
-总 Stars: 42868
-语言: Python
-https://github.com/blader/humanizer
-
-
 ## AprilNEA/OpenLogi
 
 📝 中文简介: 使用 Rust 开发；主要方向：dpi、gpui、hid、hidpp、local-first、logitech、logitech-mouse、logitech-options、mouse-remapping、mx-master、privacy、Rust、smartshift。
@@ -433,4 +423,14 @@ https://github.com/blader/humanizer
 总 Stars: 15922
 语言: Rust
 https://github.com/AprilNEA/OpenLogi
+
+
+## basecamp/omarchy
+
+📝 中文简介: 使用 Shell 脚本 开发。
+📄 英文原文: Beautiful, Modern & Opinionated Linux
+⭐ 当日新增: +1083
+总 Stars: 31346
+语言: Shell
+https://github.com/basecamp/omarchy
 
