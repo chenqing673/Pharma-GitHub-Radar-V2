@@ -6,18 +6,18 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 43396
-Score: 681.56
+⭐ Stars: 43676
+Score: 685.56
 
 ### deepchem/deepchem
 
-⭐ Stars: 6976
-Score: 234.81
+⭐ Stars: 6977
+Score: 234.87
 
 ### rdkit/rdkit
 
-⭐ Stars: 3577
-Score: 88.37
+⭐ Stars: 3580
+Score: 88.45
 
 ### ai4s-research/awesome-ai-for-science
 
@@ -36,8 +36,8 @@ Score: 23.88
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 872
-Score: 12.52
+⭐ Stars: 874
+Score: 12.54
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
@@ -76,8 +76,8 @@ Score: 11.1
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 450
-Score: 7.15
+⭐ Stars: 456
+Score: 7.31
 
 ### wengong-jin/hgraph2graph
 
@@ -101,78 +101,84 @@ Score: 5.42
 
 ### qinheming/BIoClaw
 
-⭐ Stars: 376
-Score: 4.11
+⭐ Stars: 377
+Score: 4.12
 
 
 
 # 🚀 Star快速增长榜
 
 
-## ai4s-research/awesome-ai-for-science
-
-今日增长: +4
-当前Stars: 1946
-
-
 ## aurekaresearch/OpenDDE
 
-今日增长: +2
-当前Stars: 450
+今日增长: +6
+当前Stars: 456
 
 
 ## rdkit/rdkit
 
-今日增长: +2
-当前Stars: 3577
-
-
-## NVIDIA-BioNeMo/bionemo-recipes
-
-今日增长: +1
-当前Stars: 853
+今日增长: +3
+当前Stars: 3580
 
 
 ## LeonChaoX/qinyan-academic-skills
 
-今日增长: +1
-当前Stars: 872
+今日增长: +2
+当前Stars: 874
 
 
-## dralgroup/mlatom
-
-今日增长: +1
-当前Stars: 161
-
-
-## datamol-io/datamol
+## deepchem/deepchem
 
 今日增长: +1
-当前Stars: 548
+当前Stars: 6977
 
 
-## gmh14/data_efficient_grammar
+## AstraZeneca/awesome-drug-discovery-knowledge-graphs
 
 今日增长: +1
-当前Stars: 102
+当前Stars: 270
+
+
+## argonne-lcf/ChemGraph
+
+今日增长: +1
+当前Stars: 152
+
+
+## qinheming/BIoClaw
+
+今日增长: +1
+当前Stars: 377
+
+
+## rdkit/rdkit-tutorials
+
+今日增长: +1
+当前Stars: 314
+
+
+## RadonPy/RadonPy
+
+今日增长: +1
+当前Stars: 279
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 43396
-
-
-## deepchem/deepchem
-
-今日增长: +0
-当前Stars: 6976
+当前Stars: 43676
 
 
 ## DeepGraphLearning/torchdrug
 
 今日增长: +0
 当前Stars: 1587
+
+
+## NVIDIA-BioNeMo/bionemo-recipes
+
+今日增长: +0
+当前Stars: 853
 
 
 ## xjtulyc/MedgeClaw
@@ -209,12 +215,6 @@ Score: 4.11
 
 今日增长: +0
 当前Stars: 361
-
-
-## AstraZeneca/awesome-drug-discovery-knowledge-graphs
-
-今日增长: +0
-当前Stars: 269
 
 
 ## PatWalters/resources_2025
@@ -285,6 +285,16 @@ https://github.com/mattpocock/skills
 https://github.com/microsoft/AI-For-Beginners
 
 
+## affaan-m/ECC
+
+📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：ai-agents、anthropic、claude、claude-code、developer-tools、大语言模型、mcp、productivity。
+📄 英文原文: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+⭐ 当日新增: +1897
+总 Stars: 253137
+语言: JavaScript
+https://github.com/affaan-m/ECC
+
+
 ## bilawalsidhu/gods-eye-view
 
 📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：3d-globe、cesium、flight-tracking、geospatial、geospatial-intelligence、gis、osint、photogrammetry、satellite-tracking、spatial-intelligence、webgl、worldview。
@@ -313,16 +323,6 @@ https://github.com/freestylefly/awesome-gpt-image-2
 总 Stars: 129791
 语言: JavaScript
 https://github.com/DietrichGebert/ponytail
-
-
-## affaan-m/ECC
-
-📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：ai-agents、anthropic、claude、claude-code、developer-tools、大语言模型、mcp、productivity。
-📄 英文原文: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-⭐ 当日新增: +1485
-总 Stars: 251759
-语言: JavaScript
-https://github.com/affaan-m/ECC
 
 
 ## zhaoxuya520/reverse-skill
