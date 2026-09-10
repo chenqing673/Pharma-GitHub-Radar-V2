@@ -6,18 +6,18 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 43937
-Score: 688.97
+⭐ Stars: 44149
+Score: 691.84
 
 ### deepchem/deepchem
 
-⭐ Stars: 6979
-Score: 234.94
+⭐ Stars: 6982
+Score: 234.97
 
 ### rdkit/rdkit
 
-⭐ Stars: 3580
-Score: 88.45
+⭐ Stars: 3581
+Score: 88.61
 
 ### ai4s-research/awesome-ai-for-science
 
@@ -36,18 +36,18 @@ Score: 23.88
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 876
-Score: 12.56
+⭐ Stars: 878
+Score: 12.58
+
+### MolecularAI/REINVENT4
+
+⭐ Stars: 856
+Score: 20.06
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
 ⭐ Stars: 853
 Score: 17.53
-
-### MolecularAI/REINVENT4
-
-⭐ Stars: 853
-Score: 20.03
 
 ### xjtulyc/MedgeClaw
 
@@ -66,18 +66,18 @@ Score: 8.74
 
 ### chemosim-lab/ProLIF
 
-⭐ Stars: 537
-Score: 10.52
+⭐ Stars: 538
+Score: 10.53
 
 ### oddt/oddt
 
-⭐ Stars: 470
-Score: 11.1
+⭐ Stars: 471
+Score: 11.11
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 461
-Score: 7.41
+⭐ Stars: 463
+Score: 7.43
 
 ### wengong-jin/hgraph2graph
 
@@ -96,89 +96,83 @@ Score: 8.42
 
 ### maabuu/posebusters
 
-⭐ Stars: 402
-Score: 5.42
+⭐ Stars: 403
+Score: 5.43
 
 ### qinheming/BIoClaw
 
-⭐ Stars: 377
-Score: 4.12
+⭐ Stars: 376
+Score: 4.11
 
 
 
 # 🚀 Star快速增长榜
 
 
-## aurekaresearch/OpenDDE
-
-今日增长: +5
-当前Stars: 461
-
-
 ## deepchem/deepchem
 
-今日增长: +2
-当前Stars: 6979
+今日增长: +3
+当前Stars: 6982
+
+
+## MolecularAI/REINVENT4
+
+今日增长: +3
+当前Stars: 856
 
 
 ## LeonChaoX/qinyan-academic-skills
 
 今日增长: +2
-当前Stars: 876
+当前Stars: 878
 
 
-## ai4s-research/awesome-ai-for-science
-
-今日增长: +2
-当前Stars: 1948
-
-
-## NVIDIA/nvalchemi-toolkit
+## aurekaresearch/OpenDDE
 
 今日增长: +2
-当前Stars: 161
+当前Stars: 463
 
 
-## kaist-amsg/LocalRetro
+## DSPsleeporg/smiles-transformer
 
-今日增长: +2
-当前Stars: 120
+今日增长: +1
+当前Stars: 359
+
+
+## rdkit/rdkit
+
+今日增长: +1
+当前Stars: 3581
+
+
+## chemosim-lab/ProLIF
+
+今日增长: +1
+当前Stars: 538
+
+
+## maabuu/posebusters
+
+今日增长: +1
+当前Stars: 403
+
+
+## deepforestsci/DeepRetro
+
+今日增长: +1
+当前Stars: 32
 
 
 ## Tyche-MKR/scientific-agent-skills
 
-今日增长: +2
-当前Stars: 101
-
-
-## jaechang-hits/SciAgent-Skills
-
 今日增长: +1
-当前Stars: 362
-
-
-## argonne-lcf/ChemGraph
-
-今日增长: +1
-当前Stars: 153
-
-
-## datamol-io/datamol
-
-今日增长: +1
-当前Stars: 549
-
-
-## RadonPy/RadonPy
-
-今日增长: +1
-当前Stars: 280
+当前Stars: 102
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 43937
+当前Stars: 44149
 
 
 ## DeepGraphLearning/torchdrug
@@ -202,13 +196,7 @@ Score: 4.12
 ## oddt/oddt
 
 今日增长: +0
-当前Stars: 470
-
-
-## DSPsleeporg/smiles-transformer
-
-今日增长: +0
-当前Stars: 358
+当前Stars: 471
 
 
 ## dengjianyuan/Survey_AI_Drug_Discovery
@@ -223,16 +211,38 @@ Score: 4.12
 当前Stars: 329
 
 
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +0
+当前Stars: 362
+
+
 ## AstraZeneca/awesome-drug-discovery-knowledge-graphs
 
 今日增长: +0
 当前Stars: 270
 
 
+## PatWalters/resources_2025
+
+今日增长: +0
+当前Stars: 267
+
+
 
 # 🔥 GitHub 真实热门榜（24h）
 
 > 数据来自 github.com/trending（GitHub 官方按 star 增速排名），与上方关键词搜索的「Star 排行榜」不同，反映全站近期真正快速增长的仓库。
+
+
+## ayghri/i-have-adhd
+
+📝 中文简介: 使用 Python 开发；主要方向：adhd、claude-、claude-code-plugin、claude-skills、developer-tools、productivity。
+📄 英文原文: A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+⭐ 当日新增: +4650
+总 Stars: 35392
+语言: Python
+https://github.com/ayghri/i-have-adhd
 
 
 ## tt-a1i/archify
@@ -275,6 +285,16 @@ https://github.com/heygen-com/hyperframes
 https://github.com/permissionlesstech/bitchat
 
 
+## cathrynlavery/diagram-design
+
+📝 中文简介: 使用 HTML 开发；主要方向：agent-skills、claude-code、codex、data-visualization、diagrams、drawio、mermaid、svg。
+📄 英文原文: 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+⭐ 当日新增: +2249
+总 Stars: 36881
+语言: HTML
+https://github.com/cathrynlavery/diagram-design
+
+
 ## mattpocock/skills
 
 📝 中文简介: 使用 Shell 脚本 开发。
@@ -315,16 +335,6 @@ https://github.com/microsoft/AI-For-Beginners
 https://github.com/bilawalsidhu/gods-eye-view
 
 
-## freestylefly/awesome-gpt-image-2
-
-📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：agents、ai-image-generation、chatgpt、dsh-plugin、gpt-image-2、image-prompts、prompt-as-code、prompt-engineering、skills、workflow-automation。
-📄 英文原文: Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
-⭐ 当日新增: +1687
-总 Stars: 24508
-语言: JavaScript
-https://github.com/freestylefly/awesome-gpt-image-2
-
-
 ## DietrichGebert/ponytail
 
 📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：agent-skills、ai-agents、claude、claude-code、claude-code-plugin、cursor-rules、developer-tools、大语言模型、prompt-engineering、yagni。
@@ -333,16 +343,6 @@ https://github.com/freestylefly/awesome-gpt-image-2
 总 Stars: 129791
 语言: JavaScript
 https://github.com/DietrichGebert/ponytail
-
-
-## affaan-m/ECC
-
-📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：ai-agents、anthropic、claude、claude-code、developer-tools、大语言模型、mcp、productivity。
-📄 英文原文: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-⭐ 当日新增: +1427
-总 Stars: 254512
-语言: JavaScript
-https://github.com/affaan-m/ECC
 
 
 ## zhaoxuya520/reverse-skill
@@ -363,6 +363,16 @@ https://github.com/zhaoxuya520/reverse-skill
 总 Stars: 4584
 语言: Rust
 https://github.com/amadeusprotocol/node
+
+
+## liquidslr/system-design-notes
+
+📝 中文简介: 开源项目（暂无语言与主题信息，建议直接访问仓库查看原文）。
+📄 英文原文: Notes of the book System Desgin Interview - An Insider's Guide
+⭐ 当日新增: +1397
+总 Stars: 18194
+语言: 
+https://github.com/liquidslr/system-design-notes
 
 
 ## debpalash/VoiceStudio
@@ -423,14 +433,4 @@ https://github.com/semantica-agi/semantica
 总 Stars: 118185
 语言: Rust
 https://github.com/openai/codex
-
-
-## PrimeIntellect-ai/prime-agent
-
-📝 中文简介: 使用 TypeScript 开发。
-📄 英文原文: A self-improving RLM agent for coding workflows and long-running autonomous tasks.
-⭐ 当日新增: +1138
-总 Stars: 14225
-语言: TypeScript
-https://github.com/PrimeIntellect-ai/prime-agent
 
