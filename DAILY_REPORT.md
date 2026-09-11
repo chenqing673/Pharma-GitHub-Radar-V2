@@ -6,18 +6,18 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 44149
-Score: 691.84
+⭐ Stars: 44352
+Score: 694.77
 
 ### deepchem/deepchem
 
-⭐ Stars: 6982
-Score: 234.97
+⭐ Stars: 6988
+Score: 235.13
 
 ### rdkit/rdkit
 
-⭐ Stars: 3581
-Score: 88.61
+⭐ Stars: 3583
+Score: 88.68
 
 ### ai4s-research/awesome-ai-for-science
 
@@ -36,8 +36,8 @@ Score: 23.88
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 878
-Score: 12.58
+⭐ Stars: 882
+Score: 12.62
 
 ### MolecularAI/REINVENT4
 
@@ -46,8 +46,8 @@ Score: 20.06
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
-⭐ Stars: 853
-Score: 17.53
+⭐ Stars: 854
+Score: 17.54
 
 ### xjtulyc/MedgeClaw
 
@@ -76,8 +76,8 @@ Score: 11.11
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 463
-Score: 7.43
+⭐ Stars: 467
+Score: 7.47
 
 ### wengong-jin/hgraph2graph
 
@@ -101,8 +101,8 @@ Score: 5.43
 
 ### qinheming/BIoClaw
 
-⭐ Stars: 376
-Score: 4.11
+⭐ Stars: 377
+Score: 4.12
 
 
 
@@ -111,80 +111,74 @@ Score: 4.11
 
 ## deepchem/deepchem
 
-今日增长: +3
-当前Stars: 6982
-
-
-## MolecularAI/REINVENT4
-
-今日增长: +3
-当前Stars: 856
+今日增长: +6
+当前Stars: 6988
 
 
 ## LeonChaoX/qinyan-academic-skills
 
-今日增长: +2
-当前Stars: 878
+今日增长: +4
+当前Stars: 882
 
 
 ## aurekaresearch/OpenDDE
 
-今日增长: +2
-当前Stars: 463
-
-
-## DSPsleeporg/smiles-transformer
-
-今日增长: +1
-当前Stars: 359
+今日增长: +4
+当前Stars: 467
 
 
 ## rdkit/rdkit
 
-今日增长: +1
-当前Stars: 3581
+今日增长: +2
+当前Stars: 3583
 
 
-## chemosim-lab/ProLIF
-
-今日增长: +1
-当前Stars: 538
-
-
-## maabuu/posebusters
+## NVIDIA-BioNeMo/bionemo-recipes
 
 今日增长: +1
-当前Stars: 403
+当前Stars: 854
 
 
-## deepforestsci/DeepRetro
-
-今日增长: +1
-当前Stars: 32
-
-
-## Tyche-MKR/scientific-agent-skills
+## AstraZeneca/awesome-drug-discovery-knowledge-graphs
 
 今日增长: +1
-当前Stars: 102
+当前Stars: 271
+
+
+## argonne-lcf/ChemGraph
+
+今日增长: +1
+当前Stars: 154
+
+
+## qinheming/BIoClaw
+
+今日增长: +1
+当前Stars: 377
+
+
+## NVIDIA-BioNeMo/nvMolKit
+
+今日增长: +1
+当前Stars: 275
+
+
+## NVIDIA-BioNeMo/genmol
+
+今日增长: +1
+当前Stars: 201
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 44149
+当前Stars: 44352
 
 
 ## DeepGraphLearning/torchdrug
 
 今日增长: +0
 当前Stars: 1587
-
-
-## NVIDIA-BioNeMo/bionemo-recipes
-
-今日增长: +0
-当前Stars: 853
 
 
 ## xjtulyc/MedgeClaw
@@ -197,6 +191,12 @@ Score: 4.11
 
 今日增长: +0
 当前Stars: 471
+
+
+## DSPsleeporg/smiles-transformer
+
+今日增长: +0
+当前Stars: 359
 
 
 ## dengjianyuan/Survey_AI_Drug_Discovery
@@ -217,32 +217,22 @@ Score: 4.11
 当前Stars: 362
 
 
-## AstraZeneca/awesome-drug-discovery-knowledge-graphs
-
-今日增长: +0
-当前Stars: 270
-
-
 ## PatWalters/resources_2025
 
 今日增长: +0
 当前Stars: 267
 
 
+## benb111/awesome-small-molecule-ml
+
+今日增长: +0
+当前Stars: 243
+
+
 
 # 🔥 GitHub 真实热门榜（24h）
 
 > 数据来自 github.com/trending（GitHub 官方按 star 增速排名），与上方关键词搜索的「Star 排行榜」不同，反映全站近期真正快速增长的仓库。
-
-
-## ayghri/i-have-adhd
-
-📝 中文简介: 使用 Python 开发；主要方向：adhd、claude-、claude-code-plugin、claude-skills、developer-tools、productivity。
-📄 英文原文: A skill to stop your coding agent from burying the answer. ADHD-friendly output.
-⭐ 当日新增: +4650
-总 Stars: 35392
-语言: Python
-https://github.com/ayghri/i-have-adhd
 
 
 ## tt-a1i/archify
@@ -255,14 +245,14 @@ https://github.com/ayghri/i-have-adhd
 https://github.com/tt-a1i/archify
 
 
-## THU-MAIC/OpenMAIC
+## ayghri/i-have-adhd
 
-📝 中文简介: 使用 TypeScript 开发。
-📄 英文原文: Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
-⭐ 当日新增: +3128
-总 Stars: 29795
-语言: TypeScript
-https://github.com/THU-MAIC/OpenMAIC
+📝 中文简介: 使用 Python 开发；主要方向：adhd、claude-、claude-code-plugin、claude-skills、developer-tools、productivity。
+📄 英文原文: A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+⭐ 当日新增: +3882
+总 Stars: 38967
+语言: Python
+https://github.com/ayghri/i-have-adhd
 
 
 ## heygen-com/hyperframes
@@ -283,16 +273,6 @@ https://github.com/heygen-com/hyperframes
 总 Stars: 32464
 语言: Swift
 https://github.com/permissionlesstech/bitchat
-
-
-## cathrynlavery/diagram-design
-
-📝 中文简介: 使用 HTML 开发；主要方向：agent-skills、claude-code、codex、data-visualization、diagrams、drawio、mermaid、svg。
-📄 英文原文: 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
-⭐ 当日新增: +2249
-总 Stars: 36881
-语言: HTML
-https://github.com/cathrynlavery/diagram-design
 
 
 ## mattpocock/skills
@@ -329,8 +309,8 @@ https://github.com/microsoft/AI-For-Beginners
 
 📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：3d-globe、cesium、flight-tracking、geospatial、geospatial-intelligence、gis、osint、photogrammetry、satellite-tracking、spatial-intelligence、webgl、worldview。
 📄 英文原文: A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-⭐ 当日新增: +1855
-总 Stars: 12901
+⭐ 当日新增: +1762
+总 Stars: 24936
 语言: JavaScript
 https://github.com/bilawalsidhu/gods-eye-view
 
@@ -365,16 +345,6 @@ https://github.com/zhaoxuya520/reverse-skill
 https://github.com/amadeusprotocol/node
 
 
-## liquidslr/system-design-notes
-
-📝 中文简介: 开源项目（暂无语言与主题信息，建议直接访问仓库查看原文）。
-📄 英文原文: Notes of the book System Desgin Interview - An Insider's Guide
-⭐ 当日新增: +1397
-总 Stars: 18194
-语言: 
-https://github.com/liquidslr/system-design-notes
-
-
 ## debpalash/VoiceStudio
 
 📝 中文简介: 使用 Python 开发；主要方向：ai、audiobook、cuda、dubbing、elevenlabs-alternative、huggingface、local-first、mlx、omnivoice-studio、speech-to-text、tauri、text-to-speech、transcription、translate、tts、voice-ai、voice-cloning、voice-generation、voicestudio、workflow。
@@ -383,6 +353,16 @@ https://github.com/liquidslr/system-design-notes
 总 Stars: 18231
 语言: Python
 https://github.com/debpalash/VoiceStudio
+
+
+## cathrynlavery/diagram-design
+
+📝 中文简介: 使用 HTML 开发；主要方向：agent-skills、claude-code、codex、data-visualization、diagrams、drawio、mermaid、svg。
+📄 英文原文: 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+⭐ 当日新增: +1294
+总 Stars: 37977
+语言: HTML
+https://github.com/cathrynlavery/diagram-design
 
 
 ## MadsLorentzen/ai-job-search
@@ -433,4 +413,24 @@ https://github.com/semantica-agi/semantica
 总 Stars: 118185
 语言: Rust
 https://github.com/openai/codex
+
+
+## PrimeIntellect-ai/prime-agent
+
+📝 中文简介: 使用 TypeScript 开发。
+📄 英文原文: A self-improving RLM agent for coding workflows and long-running autonomous tasks.
+⭐ 当日新增: +1138
+总 Stars: 14225
+语言: TypeScript
+https://github.com/PrimeIntellect-ai/prime-agent
+
+
+## affaan-m/ECC
+
+📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：ai-agents、anthropic、claude、claude-code、developer-tools、大语言模型、mcp、productivity。
+📄 英文原文: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+⭐ 当日新增: +1133
+总 Stars: 255331
+语言: JavaScript
+https://github.com/affaan-m/ECC
 
