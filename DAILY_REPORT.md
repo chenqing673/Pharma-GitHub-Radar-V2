@@ -6,8 +6,8 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 44352
-Score: 694.77
+⭐ Stars: 44500
+Score: 696.55
 
 ### deepchem/deepchem
 
@@ -16,13 +16,13 @@ Score: 235.13
 
 ### rdkit/rdkit
 
-⭐ Stars: 3583
-Score: 88.68
+⭐ Stars: 3585
+Score: 88.85
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1948
-Score: 31.08
+⭐ Stars: 1951
+Score: 31.11
 
 ### DeepGraphLearning/torchdrug
 
@@ -36,8 +36,8 @@ Score: 23.88
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 882
-Score: 12.62
+⭐ Stars: 883
+Score: 12.63
 
 ### MolecularAI/REINVENT4
 
@@ -46,8 +46,8 @@ Score: 20.06
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
-⭐ Stars: 854
-Score: 17.54
+⭐ Stars: 853
+Score: 17.53
 
 ### xjtulyc/MedgeClaw
 
@@ -61,13 +61,13 @@ Score: 15.46
 
 ### datamol-io/datamol
 
-⭐ Stars: 549
-Score: 8.74
+⭐ Stars: 550
+Score: 8.75
 
 ### chemosim-lab/ProLIF
 
-⭐ Stars: 538
-Score: 10.53
+⭐ Stars: 539
+Score: 10.59
 
 ### oddt/oddt
 
@@ -76,8 +76,8 @@ Score: 11.11
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 467
-Score: 7.47
+⭐ Stars: 468
+Score: 7.48
 
 ### wengong-jin/hgraph2graph
 
@@ -109,70 +109,82 @@ Score: 4.12
 # 🚀 Star快速增长榜
 
 
-## deepchem/deepchem
+## ai4s-research/awesome-ai-for-science
 
-今日增长: +6
-当前Stars: 6988
-
-
-## LeonChaoX/qinyan-academic-skills
-
-今日增长: +4
-当前Stars: 882
-
-
-## aurekaresearch/OpenDDE
-
-今日增长: +4
-当前Stars: 467
+今日增长: +3
+当前Stars: 1951
 
 
 ## rdkit/rdkit
 
 今日增长: +2
-当前Stars: 3583
+当前Stars: 3585
 
 
-## NVIDIA-BioNeMo/bionemo-recipes
-
-今日增长: +1
-当前Stars: 854
-
-
-## AstraZeneca/awesome-drug-discovery-knowledge-graphs
+## LeonChaoX/qinyan-academic-skills
 
 今日增长: +1
-当前Stars: 271
+当前Stars: 883
+
+
+## aurekaresearch/OpenDDE
+
+今日增长: +1
+当前Stars: 468
 
 
 ## argonne-lcf/ChemGraph
 
 今日增长: +1
-当前Stars: 154
+当前Stars: 155
 
 
-## qinheming/BIoClaw
-
-今日增长: +1
-当前Stars: 377
-
-
-## NVIDIA-BioNeMo/nvMolKit
+## chenggroup/ai2-kit
 
 今日增长: +1
-当前Stars: 275
+当前Stars: 98
 
 
-## NVIDIA-BioNeMo/genmol
+## datamol-io/datamol
 
 今日增长: +1
-当前Stars: 201
+当前Stars: 550
+
+
+## chemosim-lab/ProLIF
+
+今日增长: +1
+当前Stars: 539
+
+
+## PatWalters/useful_rdkit_utils
+
+今日增长: +1
+当前Stars: 238
+
+
+## MolecularAI/PaRoutes
+
+今日增长: +1
+当前Stars: 94
+
+
+## Tyche-MKR/scientific-agent-skills
+
+今日增长: +1
+当前Stars: 103
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 44352
+当前Stars: 44500
+
+
+## deepchem/deepchem
+
+今日增长: +0
+当前Stars: 6988
 
 
 ## DeepGraphLearning/torchdrug
@@ -217,18 +229,6 @@ Score: 4.12
 当前Stars: 362
 
 
-## PatWalters/resources_2025
-
-今日增长: +0
-当前Stars: 267
-
-
-## benb111/awesome-small-molecule-ml
-
-今日增长: +0
-当前Stars: 243
-
-
 
 # 🔥 GitHub 真实热门榜（24h）
 
@@ -245,12 +245,22 @@ Score: 4.12
 https://github.com/tt-a1i/archify
 
 
+## bilawalsidhu/gods-eye-view
+
+📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：3d-globe、cesium、flight-tracking、geospatial、geospatial-intelligence、gis、osint、photogrammetry、satellite-tracking、spatial-intelligence、webgl、worldview。
+📄 英文原文: A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+⭐ 当日新增: +3680
+总 Stars: 27433
+语言: JavaScript
+https://github.com/bilawalsidhu/gods-eye-view
+
+
 ## ayghri/i-have-adhd
 
 📝 中文简介: 使用 Python 开发；主要方向：adhd、claude-、claude-code-plugin、claude-skills、developer-tools、productivity。
 📄 英文原文: A skill to stop your coding agent from burying the answer. ADHD-friendly output.
-⭐ 当日新增: +3882
-总 Stars: 38967
+⭐ 当日新增: +3463
+总 Stars: 42273
 语言: Python
 https://github.com/ayghri/i-have-adhd
 
@@ -303,16 +313,6 @@ https://github.com/microsoft/markitdown
 总 Stars: 60990
 语言: Jupyter Notebook
 https://github.com/microsoft/AI-For-Beginners
-
-
-## bilawalsidhu/gods-eye-view
-
-📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：3d-globe、cesium、flight-tracking、geospatial、geospatial-intelligence、gis、osint、photogrammetry、satellite-tracking、spatial-intelligence、webgl、worldview。
-📄 英文原文: A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-⭐ 当日新增: +1762
-总 Stars: 24936
-语言: JavaScript
-https://github.com/bilawalsidhu/gods-eye-view
 
 
 ## DietrichGebert/ponytail
