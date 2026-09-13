@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 44500
-Score: 696.55
+⭐ Stars: 44635
+Score: 698.75
 
 ### deepchem/deepchem
 
-⭐ Stars: 6988
-Score: 235.13
+⭐ Stars: 6990
+Score: 235.25
 
 ### rdkit/rdkit
 
-⭐ Stars: 3585
-Score: 88.85
+⭐ Stars: 3586
+Score: 88.86
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1951
-Score: 31.11
+⭐ Stars: 1954
+Score: 31.24
 
 ### DeepGraphLearning/torchdrug
 
@@ -36,18 +36,18 @@ Score: 23.88
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 883
-Score: 12.63
+⭐ Stars: 884
+Score: 12.64
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 856
-Score: 20.06
+⭐ Stars: 857
+Score: 20.07
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
-⭐ Stars: 853
-Score: 17.53
+⭐ Stars: 854
+Score: 17.54
 
 ### xjtulyc/MedgeClaw
 
@@ -76,8 +76,8 @@ Score: 11.11
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 468
-Score: 7.48
+⭐ Stars: 469
+Score: 7.49
 
 ### wengong-jin/hgraph2graph
 
@@ -112,79 +112,97 @@ Score: 4.12
 ## ai4s-research/awesome-ai-for-science
 
 今日增长: +3
-当前Stars: 1951
+当前Stars: 1954
 
 
-## rdkit/rdkit
+## deepchem/deepchem
 
 今日增长: +2
-当前Stars: 3585
+当前Stars: 6990
+
+
+## NVIDIA-BioNeMo/bionemo-recipes
+
+今日增长: +1
+当前Stars: 854
 
 
 ## LeonChaoX/qinyan-academic-skills
 
 今日增长: +1
-当前Stars: 883
+当前Stars: 884
 
 
 ## aurekaresearch/OpenDDE
 
 今日增长: +1
-当前Stars: 468
+当前Stars: 469
+
+
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +1
+当前Stars: 363
+
+
+## MolecularAI/REINVENT4
+
+今日增长: +1
+当前Stars: 857
+
+
+## schwallergroup/ai4chem_course
+
+今日增长: +1
+当前Stars: 292
+
+
+## dralgroup/mlatom
+
+今日增长: +1
+当前Stars: 162
 
 
 ## argonne-lcf/ChemGraph
 
 今日增长: +1
-当前Stars: 155
+当前Stars: 156
 
 
-## chenggroup/ai2-kit
-
-今日增长: +1
-当前Stars: 98
-
-
-## datamol-io/datamol
+## NVIDIA/nvalchemi-toolkit
 
 今日增长: +1
-当前Stars: 550
+当前Stars: 162
 
 
-## chemosim-lab/ProLIF
-
-今日增长: +1
-当前Stars: 539
-
-
-## PatWalters/useful_rdkit_utils
+## rdkit/rdkit
 
 今日增长: +1
-当前Stars: 238
+当前Stars: 3586
 
 
-## MolecularAI/PaRoutes
+## peteboyd/lammps_interface
 
 今日增长: +1
-当前Stars: 94
+当前Stars: 171
 
 
 ## Tyche-MKR/scientific-agent-skills
 
 今日增长: +1
-当前Stars: 103
+当前Stars: 104
+
+
+## microsoft/retrochimera
+
+今日增长: +1
+当前Stars: 32
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 44500
-
-
-## deepchem/deepchem
-
-今日增长: +0
-当前Stars: 6988
+当前Stars: 44635
 
 
 ## DeepGraphLearning/torchdrug
@@ -211,24 +229,6 @@ Score: 4.12
 当前Stars: 359
 
 
-## dengjianyuan/Survey_AI_Drug_Discovery
-
-今日增长: +0
-当前Stars: 339
-
-
-## DeepWism/DeepWism-miRNA
-
-今日增长: +0
-当前Stars: 329
-
-
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +0
-当前Stars: 362
-
-
 
 # 🔥 GitHub 真实热门榜（24h）
 
@@ -243,16 +243,6 @@ Score: 4.12
 总 Stars: 39733
 语言: JavaScript
 https://github.com/tt-a1i/archify
-
-
-## bilawalsidhu/gods-eye-view
-
-📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：3d-globe、cesium、flight-tracking、geospatial、geospatial-intelligence、gis、osint、photogrammetry、satellite-tracking、spatial-intelligence、webgl、worldview。
-📄 英文原文: A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-⭐ 当日新增: +3680
-总 Stars: 27433
-语言: JavaScript
-https://github.com/bilawalsidhu/gods-eye-view
 
 
 ## ayghri/i-have-adhd
@@ -283,6 +273,16 @@ https://github.com/heygen-com/hyperframes
 总 Stars: 32464
 语言: Swift
 https://github.com/permissionlesstech/bitchat
+
+
+## bilawalsidhu/gods-eye-view
+
+📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：3d-globe、cesium、flight-tracking、geospatial、geospatial-intelligence、gis、osint、photogrammetry、satellite-tracking、spatial-intelligence、webgl、worldview。
+📄 英文原文: A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+⭐ 当日新增: +2265
+总 Stars: 30362
+语言: JavaScript
+https://github.com/bilawalsidhu/gods-eye-view
 
 
 ## mattpocock/skills
