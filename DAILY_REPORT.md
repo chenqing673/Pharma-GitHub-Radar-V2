@@ -6,13 +6,13 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 44635
-Score: 698.75
+⭐ Stars: 44802
+Score: 701.22
 
 ### deepchem/deepchem
 
-⭐ Stars: 6990
-Score: 235.25
+⭐ Stars: 6992
+Score: 235.42
 
 ### rdkit/rdkit
 
@@ -21,8 +21,8 @@ Score: 88.86
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1954
-Score: 31.24
+⭐ Stars: 1955
+Score: 31.4
 
 ### DeepGraphLearning/torchdrug
 
@@ -36,8 +36,8 @@ Score: 23.88
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 884
-Score: 12.64
+⭐ Stars: 892
+Score: 12.72
 
 ### MolecularAI/REINVENT4
 
@@ -76,8 +76,8 @@ Score: 11.11
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 469
-Score: 7.49
+⭐ Stars: 470
+Score: 7.5
 
 ### wengong-jin/hgraph2graph
 
@@ -109,106 +109,52 @@ Score: 4.12
 # 🚀 Star快速增长榜
 
 
-## ai4s-research/awesome-ai-for-science
+## LeonChaoX/qinyan-academic-skills
 
-今日增长: +3
-当前Stars: 1954
+今日增长: +8
+当前Stars: 892
 
 
 ## deepchem/deepchem
 
 今日增长: +2
-当前Stars: 6990
-
-
-## NVIDIA-BioNeMo/bionemo-recipes
-
-今日增长: +1
-当前Stars: 854
-
-
-## LeonChaoX/qinyan-academic-skills
-
-今日增长: +1
-当前Stars: 884
+当前Stars: 6992
 
 
 ## aurekaresearch/OpenDDE
 
 今日增长: +1
-当前Stars: 469
+当前Stars: 470
 
 
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +1
-当前Stars: 363
-
-
-## MolecularAI/REINVENT4
+## ai4s-research/awesome-ai-for-science
 
 今日增长: +1
-当前Stars: 857
+当前Stars: 1955
 
 
 ## schwallergroup/ai4chem_course
 
 今日增长: +1
-当前Stars: 292
-
-
-## dralgroup/mlatom
-
-今日增长: +1
-当前Stars: 162
-
-
-## argonne-lcf/ChemGraph
-
-今日增长: +1
-当前Stars: 156
-
-
-## NVIDIA/nvalchemi-toolkit
-
-今日增长: +1
-当前Stars: 162
-
-
-## rdkit/rdkit
-
-今日增长: +1
-当前Stars: 3586
-
-
-## peteboyd/lammps_interface
-
-今日增长: +1
-当前Stars: 171
-
-
-## Tyche-MKR/scientific-agent-skills
-
-今日增长: +1
-当前Stars: 104
-
-
-## microsoft/retrochimera
-
-今日增长: +1
-当前Stars: 32
+当前Stars: 293
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 44635
+当前Stars: 44802
 
 
 ## DeepGraphLearning/torchdrug
 
 今日增长: +0
 当前Stars: 1587
+
+
+## NVIDIA-BioNeMo/bionemo-recipes
+
+今日增长: +0
+当前Stars: 854
 
 
 ## xjtulyc/MedgeClaw
@@ -227,6 +173,60 @@ Score: 4.12
 
 今日增长: +0
 当前Stars: 359
+
+
+## dengjianyuan/Survey_AI_Drug_Discovery
+
+今日增长: +0
+当前Stars: 339
+
+
+## DeepWism/DeepWism-miRNA
+
+今日增长: +0
+当前Stars: 329
+
+
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +0
+当前Stars: 363
+
+
+## AstraZeneca/awesome-drug-discovery-knowledge-graphs
+
+今日增长: +0
+当前Stars: 271
+
+
+## PatWalters/resources_2025
+
+今日增长: +0
+当前Stars: 267
+
+
+## benb111/awesome-small-molecule-ml
+
+今日增长: +0
+当前Stars: 243
+
+
+## mattragoza/LiGAN
+
+今日增长: +0
+当前Stars: 238
+
+
+## Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery
+
+今日增长: +0
+当前Stars: 213
+
+
+## dockstring/dockstring
+
+今日增长: +0
+当前Stars: 190
 
 
 
@@ -255,6 +255,26 @@ https://github.com/tt-a1i/archify
 https://github.com/ayghri/i-have-adhd
 
 
+## bilawalsidhu/gods-eye-view
+
+📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：3d-globe、cesium、flight-tracking、geospatial、geospatial-intelligence、gis、osint、photogrammetry、satellite-tracking、spatial-intelligence、webgl、worldview。
+📄 英文原文: A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+⭐ 当日新增: +2680
+总 Stars: 32351
+语言: JavaScript
+https://github.com/bilawalsidhu/gods-eye-view
+
+
+## debpalash/VoiceStudio
+
+📝 中文简介: 使用 Python 开发；主要方向：ai、audiobook、cuda、dubbing、elevenlabs-alternative、huggingface、local-first、mlx、omnivoice-studio、speech-to-text、tauri、text-to-speech、transcription、translate、tts、voice-ai、voice-cloning、voice-generation、voicestudio、workflow。
+📄 英文原文: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+⭐ 当日新增: +2632
+总 Stars: 27440
+语言: Python
+https://github.com/debpalash/VoiceStudio
+
+
 ## heygen-com/hyperframes
 
 📝 中文简介: 使用 TypeScript 开发；主要方向：ai、动画、ffmpeg、框架、gsap、html、mcp、puppeteer、rendering、TypeScript、视频。
@@ -273,16 +293,6 @@ https://github.com/heygen-com/hyperframes
 总 Stars: 32464
 语言: Swift
 https://github.com/permissionlesstech/bitchat
-
-
-## bilawalsidhu/gods-eye-view
-
-📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：3d-globe、cesium、flight-tracking、geospatial、geospatial-intelligence、gis、osint、photogrammetry、satellite-tracking、spatial-intelligence、webgl、worldview。
-📄 英文原文: A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-⭐ 当日新增: +2265
-总 Stars: 30362
-语言: JavaScript
-https://github.com/bilawalsidhu/gods-eye-view
 
 
 ## mattpocock/skills
@@ -343,16 +353,6 @@ https://github.com/zhaoxuya520/reverse-skill
 总 Stars: 4584
 语言: Rust
 https://github.com/amadeusprotocol/node
-
-
-## debpalash/VoiceStudio
-
-📝 中文简介: 使用 Python 开发；主要方向：ai、audiobook、cuda、dubbing、elevenlabs-alternative、huggingface、local-first、mlx、omnivoice-studio、speech-to-text、tauri、text-to-speech、transcription、translate、tts、voice-ai、voice-cloning、voice-generation、voicestudio、workflow。
-📄 英文原文: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-⭐ 当日新增: +1345
-总 Stars: 18231
-语言: Python
-https://github.com/debpalash/VoiceStudio
 
 
 ## cathrynlavery/diagram-design
