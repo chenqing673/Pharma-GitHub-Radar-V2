@@ -6,13 +6,13 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 44802
-Score: 701.22
+⭐ Stars: 44961
+Score: 703.51
 
 ### deepchem/deepchem
 
-⭐ Stars: 6992
-Score: 235.42
+⭐ Stars: 6996
+Score: 235.46
 
 ### rdkit/rdkit
 
@@ -21,8 +21,8 @@ Score: 88.86
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1955
-Score: 31.4
+⭐ Stars: 1960
+Score: 31.45
 
 ### DeepGraphLearning/torchdrug
 
@@ -36,18 +36,18 @@ Score: 23.88
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 892
-Score: 12.72
+⭐ Stars: 893
+Score: 12.73
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 857
-Score: 20.07
+⭐ Stars: 859
+Score: 20.14
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
-⭐ Stars: 854
-Score: 17.54
+⭐ Stars: 855
+Score: 17.55
 
 ### xjtulyc/MedgeClaw
 
@@ -69,15 +69,15 @@ Score: 8.75
 ⭐ Stars: 539
 Score: 10.59
 
+### aurekaresearch/OpenDDE
+
+⭐ Stars: 472
+Score: 7.52
+
 ### oddt/oddt
 
 ⭐ Stars: 471
 Score: 11.11
-
-### aurekaresearch/OpenDDE
-
-⭐ Stars: 470
-Score: 7.5
 
 ### wengong-jin/hgraph2graph
 
@@ -101,60 +101,78 @@ Score: 5.43
 
 ### qinheming/BIoClaw
 
-⭐ Stars: 377
-Score: 4.12
+⭐ Stars: 378
+Score: 4.13
 
 
 
 # 🚀 Star快速增长榜
 
 
-## LeonChaoX/qinyan-academic-skills
+## ai4s-research/awesome-ai-for-science
 
-今日增长: +8
-当前Stars: 892
+今日增长: +5
+当前Stars: 1960
 
 
 ## deepchem/deepchem
 
-今日增长: +2
-当前Stars: 6992
+今日增长: +4
+当前Stars: 6996
 
 
 ## aurekaresearch/OpenDDE
 
+今日增长: +2
+当前Stars: 472
+
+
+## MolecularAI/REINVENT4
+
+今日增长: +2
+当前Stars: 859
+
+
+## NVIDIA-BioNeMo/bionemo-recipes
+
 今日增长: +1
-当前Stars: 470
+当前Stars: 855
 
 
-## ai4s-research/awesome-ai-for-science
-
-今日增长: +1
-当前Stars: 1955
-
-
-## schwallergroup/ai4chem_course
+## LeonChaoX/qinyan-academic-skills
 
 今日增长: +1
-当前Stars: 293
+当前Stars: 893
+
+
+## NVIDIA/nvalchemi-toolkit
+
+今日增长: +1
+当前Stars: 163
+
+
+## qinheming/BIoClaw
+
+今日增长: +1
+当前Stars: 378
+
+
+## Laboratoire-de-Chemoinformatique/SynPlanner
+
+今日增长: +1
+当前Stars: 60
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 44802
+当前Stars: 44961
 
 
 ## DeepGraphLearning/torchdrug
 
 今日增长: +0
 当前Stars: 1587
-
-
-## NVIDIA-BioNeMo/bionemo-recipes
-
-今日增长: +0
-当前Stars: 854
 
 
 ## xjtulyc/MedgeClaw
@@ -211,24 +229,6 @@ Score: 4.12
 当前Stars: 243
 
 
-## mattragoza/LiGAN
-
-今日增长: +0
-当前Stars: 238
-
-
-## Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery
-
-今日增长: +0
-当前Stars: 213
-
-
-## dockstring/dockstring
-
-今日增长: +0
-当前Stars: 190
-
-
 
 # 🔥 GitHub 真实热门榜（24h）
 
@@ -255,6 +255,16 @@ https://github.com/tt-a1i/archify
 https://github.com/ayghri/i-have-adhd
 
 
+## debpalash/VoiceStudio
+
+📝 中文简介: 使用 Python 开发；主要方向：ai、audiobook、cuda、dubbing、elevenlabs-alternative、huggingface、local-first、mlx、omnivoice-studio、speech-to-text、tauri、text-to-speech、transcription、translate、tts、voice-ai、voice-cloning、voice-generation、voicestudio、workflow。
+📄 英文原文: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+⭐ 当日新增: +2776
+总 Stars: 29711
+语言: Python
+https://github.com/debpalash/VoiceStudio
+
+
 ## bilawalsidhu/gods-eye-view
 
 📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：3d-globe、cesium、flight-tracking、geospatial、geospatial-intelligence、gis、osint、photogrammetry、satellite-tracking、spatial-intelligence、webgl、worldview。
@@ -263,16 +273,6 @@ https://github.com/ayghri/i-have-adhd
 总 Stars: 32351
 语言: JavaScript
 https://github.com/bilawalsidhu/gods-eye-view
-
-
-## debpalash/VoiceStudio
-
-📝 中文简介: 使用 Python 开发；主要方向：ai、audiobook、cuda、dubbing、elevenlabs-alternative、huggingface、local-first、mlx、omnivoice-studio、speech-to-text、tauri、text-to-speech、transcription、translate、tts、voice-ai、voice-cloning、voice-generation、voicestudio、workflow。
-📄 英文原文: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-⭐ 当日新增: +2632
-总 Stars: 27440
-语言: Python
-https://github.com/debpalash/VoiceStudio
 
 
 ## heygen-com/hyperframes
@@ -305,6 +305,16 @@ https://github.com/permissionlesstech/bitchat
 https://github.com/mattpocock/skills
 
 
+## JustVugg/colibri
+
+📝 中文简介: 使用 C 开发。
+📄 英文原文: Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+⭐ 当日新增: +2173
+总 Stars: 32467
+语言: C
+https://github.com/JustVugg/colibri
+
+
 ## microsoft/markitdown
 
 📝 中文简介: 使用 Python 开发；主要方向：autogen、autogen-extension、LangChain、markdown、microsoft-office、openai、pdf。
@@ -323,6 +333,16 @@ https://github.com/microsoft/markitdown
 总 Stars: 60990
 语言: Jupyter Notebook
 https://github.com/microsoft/AI-For-Beginners
+
+
+## alibaba/open-code-review
+
+📝 中文简介: 使用 Go 开发；主要方向：智能体、agent-skills、code-review、code-review-assistant、harness、repository-level-context。
+📄 英文原文: Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+⭐ 当日新增: +1571
+总 Stars: 26344
+语言: Go
+https://github.com/alibaba/open-code-review
 
 
 ## DietrichGebert/ponytail
@@ -413,24 +433,4 @@ https://github.com/semantica-agi/semantica
 总 Stars: 118185
 语言: Rust
 https://github.com/openai/codex
-
-
-## PrimeIntellect-ai/prime-agent
-
-📝 中文简介: 使用 TypeScript 开发。
-📄 英文原文: A self-improving RLM agent for coding workflows and long-running autonomous tasks.
-⭐ 当日新增: +1138
-总 Stars: 14225
-语言: TypeScript
-https://github.com/PrimeIntellect-ai/prime-agent
-
-
-## affaan-m/ECC
-
-📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：ai-agents、anthropic、claude、claude-code、developer-tools、大语言模型、mcp、productivity。
-📄 英文原文: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-⭐ 当日新增: +1133
-总 Stars: 255331
-语言: JavaScript
-https://github.com/affaan-m/ECC
 
