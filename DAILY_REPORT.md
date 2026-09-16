@@ -6,28 +6,28 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 44961
-Score: 703.51
+⭐ Stars: 45100
+Score: 705.55
 
 ### deepchem/deepchem
 
-⭐ Stars: 6996
-Score: 235.46
+⭐ Stars: 6998
+Score: 235.63
 
 ### rdkit/rdkit
 
-⭐ Stars: 3586
-Score: 88.86
+⭐ Stars: 3587
+Score: 88.92
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1960
-Score: 31.45
+⭐ Stars: 1962
+Score: 31.47
 
 ### DeepGraphLearning/torchdrug
 
-⭐ Stars: 1587
-Score: 26.97
+⭐ Stars: 1586
+Score: 26.96
 
 ### molecularsets/moses
 
@@ -36,13 +36,13 @@ Score: 23.88
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 893
-Score: 12.73
+⭐ Stars: 899
+Score: 12.79
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 859
-Score: 20.14
+⭐ Stars: 860
+Score: 20.2
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
@@ -51,8 +51,8 @@ Score: 17.55
 
 ### xjtulyc/MedgeClaw
 
-⭐ Stars: 642
-Score: 13.87
+⭐ Stars: 641
+Score: 13.86
 
 ### wengong-jin/icml18-jtnn
 
@@ -61,8 +61,8 @@ Score: 15.46
 
 ### datamol-io/datamol
 
-⭐ Stars: 550
-Score: 8.75
+⭐ Stars: 551
+Score: 8.76
 
 ### chemosim-lab/ProLIF
 
@@ -71,13 +71,13 @@ Score: 10.59
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 472
-Score: 7.52
+⭐ Stars: 473
+Score: 7.58
 
 ### oddt/oddt
 
-⭐ Stars: 471
-Score: 11.11
+⭐ Stars: 470
+Score: 11.1
 
 ### wengong-jin/hgraph2graph
 
@@ -109,82 +109,106 @@ Score: 4.13
 # 🚀 Star快速增长榜
 
 
-## ai4s-research/awesome-ai-for-science
+## LeonChaoX/qinyan-academic-skills
 
-今日增长: +5
-当前Stars: 1960
+今日增长: +6
+当前Stars: 899
 
 
 ## deepchem/deepchem
 
-今日增长: +4
-当前Stars: 6996
+今日增长: +2
+当前Stars: 6998
+
+
+## ai4s-research/awesome-ai-for-science
+
+今日增长: +2
+当前Stars: 1962
 
 
 ## aurekaresearch/OpenDDE
 
-今日增长: +2
-当前Stars: 472
+今日增长: +1
+当前Stars: 473
+
+
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +1
+当前Stars: 364
 
 
 ## MolecularAI/REINVENT4
 
-今日增长: +2
-当前Stars: 859
+今日增长: +1
+当前Stars: 860
 
 
-## NVIDIA-BioNeMo/bionemo-recipes
+## schwallergroup/ai4chem_course
 
 今日增长: +1
-当前Stars: 855
+当前Stars: 294
 
 
-## LeonChaoX/qinyan-academic-skills
+## argonne-lcf/ChemGraph
 
 今日增长: +1
-当前Stars: 893
+当前Stars: 157
 
 
 ## NVIDIA/nvalchemi-toolkit
 
 今日增长: +1
-当前Stars: 163
+当前Stars: 164
 
 
-## qinheming/BIoClaw
+## chenggroup/ai2-kit
 
 今日增长: +1
-当前Stars: 378
+当前Stars: 99
+
+
+## rdkit/rdkit
+
+今日增长: +1
+当前Stars: 3587
+
+
+## datamol-io/datamol
+
+今日增长: +1
+当前Stars: 551
 
 
 ## Laboratoire-de-Chemoinformatique/SynPlanner
 
 今日增长: +1
-当前Stars: 60
+当前Stars: 61
+
+
+## microsoft/retrochimera
+
+今日增长: +1
+当前Stars: 33
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 44961
+当前Stars: 45100
 
 
-## DeepGraphLearning/torchdrug
-
-今日增长: +0
-当前Stars: 1587
-
-
-## xjtulyc/MedgeClaw
+## NVIDIA-BioNeMo/bionemo-recipes
 
 今日增长: +0
-当前Stars: 642
+当前Stars: 855
 
 
 ## oddt/oddt
 
 今日增长: +0
-当前Stars: 471
+当前Stars: 470
 
 
 ## DSPsleeporg/smiles-transformer
@@ -203,30 +227,6 @@ Score: 4.13
 
 今日增长: +0
 当前Stars: 329
-
-
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +0
-当前Stars: 363
-
-
-## AstraZeneca/awesome-drug-discovery-knowledge-graphs
-
-今日增长: +0
-当前Stars: 271
-
-
-## PatWalters/resources_2025
-
-今日增长: +0
-当前Stars: 267
-
-
-## benb111/awesome-small-molecule-ml
-
-今日增长: +0
-当前Stars: 243
 
 
 
@@ -255,14 +255,14 @@ https://github.com/tt-a1i/archify
 https://github.com/ayghri/i-have-adhd
 
 
-## debpalash/VoiceStudio
+## alibaba/open-code-review
 
-📝 中文简介: 使用 Python 开发；主要方向：ai、audiobook、cuda、dubbing、elevenlabs-alternative、huggingface、local-first、mlx、omnivoice-studio、speech-to-text、tauri、text-to-speech、transcription、translate、tts、voice-ai、voice-cloning、voice-generation、voicestudio、workflow。
-📄 英文原文: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-⭐ 当日新增: +2776
-总 Stars: 29711
-语言: Python
-https://github.com/debpalash/VoiceStudio
+📝 中文简介: 使用 Go 开发；主要方向：智能体、agent-skills、code-review、code-review-assistant、harness、repository-level-context。
+📄 英文原文: Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+⭐ 当日新增: +2756
+总 Stars: 29235
+语言: Go
+https://github.com/alibaba/open-code-review
 
 
 ## bilawalsidhu/gods-eye-view
@@ -305,14 +305,14 @@ https://github.com/permissionlesstech/bitchat
 https://github.com/mattpocock/skills
 
 
-## JustVugg/colibri
+## debpalash/VoiceStudio
 
-📝 中文简介: 使用 C 开发。
-📄 英文原文: Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
-⭐ 当日新增: +2173
-总 Stars: 32467
-语言: C
-https://github.com/JustVugg/colibri
+📝 中文简介: 使用 Python 开发；主要方向：ai、audiobook、cuda、dubbing、elevenlabs-alternative、huggingface、local-first、mlx、omnivoice-studio、speech-to-text、tauri、text-to-speech、transcription、translate、tts、voice-ai、voice-cloning、voice-generation、voicestudio、workflow。
+📄 英文原文: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+⭐ 当日新增: +2072
+总 Stars: 31271
+语言: Python
+https://github.com/debpalash/VoiceStudio
 
 
 ## microsoft/markitdown
@@ -325,6 +325,16 @@ https://github.com/JustVugg/colibri
 https://github.com/microsoft/markitdown
 
 
+## JustVugg/colibri
+
+📝 中文简介: 使用 C 开发。
+📄 英文原文: Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+⭐ 当日新增: +2026
+总 Stars: 34137
+语言: C
+https://github.com/JustVugg/colibri
+
+
 ## microsoft/AI-For-Beginners
 
 📝 中文简介: 使用 Jupyter  notebooks（数据科学） 开发；主要方向：ai、人工智能、cnn、计算机视觉、深度学习、gan、机器学习、microsoft-for-beginners、nlp、rnn。
@@ -333,16 +343,6 @@ https://github.com/microsoft/markitdown
 总 Stars: 60990
 语言: Jupyter Notebook
 https://github.com/microsoft/AI-For-Beginners
-
-
-## alibaba/open-code-review
-
-📝 中文简介: 使用 Go 开发；主要方向：智能体、agent-skills、code-review、code-review-assistant、harness、repository-level-context。
-📄 英文原文: Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-⭐ 当日新增: +1571
-总 Stars: 26344
-语言: Go
-https://github.com/alibaba/open-code-review
 
 
 ## DietrichGebert/ponytail
