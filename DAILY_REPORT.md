@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 45100
-Score: 705.55
+⭐ Stars: 45269
+Score: 708.04
 
 ### deepchem/deepchem
 
-⭐ Stars: 6998
-Score: 235.63
+⭐ Stars: 6999
+Score: 235.64
 
 ### rdkit/rdkit
 
-⭐ Stars: 3587
-Score: 88.92
+⭐ Stars: 3589
+Score: 89.04
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1962
-Score: 31.47
+⭐ Stars: 1964
+Score: 31.59
 
 ### DeepGraphLearning/torchdrug
 
@@ -31,8 +31,8 @@ Score: 26.96
 
 ### molecularsets/moses
 
-⭐ Stars: 988
-Score: 23.88
+⭐ Stars: 989
+Score: 23.89
 
 ### LeonChaoX/qinyan-academic-skills
 
@@ -42,12 +42,12 @@ Score: 12.79
 ### MolecularAI/REINVENT4
 
 ⭐ Stars: 860
-Score: 20.2
+Score: 20.3
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
-⭐ Stars: 855
-Score: 17.55
+⭐ Stars: 857
+Score: 17.57
 
 ### xjtulyc/MedgeClaw
 
@@ -66,18 +66,18 @@ Score: 8.76
 
 ### chemosim-lab/ProLIF
 
-⭐ Stars: 539
-Score: 10.59
+⭐ Stars: 540
+Score: 10.6
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 473
-Score: 7.58
+⭐ Stars: 478
+Score: 7.63
 
 ### oddt/oddt
 
-⭐ Stars: 470
-Score: 11.1
+⭐ Stars: 471
+Score: 11.11
 
 ### wengong-jin/hgraph2graph
 
@@ -109,124 +109,124 @@ Score: 4.13
 # 🚀 Star快速增长榜
 
 
-## LeonChaoX/qinyan-academic-skills
+## aurekaresearch/OpenDDE
 
-今日增长: +6
-当前Stars: 899
+今日增长: +5
+当前Stars: 478
 
 
-## deepchem/deepchem
+## NVIDIA-BioNeMo/bionemo-recipes
 
 今日增长: +2
-当前Stars: 6998
+当前Stars: 857
 
 
 ## ai4s-research/awesome-ai-for-science
 
 今日增长: +2
-当前Stars: 1962
+当前Stars: 1964
 
 
-## aurekaresearch/OpenDDE
+## rdkit/rdkit
 
-今日增长: +1
-当前Stars: 473
-
-
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +1
-当前Stars: 364
+今日增长: +2
+当前Stars: 3589
 
 
-## MolecularAI/REINVENT4
+## deepchem/deepchem
 
 今日增长: +1
-当前Stars: 860
+当前Stars: 6999
 
 
-## schwallergroup/ai4chem_course
-
-今日增长: +1
-当前Stars: 294
-
-
-## argonne-lcf/ChemGraph
+## PatWalters/resources_2025
 
 今日增长: +1
-当前Stars: 157
+当前Stars: 268
+
+
+## dralgroup/mlatom
+
+今日增长: +1
+当前Stars: 163
 
 
 ## NVIDIA/nvalchemi-toolkit
 
 今日增长: +1
-当前Stars: 164
+当前Stars: 165
 
 
-## chenggroup/ai2-kit
-
-今日增长: +1
-当前Stars: 99
-
-
-## rdkit/rdkit
+## SimonsTang/feifei-companion
 
 今日增长: +1
-当前Stars: 3587
+当前Stars: 103
 
 
-## datamol-io/datamol
-
-今日增长: +1
-当前Stars: 551
-
-
-## Laboratoire-de-Chemoinformatique/SynPlanner
+## chemosim-lab/ProLIF
 
 今日增长: +1
-当前Stars: 61
+当前Stars: 540
 
 
-## microsoft/retrochimera
+## RadonPy/RadonPy
 
 今日增长: +1
-当前Stars: 33
+当前Stars: 281
+
+
+## PatWalters/useful_rdkit_utils
+
+今日增长: +1
+当前Stars: 239
+
+
+## molecularsets/moses
+
+今日增长: +1
+当前Stars: 989
+
+
+## kaist-amsg/LocalRetro
+
+今日增长: +1
+当前Stars: 121
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 45100
+当前Stars: 45269
 
 
-## NVIDIA-BioNeMo/bionemo-recipes
+## DeepGraphLearning/torchdrug
 
 今日增长: +0
-当前Stars: 855
+当前Stars: 1586
+
+
+## LeonChaoX/qinyan-academic-skills
+
+今日增长: +0
+当前Stars: 899
+
+
+## xjtulyc/MedgeClaw
+
+今日增长: +0
+当前Stars: 641
 
 
 ## oddt/oddt
 
 今日增长: +0
-当前Stars: 470
+当前Stars: 471
 
 
 ## DSPsleeporg/smiles-transformer
 
 今日增长: +0
 当前Stars: 359
-
-
-## dengjianyuan/Survey_AI_Drug_Discovery
-
-今日增长: +0
-当前Stars: 339
-
-
-## DeepWism/DeepWism-miRNA
-
-今日增长: +0
-当前Stars: 329
 
 
 
@@ -259,8 +259,8 @@ https://github.com/ayghri/i-have-adhd
 
 📝 中文简介: 使用 Go 开发；主要方向：智能体、agent-skills、code-review、code-review-assistant、harness、repository-level-context。
 📄 英文原文: Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-⭐ 当日新增: +2756
-总 Stars: 29235
+⭐ 当日新增: +3231
+总 Stars: 32634
 语言: Go
 https://github.com/alibaba/open-code-review
 
@@ -325,16 +325,6 @@ https://github.com/debpalash/VoiceStudio
 https://github.com/microsoft/markitdown
 
 
-## JustVugg/colibri
-
-📝 中文简介: 使用 C 开发。
-📄 英文原文: Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
-⭐ 当日新增: +2026
-总 Stars: 34137
-语言: C
-https://github.com/JustVugg/colibri
-
-
 ## microsoft/AI-For-Beginners
 
 📝 中文简介: 使用 Jupyter  notebooks（数据科学） 开发；主要方向：ai、人工智能、cnn、计算机视觉、深度学习、gan、机器学习、microsoft-for-beginners、nlp、rnn。
@@ -343,6 +333,16 @@ https://github.com/JustVugg/colibri
 总 Stars: 60990
 语言: Jupyter Notebook
 https://github.com/microsoft/AI-For-Beginners
+
+
+## JustVugg/colibri
+
+📝 中文简介: 使用 C 开发。
+📄 英文原文: Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+⭐ 当日新增: +1546
+总 Stars: 35185
+语言: C
+https://github.com/JustVugg/colibri
 
 
 ## DietrichGebert/ponytail
@@ -415,6 +415,16 @@ https://github.com/stablyai/orca
 https://github.com/harry0703/MoneyPrinterTurbo
 
 
+## Tencent/WeKnora
+
+📝 中文简介: 使用 Go 开发；主要方向：智能体、agentic、ai、chatbot、dsh-plugin、embeddings、evaluation、生成式 AI、Go、knowledge-base、大语言模型、multi-tenant、ollama、openai、question-answering、rag、reranking、semantic-search、vector-search、wiki。
+📄 英文原文: Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+⭐ 当日新增: +1197
+总 Stars: 25612
+语言: Go
+https://github.com/Tencent/WeKnora
+
+
 ## semantica-agi/semantica
 
 📝 中文简介: 使用 Python 开发；主要方向：agent-memory、ai、ai-governance、ai-infrastructure、人工智能、context-engineering、context-graphs、data-engineering、decision-intelligence、developer-tools、explainable-ai、生成式 AI、graph-rag、knowledge-graph、大语言模型、ontology、provenance、Python、reasoning、semantic-search。
@@ -423,14 +433,4 @@ https://github.com/harry0703/MoneyPrinterTurbo
 总 Stars: 7546
 语言: Python
 https://github.com/semantica-agi/semantica
-
-
-## openai/codex
-
-📝 中文简介: 使用 Rust 开发。
-📄 英文原文: Lightweight coding agent that runs in your terminal
-⭐ 当日新增: +1181
-总 Stars: 118185
-语言: Rust
-https://github.com/openai/codex
 
