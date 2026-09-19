@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 45401
-Score: 710.01
+⭐ Stars: 45534
+Score: 711.89
 
 ### deepchem/deepchem
 
 ⭐ Stars: 7003
-Score: 235.63
+Score: 235.73
 
 ### rdkit/rdkit
 
 ⭐ Stars: 3590
-Score: 89.2
+Score: 89.25
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1968
-Score: 31.63
+⭐ Stars: 1969
+Score: 31.64
 
 ### DeepGraphLearning/torchdrug
 
@@ -36,13 +36,13 @@ Score: 23.89
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 903
-Score: 12.83
+⭐ Stars: 906
+Score: 12.86
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 859
-Score: 20.29
+⭐ Stars: 860
+Score: 20.35
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
@@ -56,8 +56,8 @@ Score: 13.86
 
 ### wengong-jin/icml18-jtnn
 
-⭐ Stars: 566
-Score: 15.46
+⭐ Stars: 567
+Score: 15.47
 
 ### datamol-io/datamol
 
@@ -109,52 +109,82 @@ Score: 4.13
 # 🚀 Star快速增长榜
 
 
-## deepchem/deepchem
-
-今日增长: +4
-当前Stars: 7003
-
-
 ## LeonChaoX/qinyan-academic-skills
 
-今日增长: +4
-当前Stars: 903
+今日增长: +3
+当前Stars: 906
+
+
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +1
+当前Stars: 365
 
 
 ## ai4s-research/awesome-ai-for-science
 
-今日增长: +4
-当前Stars: 1968
+今日增长: +1
+当前Stars: 1969
 
 
-## AstraZeneca/awesome-drug-discovery-knowledge-graphs
+## MolecularAI/REINVENT4
 
 今日增长: +1
-当前Stars: 272
+当前Stars: 860
 
 
 ## NVIDIA/nvalchemi-toolkit
 
 今日增长: +1
-当前Stars: 166
+当前Stars: 167
 
 
-## rdkit/rdkit
-
-今日增长: +1
-当前Stars: 3590
-
-
-## rdkit/rdkit-js
+## AngelRuizMoreno/Jupyter_Dock
 
 今日增长: +1
-当前Stars: 248
+当前Stars: 287
+
+
+## RadonPy/RadonPy
+
+今日增长: +1
+当前Stars: 282
+
+
+## wengong-jin/icml18-jtnn
+
+今日增长: +1
+当前Stars: 567
+
+
+## thomas0809/MolScribe
+
+今日增长: +1
+当前Stars: 334
+
+
+## NVIDIA-BioNeMo/genmol
+
+今日增长: +1
+当前Stars: 202
+
+
+## HeewoongNoh/Retrieval-Retro
+
+今日增长: +1
+当前Stars: 38
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 45401
+当前Stars: 45534
+
+
+## deepchem/deepchem
+
+今日增长: +0
+当前Stars: 7003
 
 
 ## DeepGraphLearning/torchdrug
@@ -187,46 +217,16 @@ Score: 4.13
 当前Stars: 478
 
 
+## DSPsleeporg/smiles-transformer
+
+今日增长: +0
+当前Stars: 358
+
+
 ## dengjianyuan/Survey_AI_Drug_Discovery
 
 今日增长: +0
 当前Stars: 339
-
-
-## DeepWism/DeepWism-miRNA
-
-今日增长: +0
-当前Stars: 329
-
-
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +0
-当前Stars: 364
-
-
-## PatWalters/resources_2025
-
-今日增长: +0
-当前Stars: 268
-
-
-## benb111/awesome-small-molecule-ml
-
-今日增长: +0
-当前Stars: 243
-
-
-## mattragoza/LiGAN
-
-今日增长: +0
-当前Stars: 238
-
-
-## Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery
-
-今日增长: +0
-当前Stars: 213
 
 
 
@@ -245,16 +245,6 @@ Score: 4.13
 https://github.com/tt-a1i/archify
 
 
-## cloudflare/security-audit-skill
-
-📝 中文简介: 使用 JavaScript（前端/全栈） 开发。
-📄 英文原文: A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-⭐ 当日新增: +3607
-总 Stars: 11088
-语言: JavaScript
-https://github.com/cloudflare/security-audit-skill
-
-
 ## ayghri/i-have-adhd
 
 📝 中文简介: 使用 Python 开发；主要方向：adhd、claude-、claude-code-plugin、claude-skills、developer-tools、productivity。
@@ -265,12 +255,22 @@ https://github.com/cloudflare/security-audit-skill
 https://github.com/ayghri/i-have-adhd
 
 
+## cloudflare/security-audit-skill
+
+📝 中文简介: 使用 JavaScript（前端/全栈） 开发。
+📄 英文原文: A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+⭐ 当日新增: +3006
+总 Stars: 14168
+语言: JavaScript
+https://github.com/cloudflare/security-audit-skill
+
+
 ## alibaba/open-code-review
 
 📝 中文简介: 使用 Go 开发；主要方向：智能体、agent-skills、code-review、code-review-assistant、harness、repository-level-context。
-📄 英文原文: Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-⭐ 当日新增: +3286
-总 Stars: 35398
+📄 英文原文: Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+⭐ 当日新增: +2704
+总 Stars: 36867
 语言: Go
 https://github.com/alibaba/open-code-review
 
@@ -379,8 +379,8 @@ https://github.com/amadeusprotocol/node
 
 📝 中文简介: 使用 TypeScript 开发；主要方向：智能体、browser-use、dsh-plugin。
 📄 英文原文: Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-⭐ 当日新增: +1302
-总 Stars: 4488
+⭐ 当日新增: +1306
+总 Stars: 5435
 语言: TypeScript
 https://github.com/Tencent/BrowserSkill
 
