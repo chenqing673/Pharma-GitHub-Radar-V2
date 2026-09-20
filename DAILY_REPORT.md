@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 45534
-Score: 711.89
+⭐ Stars: 45674
+Score: 713.94
 
 ### deepchem/deepchem
 
-⭐ Stars: 7003
-Score: 235.73
+⭐ Stars: 7005
+Score: 235.8
 
 ### rdkit/rdkit
 
-⭐ Stars: 3590
-Score: 89.25
+⭐ Stars: 3591
+Score: 89.36
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1969
-Score: 31.64
+⭐ Stars: 1977
+Score: 31.82
 
 ### DeepGraphLearning/torchdrug
 
@@ -36,8 +36,8 @@ Score: 23.89
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 906
-Score: 12.86
+⭐ Stars: 908
+Score: 12.88
 
 ### MolecularAI/REINVENT4
 
@@ -71,8 +71,8 @@ Score: 10.6
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 478
-Score: 7.63
+⭐ Stars: 481
+Score: 7.66
 
 ### oddt/oddt
 
@@ -109,82 +109,52 @@ Score: 4.13
 # 🚀 Star快速增长榜
 
 
-## LeonChaoX/qinyan-academic-skills
-
-今日增长: +3
-当前Stars: 906
-
-
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +1
-当前Stars: 365
-
-
 ## ai4s-research/awesome-ai-for-science
 
-今日增长: +1
-当前Stars: 1969
+今日增长: +8
+当前Stars: 1977
 
 
-## MolecularAI/REINVENT4
+## aurekaresearch/OpenDDE
 
-今日增长: +1
-当前Stars: 860
-
-
-## NVIDIA/nvalchemi-toolkit
-
-今日增长: +1
-当前Stars: 167
+今日增长: +3
+当前Stars: 481
 
 
-## AngelRuizMoreno/Jupyter_Dock
+## deepchem/deepchem
 
-今日增长: +1
-当前Stars: 287
-
-
-## RadonPy/RadonPy
-
-今日增长: +1
-当前Stars: 282
+今日增长: +2
+当前Stars: 7005
 
 
-## wengong-jin/icml18-jtnn
+## LeonChaoX/qinyan-academic-skills
+
+今日增长: +2
+当前Stars: 908
+
+
+## rdkit/rdkit
 
 今日增长: +1
-当前Stars: 567
+当前Stars: 3591
 
 
 ## thomas0809/MolScribe
 
 今日增长: +1
-当前Stars: 334
+当前Stars: 335
 
 
-## NVIDIA-BioNeMo/genmol
-
-今日增长: +1
-当前Stars: 202
-
-
-## HeewoongNoh/Retrieval-Retro
+## NVIDIA-BioNeMo/nvMolKit
 
 今日增长: +1
-当前Stars: 38
+当前Stars: 276
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 45534
-
-
-## deepchem/deepchem
-
-今日增长: +0
-当前Stars: 7003
+当前Stars: 45674
 
 
 ## DeepGraphLearning/torchdrug
@@ -211,12 +181,6 @@ Score: 4.13
 当前Stars: 471
 
 
-## aurekaresearch/OpenDDE
-
-今日增长: +0
-当前Stars: 478
-
-
 ## DSPsleeporg/smiles-transformer
 
 今日增长: +0
@@ -227,6 +191,42 @@ Score: 4.13
 
 今日增长: +0
 当前Stars: 339
+
+
+## DeepWism/DeepWism-miRNA
+
+今日增长: +0
+当前Stars: 329
+
+
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +0
+当前Stars: 365
+
+
+## AstraZeneca/awesome-drug-discovery-knowledge-graphs
+
+今日增长: +0
+当前Stars: 272
+
+
+## PatWalters/resources_2025
+
+今日增长: +0
+当前Stars: 268
+
+
+## benb111/awesome-small-molecule-ml
+
+今日增长: +0
+当前Stars: 243
+
+
+## mattragoza/LiGAN
+
+今日增长: +0
+当前Stars: 238
 
 
 
@@ -259,8 +259,8 @@ https://github.com/ayghri/i-have-adhd
 
 📝 中文简介: 使用 JavaScript（前端/全栈） 开发。
 📄 英文原文: A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-⭐ 当日新增: +3006
-总 Stars: 14168
+⭐ 当日新增: +3155
+总 Stars: 16783
 语言: JavaScript
 https://github.com/cloudflare/security-audit-skill
 
