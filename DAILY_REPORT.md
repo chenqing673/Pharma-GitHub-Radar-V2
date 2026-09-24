@@ -6,13 +6,13 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 46175
-Score: 720.9
+⭐ Stars: 46390
+Score: 723.7
 
 ### deepchem/deepchem
 
-⭐ Stars: 7010
-Score: 235.95
+⭐ Stars: 7011
+Score: 236.11
 
 ### rdkit/rdkit
 
@@ -22,7 +22,7 @@ Score: 89.41
 ### ai4s-research/awesome-ai-for-science
 
 ⭐ Stars: 1991
-Score: 32.06
+Score: 32.01
 
 ### DeepGraphLearning/torchdrug
 
@@ -36,13 +36,13 @@ Score: 23.89
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 922
-Score: 13.07
+⭐ Stars: 924
+Score: 13.14
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 862
-Score: 20.32
+⭐ Stars: 866
+Score: 20.36
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
@@ -51,8 +51,8 @@ Score: 17.73
 
 ### xjtulyc/MedgeClaw
 
-⭐ Stars: 641
-Score: 13.86
+⭐ Stars: 640
+Score: 13.8
 
 ### wengong-jin/icml18-jtnn
 
@@ -61,13 +61,13 @@ Score: 15.47
 
 ### datamol-io/datamol
 
-⭐ Stars: 550
-Score: 8.75
+⭐ Stars: 551
+Score: 8.76
 
 ### chemosim-lab/ProLIF
 
 ⭐ Stars: 542
-Score: 10.62
+Score: 10.67
 
 ### aurekaresearch/OpenDDE
 
@@ -111,104 +111,74 @@ Score: 4.13
 
 ## microsoft/retrochimera
 
-今日增长: +12
-当前Stars: 56
-
-
-## LeonChaoX/qinyan-academic-skills
-
-今日增长: +5
-当前Stars: 922
-
-
-## ai4s-research/awesome-ai-for-science
-
-今日增长: +5
-当前Stars: 1991
-
-
-## rdkit/rdkit
-
-今日增长: +4
-当前Stars: 3596
-
-
-## deepchem/deepchem
-
-今日增长: +2
-当前Stars: 7010
-
-
-## wjm41/molplotly
-
-今日增长: +2
-当前Stars: 265
+今日增长: +9
+当前Stars: 65
 
 
 ## MolecularAI/REINVENT4
 
-今日增长: +1
-当前Stars: 862
+今日增长: +4
+当前Stars: 866
 
 
-## schwallergroup/ai4chem_course
+## LeonChaoX/qinyan-academic-skills
 
-今日增长: +1
-当前Stars: 294
-
-
-## SimonsTang/feifei-companion
-
-今日增长: +1
-当前Stars: 105
+今日增长: +2
+当前Stars: 924
 
 
-## chemosim-lab/ProLIF
+## deepchem/deepchem
 
 今日增长: +1
-当前Stars: 542
+当前Stars: 7011
 
 
-## rdkit/rdkit-tutorials
-
-今日增长: +1
-当前Stars: 315
-
-
-## AngelRuizMoreno/Jupyter_Dock
+## jaechang-hits/SciAgent-Skills
 
 今日增长: +1
-当前Stars: 288
+当前Stars: 367
 
 
-## cbouy/mols2grid
+## dockstring/dockstring
 
 今日增长: +1
-当前Stars: 258
+当前Stars: 191
+
+
+## OSU-NLP-Group/ChemMCP
+
+今日增长: +1
+当前Stars: 73
+
+
+## datamol-io/datamol
+
+今日增长: +1
+当前Stars: 551
+
+
+## RadonPy/RadonPy
+
+今日增长: +1
+当前Stars: 283
 
 
 ## dreadlesss/rdkit_summary
 
 今日增长: +1
-当前Stars: 254
+当前Stars: 255
 
 
-## PatWalters/useful_rdkit_utils
-
-今日增长: +1
-当前Stars: 240
-
-
-## NVIDIA-BioNeMo/genmol
+## thomas0809/MolScribe
 
 今日增长: +1
-当前Stars: 206
+当前Stars: 336
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 46175
+当前Stars: 46390
 
 
 ## DeepGraphLearning/torchdrug
@@ -223,10 +193,40 @@ Score: 4.13
 当前Stars: 858
 
 
-## xjtulyc/MedgeClaw
+## oddt/oddt
 
 今日增长: +0
-当前Stars: 641
+当前Stars: 471
+
+
+## aurekaresearch/OpenDDE
+
+今日增长: +0
+当前Stars: 487
+
+
+## DSPsleeporg/smiles-transformer
+
+今日增长: +0
+当前Stars: 357
+
+
+## dengjianyuan/Survey_AI_Drug_Discovery
+
+今日增长: +0
+当前Stars: 339
+
+
+## DeepWism/DeepWism-miRNA
+
+今日增长: +0
+当前Stars: 329
+
+
+## AstraZeneca/awesome-drug-discovery-knowledge-graphs
+
+今日增长: +0
+当前Stars: 272
 
 
 
@@ -305,16 +305,6 @@ https://github.com/cloudflare/security-audit-skill
 https://github.com/permissionlesstech/bitchat
 
 
-## google/ax
-
-📝 中文简介: 使用 Go 开发。
-📄 英文原文: Google's open agentic orchestration runtime
-⭐ 当日新增: +2305
-总 Stars: 7919
-语言: Go
-https://github.com/google/ax
-
-
 ## mattpocock/skills
 
 📝 中文简介: 使用 Shell 脚本 开发。
@@ -353,6 +343,16 @@ https://github.com/microsoft/markitdown
 总 Stars: 60990
 语言: Jupyter Notebook
 https://github.com/microsoft/AI-For-Beginners
+
+
+## google/ax
+
+📝 中文简介: 使用 Go 开发。
+📄 英文原文: Google's open agentic orchestration runtime
+⭐ 当日新增: +1543
+总 Stars: 9353
+语言: Go
+https://github.com/google/ax
 
 
 ## DietrichGebert/ponytail
