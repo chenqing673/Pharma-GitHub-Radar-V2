@@ -6,13 +6,13 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 46390
-Score: 723.7
+⭐ Stars: 46578
+Score: 726.08
 
 ### deepchem/deepchem
 
-⭐ Stars: 7011
-Score: 236.11
+⭐ Stars: 7014
+Score: 236.19
 
 ### rdkit/rdkit
 
@@ -21,8 +21,8 @@ Score: 89.41
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1991
-Score: 32.01
+⭐ Stars: 1993
+Score: 32.03
 
 ### DeepGraphLearning/torchdrug
 
@@ -36,8 +36,8 @@ Score: 23.89
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 924
-Score: 13.14
+⭐ Stars: 925
+Score: 13.15
 
 ### MolecularAI/REINVENT4
 
@@ -46,13 +46,13 @@ Score: 20.36
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
-⭐ Stars: 858
-Score: 17.73
+⭐ Stars: 859
+Score: 17.79
 
 ### xjtulyc/MedgeClaw
 
-⭐ Stars: 640
-Score: 13.8
+⭐ Stars: 641
+Score: 13.81
 
 ### wengong-jin/icml18-jtnn
 
@@ -71,13 +71,13 @@ Score: 10.67
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 487
-Score: 7.72
+⭐ Stars: 489
+Score: 7.79
 
 ### oddt/oddt
 
-⭐ Stars: 471
-Score: 11.11
+⭐ Stars: 472
+Score: 11.12
 
 ### wengong-jin/hgraph2graph
 
@@ -86,8 +86,8 @@ Score: 10.74
 
 ### kjappelbaum/awesome-chemistry-datasets
 
-⭐ Stars: 424
-Score: 7.14
+⭐ Stars: 425
+Score: 7.15
 
 ### MinkaiXu/GeoDiff
 
@@ -109,76 +109,70 @@ Score: 4.13
 # 🚀 Star快速增长榜
 
 
+## deepchem/deepchem
+
+今日增长: +3
+当前Stars: 7014
+
+
+## aurekaresearch/OpenDDE
+
+今日增长: +2
+当前Stars: 489
+
+
+## ai4s-research/awesome-ai-for-science
+
+今日增长: +2
+当前Stars: 1993
+
+
 ## microsoft/retrochimera
 
-今日增长: +9
-当前Stars: 65
+今日增长: +2
+当前Stars: 67
 
 
-## MolecularAI/REINVENT4
+## NVIDIA-BioNeMo/bionemo-recipes
 
-今日增长: +4
-当前Stars: 866
+今日增长: +1
+当前Stars: 859
 
 
 ## LeonChaoX/qinyan-academic-skills
 
-今日增长: +2
-当前Stars: 924
+今日增长: +1
+当前Stars: 925
 
 
-## deepchem/deepchem
+## xjtulyc/MedgeClaw
 
 今日增长: +1
-当前Stars: 7011
+当前Stars: 641
 
 
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +1
-当前Stars: 367
-
-
-## dockstring/dockstring
+## PatWalters/resources_2025
 
 今日增长: +1
-当前Stars: 191
+当前Stars: 269
 
 
-## OSU-NLP-Group/ChemMCP
-
-今日增长: +1
-当前Stars: 73
-
-
-## datamol-io/datamol
+## kjappelbaum/awesome-chemistry-datasets
 
 今日增长: +1
-当前Stars: 551
+当前Stars: 425
 
 
-## RadonPy/RadonPy
-
-今日增长: +1
-当前Stars: 283
-
-
-## dreadlesss/rdkit_summary
+## argonne-lcf/ChemGraph
 
 今日增长: +1
-当前Stars: 255
-
-
-## thomas0809/MolScribe
-
-今日增长: +1
-当前Stars: 336
+当前Stars: 160
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 46390
+当前Stars: 46578
 
 
 ## DeepGraphLearning/torchdrug
@@ -187,22 +181,10 @@ Score: 4.13
 当前Stars: 1586
 
 
-## NVIDIA-BioNeMo/bionemo-recipes
-
-今日增长: +0
-当前Stars: 858
-
-
 ## oddt/oddt
 
 今日增长: +0
-当前Stars: 471
-
-
-## aurekaresearch/OpenDDE
-
-今日增长: +0
-当前Stars: 487
+当前Stars: 472
 
 
 ## DSPsleeporg/smiles-transformer
@@ -223,10 +205,28 @@ Score: 4.13
 当前Stars: 329
 
 
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +0
+当前Stars: 367
+
+
 ## AstraZeneca/awesome-drug-discovery-knowledge-graphs
 
 今日增长: +0
 当前Stars: 272
+
+
+## benb111/awesome-small-molecule-ml
+
+今日增长: +0
+当前Stars: 243
+
+
+## mattragoza/LiGAN
+
+今日增长: +0
+当前Stars: 238
 
 
 
@@ -345,14 +345,14 @@ https://github.com/microsoft/markitdown
 https://github.com/microsoft/AI-For-Beginners
 
 
-## google/ax
+## vectorize-io/hindsight
 
-📝 中文简介: 使用 Go 开发。
-📄 英文原文: Google's open agentic orchestration runtime
-⭐ 当日新增: +1543
-总 Stars: 9353
-语言: Go
-https://github.com/google/ax
+📝 中文简介: 使用 Python 开发；主要方向：agentic-ai、agents、ai-memory、memory。
+📄 英文原文: Hindsight: Agent Memory That Learns
+⭐ 当日新增: +1668
+总 Stars: 28155
+语言: Python
+https://github.com/vectorize-io/hindsight
 
 
 ## DietrichGebert/ponytail
@@ -383,6 +383,16 @@ https://github.com/zhaoxuya520/reverse-skill
 总 Stars: 4584
 语言: Rust
 https://github.com/amadeusprotocol/node
+
+
+## google/ax
+
+📝 中文简介: 使用 Go 开发。
+📄 英文原文: Google's open agentic orchestration runtime
+⭐ 当日新增: +1373
+总 Stars: 10716
+语言: Go
+https://github.com/google/ax
 
 
 ## Tencent/BrowserSkill
@@ -423,14 +433,4 @@ https://github.com/MadsLorentzen/ai-job-search
 总 Stars: 44059
 语言: TypeScript
 https://github.com/stablyai/orca
-
-
-## harry0703/MoneyPrinterTurbo
-
-📝 中文简介: 使用 Python 开发；主要方向：ai-video-generator、content-creation、ffmpeg、instagram-reels、大语言模型、Python、short-video、subtitles、text-to-speech、tiktok、video-automation、video-workflow、workflow-automation、youtube-shorts。
-📄 英文原文: 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
-⭐ 当日新增: +1201
-总 Stars: 113974
-语言: Python
-https://github.com/harry0703/MoneyPrinterTurbo
 
