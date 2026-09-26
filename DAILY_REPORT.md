@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 46578
-Score: 726.08
+⭐ Stars: 46674
+Score: 727.64
 
 ### deepchem/deepchem
 
-⭐ Stars: 7014
-Score: 236.19
+⭐ Stars: 7018
+Score: 236.43
 
 ### rdkit/rdkit
 
-⭐ Stars: 3596
-Score: 89.41
+⭐ Stars: 3597
+Score: 89.47
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1993
-Score: 32.03
+⭐ Stars: 1996
+Score: 32.11
 
 ### DeepGraphLearning/torchdrug
 
@@ -96,8 +96,8 @@ Score: 8.42
 
 ### maabuu/posebusters
 
-⭐ Stars: 405
-Score: 5.45
+⭐ Stars: 406
+Score: 5.46
 
 ### qinheming/BIoClaw
 
@@ -111,68 +111,38 @@ Score: 4.13
 
 ## deepchem/deepchem
 
-今日增长: +3
-当前Stars: 7014
-
-
-## aurekaresearch/OpenDDE
-
-今日增长: +2
-当前Stars: 489
+今日增长: +4
+当前Stars: 7018
 
 
 ## ai4s-research/awesome-ai-for-science
 
-今日增长: +2
-当前Stars: 1993
+今日增长: +3
+当前Stars: 1996
+
+
+## rdkit/rdkit
+
+今日增长: +1
+当前Stars: 3597
+
+
+## maabuu/posebusters
+
+今日增长: +1
+当前Stars: 406
 
 
 ## microsoft/retrochimera
 
-今日增长: +2
-当前Stars: 67
-
-
-## NVIDIA-BioNeMo/bionemo-recipes
-
 今日增长: +1
-当前Stars: 859
-
-
-## LeonChaoX/qinyan-academic-skills
-
-今日增长: +1
-当前Stars: 925
-
-
-## xjtulyc/MedgeClaw
-
-今日增长: +1
-当前Stars: 641
-
-
-## PatWalters/resources_2025
-
-今日增长: +1
-当前Stars: 269
-
-
-## kjappelbaum/awesome-chemistry-datasets
-
-今日增长: +1
-当前Stars: 425
-
-
-## argonne-lcf/ChemGraph
-
-今日增长: +1
-当前Stars: 160
+当前Stars: 68
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 46578
+当前Stars: 46674
 
 
 ## DeepGraphLearning/torchdrug
@@ -181,10 +151,34 @@ Score: 4.13
 当前Stars: 1586
 
 
+## NVIDIA-BioNeMo/bionemo-recipes
+
+今日增长: +0
+当前Stars: 859
+
+
+## LeonChaoX/qinyan-academic-skills
+
+今日增长: +0
+当前Stars: 925
+
+
+## xjtulyc/MedgeClaw
+
+今日增长: +0
+当前Stars: 641
+
+
 ## oddt/oddt
 
 今日增长: +0
 当前Stars: 472
+
+
+## aurekaresearch/OpenDDE
+
+今日增长: +0
+当前Stars: 489
 
 
 ## DSPsleeporg/smiles-transformer
@@ -215,6 +209,12 @@ Score: 4.13
 
 今日增长: +0
 当前Stars: 272
+
+
+## PatWalters/resources_2025
+
+今日增长: +0
+当前Stars: 269
 
 
 ## benb111/awesome-small-molecule-ml
@@ -305,14 +305,14 @@ https://github.com/cloudflare/security-audit-skill
 https://github.com/permissionlesstech/bitchat
 
 
-## mattpocock/skills
+## paperclipai/paperclip
 
-📝 中文简介: 使用 Shell 脚本 开发。
-📄 英文原文: Skills for Real Engineers. Straight from my .agents directory.
-⭐ 当日新增: +2207
-总 Stars: 255060
-语言: Shell
-https://github.com/mattpocock/skills
+📝 中文简介: 使用 TypeScript 开发。
+📄 英文原文: The open-source app everyone uses to manage agents at work
+⭐ 当日新增: +2109
+总 Stars: 85363
+语言: TypeScript
+https://github.com/paperclipai/paperclip
 
 
 ## debpalash/VoiceStudio
@@ -349,8 +349,8 @@ https://github.com/microsoft/AI-For-Beginners
 
 📝 中文简介: 使用 Python 开发；主要方向：agentic-ai、agents、ai-memory、memory。
 📄 英文原文: Hindsight: Agent Memory That Learns
-⭐ 当日新增: +1668
-总 Stars: 28155
+⭐ 当日新增: +1653
+总 Stars: 30150
 语言: Python
 https://github.com/vectorize-io/hindsight
 
@@ -389,8 +389,8 @@ https://github.com/amadeusprotocol/node
 
 📝 中文简介: 使用 Go 开发。
 📄 英文原文: Google's open agentic orchestration runtime
-⭐ 当日新增: +1373
-总 Stars: 10716
+⭐ 当日新增: +1379
+总 Stars: 11622
 语言: Go
 https://github.com/google/ax
 
