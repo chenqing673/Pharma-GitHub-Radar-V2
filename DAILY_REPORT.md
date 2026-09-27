@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 46674
-Score: 727.64
+⭐ Stars: 46758
+Score: 728.98
 
 ### deepchem/deepchem
 
-⭐ Stars: 7018
-Score: 236.43
+⭐ Stars: 7019
+Score: 236.49
 
 ### rdkit/rdkit
 
-⭐ Stars: 3597
-Score: 89.47
+⭐ Stars: 3598
+Score: 89.43
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1996
-Score: 32.11
+⭐ Stars: 1999
+Score: 32.14
 
 ### DeepGraphLearning/torchdrug
 
@@ -31,13 +31,13 @@ Score: 26.96
 
 ### molecularsets/moses
 
-⭐ Stars: 989
-Score: 23.89
+⭐ Stars: 990
+Score: 23.9
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 925
-Score: 13.15
+⭐ Stars: 926
+Score: 13.16
 
 ### MolecularAI/REINVENT4
 
@@ -46,13 +46,13 @@ Score: 20.36
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
-⭐ Stars: 859
-Score: 17.79
+⭐ Stars: 861
+Score: 17.81
 
 ### xjtulyc/MedgeClaw
 
 ⭐ Stars: 641
-Score: 13.81
+Score: 13.76
 
 ### wengong-jin/icml18-jtnn
 
@@ -61,13 +61,13 @@ Score: 15.47
 
 ### datamol-io/datamol
 
-⭐ Stars: 551
-Score: 8.76
+⭐ Stars: 552
+Score: 8.77
 
 ### chemosim-lab/ProLIF
 
-⭐ Stars: 542
-Score: 10.67
+⭐ Stars: 543
+Score: 10.68
 
 ### aurekaresearch/OpenDDE
 
@@ -109,58 +109,88 @@ Score: 4.13
 # 🚀 Star快速增长榜
 
 
-## deepchem/deepchem
-
-今日增长: +4
-当前Stars: 7018
-
-
 ## ai4s-research/awesome-ai-for-science
 
 今日增长: +3
-当前Stars: 1996
+当前Stars: 1999
+
+
+## microsoft/retrochimera
+
+今日增长: +3
+当前Stars: 71
+
+
+## NVIDIA-BioNeMo/bionemo-recipes
+
+今日增长: +2
+当前Stars: 861
+
+
+## deepchem/deepchem
+
+今日增长: +1
+当前Stars: 7019
+
+
+## LeonChaoX/qinyan-academic-skills
+
+今日增长: +1
+当前Stars: 926
+
+
+## dralgroup/mlatom
+
+今日增长: +1
+当前Stars: 165
 
 
 ## rdkit/rdkit
 
 今日增长: +1
-当前Stars: 3597
+当前Stars: 3598
 
 
-## maabuu/posebusters
-
-今日增长: +1
-当前Stars: 406
-
-
-## microsoft/retrochimera
+## datamol-io/datamol
 
 今日增长: +1
-当前Stars: 68
+当前Stars: 552
+
+
+## chemosim-lab/ProLIF
+
+今日增长: +1
+当前Stars: 543
+
+
+## rdkit/rdkit-js
+
+今日增长: +1
+当前Stars: 249
+
+
+## molecularsets/moses
+
+今日增长: +1
+当前Stars: 990
+
+
+## kaist-amsg/LocalRetro
+
+今日增长: +1
+当前Stars: 122
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 46674
+当前Stars: 46758
 
 
 ## DeepGraphLearning/torchdrug
 
 今日增长: +0
 当前Stars: 1586
-
-
-## NVIDIA-BioNeMo/bionemo-recipes
-
-今日增长: +0
-当前Stars: 859
-
-
-## LeonChaoX/qinyan-academic-skills
-
-今日增长: +0
-当前Stars: 925
 
 
 ## xjtulyc/MedgeClaw
@@ -197,36 +227,6 @@ Score: 4.13
 
 今日增长: +0
 当前Stars: 329
-
-
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +0
-当前Stars: 367
-
-
-## AstraZeneca/awesome-drug-discovery-knowledge-graphs
-
-今日增长: +0
-当前Stars: 272
-
-
-## PatWalters/resources_2025
-
-今日增长: +0
-当前Stars: 269
-
-
-## benb111/awesome-small-molecule-ml
-
-今日增长: +0
-当前Stars: 243
-
-
-## mattragoza/LiGAN
-
-今日增长: +0
-当前Stars: 238
 
 
 
@@ -285,6 +285,16 @@ https://github.com/bilawalsidhu/gods-eye-view
 https://github.com/heygen-com/hyperframes
 
 
+## paperclipai/paperclip
+
+📝 中文简介: 使用 TypeScript 开发。
+📄 英文原文: The open-source app everyone uses to manage agents at work
+⭐ 当日新增: +2608
+总 Stars: 87856
+语言: TypeScript
+https://github.com/paperclipai/paperclip
+
+
 ## cloudflare/security-audit-skill
 
 📝 中文简介: 使用 JavaScript（前端/全栈） 开发。
@@ -305,14 +315,14 @@ https://github.com/cloudflare/security-audit-skill
 https://github.com/permissionlesstech/bitchat
 
 
-## paperclipai/paperclip
+## vectorize-io/hindsight
 
-📝 中文简介: 使用 TypeScript 开发。
-📄 英文原文: The open-source app everyone uses to manage agents at work
-⭐ 当日新增: +2109
-总 Stars: 85363
-语言: TypeScript
-https://github.com/paperclipai/paperclip
+📝 中文简介: 使用 Python 开发；主要方向：agentic-ai、agents、ai-memory、memory。
+📄 英文原文: Hindsight: Agent Memory That Learns
+⭐ 当日新增: +2147
+总 Stars: 33578
+语言: Python
+https://github.com/vectorize-io/hindsight
 
 
 ## debpalash/VoiceStudio
@@ -345,16 +355,6 @@ https://github.com/microsoft/markitdown
 https://github.com/microsoft/AI-For-Beginners
 
 
-## vectorize-io/hindsight
-
-📝 中文简介: 使用 Python 开发；主要方向：agentic-ai、agents、ai-memory、memory。
-📄 英文原文: Hindsight: Agent Memory That Learns
-⭐ 当日新增: +1653
-总 Stars: 30150
-语言: Python
-https://github.com/vectorize-io/hindsight
-
-
 ## DietrichGebert/ponytail
 
 📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：agent-skills、ai-agents、claude、claude-code、claude-code-plugin、cursor-rules、developer-tools、大语言模型、prompt-engineering、yagni。
@@ -363,16 +363,6 @@ https://github.com/vectorize-io/hindsight
 总 Stars: 129791
 语言: JavaScript
 https://github.com/DietrichGebert/ponytail
-
-
-## zhaoxuya520/reverse-skill
-
-📝 中文简介: 使用 PowerShell 开发。
-📄 英文原文: Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
-⭐ 当日新增: +1401
-总 Stars: 33388
-语言: PowerShell
-https://github.com/zhaoxuya520/reverse-skill
 
 
 ## amadeusprotocol/node
@@ -433,4 +423,14 @@ https://github.com/MadsLorentzen/ai-job-search
 总 Stars: 44059
 语言: TypeScript
 https://github.com/stablyai/orca
+
+
+## harry0703/MoneyPrinterTurbo
+
+📝 中文简介: 使用 Python 开发；主要方向：ai-video-generator、content-creation、ffmpeg、instagram-reels、大语言模型、Python、short-video、subtitles、text-to-speech、tiktok、video-automation、video-workflow、workflow-automation、youtube-shorts。
+📄 英文原文: 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+⭐ 当日新增: +1201
+总 Stars: 113974
+语言: Python
+https://github.com/harry0703/MoneyPrinterTurbo
 
