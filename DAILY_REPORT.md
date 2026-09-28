@@ -6,8 +6,8 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 46758
-Score: 728.98
+⭐ Stars: 46889
+Score: 730.49
 
 ### deepchem/deepchem
 
@@ -16,13 +16,13 @@ Score: 236.49
 
 ### rdkit/rdkit
 
-⭐ Stars: 3598
-Score: 89.43
+⭐ Stars: 3601
+Score: 89.46
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 1999
-Score: 32.14
+⭐ Stars: 2002
+Score: 32.17
 
 ### DeepGraphLearning/torchdrug
 
@@ -36,13 +36,13 @@ Score: 23.9
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 926
-Score: 13.16
+⭐ Stars: 929
+Score: 13.29
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 866
-Score: 20.36
+⭐ Stars: 867
+Score: 20.37
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
@@ -71,8 +71,8 @@ Score: 10.68
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 489
-Score: 7.79
+⭐ Stars: 491
+Score: 7.81
 
 ### oddt/oddt
 
@@ -109,88 +109,88 @@ Score: 4.13
 # 🚀 Star快速增长榜
 
 
+## LeonChaoX/qinyan-academic-skills
+
+今日增长: +3
+当前Stars: 929
+
+
 ## ai4s-research/awesome-ai-for-science
 
 今日增长: +3
-当前Stars: 1999
-
-
-## microsoft/retrochimera
-
-今日增长: +3
-当前Stars: 71
-
-
-## NVIDIA-BioNeMo/bionemo-recipes
-
-今日增长: +2
-当前Stars: 861
-
-
-## deepchem/deepchem
-
-今日增长: +1
-当前Stars: 7019
-
-
-## LeonChaoX/qinyan-academic-skills
-
-今日增长: +1
-当前Stars: 926
-
-
-## dralgroup/mlatom
-
-今日增长: +1
-当前Stars: 165
+当前Stars: 2002
 
 
 ## rdkit/rdkit
 
-今日增长: +1
-当前Stars: 3598
+今日增长: +3
+当前Stars: 3601
 
 
-## datamol-io/datamol
+## aurekaresearch/OpenDDE
 
-今日增长: +1
-当前Stars: 552
-
-
-## chemosim-lab/ProLIF
-
-今日增长: +1
-当前Stars: 543
+今日增长: +2
+当前Stars: 491
 
 
-## rdkit/rdkit-js
+## thomas0809/MolScribe
 
-今日增长: +1
-当前Stars: 249
+今日增长: +2
+当前Stars: 338
 
 
-## molecularsets/moses
+## jaechang-hits/SciAgent-Skills
 
 今日增长: +1
-当前Stars: 990
+当前Stars: 368
 
 
-## kaist-amsg/LocalRetro
+## MolecularAI/REINVENT4
 
 今日增长: +1
-当前Stars: 122
+当前Stars: 867
+
+
+## JacksonBurns/fastsolv
+
+今日增长: +1
+当前Stars: 54
+
+
+## liugangcode/Graph-DiT
+
+今日增长: +1
+当前Stars: 115
+
+
+## microsoft/retrochimera
+
+今日增长: +1
+当前Stars: 72
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 46758
+当前Stars: 46889
+
+
+## deepchem/deepchem
+
+今日增长: +0
+当前Stars: 7019
 
 
 ## DeepGraphLearning/torchdrug
 
 今日增长: +0
 当前Stars: 1586
+
+
+## NVIDIA-BioNeMo/bionemo-recipes
+
+今日增长: +0
+当前Stars: 861
 
 
 ## xjtulyc/MedgeClaw
@@ -203,12 +203,6 @@ Score: 4.13
 
 今日增长: +0
 当前Stars: 472
-
-
-## aurekaresearch/OpenDDE
-
-今日增长: +0
-当前Stars: 489
 
 
 ## DSPsleeporg/smiles-transformer
@@ -229,10 +223,26 @@ Score: 4.13
 当前Stars: 329
 
 
+## AstraZeneca/awesome-drug-discovery-knowledge-graphs
+
+今日增长: +0
+当前Stars: 272
+
+
 
 # 🔥 GitHub 真实热门榜（24h）
 
 > 数据来自 github.com/trending（GitHub 官方按 star 增速排名），与上方关键词搜索的「Star 排行榜」不同，反映全站近期真正快速增长的仓库。
+
+
+## vectorize-io/hindsight
+
+📝 中文简介: 使用 Python 开发；主要方向：agentic-ai、agents、ai-memory、memory。
+📄 英文原文: Hindsight: Agent Memory That Learns
+⭐ 当日新增: +4520
+总 Stars: 38341
+语言: Python
+https://github.com/vectorize-io/hindsight
 
 
 ## tt-a1i/archify
@@ -253,6 +263,16 @@ https://github.com/tt-a1i/archify
 总 Stars: 42273
 语言: Python
 https://github.com/ayghri/i-have-adhd
+
+
+## debpalash/VoiceStudio
+
+📝 中文简介: 使用 Python 开发；主要方向：ai、audiobook、cuda、dubbing、elevenlabs-alternative、huggingface、local-first、mlx、omnivoice-studio、speech-to-text、tauri、text-to-speech、transcription、translate、tts、voice-ai、voice-cloning、voice-generation、voicestudio、workflow。
+📄 英文原文: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+⭐ 当日新增: +3086
+总 Stars: 40837
+语言: Python
+https://github.com/debpalash/VoiceStudio
 
 
 ## alibaba/open-code-review
@@ -285,16 +305,6 @@ https://github.com/bilawalsidhu/gods-eye-view
 https://github.com/heygen-com/hyperframes
 
 
-## paperclipai/paperclip
-
-📝 中文简介: 使用 TypeScript 开发。
-📄 英文原文: The open-source app everyone uses to manage agents at work
-⭐ 当日新增: +2608
-总 Stars: 87856
-语言: TypeScript
-https://github.com/paperclipai/paperclip
-
-
 ## cloudflare/security-audit-skill
 
 📝 中文简介: 使用 JavaScript（前端/全栈） 开发。
@@ -305,6 +315,16 @@ https://github.com/paperclipai/paperclip
 https://github.com/cloudflare/security-audit-skill
 
 
+## paperclipai/paperclip
+
+📝 中文简介: 使用 TypeScript 开发。
+📄 英文原文: The open-source app everyone uses to manage agents at work
+⭐ 当日新增: +2401
+总 Stars: 90710
+语言: TypeScript
+https://github.com/paperclipai/paperclip
+
+
 ## permissionlesstech/bitchat
 
 📝 中文简介: 使用 Swift 开发；主要方向：bluetooth、bluetooth-le、decentralized、e2e-encryption、iOS、macOS、mesh-network、messaging、nostr、Swift。
@@ -313,26 +333,6 @@ https://github.com/cloudflare/security-audit-skill
 总 Stars: 32464
 语言: Swift
 https://github.com/permissionlesstech/bitchat
-
-
-## vectorize-io/hindsight
-
-📝 中文简介: 使用 Python 开发；主要方向：agentic-ai、agents、ai-memory、memory。
-📄 英文原文: Hindsight: Agent Memory That Learns
-⭐ 当日新增: +2147
-总 Stars: 33578
-语言: Python
-https://github.com/vectorize-io/hindsight
-
-
-## debpalash/VoiceStudio
-
-📝 中文简介: 使用 Python 开发；主要方向：ai、audiobook、cuda、dubbing、elevenlabs-alternative、huggingface、local-first、mlx、omnivoice-studio、speech-to-text、tauri、text-to-speech、transcription、translate、tts、voice-ai、voice-cloning、voice-generation、voicestudio、workflow。
-📄 英文原文: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-⭐ 当日新增: +2072
-总 Stars: 31271
-语言: Python
-https://github.com/debpalash/VoiceStudio
 
 
 ## microsoft/markitdown
