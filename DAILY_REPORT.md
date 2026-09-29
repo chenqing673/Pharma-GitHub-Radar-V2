@@ -6,33 +6,33 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 46889
-Score: 730.49
+⭐ Stars: 47039
+Score: 732.44
 
 ### deepchem/deepchem
 
-⭐ Stars: 7019
-Score: 236.49
+⭐ Stars: 7022
+Score: 236.52
 
 ### rdkit/rdkit
 
-⭐ Stars: 3601
-Score: 89.46
+⭐ Stars: 3600
+Score: 89.45
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2002
-Score: 32.17
+⭐ Stars: 2007
+Score: 32.27
 
 ### DeepGraphLearning/torchdrug
 
 ⭐ Stars: 1586
-Score: 26.96
+Score: 27.01
 
 ### molecularsets/moses
 
-⭐ Stars: 990
-Score: 23.9
+⭐ Stars: 991
+Score: 23.91
 
 ### LeonChaoX/qinyan-academic-skills
 
@@ -41,8 +41,8 @@ Score: 13.29
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 867
-Score: 20.37
+⭐ Stars: 870
+Score: 20.4
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
@@ -66,13 +66,13 @@ Score: 8.77
 
 ### chemosim-lab/ProLIF
 
-⭐ Stars: 543
-Score: 10.68
+⭐ Stars: 545
+Score: 10.7
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 491
-Score: 7.81
+⭐ Stars: 493
+Score: 7.83
 
 ### oddt/oddt
 
@@ -81,8 +81,8 @@ Score: 11.12
 
 ### wengong-jin/hgraph2graph
 
-⭐ Stars: 444
-Score: 10.74
+⭐ Stars: 445
+Score: 10.75
 
 ### kjappelbaum/awesome-chemistry-datasets
 
@@ -109,76 +109,58 @@ Score: 4.13
 # 🚀 Star快速增长榜
 
 
-## LeonChaoX/qinyan-academic-skills
-
-今日增长: +3
-当前Stars: 929
-
-
 ## ai4s-research/awesome-ai-for-science
 
+今日增长: +5
+当前Stars: 2007
+
+
+## deepchem/deepchem
+
 今日增长: +3
-当前Stars: 2002
+当前Stars: 7022
 
 
-## rdkit/rdkit
+## MolecularAI/REINVENT4
 
 今日增长: +3
-当前Stars: 3601
+当前Stars: 870
 
 
 ## aurekaresearch/OpenDDE
 
 今日增长: +2
-当前Stars: 491
+当前Stars: 493
 
 
-## thomas0809/MolScribe
+## chemosim-lab/ProLIF
 
 今日增长: +2
-当前Stars: 338
+当前Stars: 545
 
 
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +1
-当前Stars: 368
-
-
-## MolecularAI/REINVENT4
+## molecularsets/moses
 
 今日增长: +1
-当前Stars: 867
+当前Stars: 991
 
 
-## JacksonBurns/fastsolv
-
-今日增长: +1
-当前Stars: 54
-
-
-## liugangcode/Graph-DiT
+## wengong-jin/hgraph2graph
 
 今日增长: +1
-当前Stars: 115
+当前Stars: 445
 
 
-## microsoft/retrochimera
+## Tyche-MKR/scientific-agent-skills
 
 今日增长: +1
-当前Stars: 72
+当前Stars: 80
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 46889
-
-
-## deepchem/deepchem
-
-今日增长: +0
-当前Stars: 7019
+当前Stars: 47039
 
 
 ## DeepGraphLearning/torchdrug
@@ -191,6 +173,12 @@ Score: 4.13
 
 今日增长: +0
 当前Stars: 861
+
+
+## LeonChaoX/qinyan-academic-skills
+
+今日增长: +0
+当前Stars: 929
 
 
 ## xjtulyc/MedgeClaw
@@ -223,10 +211,22 @@ Score: 4.13
 当前Stars: 329
 
 
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +0
+当前Stars: 368
+
+
 ## AstraZeneca/awesome-drug-discovery-knowledge-graphs
 
 今日增长: +0
 当前Stars: 272
+
+
+## PatWalters/resources_2025
+
+今日增长: +0
+当前Stars: 269
 
 
 
@@ -239,8 +239,8 @@ Score: 4.13
 
 📝 中文简介: 使用 Python 开发；主要方向：agentic-ai、agents、ai-memory、memory。
 📄 英文原文: Hindsight: Agent Memory That Learns
-⭐ 当日新增: +4520
-总 Stars: 38341
+⭐ 当日新增: +4561
+总 Stars: 41517
 语言: Python
 https://github.com/vectorize-io/hindsight
 
@@ -269,10 +269,20 @@ https://github.com/ayghri/i-have-adhd
 
 📝 中文简介: 使用 Python 开发；主要方向：ai、audiobook、cuda、dubbing、elevenlabs-alternative、huggingface、local-first、mlx、omnivoice-studio、speech-to-text、tauri、text-to-speech、transcription、translate、tts、voice-ai、voice-cloning、voice-generation、voicestudio、workflow。
 📄 英文原文: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-⭐ 当日新增: +3086
-总 Stars: 40837
+⭐ 当日新增: +3221
+总 Stars: 45163
 语言: Python
 https://github.com/debpalash/VoiceStudio
+
+
+## paperclipai/paperclip
+
+📝 中文简介: 使用 TypeScript 开发。
+📄 英文原文: The open-source app everyone uses to manage agents at work
+⭐ 当日新增: +3197
+总 Stars: 93371
+语言: TypeScript
+https://github.com/paperclipai/paperclip
 
 
 ## alibaba/open-code-review
@@ -313,16 +323,6 @@ https://github.com/heygen-com/hyperframes
 总 Stars: 18276
 语言: JavaScript
 https://github.com/cloudflare/security-audit-skill
-
-
-## paperclipai/paperclip
-
-📝 中文简介: 使用 TypeScript 开发。
-📄 英文原文: The open-source app everyone uses to manage agents at work
-⭐ 当日新增: +2401
-总 Stars: 90710
-语言: TypeScript
-https://github.com/paperclipai/paperclip
 
 
 ## permissionlesstech/bitchat
