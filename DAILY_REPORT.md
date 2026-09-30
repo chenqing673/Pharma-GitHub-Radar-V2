@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 47039
-Score: 732.44
+⭐ Stars: 47160
+Score: 734.65
 
 ### deepchem/deepchem
 
-⭐ Stars: 7022
-Score: 236.52
+⭐ Stars: 7023
+Score: 236.63
 
 ### rdkit/rdkit
 
-⭐ Stars: 3600
-Score: 89.45
+⭐ Stars: 3601
+Score: 89.56
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2007
-Score: 32.27
+⭐ Stars: 2006
+Score: 32.31
 
 ### DeepGraphLearning/torchdrug
 
@@ -36,8 +36,8 @@ Score: 23.91
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 929
-Score: 13.29
+⭐ Stars: 930
+Score: 13.3
 
 ### MolecularAI/REINVENT4
 
@@ -46,8 +46,8 @@ Score: 20.4
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
-⭐ Stars: 861
-Score: 17.81
+⭐ Stars: 862
+Score: 17.87
 
 ### xjtulyc/MedgeClaw
 
@@ -71,8 +71,8 @@ Score: 10.7
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 493
-Score: 7.83
+⭐ Stars: 492
+Score: 7.82
 
 ### oddt/oddt
 
@@ -109,76 +109,70 @@ Score: 4.13
 # 🚀 Star快速增长榜
 
 
-## ai4s-research/awesome-ai-for-science
-
-今日增长: +5
-当前Stars: 2007
-
-
 ## deepchem/deepchem
 
-今日增长: +3
-当前Stars: 7022
+今日增长: +1
+当前Stars: 7023
 
 
-## MolecularAI/REINVENT4
-
-今日增长: +3
-当前Stars: 870
-
-
-## aurekaresearch/OpenDDE
-
-今日增长: +2
-当前Stars: 493
-
-
-## chemosim-lab/ProLIF
-
-今日增长: +2
-当前Stars: 545
-
-
-## molecularsets/moses
+## NVIDIA-BioNeMo/bionemo-recipes
 
 今日增长: +1
-当前Stars: 991
+当前Stars: 862
 
 
-## wengong-jin/hgraph2graph
+## LeonChaoX/qinyan-academic-skills
 
 今日增长: +1
-当前Stars: 445
+当前Stars: 930
+
+
+## NVIDIA/nvalchemi-toolkit
+
+今日增长: +1
+当前Stars: 168
+
+
+## rdkit/rdkit
+
+今日增长: +1
+当前Stars: 3601
+
+
+## PatWalters/useful_rdkit_utils
+
+今日增长: +1
+当前Stars: 241
+
+
+## thomas0809/MolScribe
+
+今日增长: +1
+当前Stars: 339
 
 
 ## Tyche-MKR/scientific-agent-skills
 
 今日增长: +1
-当前Stars: 80
+当前Stars: 81
+
+
+## microsoft/retrochimera
+
+今日增长: +1
+当前Stars: 73
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 47039
+当前Stars: 47160
 
 
 ## DeepGraphLearning/torchdrug
 
 今日增长: +0
 当前Stars: 1586
-
-
-## NVIDIA-BioNeMo/bionemo-recipes
-
-今日增长: +0
-当前Stars: 861
-
-
-## LeonChaoX/qinyan-academic-skills
-
-今日增长: +0
-当前Stars: 929
 
 
 ## xjtulyc/MedgeClaw
@@ -229,20 +223,26 @@ Score: 4.13
 当前Stars: 269
 
 
+## benb111/awesome-small-molecule-ml
+
+今日增长: +0
+当前Stars: 243
+
+
 
 # 🔥 GitHub 真实热门榜（24h）
 
 > 数据来自 github.com/trending（GitHub 官方按 star 增速排名），与上方关键词搜索的「Star 排行榜」不同，反映全站近期真正快速增长的仓库。
 
 
-## vectorize-io/hindsight
+## debpalash/VoiceStudio
 
-📝 中文简介: 使用 Python 开发；主要方向：agentic-ai、agents、ai-memory、memory。
-📄 英文原文: Hindsight: Agent Memory That Learns
-⭐ 当日新增: +4561
-总 Stars: 41517
+📝 中文简介: 使用 Python 开发；主要方向：ai、audiobook、cuda、dubbing、elevenlabs-alternative、huggingface、local-first、mlx、omnivoice-studio、speech-to-text、tauri、text-to-speech、transcription、translate、tts、voice-ai、voice-cloning、voice-generation、voicestudio、workflow。
+📄 英文原文: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+⭐ 当日新增: +4758
+总 Stars: 48854
 语言: Python
-https://github.com/vectorize-io/hindsight
+https://github.com/debpalash/VoiceStudio
 
 
 ## tt-a1i/archify
@@ -263,26 +263,6 @@ https://github.com/tt-a1i/archify
 总 Stars: 42273
 语言: Python
 https://github.com/ayghri/i-have-adhd
-
-
-## debpalash/VoiceStudio
-
-📝 中文简介: 使用 Python 开发；主要方向：ai、audiobook、cuda、dubbing、elevenlabs-alternative、huggingface、local-first、mlx、omnivoice-studio、speech-to-text、tauri、text-to-speech、transcription、translate、tts、voice-ai、voice-cloning、voice-generation、voicestudio、workflow。
-📄 英文原文: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-⭐ 当日新增: +3221
-总 Stars: 45163
-语言: Python
-https://github.com/debpalash/VoiceStudio
-
-
-## paperclipai/paperclip
-
-📝 中文简介: 使用 TypeScript 开发。
-📄 英文原文: The open-source app everyone uses to manage agents at work
-⭐ 当日新增: +3197
-总 Stars: 93371
-语言: TypeScript
-https://github.com/paperclipai/paperclip
 
 
 ## alibaba/open-code-review
@@ -313,6 +293,26 @@ https://github.com/bilawalsidhu/gods-eye-view
 总 Stars: 47962
 语言: TypeScript
 https://github.com/heygen-com/hyperframes
+
+
+## vectorize-io/hindsight
+
+📝 中文简介: 使用 Python 开发；主要方向：agentic-ai、agents、ai-memory、memory。
+📄 英文原文: Hindsight: Agent Memory That Learns
+⭐ 当日新增: +2575
+总 Stars: 43168
+语言: Python
+https://github.com/vectorize-io/hindsight
+
+
+## paperclipai/paperclip
+
+📝 中文简介: 使用 TypeScript 开发。
+📄 英文原文: The open-source app everyone uses to manage agents at work
+⭐ 当日新增: +2458
+总 Stars: 94737
+语言: TypeScript
+https://github.com/paperclipai/paperclip
 
 
 ## cloudflare/security-audit-skill
