@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 47160
-Score: 734.65
+⭐ Stars: 47243
+Score: 736.18
 
 ### deepchem/deepchem
 
-⭐ Stars: 7023
-Score: 236.63
+⭐ Stars: 7025
+Score: 236.65
 
 ### rdkit/rdkit
 
 ⭐ Stars: 3601
-Score: 89.56
+Score: 89.51
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2006
-Score: 32.31
+⭐ Stars: 2005
+Score: 32.3
 
 ### DeepGraphLearning/torchdrug
 
@@ -32,12 +32,12 @@ Score: 27.01
 ### molecularsets/moses
 
 ⭐ Stars: 991
-Score: 23.91
+Score: 23.96
 
 ### LeonChaoX/qinyan-academic-skills
 
 ⭐ Stars: 930
-Score: 13.3
+Score: 13.35
 
 ### MolecularAI/REINVENT4
 
@@ -56,8 +56,8 @@ Score: 13.76
 
 ### wengong-jin/icml18-jtnn
 
-⭐ Stars: 567
-Score: 15.47
+⭐ Stars: 566
+Score: 15.46
 
 ### datamol-io/datamol
 
@@ -111,68 +111,56 @@ Score: 4.13
 
 ## deepchem/deepchem
 
-今日增长: +1
-当前Stars: 7023
-
-
-## NVIDIA-BioNeMo/bionemo-recipes
-
-今日增长: +1
-当前Stars: 862
-
-
-## LeonChaoX/qinyan-academic-skills
-
-今日增长: +1
-当前Stars: 930
-
-
-## NVIDIA/nvalchemi-toolkit
-
-今日增长: +1
-当前Stars: 168
-
-
-## rdkit/rdkit
-
-今日增长: +1
-当前Stars: 3601
-
-
-## PatWalters/useful_rdkit_utils
-
-今日增长: +1
-当前Stars: 241
-
-
-## thomas0809/MolScribe
-
-今日增长: +1
-当前Stars: 339
-
-
-## Tyche-MKR/scientific-agent-skills
-
-今日增长: +1
-当前Stars: 81
+今日增长: +2
+当前Stars: 7025
 
 
 ## microsoft/retrochimera
 
+今日增长: +2
+当前Stars: 75
+
+
+## jaechang-hits/SciAgent-Skills
+
 今日增长: +1
-当前Stars: 73
+当前Stars: 369
+
+
+## PatWalters/resources_2025
+
+今日增长: +1
+当前Stars: 270
+
+
+## argonne-lcf/ChemGraph
+
+今日增长: +1
+当前Stars: 161
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 47160
+当前Stars: 47243
 
 
 ## DeepGraphLearning/torchdrug
 
 今日增长: +0
 当前Stars: 1586
+
+
+## NVIDIA-BioNeMo/bionemo-recipes
+
+今日增长: +0
+当前Stars: 862
+
+
+## LeonChaoX/qinyan-academic-skills
+
+今日增长: +0
+当前Stars: 930
 
 
 ## xjtulyc/MedgeClaw
@@ -185,6 +173,12 @@ Score: 4.13
 
 今日增长: +0
 当前Stars: 472
+
+
+## aurekaresearch/OpenDDE
+
+今日增长: +0
+当前Stars: 492
 
 
 ## DSPsleeporg/smiles-transformer
@@ -205,22 +199,10 @@ Score: 4.13
 当前Stars: 329
 
 
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +0
-当前Stars: 368
-
-
 ## AstraZeneca/awesome-drug-discovery-knowledge-graphs
 
 今日增长: +0
 当前Stars: 272
-
-
-## PatWalters/resources_2025
-
-今日增长: +0
-当前Stars: 269
 
 
 ## benb111/awesome-small-molecule-ml
@@ -229,20 +211,28 @@ Score: 4.13
 当前Stars: 243
 
 
+## mattragoza/LiGAN
+
+今日增长: +0
+当前Stars: 238
+
+
+## Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery
+
+今日增长: +0
+当前Stars: 213
+
+
+## dockstring/dockstring
+
+今日增长: +0
+当前Stars: 191
+
+
 
 # 🔥 GitHub 真实热门榜（24h）
 
 > 数据来自 github.com/trending（GitHub 官方按 star 增速排名），与上方关键词搜索的「Star 排行榜」不同，反映全站近期真正快速增长的仓库。
-
-
-## debpalash/VoiceStudio
-
-📝 中文简介: 使用 Python 开发；主要方向：ai、audiobook、cuda、dubbing、elevenlabs-alternative、huggingface、local-first、mlx、omnivoice-studio、speech-to-text、tauri、text-to-speech、transcription、translate、tts、voice-ai、voice-cloning、voice-generation、voicestudio、workflow。
-📄 英文原文: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-⭐ 当日新增: +4758
-总 Stars: 48854
-语言: Python
-https://github.com/debpalash/VoiceStudio
 
 
 ## tt-a1i/archify
@@ -253,6 +243,16 @@ https://github.com/debpalash/VoiceStudio
 总 Stars: 39733
 语言: JavaScript
 https://github.com/tt-a1i/archify
+
+
+## debpalash/VoiceStudio
+
+📝 中文简介: 使用 Python 开发；主要方向：ai、audiobook、cuda、dubbing、elevenlabs-alternative、huggingface、local-first、mlx、omnivoice-studio、speech-to-text、tauri、text-to-speech、transcription、translate、tts、voice-ai、voice-cloning、voice-generation、voicestudio、workflow。
+📄 英文原文: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+⭐ 当日新增: +3483
+总 Stars: 50766
+语言: Python
+https://github.com/debpalash/VoiceStudio
 
 
 ## ayghri/i-have-adhd
@@ -283,16 +283,6 @@ https://github.com/alibaba/open-code-review
 总 Stars: 32351
 语言: JavaScript
 https://github.com/bilawalsidhu/gods-eye-view
-
-
-## heygen-com/hyperframes
-
-📝 中文简介: 使用 TypeScript 开发；主要方向：ai、动画、ffmpeg、框架、gsap、html、mcp、puppeteer、rendering、TypeScript、视频。
-📄 英文原文: Write HTML. Render video. Built for agents.
-⭐ 当日新增: +2627
-总 Stars: 47962
-语言: TypeScript
-https://github.com/heygen-com/hyperframes
 
 
 ## vectorize-io/hindsight
@@ -355,16 +345,6 @@ https://github.com/microsoft/markitdown
 https://github.com/microsoft/AI-For-Beginners
 
 
-## DietrichGebert/ponytail
-
-📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：agent-skills、ai-agents、claude、claude-code、claude-code-plugin、cursor-rules、developer-tools、大语言模型、prompt-engineering、yagni。
-📄 英文原文: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-⭐ 当日新增: +1539
-总 Stars: 129791
-语言: JavaScript
-https://github.com/DietrichGebert/ponytail
-
-
 ## amadeusprotocol/node
 
 📝 中文简介: 使用 Rust 开发。
@@ -405,6 +385,16 @@ https://github.com/Tencent/BrowserSkill
 https://github.com/cathrynlavery/diagram-design
 
 
+## NVIDIA/OpenShell
+
+📝 中文简介: 使用 Rust 开发。
+📄 英文原文: OpenShell is the safe, private runtime for autonomous AI agents.
+⭐ 当日新增: +1281
+总 Stars: 13190
+语言: Rust
+https://github.com/NVIDIA/OpenShell
+
+
 ## MadsLorentzen/ai-job-search
 
 📝 中文简介: 使用 Python 开发；主要方向：ai、ai-agents、career、claude-code、cover-letter、cv、interview-preparation、job-application、job-hunting、job-search、latex、resume。
@@ -425,12 +415,22 @@ https://github.com/MadsLorentzen/ai-job-search
 https://github.com/stablyai/orca
 
 
-## harry0703/MoneyPrinterTurbo
+## semantica-agi/semantica
 
-📝 中文简介: 使用 Python 开发；主要方向：ai-video-generator、content-creation、ffmpeg、instagram-reels、大语言模型、Python、short-video、subtitles、text-to-speech、tiktok、video-automation、video-workflow、workflow-automation、youtube-shorts。
-📄 英文原文: 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
-⭐ 当日新增: +1201
-总 Stars: 113974
+📝 中文简介: 使用 Python 开发；主要方向：agent-memory、ai、ai-governance、ai-infrastructure、人工智能、context-engineering、context-graphs、data-engineering、decision-intelligence、developer-tools、explainable-ai、生成式 AI、graph-rag、knowledge-graph、大语言模型、ontology、provenance、Python、reasoning、semantic-search。
+📄 英文原文: Graph-Native Infrastructure for Context and Accountable AI Systems
+⭐ 当日新增: +1181
+总 Stars: 7546
 语言: Python
-https://github.com/harry0703/MoneyPrinterTurbo
+https://github.com/semantica-agi/semantica
+
+
+## openai/codex
+
+📝 中文简介: 使用 Rust 开发。
+📄 英文原文: Lightweight coding agent that runs in your terminal
+⭐ 当日新增: +1181
+总 Stars: 118185
+语言: Rust
+https://github.com/openai/codex
 
