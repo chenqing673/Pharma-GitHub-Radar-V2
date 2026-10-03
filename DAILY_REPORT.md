@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 47325
-Score: 737.35
+⭐ Stars: 47404
+Score: 738.29
 
 ### deepchem/deepchem
 
-⭐ Stars: 7026
-Score: 236.66
+⭐ Stars: 7032
+Score: 236.72
 
 ### rdkit/rdkit
 
-⭐ Stars: 3603
-Score: 89.58
+⭐ Stars: 3604
+Score: 89.59
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2006
-Score: 32.31
+⭐ Stars: 2007
+Score: 32.32
 
 ### DeepGraphLearning/torchdrug
 
@@ -41,8 +41,8 @@ Score: 13.35
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 870
-Score: 20.4
+⭐ Stars: 871
+Score: 20.41
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
@@ -51,8 +51,8 @@ Score: 17.81
 
 ### xjtulyc/MedgeClaw
 
-⭐ Stars: 615
-Score: 12.85
+⭐ Stars: 616
+Score: 12.86
 
 ### wengong-jin/icml18-jtnn
 
@@ -71,8 +71,8 @@ Score: 10.7
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 496
-Score: 7.86
+⭐ Stars: 499
+Score: 7.89
 
 ### oddt/oddt
 
@@ -109,52 +109,64 @@ Score: 4.13
 # 🚀 Star快速增长榜
 
 
-## aurekaresearch/OpenDDE
-
-今日增长: +4
-当前Stars: 496
-
-
-## rdkit/rdkit
-
-今日增长: +2
-当前Stars: 3603
-
-
 ## deepchem/deepchem
 
+今日增长: +6
+当前Stars: 7032
+
+
+## aurekaresearch/OpenDDE
+
+今日增长: +3
+当前Stars: 499
+
+
+## xjtulyc/MedgeClaw
+
 今日增长: +1
-当前Stars: 7026
-
-
-## DeepGraphLearning/torchdrug
-
-今日增长: +1
-当前Stars: 1587
+当前Stars: 616
 
 
 ## ai4s-research/awesome-ai-for-science
 
 今日增长: +1
-当前Stars: 2006
+当前Stars: 2007
 
 
-## InternScience/ChemClaw
-
-今日增长: +1
-当前Stars: 53
-
-
-## maabuu/posebusters
+## MolecularAI/REINVENT4
 
 今日增长: +1
-当前Stars: 407
+当前Stars: 871
+
+
+## rdkit/rdkit
+
+今日增长: +1
+当前Stars: 3604
+
+
+## NVIDIA-BioNeMo/nvMolKit
+
+今日增长: +1
+当前Stars: 277
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 47325
+当前Stars: 47404
+
+
+## DeepGraphLearning/torchdrug
+
+今日增长: +0
+当前Stars: 1587
+
+
+## NVIDIA-BioNeMo/bionemo-recipes
+
+今日增长: +0
+当前Stars: 861
 
 
 ## LeonChaoX/qinyan-academic-skills
@@ -187,12 +199,6 @@ Score: 4.13
 当前Stars: 329
 
 
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +0
-当前Stars: 369
-
-
 ## AstraZeneca/awesome-drug-discovery-knowledge-graphs
 
 今日增长: +0
@@ -217,16 +223,10 @@ Score: 4.13
 当前Stars: 238
 
 
-## dockstring/dockstring
+## Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery
 
 今日增长: +0
-当前Stars: 191
-
-
-## NVIDIA/MegaMolBART
-
-今日增长: +0
-当前Stars: 185
+当前Stars: 212
 
 
 
@@ -305,16 +305,6 @@ https://github.com/vectorize-io/hindsight
 https://github.com/paperclipai/paperclip
 
 
-## NVIDIA/OpenShell
-
-📝 中文简介: 使用 Rust 开发。
-📄 英文原文: OpenShell is the safe, private runtime for autonomous AI agents.
-⭐ 当日新增: +2456
-总 Stars: 14134
-语言: Rust
-https://github.com/NVIDIA/OpenShell
-
-
 ## cloudflare/security-audit-skill
 
 📝 中文简介: 使用 JavaScript（前端/全栈） 开发。
@@ -353,6 +343,16 @@ https://github.com/microsoft/markitdown
 总 Stars: 60990
 语言: Jupyter Notebook
 https://github.com/microsoft/AI-For-Beginners
+
+
+## DietrichGebert/ponytail
+
+📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：agent-skills、ai-agents、claude、claude-code、claude-code-plugin、cursor-rules、developer-tools、大语言模型、prompt-engineering、yagni。
+📄 英文原文: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+⭐ 当日新增: +1435
+总 Stars: 152037
+语言: JavaScript
+https://github.com/DietrichGebert/ponytail
 
 
 ## amadeusprotocol/node
@@ -415,16 +415,6 @@ https://github.com/MadsLorentzen/ai-job-search
 https://github.com/stablyai/orca
 
 
-## DietrichGebert/ponytail
-
-📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：agent-skills、ai-agents、claude、claude-code、claude-code-plugin、cursor-rules、developer-tools、大语言模型、prompt-engineering、yagni。
-📄 英文原文: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-⭐ 当日新增: +1194
-总 Stars: 150854
-语言: JavaScript
-https://github.com/DietrichGebert/ponytail
-
-
 ## semantica-agi/semantica
 
 📝 中文简介: 使用 Python 开发；主要方向：agent-memory、ai、ai-governance、ai-infrastructure、人工智能、context-engineering、context-graphs、data-engineering、decision-intelligence、developer-tools、explainable-ai、生成式 AI、graph-rag、knowledge-graph、大语言模型、ontology、provenance、Python、reasoning、semantic-search。
@@ -433,4 +423,14 @@ https://github.com/DietrichGebert/ponytail
 总 Stars: 7546
 语言: Python
 https://github.com/semantica-agi/semantica
+
+
+## openai/codex
+
+📝 中文简介: 使用 Rust 开发。
+📄 英文原文: Lightweight coding agent that runs in your terminal
+⭐ 当日新增: +1181
+总 Stars: 118185
+语言: Rust
+https://github.com/openai/codex
 
