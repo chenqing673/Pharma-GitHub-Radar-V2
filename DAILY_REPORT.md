@@ -6,28 +6,28 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 47619
-Score: 741.24
+⭐ Stars: 47719
+Score: 742.84
 
 ### deepchem/deepchem
 
-⭐ Stars: 7035
-Score: 236.9
+⭐ Stars: 7038
+Score: 237.08
 
 ### rdkit/rdkit
 
-⭐ Stars: 3605
-Score: 89.6
+⭐ Stars: 3606
+Score: 89.61
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2010
-Score: 32.4
+⭐ Stars: 2014
+Score: 32.44
 
 ### DeepGraphLearning/torchdrug
 
-⭐ Stars: 1587
-Score: 27.02
+⭐ Stars: 1586
+Score: 27.01
 
 ### molecularsets/moses
 
@@ -36,8 +36,8 @@ Score: 23.96
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 932
-Score: 13.47
+⭐ Stars: 935
+Score: 13.5
 
 ### MolecularAI/REINVENT4
 
@@ -46,8 +46,8 @@ Score: 20.48
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
-⭐ Stars: 862
-Score: 17.77
+⭐ Stars: 863
+Score: 17.78
 
 ### xjtulyc/MedgeClaw
 
@@ -71,8 +71,8 @@ Score: 10.72
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 501
-Score: 7.91
+⭐ Stars: 502
+Score: 7.97
 
 ### oddt/oddt
 
@@ -86,8 +86,8 @@ Score: 10.75
 
 ### kjappelbaum/awesome-chemistry-datasets
 
-⭐ Stars: 425
-Score: 7.15
+⭐ Stars: 426
+Score: 7.16
 
 ### MinkaiXu/GeoDiff
 
@@ -109,88 +109,76 @@ Score: 4.13
 # 🚀 Star快速增长榜
 
 
+## ai4s-research/awesome-ai-for-science
+
+今日增长: +4
+当前Stars: 2014
+
+
 ## deepchem/deepchem
 
 今日增长: +3
-当前Stars: 7035
-
-
-## aurekaresearch/OpenDDE
-
-今日增长: +2
-当前Stars: 501
+当前Stars: 7038
 
 
 ## LeonChaoX/qinyan-academic-skills
 
-今日增长: +1
-当前Stars: 932
+今日增长: +3
+当前Stars: 935
 
 
-## xjtulyc/MedgeClaw
-
-今日增长: +1
-当前Stars: 617
-
-
-## jaechang-hits/SciAgent-Skills
+## NVIDIA-BioNeMo/bionemo-recipes
 
 今日增长: +1
-当前Stars: 369
+当前Stars: 863
 
 
-## ai4s-research/awesome-ai-for-science
-
-今日增长: +1
-当前Stars: 2010
-
-
-## MolecularAI/REINVENT4
+## aurekaresearch/OpenDDE
 
 今日增长: +1
-当前Stars: 873
+当前Stars: 502
 
 
-## dralgroup/mlatom
-
-今日增长: +1
-当前Stars: 166
-
-
-## argonne-lcf/ChemGraph
+## kjappelbaum/awesome-chemistry-datasets
 
 今日增长: +1
-当前Stars: 162
+当前Stars: 426
 
 
 ## NVIDIA/nvalchemi-toolkit
 
 今日增长: +1
-当前Stars: 182
+当前Stars: 183
 
 
-## chemosim-lab/ProLIF
+## rdkit/rdkit
 
 今日增长: +1
-当前Stars: 547
+当前Stars: 3606
+
+
+## gcorso/torsional-diffusion
+
+今日增长: +1
+当前Stars: 289
+
+
+## microsoft/retrochimera
+
+今日增长: +1
+当前Stars: 76
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 47619
+当前Stars: 47719
 
 
-## DeepGraphLearning/torchdrug
-
-今日增长: +0
-当前Stars: 1587
-
-
-## NVIDIA-BioNeMo/bionemo-recipes
+## xjtulyc/MedgeClaw
 
 今日增长: +0
-当前Stars: 862
+当前Stars: 617
 
 
 ## oddt/oddt
@@ -217,6 +205,12 @@ Score: 4.13
 当前Stars: 329
 
 
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +0
+当前Stars: 369
+
+
 ## AstraZeneca/awesome-drug-discovery-knowledge-graphs
 
 今日增长: +0
@@ -227,6 +221,12 @@ Score: 4.13
 
 今日增长: +0
 当前Stars: 270
+
+
+## benb111/awesome-small-molecule-ml
+
+今日增长: +0
+当前Stars: 243
 
 
 
@@ -355,6 +355,26 @@ https://github.com/microsoft/AI-For-Beginners
 https://github.com/DietrichGebert/ponytail
 
 
+## DuarteSantos8/openGym
+
+📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：bodyweight、Docker、fitness、fitness-tracker、gym、health、mcp、Node.js、passkeys、progressive-web-applications、pwa、React、自托管、self-hosting、vite、webauthn、weightlifting、workout-tracker。
+📄 英文原文: Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
+⭐ 当日新增: +1433
+总 Stars: 4577
+语言: JavaScript
+https://github.com/DuarteSantos8/openGym
+
+
+## tester-army/e2e
+
+📝 中文简介: 使用 TypeScript 开发；主要方向：e2e、e2e-testing、end-to-end-testing、移动端、mobile-testing、playwright、Web。
+📄 英文原文: Next generation e2e testing framework for web and mobile apps.
+⭐ 当日新增: +1398
+总 Stars: 5201
+语言: TypeScript
+https://github.com/tester-army/e2e
+
+
 ## amadeusprotocol/node
 
 📝 中文简介: 使用 Rust 开发。
@@ -413,24 +433,4 @@ https://github.com/MadsLorentzen/ai-job-search
 总 Stars: 44059
 语言: TypeScript
 https://github.com/stablyai/orca
-
-
-## semantica-agi/semantica
-
-📝 中文简介: 使用 Python 开发；主要方向：agent-memory、ai、ai-governance、ai-infrastructure、人工智能、context-engineering、context-graphs、data-engineering、decision-intelligence、developer-tools、explainable-ai、生成式 AI、graph-rag、knowledge-graph、大语言模型、ontology、provenance、Python、reasoning、semantic-search。
-📄 英文原文: Graph-Native Infrastructure for Context and Accountable AI Systems
-⭐ 当日新增: +1181
-总 Stars: 7546
-语言: Python
-https://github.com/semantica-agi/semantica
-
-
-## openai/codex
-
-📝 中文简介: 使用 Rust 开发。
-📄 英文原文: Lightweight coding agent that runs in your terminal
-⭐ 当日新增: +1181
-总 Stars: 118185
-语言: Rust
-https://github.com/openai/codex
 
