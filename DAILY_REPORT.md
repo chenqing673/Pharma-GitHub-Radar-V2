@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 47719
-Score: 742.84
+⭐ Stars: 47826
+Score: 744.16
 
 ### deepchem/deepchem
 
 ⭐ Stars: 7038
-Score: 237.08
+Score: 237.28
 
 ### rdkit/rdkit
 
-⭐ Stars: 3606
-Score: 89.61
+⭐ Stars: 3607
+Score: 89.67
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2014
-Score: 32.44
+⭐ Stars: 2019
+Score: 32.59
 
 ### DeepGraphLearning/torchdrug
 
@@ -31,13 +31,13 @@ Score: 27.01
 
 ### molecularsets/moses
 
-⭐ Stars: 991
-Score: 23.96
+⭐ Stars: 992
+Score: 23.97
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 935
-Score: 13.5
+⭐ Stars: 937
+Score: 13.52
 
 ### MolecularAI/REINVENT4
 
@@ -46,8 +46,8 @@ Score: 20.48
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
-⭐ Stars: 863
-Score: 17.78
+⭐ Stars: 864
+Score: 17.79
 
 ### xjtulyc/MedgeClaw
 
@@ -71,8 +71,8 @@ Score: 10.72
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 502
-Score: 7.97
+⭐ Stars: 503
+Score: 7.98
 
 ### oddt/oddt
 
@@ -111,68 +111,80 @@ Score: 4.13
 
 ## ai4s-research/awesome-ai-for-science
 
+今日增长: +5
+当前Stars: 2019
+
+
+## NVIDIA/nvalchemi-toolkit
+
 今日增长: +4
-当前Stars: 2014
-
-
-## deepchem/deepchem
-
-今日增长: +3
-当前Stars: 7038
+当前Stars: 187
 
 
 ## LeonChaoX/qinyan-academic-skills
 
-今日增长: +3
-当前Stars: 935
+今日增长: +2
+当前Stars: 937
 
 
 ## NVIDIA-BioNeMo/bionemo-recipes
 
 今日增长: +1
-当前Stars: 863
+当前Stars: 864
 
 
 ## aurekaresearch/OpenDDE
 
 今日增长: +1
-当前Stars: 502
+当前Stars: 503
 
 
-## kjappelbaum/awesome-chemistry-datasets
-
-今日增长: +1
-当前Stars: 426
-
-
-## NVIDIA/nvalchemi-toolkit
+## jaechang-hits/SciAgent-Skills
 
 今日增长: +1
-当前Stars: 183
+当前Stars: 370
+
+
+## SimonsTang/feifei-companion
+
+今日增长: +1
+当前Stars: 106
 
 
 ## rdkit/rdkit
 
 今日增长: +1
-当前Stars: 3606
+当前Stars: 3607
 
 
-## gcorso/torsional-diffusion
+## molecularsets/moses
 
 今日增长: +1
-当前Stars: 289
+当前Stars: 992
 
 
 ## microsoft/retrochimera
 
 今日增长: +1
-当前Stars: 76
+当前Stars: 77
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 47719
+当前Stars: 47826
+
+
+## deepchem/deepchem
+
+今日增长: +0
+当前Stars: 7038
+
+
+## DeepGraphLearning/torchdrug
+
+今日增长: +0
+当前Stars: 1586
 
 
 ## xjtulyc/MedgeClaw
@@ -205,12 +217,6 @@ Score: 4.13
 当前Stars: 329
 
 
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +0
-当前Stars: 369
-
-
 ## AstraZeneca/awesome-drug-discovery-knowledge-graphs
 
 今日增长: +0
@@ -221,12 +227,6 @@ Score: 4.13
 
 今日增长: +0
 当前Stars: 270
-
-
-## benb111/awesome-small-molecule-ml
-
-今日增长: +0
-当前Stars: 243
 
 
 
@@ -255,14 +255,14 @@ https://github.com/tt-a1i/archify
 https://github.com/debpalash/VoiceStudio
 
 
-## ayghri/i-have-adhd
+## morluto/rea
 
-📝 中文简介: 使用 Python 开发；主要方向：adhd、claude-、claude-code-plugin、claude-skills、developer-tools、productivity。
-📄 英文原文: A skill to stop your coding agent from burying the answer. ADHD-friendly output.
-⭐ 当日新增: +3463
-总 Stars: 42273
-语言: Python
-https://github.com/ayghri/i-have-adhd
+📝 中文简介: 使用 TypeScript 开发；主要方向：agent-skills、ai-agent-tools、ai-agents、binary-analysis、命令行工具、coding-agents、cordis、ctf、decompiler、disassembler、dsh、dsh-plugin、ghidra、hopper、mcp、mcp-server、model-context-protocol、reverse-engineering、reverse-engineering-tools、static-analysis。
+📄 英文原文: Reverse engineer anything with agents, from app behavior down to native binaries.
+⭐ 当日新增: +2956
+总 Stars: 10621
+语言: TypeScript
+https://github.com/morluto/rea
 
 
 ## alibaba/open-code-review
@@ -355,24 +355,24 @@ https://github.com/microsoft/AI-For-Beginners
 https://github.com/DietrichGebert/ponytail
 
 
-## DuarteSantos8/openGym
-
-📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：bodyweight、Docker、fitness、fitness-tracker、gym、health、mcp、Node.js、passkeys、progressive-web-applications、pwa、React、自托管、self-hosting、vite、webauthn、weightlifting、workout-tracker。
-📄 英文原文: Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
-⭐ 当日新增: +1433
-总 Stars: 4577
-语言: JavaScript
-https://github.com/DuarteSantos8/openGym
-
-
 ## tester-army/e2e
 
 📝 中文简介: 使用 TypeScript 开发；主要方向：e2e、e2e-testing、end-to-end-testing、移动端、mobile-testing、playwright、Web。
 📄 英文原文: Next generation e2e testing framework for web and mobile apps.
-⭐ 当日新增: +1398
-总 Stars: 5201
+⭐ 当日新增: +1725
+总 Stars: 6632
 语言: TypeScript
 https://github.com/tester-army/e2e
+
+
+## DuarteSantos8/openGym
+
+📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：bodyweight、Docker、fitness、fitness-tracker、gym、health、mcp、Node.js、passkeys、progressive-web-applications、pwa、React、自托管、self-hosting、vite、webauthn、weightlifting、workout-tracker。
+📄 英文原文: Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
+⭐ 当日新增: +1419
+总 Stars: 6020
+语言: JavaScript
+https://github.com/DuarteSantos8/openGym
 
 
 ## amadeusprotocol/node
@@ -405,16 +405,6 @@ https://github.com/google/ax
 https://github.com/Tencent/BrowserSkill
 
 
-## cathrynlavery/diagram-design
-
-📝 中文简介: 使用 HTML 开发；主要方向：agent-skills、claude-code、codex、data-visualization、diagrams、drawio、mermaid、svg。
-📄 英文原文: 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
-⭐ 当日新增: +1294
-总 Stars: 37977
-语言: HTML
-https://github.com/cathrynlavery/diagram-design
-
-
 ## MadsLorentzen/ai-job-search
 
 📝 中文简介: 使用 Python 开发；主要方向：ai、ai-agents、career、claude-code、cover-letter、cv、interview-preparation、job-application、job-hunting、job-search、latex、resume。
@@ -433,4 +423,14 @@ https://github.com/MadsLorentzen/ai-job-search
 总 Stars: 44059
 语言: TypeScript
 https://github.com/stablyai/orca
+
+
+## semantica-agi/semantica
+
+📝 中文简介: 使用 Python 开发；主要方向：agent-memory、ai、ai-governance、ai-infrastructure、人工智能、context-engineering、context-graphs、data-engineering、decision-intelligence、developer-tools、explainable-ai、生成式 AI、graph-rag、knowledge-graph、大语言模型、ontology、provenance、Python、reasoning、semantic-search。
+📄 英文原文: Graph-Native Infrastructure for Context and Accountable AI Systems
+⭐ 当日新增: +1181
+总 Stars: 7546
+语言: Python
+https://github.com/semantica-agi/semantica
 
