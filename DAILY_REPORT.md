@@ -6,13 +6,13 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 47826
-Score: 744.16
+⭐ Stars: 47957
+Score: 745.77
 
 ### deepchem/deepchem
 
-⭐ Stars: 7038
-Score: 237.28
+⭐ Stars: 7042
+Score: 237.37
 
 ### rdkit/rdkit
 
@@ -21,8 +21,8 @@ Score: 89.67
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2019
-Score: 32.59
+⭐ Stars: 2020
+Score: 32.6
 
 ### DeepGraphLearning/torchdrug
 
@@ -36,13 +36,13 @@ Score: 23.97
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 937
-Score: 13.52
+⭐ Stars: 940
+Score: 13.55
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 873
-Score: 20.48
+⭐ Stars: 875
+Score: 20.5
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
@@ -71,8 +71,8 @@ Score: 10.72
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 503
-Score: 7.98
+⭐ Stars: 504
+Score: 7.99
 
 ### oddt/oddt
 
@@ -96,8 +96,8 @@ Score: 8.42
 
 ### maabuu/posebusters
 
-⭐ Stars: 408
-Score: 5.48
+⭐ Stars: 409
+Score: 5.49
 
 ### qinheming/BIoClaw
 
@@ -109,82 +109,76 @@ Score: 4.13
 # 🚀 Star快速增长榜
 
 
-## ai4s-research/awesome-ai-for-science
-
-今日增长: +5
-当前Stars: 2019
-
-
-## NVIDIA/nvalchemi-toolkit
+## deepchem/deepchem
 
 今日增长: +4
-当前Stars: 187
+当前Stars: 7042
 
 
 ## LeonChaoX/qinyan-academic-skills
 
+今日增长: +3
+当前Stars: 940
+
+
+## MolecularAI/REINVENT4
+
 今日增长: +2
-当前Stars: 937
-
-
-## NVIDIA-BioNeMo/bionemo-recipes
-
-今日增长: +1
-当前Stars: 864
+当前Stars: 875
 
 
 ## aurekaresearch/OpenDDE
 
 今日增长: +1
-当前Stars: 503
+当前Stars: 504
 
 
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +1
-当前Stars: 370
-
-
-## SimonsTang/feifei-companion
+## PatWalters/resources_2025
 
 今日增长: +1
-当前Stars: 106
+当前Stars: 271
 
 
-## rdkit/rdkit
-
-今日增长: +1
-当前Stars: 3607
-
-
-## molecularsets/moses
+## ai4s-research/awesome-ai-for-science
 
 今日增长: +1
-当前Stars: 992
+当前Stars: 2020
 
 
-## microsoft/retrochimera
+## NVIDIA/nvalchemi-toolkit
 
 今日增长: +1
-当前Stars: 77
+当前Stars: 188
+
+
+## maabuu/posebusters
+
+今日增长: +1
+当前Stars: 409
+
+
+## NVIDIA-BioNeMo/nvMolKit
+
+今日增长: +1
+当前Stars: 279
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 47826
-
-
-## deepchem/deepchem
-
-今日增长: +0
-当前Stars: 7038
+当前Stars: 47957
 
 
 ## DeepGraphLearning/torchdrug
 
 今日增长: +0
 当前Stars: 1586
+
+
+## NVIDIA-BioNeMo/bionemo-recipes
+
+今日增长: +0
+当前Stars: 864
 
 
 ## xjtulyc/MedgeClaw
@@ -217,22 +211,38 @@ Score: 4.13
 当前Stars: 329
 
 
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +0
+当前Stars: 370
+
+
 ## AstraZeneca/awesome-drug-discovery-knowledge-graphs
 
 今日增长: +0
 当前Stars: 272
 
 
-## PatWalters/resources_2025
+## benb111/awesome-small-molecule-ml
 
 今日增长: +0
-当前Stars: 270
+当前Stars: 243
 
 
 
 # 🔥 GitHub 真实热门榜（24h）
 
 > 数据来自 github.com/trending（GitHub 官方按 star 增速排名），与上方关键词搜索的「Star 排行榜」不同，反映全站近期真正快速增长的仓库。
+
+
+## morluto/rea
+
+📝 中文简介: 使用 TypeScript 开发；主要方向：agent-skills、ai-agent-tools、ai-agents、binary-analysis、命令行工具、coding-agents、cordis、ctf、decompiler、disassembler、dsh、dsh-plugin、ghidra、hopper、mcp、mcp-server、model-context-protocol、reverse-engineering、reverse-engineering-tools、static-analysis。
+📄 英文原文: Reverse engineer anything with agents, from app behavior down to native binaries.
+⭐ 当日新增: +4655
+总 Stars: 17521
+语言: TypeScript
+https://github.com/morluto/rea
 
 
 ## tt-a1i/archify
@@ -255,14 +265,14 @@ https://github.com/tt-a1i/archify
 https://github.com/debpalash/VoiceStudio
 
 
-## morluto/rea
+## boykopovar/AnyPS5
 
-📝 中文简介: 使用 TypeScript 开发；主要方向：agent-skills、ai-agent-tools、ai-agents、binary-analysis、命令行工具、coding-agents、cordis、ctf、decompiler、disassembler、dsh、dsh-plugin、ghidra、hopper、mcp、mcp-server、model-context-protocol、reverse-engineering、reverse-engineering-tools、static-analysis。
-📄 英文原文: Reverse engineer anything with agents, from app behavior down to native binaries.
-⭐ 当日新增: +2956
-总 Stars: 10621
-语言: TypeScript
-https://github.com/morluto/rea
+📝 中文简介: 使用 C++ 开发；主要方向：anyps5、dynamic-library、game-porting、ps5、ps5-tools、spir-v、vulkan。
+📄 英文原文: Tool for automatic PS5 executables porting to Linux and Windows
+⭐ 当日新增: +2716
+总 Stars: 11662
+语言: C++
+https://github.com/boykopovar/AnyPS5
 
 
 ## alibaba/open-code-review
@@ -305,16 +315,6 @@ https://github.com/vectorize-io/hindsight
 https://github.com/paperclipai/paperclip
 
 
-## cloudflare/security-audit-skill
-
-📝 中文简介: 使用 JavaScript（前端/全栈） 开发。
-📄 英文原文: A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-⭐ 当日新增: +2428
-总 Stars: 18276
-语言: JavaScript
-https://github.com/cloudflare/security-audit-skill
-
-
 ## permissionlesstech/bitchat
 
 📝 中文简介: 使用 Swift 开发；主要方向：bluetooth、bluetooth-le、decentralized、e2e-encryption、iOS、macOS、mesh-network、messaging、nostr、Swift。
@@ -355,24 +355,24 @@ https://github.com/microsoft/AI-For-Beginners
 https://github.com/DietrichGebert/ponytail
 
 
-## tester-army/e2e
-
-📝 中文简介: 使用 TypeScript 开发；主要方向：e2e、e2e-testing、end-to-end-testing、移动端、mobile-testing、playwright、Web。
-📄 英文原文: Next generation e2e testing framework for web and mobile apps.
-⭐ 当日新增: +1725
-总 Stars: 6632
-语言: TypeScript
-https://github.com/tester-army/e2e
-
-
 ## DuarteSantos8/openGym
 
 📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：bodyweight、Docker、fitness、fitness-tracker、gym、health、mcp、Node.js、passkeys、progressive-web-applications、pwa、React、自托管、self-hosting、vite、webauthn、weightlifting、workout-tracker。
 📄 英文原文: Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
-⭐ 当日新增: +1419
-总 Stars: 6020
+⭐ 当日新增: +1493
+总 Stars: 7378
 语言: JavaScript
 https://github.com/DuarteSantos8/openGym
+
+
+## mattpocock/skills
+
+📝 中文简介: 使用 Shell 脚本 开发。
+📄 英文原文: Skills for Real Engineers. Straight from my .agents directory.
+⭐ 当日新增: +1403
+总 Stars: 280107
+语言: Shell
+https://github.com/mattpocock/skills
 
 
 ## amadeusprotocol/node
@@ -383,6 +383,16 @@ https://github.com/DuarteSantos8/openGym
 总 Stars: 4584
 语言: Rust
 https://github.com/amadeusprotocol/node
+
+
+## tester-army/e2e
+
+📝 中文简介: 使用 TypeScript 开发；主要方向：e2e、e2e-testing、end-to-end-testing、移动端、mobile-testing、playwright、Web。
+📄 英文原文: Next generation e2e testing framework for web and mobile apps.
+⭐ 当日新增: +1390
+总 Stars: 7792
+语言: TypeScript
+https://github.com/tester-army/e2e
 
 
 ## google/ax
@@ -423,14 +433,4 @@ https://github.com/MadsLorentzen/ai-job-search
 总 Stars: 44059
 语言: TypeScript
 https://github.com/stablyai/orca
-
-
-## semantica-agi/semantica
-
-📝 中文简介: 使用 Python 开发；主要方向：agent-memory、ai、ai-governance、ai-infrastructure、人工智能、context-engineering、context-graphs、data-engineering、decision-intelligence、developer-tools、explainable-ai、生成式 AI、graph-rag、knowledge-graph、大语言模型、ontology、provenance、Python、reasoning、semantic-search。
-📄 英文原文: Graph-Native Infrastructure for Context and Accountable AI Systems
-⭐ 当日新增: +1181
-总 Stars: 7546
-语言: Python
-https://github.com/semantica-agi/semantica
 
