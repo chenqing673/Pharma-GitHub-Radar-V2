@@ -6,43 +6,43 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 48093
-Score: 747.53
+⭐ Stars: 48211
+Score: 749.01
 
 ### deepchem/deepchem
 
-⭐ Stars: 7045
-Score: 237.45
+⭐ Stars: 7049
+Score: 237.64
 
 ### rdkit/rdkit
 
 ⭐ Stars: 3613
-Score: 89.78
+Score: 89.83
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2023
-Score: 32.58
+⭐ Stars: 2026
+Score: 32.66
 
 ### DeepGraphLearning/torchdrug
 
-⭐ Stars: 1586
-Score: 27.01
+⭐ Stars: 1587
+Score: 27.02
 
 ### molecularsets/moses
 
-⭐ Stars: 992
-Score: 23.97
+⭐ Stars: 993
+Score: 23.98
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 943
-Score: 13.58
+⭐ Stars: 944
+Score: 13.59
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 875
-Score: 20.5
+⭐ Stars: 876
+Score: 20.51
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
@@ -71,8 +71,8 @@ Score: 10.72
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 506
-Score: 8.06
+⭐ Stars: 508
+Score: 8.13
 
 ### oddt/oddt
 
@@ -87,7 +87,7 @@ Score: 10.75
 ### kjappelbaum/awesome-chemistry-datasets
 
 ⭐ Stars: 426
-Score: 7.16
+Score: 7.21
 
 ### MinkaiXu/GeoDiff
 
@@ -96,8 +96,8 @@ Score: 8.42
 
 ### maabuu/posebusters
 
-⭐ Stars: 409
-Score: 5.49
+⭐ Stars: 411
+Score: 5.51
 
 ### qinheming/BIoClaw
 
@@ -109,82 +109,88 @@ Score: 4.13
 # 🚀 Star快速增长榜
 
 
-## rdkit/rdkit
-
-今日增长: +6
-当前Stars: 3613
-
-
 ## deepchem/deepchem
 
+今日增长: +4
+当前Stars: 7049
+
+
+## jaechang-hits/SciAgent-Skills
+
 今日增长: +3
-当前Stars: 7045
-
-
-## LeonChaoX/qinyan-academic-skills
-
-今日增长: +3
-当前Stars: 943
+当前Stars: 374
 
 
 ## ai4s-research/awesome-ai-for-science
 
 今日增长: +3
-当前Stars: 2023
+当前Stars: 2026
 
 
 ## aurekaresearch/OpenDDE
 
 今日增长: +2
-当前Stars: 506
+当前Stars: 508
 
 
-## NVIDIA-BioNeMo/bionemo-recipes
+## maabuu/posebusters
 
-今日增长: +1
-当前Stars: 865
-
-
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +1
-当前Stars: 371
+今日增长: +2
+当前Stars: 411
 
 
-## NVIDIA/nvalchemi-toolkit
+## rdkit/rdkit-js
 
-今日增长: +1
-当前Stars: 189
+今日增长: +2
+当前Stars: 251
 
 
-## OSU-NLP-Group/ChemMCP
+## DeepGraphLearning/torchdrug
 
 今日增长: +1
-当前Stars: 74
+当前Stars: 1587
+
+
+## LeonChaoX/qinyan-academic-skills
+
+今日增长: +1
+当前Stars: 944
+
+
+## MolecularAI/REINVENT4
+
+今日增长: +1
+当前Stars: 876
+
+
+## schwallergroup/ai4chem_course
+
+今日增长: +1
+当前Stars: 295
+
+
+## molecularsets/moses
+
+今日增长: +1
+当前Stars: 993
 
 
 ## thomas0809/MolScribe
 
 今日增长: +1
-当前Stars: 340
-
-
-## OdinZhang/ResGen
-
-今日增长: +1
-当前Stars: 117
+当前Stars: 341
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 48093
+当前Stars: 48211
 
 
-## DeepGraphLearning/torchdrug
+## NVIDIA-BioNeMo/bionemo-recipes
 
 今日增长: +0
-当前Stars: 1586
+当前Stars: 865
 
 
 ## xjtulyc/MedgeClaw
@@ -223,12 +229,6 @@ Score: 4.13
 当前Stars: 272
 
 
-## PatWalters/resources_2025
-
-今日增长: +0
-当前Stars: 271
-
-
 
 # 🔥 GitHub 真实热门榜（24h）
 
@@ -239,8 +239,8 @@ Score: 4.13
 
 📝 中文简介: 使用 TypeScript 开发；主要方向：agent-skills、ai-agents、binary-analysis、claude-code、命令行工具、codex、cordis、ctf、decompiler、developer-tools、disassembler、dsh、dsh-plugin、ghidra、hopper、大语言模型、mcp、model-context-protocol、reverse-engineering、static-analysis。
 📄 英文原文: Reverse engineer anything with agents, from app behavior down to native binaries.
-⭐ 当日新增: +7738
-总 Stars: 31215
+⭐ 当日新增: +14927
+总 Stars: 53987
 语言: TypeScript
 https://github.com/morluto/rea
 
@@ -249,8 +249,8 @@ https://github.com/morluto/rea
 
 📝 中文简介: 使用 C++ 开发；主要方向：anyps5、dynamic-library、game-porting、ps5、ps5-tools、spir-v、vulkan。
 📄 英文原文: Tool for automatic PS5 executables porting to Linux and Windows
-⭐ 当日新增: +4669
-总 Stars: 17169
+⭐ 当日新增: +5868
+总 Stars: 23322
 语言: C++
 https://github.com/boykopovar/AnyPS5
 
@@ -265,6 +265,16 @@ https://github.com/boykopovar/AnyPS5
 https://github.com/tt-a1i/archify
 
 
+## storytold/artcraft
+
+📝 中文简介: 使用 Rust 开发；主要方向：3d-graphics、ai、aivideo、filmmaking、imagegeneration。
+📄 英文原文: ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+⭐ 当日新增: +3752
+总 Stars: 12198
+语言: Rust
+https://github.com/storytold/artcraft
+
+
 ## debpalash/VoiceStudio
 
 📝 中文简介: 使用 Python 开发；主要方向：ai、audiobook、cuda、dubbing、elevenlabs-alternative、huggingface、local-first、mlx、omnivoice-studio、speech-to-text、tauri、text-to-speech、transcription、translate、tts、voice-ai、voice-cloning、voice-generation、voicestudio、workflow。
@@ -273,16 +283,6 @@ https://github.com/tt-a1i/archify
 总 Stars: 50766
 语言: Python
 https://github.com/debpalash/VoiceStudio
-
-
-## alibaba/open-code-review
-
-📝 中文简介: 使用 Go 开发；主要方向：智能体、agent-skills、code-review、code-review-assistant、harness、repository-level-context。
-📄 英文原文: Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-⭐ 当日新增: +2704
-总 Stars: 36867
-语言: Go
-https://github.com/alibaba/open-code-review
 
 
 ## bilawalsidhu/gods-eye-view
@@ -325,16 +325,6 @@ https://github.com/paperclipai/paperclip
 https://github.com/permissionlesstech/bitchat
 
 
-## storytold/artcraft
-
-📝 中文简介: 使用 Rust 开发；主要方向：3d-graphics、ai、aivideo、filmmaking、imagegeneration。
-📄 英文原文: ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
-⭐ 当日新增: +2103
-总 Stars: 8946
-语言: Rust
-https://github.com/storytold/artcraft
-
-
 ## microsoft/markitdown
 
 📝 中文简介: 使用 Python 开发；主要方向：autogen、autogen-extension、LangChain、markdown、microsoft-office、openai、pdf。
@@ -365,12 +355,22 @@ https://github.com/microsoft/AI-For-Beginners
 https://github.com/DietrichGebert/ponytail
 
 
+## cathrynlavery/diagram-design
+
+📝 中文简介: 使用 HTML 开发；主要方向：agent-skills、claude-code、codex、data-visualization、diagrams、drawio、mermaid、svg。
+📄 英文原文: Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+⭐ 当日新增: +1739
+总 Stars: 48199
+语言: HTML
+https://github.com/cathrynlavery/diagram-design
+
+
 ## mattpocock/skills
 
 📝 中文简介: 使用 Shell 脚本 开发。
 📄 英文原文: Skills for Real Engineers. Straight from my .agents directory.
-⭐ 当日新增: +1774
-总 Stars: 281556
+⭐ 当日新增: +1687
+总 Stars: 283192
 语言: Shell
 https://github.com/mattpocock/skills
 
