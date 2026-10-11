@@ -6,33 +6,33 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 48211
-Score: 749.01
+⭐ Stars: 48323
+Score: 750.63
 
 ### deepchem/deepchem
 
-⭐ Stars: 7049
-Score: 237.64
+⭐ Stars: 7050
+Score: 237.7
 
 ### rdkit/rdkit
 
-⭐ Stars: 3613
-Score: 89.83
+⭐ Stars: 3614
+Score: 89.84
 
 ### ai4s-research/awesome-ai-for-science
 
 ⭐ Stars: 2026
-Score: 32.66
+Score: 32.71
 
 ### DeepGraphLearning/torchdrug
 
-⭐ Stars: 1587
-Score: 27.02
+⭐ Stars: 1589
+Score: 27.04
 
 ### molecularsets/moses
 
-⭐ Stars: 993
-Score: 23.98
+⭐ Stars: 994
+Score: 23.99
 
 ### LeonChaoX/qinyan-academic-skills
 
@@ -46,8 +46,8 @@ Score: 20.51
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
-⭐ Stars: 865
-Score: 17.85
+⭐ Stars: 867
+Score: 17.92
 
 ### xjtulyc/MedgeClaw
 
@@ -66,13 +66,13 @@ Score: 8.77
 
 ### chemosim-lab/ProLIF
 
-⭐ Stars: 547
-Score: 10.72
+⭐ Stars: 548
+Score: 10.73
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 508
-Score: 8.13
+⭐ Stars: 509
+Score: 8.14
 
 ### oddt/oddt
 
@@ -86,8 +86,8 @@ Score: 10.75
 
 ### kjappelbaum/awesome-chemistry-datasets
 
-⭐ Stars: 426
-Score: 7.21
+⭐ Stars: 427
+Score: 7.22
 
 ### MinkaiXu/GeoDiff
 
@@ -109,88 +109,100 @@ Score: 4.13
 # 🚀 Star快速增长榜
 
 
-## deepchem/deepchem
+## DeepGraphLearning/torchdrug
 
-今日增长: +4
-当前Stars: 7049
+今日增长: +2
+当前Stars: 1589
+
+
+## NVIDIA-BioNeMo/bionemo-recipes
+
+今日增长: +2
+当前Stars: 867
 
 
 ## jaechang-hits/SciAgent-Skills
 
-今日增长: +3
-当前Stars: 374
+今日增长: +2
+当前Stars: 376
 
 
-## ai4s-research/awesome-ai-for-science
+## deepchem/deepchem
 
-今日增长: +3
-当前Stars: 2026
+今日增长: +1
+当前Stars: 7050
 
 
 ## aurekaresearch/OpenDDE
 
-今日增长: +2
-当前Stars: 508
+今日增长: +1
+当前Stars: 509
 
 
-## maabuu/posebusters
-
-今日增长: +2
-当前Stars: 411
-
-
-## rdkit/rdkit-js
-
-今日增长: +2
-当前Stars: 251
-
-
-## DeepGraphLearning/torchdrug
+## Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery
 
 今日增长: +1
-当前Stars: 1587
+当前Stars: 213
 
 
-## LeonChaoX/qinyan-academic-skills
-
-今日增长: +1
-当前Stars: 944
-
-
-## MolecularAI/REINVENT4
+## tencent-ailab/DrugOOD
 
 今日增长: +1
-当前Stars: 876
+当前Stars: 175
 
 
-## schwallergroup/ai4chem_course
+## kjappelbaum/awesome-chemistry-datasets
 
 今日增长: +1
-当前Stars: 295
+当前Stars: 427
+
+
+## rdkit/rdkit
+
+今日增长: +1
+当前Stars: 3614
+
+
+## chemosim-lab/ProLIF
+
+今日增长: +1
+当前Stars: 548
+
+
+## wjm41/molplotly
+
+今日增长: +1
+当前Stars: 266
+
+
+## basf/MolPipeline
+
+今日增长: +1
+当前Stars: 230
 
 
 ## molecularsets/moses
 
 今日增长: +1
-当前Stars: 993
+当前Stars: 994
 
 
-## thomas0809/MolScribe
+## NVIDIA-BioNeMo/genmol
 
 今日增长: +1
-当前Stars: 341
+当前Stars: 208
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 48211
+当前Stars: 48323
 
 
-## NVIDIA-BioNeMo/bionemo-recipes
+## LeonChaoX/qinyan-academic-skills
 
 今日增长: +0
-当前Stars: 865
+当前Stars: 944
 
 
 ## xjtulyc/MedgeClaw
@@ -217,18 +229,6 @@ Score: 4.13
 当前Stars: 339
 
 
-## DeepWism/DeepWism-miRNA
-
-今日增长: +0
-当前Stars: 329
-
-
-## AstraZeneca/awesome-drug-discovery-knowledge-graphs
-
-今日增长: +0
-当前Stars: 272
-
-
 
 # 🔥 GitHub 真实热门榜（24h）
 
@@ -239,8 +239,8 @@ Score: 4.13
 
 📝 中文简介: 使用 TypeScript 开发；主要方向：agent-skills、ai-agents、binary-analysis、claude-code、命令行工具、codex、cordis、ctf、decompiler、developer-tools、disassembler、dsh、dsh-plugin、ghidra、hopper、大语言模型、mcp、model-context-protocol、reverse-engineering、static-analysis。
 📄 英文原文: Reverse engineer anything with agents, from app behavior down to native binaries.
-⭐ 当日新增: +14927
-总 Stars: 53987
+⭐ 当日新增: +25793
+总 Stars: 79335
 语言: TypeScript
 https://github.com/morluto/rea
 
@@ -249,8 +249,8 @@ https://github.com/morluto/rea
 
 📝 中文简介: 使用 C++ 开发；主要方向：anyps5、dynamic-library、game-porting、ps5、ps5-tools、spir-v、vulkan。
 📄 英文原文: Tool for automatic PS5 executables porting to Linux and Windows
-⭐ 当日新增: +5868
-总 Stars: 23322
+⭐ 当日新增: +5805
+总 Stars: 27553
 语言: C++
 https://github.com/boykopovar/AnyPS5
 
@@ -265,16 +265,6 @@ https://github.com/boykopovar/AnyPS5
 https://github.com/tt-a1i/archify
 
 
-## storytold/artcraft
-
-📝 中文简介: 使用 Rust 开发；主要方向：3d-graphics、ai、aivideo、filmmaking、imagegeneration。
-📄 英文原文: ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
-⭐ 当日新增: +3752
-总 Stars: 12198
-语言: Rust
-https://github.com/storytold/artcraft
-
-
 ## debpalash/VoiceStudio
 
 📝 中文简介: 使用 Python 开发；主要方向：ai、audiobook、cuda、dubbing、elevenlabs-alternative、huggingface、local-first、mlx、omnivoice-studio、speech-to-text、tauri、text-to-speech、transcription、translate、tts、voice-ai、voice-cloning、voice-generation、voicestudio、workflow。
@@ -283,6 +273,16 @@ https://github.com/storytold/artcraft
 总 Stars: 50766
 语言: Python
 https://github.com/debpalash/VoiceStudio
+
+
+## storytold/artcraft
+
+📝 中文简介: 使用 Rust 开发；主要方向：3d-graphics、ai、aivideo、filmmaking、imagegeneration。
+📄 英文原文: ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+⭐ 当日新增: +3222
+总 Stars: 15174
+语言: Rust
+https://github.com/storytold/artcraft
 
 
 ## bilawalsidhu/gods-eye-view
@@ -355,22 +355,12 @@ https://github.com/microsoft/AI-For-Beginners
 https://github.com/DietrichGebert/ponytail
 
 
-## cathrynlavery/diagram-design
-
-📝 中文简介: 使用 HTML 开发；主要方向：agent-skills、claude-code、codex、data-visualization、diagrams、drawio、mermaid、svg。
-📄 英文原文: Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
-⭐ 当日新增: +1739
-总 Stars: 48199
-语言: HTML
-https://github.com/cathrynlavery/diagram-design
-
-
 ## mattpocock/skills
 
 📝 中文简介: 使用 Shell 脚本 开发。
 📄 英文原文: Skills for Real Engineers. Straight from my .agents directory.
-⭐ 当日新增: +1687
-总 Stars: 283192
+⭐ 当日新增: +1736
+总 Stars: 284900
 语言: Shell
 https://github.com/mattpocock/skills
 
@@ -433,4 +423,14 @@ https://github.com/Tencent/BrowserSkill
 总 Stars: 35389
 语言: Python
 https://github.com/MadsLorentzen/ai-job-search
+
+
+## stablyai/orca
+
+📝 中文简介: 使用 TypeScript 开发；主要方向：ade、agent-ide、ai-agents、claude-code、命令行工具、codex、cursor-agent、devtools、ghostty、ide、mobile-app、opencode、orchestration、parallel-agents、pi、terminal、worktrees、yc-backed。
+📄 英文原文: Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
+⭐ 当日新增: +1235
+总 Stars: 44059
+语言: TypeScript
+https://github.com/stablyai/orca
 
