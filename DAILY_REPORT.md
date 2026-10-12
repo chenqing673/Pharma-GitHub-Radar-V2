@@ -6,13 +6,13 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 48323
-Score: 750.63
+⭐ Stars: 48473
+Score: 752.48
 
 ### deepchem/deepchem
 
-⭐ Stars: 7050
-Score: 237.7
+⭐ Stars: 7051
+Score: 237.81
 
 ### rdkit/rdkit
 
@@ -21,8 +21,8 @@ Score: 89.84
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2026
-Score: 32.71
+⭐ Stars: 2028
+Score: 32.73
 
 ### DeepGraphLearning/torchdrug
 
@@ -36,13 +36,13 @@ Score: 23.99
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 944
-Score: 13.59
+⭐ Stars: 945
+Score: 13.6
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 876
-Score: 20.51
+⭐ Stars: 877
+Score: 20.52
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
@@ -71,8 +71,8 @@ Score: 10.73
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 509
-Score: 8.14
+⭐ Stars: 511
+Score: 8.16
 
 ### oddt/oddt
 
@@ -91,8 +91,8 @@ Score: 7.22
 
 ### MinkaiXu/GeoDiff
 
-⭐ Stars: 417
-Score: 8.42
+⭐ Stars: 418
+Score: 8.43
 
 ### maabuu/posebusters
 
@@ -109,100 +109,70 @@ Score: 4.13
 # 🚀 Star快速增长榜
 
 
-## DeepGraphLearning/torchdrug
+## aurekaresearch/OpenDDE
 
 今日增长: +2
-当前Stars: 1589
+当前Stars: 511
 
 
-## NVIDIA-BioNeMo/bionemo-recipes
-
-今日增长: +2
-当前Stars: 867
-
-
-## jaechang-hits/SciAgent-Skills
+## ai4s-research/awesome-ai-for-science
 
 今日增长: +2
-当前Stars: 376
+当前Stars: 2028
 
 
 ## deepchem/deepchem
 
 今日增长: +1
-当前Stars: 7050
+当前Stars: 7051
 
 
-## aurekaresearch/OpenDDE
-
-今日增长: +1
-当前Stars: 509
-
-
-## Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery
+## LeonChaoX/qinyan-academic-skills
 
 今日增长: +1
-当前Stars: 213
+当前Stars: 945
 
 
-## tencent-ailab/DrugOOD
-
-今日增长: +1
-当前Stars: 175
-
-
-## kjappelbaum/awesome-chemistry-datasets
+## MolecularAI/REINVENT4
 
 今日增长: +1
-当前Stars: 427
+当前Stars: 877
 
 
-## rdkit/rdkit
-
-今日增长: +1
-当前Stars: 3614
-
-
-## chemosim-lab/ProLIF
+## argonne-lcf/ChemGraph
 
 今日增长: +1
-当前Stars: 548
+当前Stars: 163
 
 
-## wjm41/molplotly
-
-今日增长: +1
-当前Stars: 266
-
-
-## basf/MolPipeline
+## RadonPy/RadonPy
 
 今日增长: +1
-当前Stars: 230
+当前Stars: 284
 
 
-## molecularsets/moses
-
-今日增长: +1
-当前Stars: 994
-
-
-## NVIDIA-BioNeMo/genmol
+## MinkaiXu/GeoDiff
 
 今日增长: +1
-当前Stars: 208
+当前Stars: 418
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 48323
+当前Stars: 48473
 
 
-## LeonChaoX/qinyan-academic-skills
+## DeepGraphLearning/torchdrug
 
 今日增长: +0
-当前Stars: 944
+当前Stars: 1589
+
+
+## NVIDIA-BioNeMo/bionemo-recipes
+
+今日增长: +0
+当前Stars: 867
 
 
 ## xjtulyc/MedgeClaw
@@ -229,6 +199,36 @@ Score: 4.13
 当前Stars: 339
 
 
+## DeepWism/DeepWism-miRNA
+
+今日增长: +0
+当前Stars: 329
+
+
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +0
+当前Stars: 376
+
+
+## AstraZeneca/awesome-drug-discovery-knowledge-graphs
+
+今日增长: +0
+当前Stars: 272
+
+
+## PatWalters/resources_2025
+
+今日增长: +0
+当前Stars: 271
+
+
+## benb111/awesome-small-molecule-ml
+
+今日增长: +0
+当前Stars: 243
+
+
 
 # 🔥 GitHub 真实热门榜（24h）
 
@@ -239,20 +239,10 @@ Score: 4.13
 
 📝 中文简介: 使用 TypeScript 开发；主要方向：agent-skills、ai-agents、binary-analysis、claude-code、命令行工具、codex、cordis、ctf、decompiler、developer-tools、disassembler、dsh、dsh-plugin、ghidra、hopper、大语言模型、mcp、model-context-protocol、reverse-engineering、static-analysis。
 📄 英文原文: Reverse engineer anything with agents, from app behavior down to native binaries.
-⭐ 当日新增: +25793
-总 Stars: 79335
+⭐ 当日新增: +25599
+总 Stars: 119856
 语言: TypeScript
 https://github.com/morluto/rea
-
-
-## boykopovar/AnyPS5
-
-📝 中文简介: 使用 C++ 开发；主要方向：anyps5、dynamic-library、game-porting、ps5、ps5-tools、spir-v、vulkan。
-📄 英文原文: Tool for automatic PS5 executables porting to Linux and Windows
-⭐ 当日新增: +5805
-总 Stars: 27553
-语言: C++
-https://github.com/boykopovar/AnyPS5
 
 
 ## tt-a1i/archify
@@ -263,6 +253,16 @@ https://github.com/boykopovar/AnyPS5
 总 Stars: 39733
 语言: JavaScript
 https://github.com/tt-a1i/archify
+
+
+## boykopovar/AnyPS5
+
+📝 中文简介: 使用 C++ 开发；主要方向：anyps5、dynamic-library、game-porting、ps5、ps5-tools、spir-v、vulkan。
+📄 英文原文: Tool for automatic PS5 executables porting to Linux and Windows
+⭐ 当日新增: +3952
+总 Stars: 30958
+语言: C++
+https://github.com/boykopovar/AnyPS5
 
 
 ## debpalash/VoiceStudio
@@ -279,20 +279,10 @@ https://github.com/debpalash/VoiceStudio
 
 📝 中文简介: 使用 Rust 开发；主要方向：3d-graphics、ai、aivideo、filmmaking、imagegeneration。
 📄 英文原文: ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
-⭐ 当日新增: +3222
-总 Stars: 15174
+⭐ 当日新增: +2957
+总 Stars: 19033
 语言: Rust
 https://github.com/storytold/artcraft
-
-
-## bilawalsidhu/gods-eye-view
-
-📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：3d-globe、cesium、flight-tracking、geospatial、geospatial-intelligence、gis、osint、photogrammetry、satellite-tracking、spatial-intelligence、webgl、worldview。
-📄 英文原文: A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-⭐ 当日新增: +2680
-总 Stars: 32351
-语言: JavaScript
-https://github.com/bilawalsidhu/gods-eye-view
 
 
 ## vectorize-io/hindsight
@@ -433,4 +423,14 @@ https://github.com/MadsLorentzen/ai-job-search
 总 Stars: 44059
 语言: TypeScript
 https://github.com/stablyai/orca
+
+
+## semantica-agi/semantica
+
+📝 中文简介: 使用 Python 开发；主要方向：agent-memory、ai、ai-governance、ai-infrastructure、人工智能、context-engineering、context-graphs、data-engineering、decision-intelligence、developer-tools、explainable-ai、生成式 AI、graph-rag、knowledge-graph、大语言模型、ontology、provenance、Python、reasoning、semantic-search。
+📄 英文原文: Graph-Native Infrastructure for Context and Accountable AI Systems
+⭐ 当日新增: +1181
+总 Stars: 7546
+语言: Python
+https://github.com/semantica-agi/semantica
 
