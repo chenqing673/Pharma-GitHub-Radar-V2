@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 48473
-Score: 752.48
+⭐ Stars: 48633
+Score: 754.73
 
 ### deepchem/deepchem
 
-⭐ Stars: 7051
-Score: 237.81
+⭐ Stars: 7053
+Score: 237.98
 
 ### rdkit/rdkit
 
-⭐ Stars: 3614
-Score: 89.84
+⭐ Stars: 3618
+Score: 89.98
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2028
-Score: 32.73
+⭐ Stars: 2029
+Score: 32.84
 
 ### DeepGraphLearning/torchdrug
 
@@ -31,18 +31,18 @@ Score: 27.04
 
 ### molecularsets/moses
 
-⭐ Stars: 994
-Score: 23.99
+⭐ Stars: 993
+Score: 23.98
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 945
-Score: 13.6
+⭐ Stars: 946
+Score: 13.66
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 877
-Score: 20.52
+⭐ Stars: 876
+Score: 20.51
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
@@ -51,23 +51,23 @@ Score: 17.92
 
 ### xjtulyc/MedgeClaw
 
-⭐ Stars: 617
-Score: 12.87
+⭐ Stars: 618
+Score: 12.88
 
 ### wengong-jin/icml18-jtnn
 
-⭐ Stars: 566
-Score: 15.46
+⭐ Stars: 565
+Score: 15.45
 
 ### datamol-io/datamol
 
-⭐ Stars: 552
-Score: 8.77
+⭐ Stars: 553
+Score: 8.78
 
 ### chemosim-lab/ProLIF
 
 ⭐ Stars: 548
-Score: 10.73
+Score: 10.78
 
 ### aurekaresearch/OpenDDE
 
@@ -81,13 +81,13 @@ Score: 11.12
 
 ### wengong-jin/hgraph2graph
 
-⭐ Stars: 445
-Score: 10.75
+⭐ Stars: 444
+Score: 10.74
 
 ### kjappelbaum/awesome-chemistry-datasets
 
-⭐ Stars: 427
-Score: 7.22
+⭐ Stars: 428
+Score: 7.23
 
 ### MinkaiXu/GeoDiff
 
@@ -99,68 +99,92 @@ Score: 8.43
 ⭐ Stars: 411
 Score: 5.51
 
-### qinheming/BIoClaw
+### jaechang-hits/SciAgent-Skills
 
 ⭐ Stars: 378
-Score: 4.13
+Score: 5.88
 
 
 
 # 🚀 Star快速增长榜
 
 
-## aurekaresearch/OpenDDE
+## rdkit/rdkit
 
-今日增长: +2
-当前Stars: 511
-
-
-## ai4s-research/awesome-ai-for-science
-
-今日增长: +2
-当前Stars: 2028
+今日增长: +4
+当前Stars: 3618
 
 
 ## deepchem/deepchem
 
-今日增长: +1
-当前Stars: 7051
+今日增长: +2
+当前Stars: 7053
+
+
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +2
+当前Stars: 378
+
+
+## microsoft/retrochimera
+
+今日增长: +2
+当前Stars: 79
 
 
 ## LeonChaoX/qinyan-academic-skills
 
 今日增长: +1
-当前Stars: 945
+当前Stars: 946
 
 
-## MolecularAI/REINVENT4
-
-今日增长: +1
-当前Stars: 877
-
-
-## argonne-lcf/ChemGraph
+## xjtulyc/MedgeClaw
 
 今日增长: +1
-当前Stars: 163
+当前Stars: 618
 
 
-## RadonPy/RadonPy
-
-今日增长: +1
-当前Stars: 284
-
-
-## MinkaiXu/GeoDiff
+## ai4s-research/awesome-ai-for-science
 
 今日增长: +1
-当前Stars: 418
+当前Stars: 2029
+
+
+## kjappelbaum/awesome-chemistry-datasets
+
+今日增长: +1
+当前Stars: 428
+
+
+## NVIDIA/nvalchemi-toolkit
+
+今日增长: +1
+当前Stars: 190
+
+
+## datamol-io/datamol
+
+今日增长: +1
+当前Stars: 553
+
+
+## UCLCheminformatics/ScaffoldGraph
+
+今日增长: +1
+当前Stars: 203
+
+
+## Tyche-MKR/scientific-agent-skills
+
+今日增长: +1
+当前Stars: 80
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 48473
+当前Stars: 48633
 
 
 ## DeepGraphLearning/torchdrug
@@ -175,16 +199,16 @@ Score: 4.13
 当前Stars: 867
 
 
-## xjtulyc/MedgeClaw
-
-今日增长: +0
-当前Stars: 617
-
-
 ## oddt/oddt
 
 今日增长: +0
 当前Stars: 472
+
+
+## aurekaresearch/OpenDDE
+
+今日增长: +0
+当前Stars: 511
 
 
 ## DSPsleeporg/smiles-transformer
@@ -205,30 +229,6 @@ Score: 4.13
 当前Stars: 329
 
 
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +0
-当前Stars: 376
-
-
-## AstraZeneca/awesome-drug-discovery-knowledge-graphs
-
-今日增长: +0
-当前Stars: 272
-
-
-## PatWalters/resources_2025
-
-今日增长: +0
-当前Stars: 271
-
-
-## benb111/awesome-small-molecule-ml
-
-今日增长: +0
-当前Stars: 243
-
-
 
 # 🔥 GitHub 真实热门榜（24h）
 
@@ -239,10 +239,20 @@ Score: 4.13
 
 📝 中文简介: 使用 TypeScript 开发；主要方向：agent-skills、ai-agents、binary-analysis、claude-code、命令行工具、codex、cordis、ctf、decompiler、developer-tools、disassembler、dsh、dsh-plugin、ghidra、hopper、大语言模型、mcp、model-context-protocol、reverse-engineering、static-analysis。
 📄 英文原文: Reverse engineer anything with agents, from app behavior down to native binaries.
-⭐ 当日新增: +25599
-总 Stars: 119856
+⭐ 当日新增: +45327
+总 Stars: 175381
 语言: TypeScript
 https://github.com/morluto/rea
+
+
+## storytold/artcraft
+
+📝 中文简介: 使用 Rust 开发；主要方向：3d-graphics、ai、aivideo、filmmaking、imagegeneration。
+📄 英文原文: ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+⭐ 当日新增: +4095
+总 Stars: 23197
+语言: Rust
+https://github.com/storytold/artcraft
 
 
 ## tt-a1i/archify
@@ -275,16 +285,6 @@ https://github.com/boykopovar/AnyPS5
 https://github.com/debpalash/VoiceStudio
 
 
-## storytold/artcraft
-
-📝 中文简介: 使用 Rust 开发；主要方向：3d-graphics、ai、aivideo、filmmaking、imagegeneration。
-📄 英文原文: ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
-⭐ 当日新增: +2957
-总 Stars: 19033
-语言: Rust
-https://github.com/storytold/artcraft
-
-
 ## vectorize-io/hindsight
 
 📝 中文简介: 使用 Python 开发；主要方向：agentic-ai、agents、ai-memory、memory。
@@ -315,6 +315,16 @@ https://github.com/paperclipai/paperclip
 https://github.com/permissionlesstech/bitchat
 
 
+## cathrynlavery/diagram-design
+
+📝 中文简介: 使用 HTML 开发；主要方向：agent-skills、claude-code、codex、data-visualization、diagrams、drawio、mermaid、svg。
+📄 英文原文: Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+⭐ 当日新增: +2081
+总 Stars: 53104
+语言: HTML
+https://github.com/cathrynlavery/diagram-design
+
+
 ## microsoft/markitdown
 
 📝 中文简介: 使用 Python 开发；主要方向：autogen、autogen-extension、LangChain、markdown、microsoft-office、openai、pdf。
@@ -333,6 +343,16 @@ https://github.com/microsoft/markitdown
 总 Stars: 60990
 语言: Jupyter Notebook
 https://github.com/microsoft/AI-For-Beginners
+
+
+## bilawalsidhu/gods-eye-view
+
+📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：3d-globe、cesium、flight-tracking、geospatial、geospatial-intelligence、gis、osint、photogrammetry、satellite-tracking、spatial-intelligence、webgl、worldview。
+📄 英文原文: A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+⭐ 当日新增: +1895
+总 Stars: 54210
+语言: JavaScript
+https://github.com/bilawalsidhu/gods-eye-view
 
 
 ## DietrichGebert/ponytail
@@ -413,24 +433,4 @@ https://github.com/Tencent/BrowserSkill
 总 Stars: 35389
 语言: Python
 https://github.com/MadsLorentzen/ai-job-search
-
-
-## stablyai/orca
-
-📝 中文简介: 使用 TypeScript 开发；主要方向：ade、agent-ide、ai-agents、claude-code、命令行工具、codex、cursor-agent、devtools、ghostty、ide、mobile-app、opencode、orchestration、parallel-agents、pi、terminal、worktrees、yc-backed。
-📄 英文原文: Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
-⭐ 当日新增: +1235
-总 Stars: 44059
-语言: TypeScript
-https://github.com/stablyai/orca
-
-
-## semantica-agi/semantica
-
-📝 中文简介: 使用 Python 开发；主要方向：agent-memory、ai、ai-governance、ai-infrastructure、人工智能、context-engineering、context-graphs、data-engineering、decision-intelligence、developer-tools、explainable-ai、生成式 AI、graph-rag、knowledge-graph、大语言模型、ontology、provenance、Python、reasoning、semantic-search。
-📄 英文原文: Graph-Native Infrastructure for Context and Accountable AI Systems
-⭐ 当日新增: +1181
-总 Stars: 7546
-语言: Python
-https://github.com/semantica-agi/semantica
 
