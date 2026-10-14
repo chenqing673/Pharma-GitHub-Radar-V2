@@ -6,18 +6,18 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 48633
-Score: 754.73
+⭐ Stars: 48771
+Score: 756.76
 
 ### deepchem/deepchem
 
-⭐ Stars: 7053
-Score: 237.98
+⭐ Stars: 7054
+Score: 238.04
 
 ### rdkit/rdkit
 
-⭐ Stars: 3618
-Score: 89.98
+⭐ Stars: 3619
+Score: 90.04
 
 ### ai4s-research/awesome-ai-for-science
 
@@ -26,8 +26,8 @@ Score: 32.84
 
 ### DeepGraphLearning/torchdrug
 
-⭐ Stars: 1589
-Score: 27.04
+⭐ Stars: 1590
+Score: 27.05
 
 ### molecularsets/moses
 
@@ -36,18 +36,18 @@ Score: 23.98
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 946
-Score: 13.66
+⭐ Stars: 948
+Score: 13.68
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 876
-Score: 20.51
+⭐ Stars: 878
+Score: 20.53
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
-⭐ Stars: 867
-Score: 17.92
+⭐ Stars: 868
+Score: 17.93
 
 ### xjtulyc/MedgeClaw
 
@@ -71,13 +71,13 @@ Score: 10.78
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 511
-Score: 8.16
+⭐ Stars: 512
+Score: 8.17
 
 ### oddt/oddt
 
-⭐ Stars: 472
-Score: 11.12
+⭐ Stars: 473
+Score: 11.13
 
 ### wengong-jin/hgraph2graph
 
@@ -86,147 +86,147 @@ Score: 10.74
 
 ### kjappelbaum/awesome-chemistry-datasets
 
-⭐ Stars: 428
-Score: 7.23
+⭐ Stars: 429
+Score: 7.24
 
 ### MinkaiXu/GeoDiff
 
-⭐ Stars: 418
-Score: 8.43
+⭐ Stars: 420
+Score: 8.45
 
 ### maabuu/posebusters
 
-⭐ Stars: 411
-Score: 5.51
+⭐ Stars: 412
+Score: 5.52
 
 ### jaechang-hits/SciAgent-Skills
 
 ⭐ Stars: 378
-Score: 5.88
+Score: 5.93
 
 
 
 # 🚀 Star快速增长榜
 
 
-## rdkit/rdkit
-
-今日增长: +4
-当前Stars: 3618
-
-
-## deepchem/deepchem
+## LeonChaoX/qinyan-academic-skills
 
 今日增长: +2
-当前Stars: 7053
+当前Stars: 948
 
 
-## jaechang-hits/SciAgent-Skills
+## benb111/awesome-small-molecule-ml
 
 今日增长: +2
-当前Stars: 378
+当前Stars: 245
+
+
+## MolecularAI/REINVENT4
+
+今日增长: +2
+当前Stars: 878
+
+
+## MinkaiXu/GeoDiff
+
+今日增长: +2
+当前Stars: 420
 
 
 ## microsoft/retrochimera
 
 今日增长: +2
-当前Stars: 79
+当前Stars: 81
 
 
-## LeonChaoX/qinyan-academic-skills
-
-今日增长: +1
-当前Stars: 946
-
-
-## xjtulyc/MedgeClaw
+## deepchem/deepchem
 
 今日增长: +1
-当前Stars: 618
+当前Stars: 7054
 
 
-## ai4s-research/awesome-ai-for-science
+## DeepGraphLearning/torchdrug
 
 今日增长: +1
-当前Stars: 2029
+当前Stars: 1590
+
+
+## NVIDIA-BioNeMo/bionemo-recipes
+
+今日增长: +1
+当前Stars: 868
+
+
+## aurekaresearch/OpenDDE
+
+今日增长: +1
+当前Stars: 512
+
+
+## DSPsleeporg/smiles-transformer
+
+今日增长: +1
+当前Stars: 358
+
+
+## dockstring/dockstring
+
+今日增长: +1
+当前Stars: 192
 
 
 ## kjappelbaum/awesome-chemistry-datasets
 
 今日增长: +1
-当前Stars: 428
+当前Stars: 429
 
 
-## NVIDIA/nvalchemi-toolkit
-
-今日增长: +1
-当前Stars: 190
-
-
-## datamol-io/datamol
+## argonne-lcf/ChemGraph
 
 今日增长: +1
-当前Stars: 553
+当前Stars: 164
 
 
-## UCLCheminformatics/ScaffoldGraph
-
-今日增长: +1
-当前Stars: 203
-
-
-## Tyche-MKR/scientific-agent-skills
+## chenggroup/ai2-kit
 
 今日增长: +1
-当前Stars: 80
+当前Stars: 100
 
 
-## K-Dense-AI/scientific-agent-skills
+## rdkit/rdkit
 
-今日增长: +0
-当前Stars: 48633
-
-
-## DeepGraphLearning/torchdrug
-
-今日增长: +0
-当前Stars: 1589
+今日增长: +1
+当前Stars: 3619
 
 
-## NVIDIA-BioNeMo/bionemo-recipes
+## maabuu/posebusters
 
-今日增长: +0
-当前Stars: 867
-
-
-## oddt/oddt
-
-今日增长: +0
-当前Stars: 472
+今日增长: +1
+当前Stars: 412
 
 
-## aurekaresearch/OpenDDE
+## jensengroup/xyz2mol
 
-今日增长: +0
-当前Stars: 511
-
-
-## DSPsleeporg/smiles-transformer
-
-今日增长: +0
-当前Stars: 357
+今日增长: +1
+当前Stars: 308
 
 
-## dengjianyuan/Survey_AI_Drug_Discovery
+## AngelRuizMoreno/Jupyter_Dock
 
-今日增长: +0
-当前Stars: 339
+今日增长: +1
+当前Stars: 289
 
 
-## DeepWism/DeepWism-miRNA
+## wjm41/molplotly
 
-今日增长: +0
-当前Stars: 329
+今日增长: +1
+当前Stars: 267
+
+
+## cbouy/mols2grid
+
+今日增长: +1
+当前Stars: 259
 
 
 
@@ -237,10 +237,10 @@ Score: 5.88
 
 ## morluto/rea
 
-📝 中文简介: 使用 TypeScript 开发；主要方向：agent-skills、ai-agents、binary-analysis、claude-code、命令行工具、codex、cordis、ctf、decompiler、developer-tools、disassembler、dsh、dsh-plugin、ghidra、hopper、大语言模型、mcp、model-context-protocol、reverse-engineering、static-analysis。
+📝 中文简介: 使用 TypeScript 开发；主要方向：agent-skills、ai-agents、binary-analysis、claude-code、命令行工具、codex、cordis、ctf、decompiler、developer-tools、dsh、dsh-plugin、ghidra、hopper、大语言模型、mcp、model-context-protocol、rea、reverse-engineering、static-analysis。
 📄 英文原文: Reverse engineer anything with agents, from app behavior down to native binaries.
-⭐ 当日新增: +45327
-总 Stars: 175381
+⭐ 当日新增: +54679
+总 Stars: 216635
 语言: TypeScript
 https://github.com/morluto/rea
 
@@ -249,8 +249,8 @@ https://github.com/morluto/rea
 
 📝 中文简介: 使用 Rust 开发；主要方向：3d-graphics、ai、aivideo、filmmaking、imagegeneration。
 📄 英文原文: ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
-⭐ 当日新增: +4095
-总 Stars: 23197
+⭐ 当日新增: +4081
+总 Stars: 26303
 语言: Rust
 https://github.com/storytold/artcraft
 
@@ -273,16 +273,6 @@ https://github.com/tt-a1i/archify
 总 Stars: 30958
 语言: C++
 https://github.com/boykopovar/AnyPS5
-
-
-## debpalash/VoiceStudio
-
-📝 中文简介: 使用 Python 开发；主要方向：ai、audiobook、cuda、dubbing、elevenlabs-alternative、huggingface、local-first、mlx、omnivoice-studio、speech-to-text、tauri、text-to-speech、transcription、translate、tts、voice-ai、voice-cloning、voice-generation、voicestudio、workflow。
-📄 英文原文: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-⭐ 当日新增: +3483
-总 Stars: 50766
-语言: Python
-https://github.com/debpalash/VoiceStudio
 
 
 ## vectorize-io/hindsight
@@ -315,16 +305,6 @@ https://github.com/paperclipai/paperclip
 https://github.com/permissionlesstech/bitchat
 
 
-## cathrynlavery/diagram-design
-
-📝 中文简介: 使用 HTML 开发；主要方向：agent-skills、claude-code、codex、data-visualization、diagrams、drawio、mermaid、svg。
-📄 英文原文: Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
-⭐ 当日新增: +2081
-总 Stars: 53104
-语言: HTML
-https://github.com/cathrynlavery/diagram-design
-
-
 ## microsoft/markitdown
 
 📝 中文简介: 使用 Python 开发；主要方向：autogen、autogen-extension、LangChain、markdown、microsoft-office、openai、pdf。
@@ -333,6 +313,16 @@ https://github.com/cathrynlavery/diagram-design
 总 Stars: 181880
 语言: Python
 https://github.com/microsoft/markitdown
+
+
+## bilawalsidhu/gods-eye-view
+
+📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：3d-globe、cesium、flight-tracking、geospatial、geospatial-intelligence、gis、osint、photogrammetry、satellite-tracking、spatial-intelligence、webgl、worldview。
+📄 英文原文: A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+⭐ 当日新增: +1961
+总 Stars: 55769
+语言: JavaScript
+https://github.com/bilawalsidhu/gods-eye-view
 
 
 ## microsoft/AI-For-Beginners
@@ -345,16 +335,6 @@ https://github.com/microsoft/markitdown
 https://github.com/microsoft/AI-For-Beginners
 
 
-## bilawalsidhu/gods-eye-view
-
-📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：3d-globe、cesium、flight-tracking、geospatial、geospatial-intelligence、gis、osint、photogrammetry、satellite-tracking、spatial-intelligence、webgl、worldview。
-📄 英文原文: A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-⭐ 当日新增: +1895
-总 Stars: 54210
-语言: JavaScript
-https://github.com/bilawalsidhu/gods-eye-view
-
-
 ## DietrichGebert/ponytail
 
 📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：agent-skills、ai-agents、claude、claude-code、claude-code-plugin、cursor-rules、developer-tools、大语言模型、prompt-engineering、yagni。
@@ -363,6 +343,26 @@ https://github.com/bilawalsidhu/gods-eye-view
 总 Stars: 155195
 语言: JavaScript
 https://github.com/DietrichGebert/ponytail
+
+
+## cathrynlavery/diagram-design
+
+📝 中文简介: 使用 HTML 开发；主要方向：agent-skills、claude-code、codex、data-visualization、diagrams、drawio、mermaid、svg。
+📄 英文原文: Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+⭐ 当日新增: +1815
+总 Stars: 54544
+语言: HTML
+https://github.com/cathrynlavery/diagram-design
+
+
+## debpalash/VoiceStudio
+
+📝 中文简介: 使用 Python 开发；主要方向：ai、audiobook、cuda、dubbing、elevenlabs-alternative、huggingface、local-first、mlx、omnivoice-studio、speech-to-text、text-to-speech、transcription、translate、tts、voice-ai、voice-cloning、voice-generation、voicestudio、workflow。
+📄 英文原文: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+⭐ 当日新增: +1748
+总 Stars: 64042
+语言: Python
+https://github.com/debpalash/VoiceStudio
 
 
 ## mattpocock/skills
