@@ -6,18 +6,18 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 48771
-Score: 756.76
+⭐ Stars: 49594
+Score: 767.79
 
 ### deepchem/deepchem
 
-⭐ Stars: 7054
-Score: 238.04
+⭐ Stars: 7057
+Score: 238.07
 
 ### rdkit/rdkit
 
-⭐ Stars: 3619
-Score: 90.04
+⭐ Stars: 3622
+Score: 90.12
 
 ### ai4s-research/awesome-ai-for-science
 
@@ -36,18 +36,18 @@ Score: 23.98
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 948
-Score: 13.68
+⭐ Stars: 953
+Score: 13.73
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 878
-Score: 20.53
+⭐ Stars: 879
+Score: 20.54
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
-⭐ Stars: 868
-Score: 17.93
+⭐ Stars: 870
+Score: 17.95
 
 ### xjtulyc/MedgeClaw
 
@@ -66,18 +66,18 @@ Score: 8.78
 
 ### chemosim-lab/ProLIF
 
-⭐ Stars: 548
-Score: 10.78
+⭐ Stars: 549
+Score: 10.79
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 512
-Score: 8.17
+⭐ Stars: 513
+Score: 8.33
 
 ### oddt/oddt
 
-⭐ Stars: 473
-Score: 11.13
+⭐ Stars: 474
+Score: 11.14
 
 ### wengong-jin/hgraph2graph
 
@@ -101,8 +101,8 @@ Score: 5.52
 
 ### jaechang-hits/SciAgent-Skills
 
-⭐ Stars: 378
-Score: 5.93
+⭐ Stars: 379
+Score: 5.99
 
 
 
@@ -111,122 +111,122 @@ Score: 5.93
 
 ## LeonChaoX/qinyan-academic-skills
 
-今日增长: +2
-当前Stars: 948
-
-
-## benb111/awesome-small-molecule-ml
-
-今日增长: +2
-当前Stars: 245
-
-
-## MolecularAI/REINVENT4
-
-今日增长: +2
-当前Stars: 878
-
-
-## MinkaiXu/GeoDiff
-
-今日增长: +2
-当前Stars: 420
-
-
-## microsoft/retrochimera
-
-今日增长: +2
-当前Stars: 81
+今日增长: +5
+当前Stars: 953
 
 
 ## deepchem/deepchem
 
-今日增长: +1
-当前Stars: 7054
+今日增长: +3
+当前Stars: 7057
 
 
-## DeepGraphLearning/torchdrug
+## rdkit/rdkit
 
-今日增长: +1
-当前Stars: 1590
+今日增长: +3
+当前Stars: 3622
 
 
 ## NVIDIA-BioNeMo/bionemo-recipes
 
-今日增长: +1
-当前Stars: 868
+今日增长: +2
+当前Stars: 870
+
+
+## argonne-lcf/ChemGraph
+
+今日增长: +2
+当前Stars: 166
 
 
 ## aurekaresearch/OpenDDE
 
 今日增长: +1
-当前Stars: 512
+当前Stars: 513
 
 
-## DSPsleeporg/smiles-transformer
+## jaechang-hits/SciAgent-Skills
 
 今日增长: +1
-当前Stars: 358
+当前Stars: 379
 
 
 ## dockstring/dockstring
 
 今日增长: +1
-当前Stars: 192
+当前Stars: 193
 
 
-## kjappelbaum/awesome-chemistry-datasets
-
-今日增长: +1
-当前Stars: 429
-
-
-## argonne-lcf/ChemGraph
+## MolecularAI/REINVENT4
 
 今日增长: +1
-当前Stars: 164
+当前Stars: 879
 
 
-## chenggroup/ai2-kit
-
-今日增长: +1
-当前Stars: 100
-
-
-## rdkit/rdkit
+## schwallergroup/ai4chem_course
 
 今日增长: +1
-当前Stars: 3619
+当前Stars: 296
 
 
-## maabuu/posebusters
-
-今日增长: +1
-当前Stars: 412
-
-
-## jensengroup/xyz2mol
+## chemosim-lab/ProLIF
 
 今日增长: +1
-当前Stars: 308
+当前Stars: 549
 
 
-## AngelRuizMoreno/Jupyter_Dock
-
-今日增长: +1
-当前Stars: 289
-
-
-## wjm41/molplotly
+## NVIDIA-BioNeMo/genmol
 
 今日增长: +1
-当前Stars: 267
+当前Stars: 210
 
 
-## cbouy/mols2grid
+## microsoft/retrochimera
 
 今日增长: +1
-当前Stars: 259
+当前Stars: 82
+
+
+## K-Dense-AI/scientific-agent-skills
+
+今日增长: +0
+当前Stars: 49594
+
+
+## DeepGraphLearning/torchdrug
+
+今日增长: +0
+当前Stars: 1590
+
+
+## xjtulyc/MedgeClaw
+
+今日增长: +0
+当前Stars: 618
+
+
+## oddt/oddt
+
+今日增长: +0
+当前Stars: 474
+
+
+## DSPsleeporg/smiles-transformer
+
+今日增长: +0
+当前Stars: 358
+
+
+## dengjianyuan/Survey_AI_Drug_Discovery
+
+今日增长: +0
+当前Stars: 339
+
+
+## DeepWism/DeepWism-miRNA
+
+今日增长: +0
+当前Stars: 329
 
 
 
@@ -237,10 +237,10 @@ Score: 5.93
 
 ## morluto/rea
 
-📝 中文简介: 使用 TypeScript 开发；主要方向：agent-skills、ai-agents、binary-analysis、claude-code、命令行工具、codex、cordis、ctf、decompiler、developer-tools、dsh、dsh-plugin、ghidra、hopper、大语言模型、mcp、model-context-protocol、rea、reverse-engineering、static-analysis。
+📝 中文简介: 使用 TypeScript 开发；主要方向：agent-skills、ai-agents、binary-analysis、claude-code、命令行工具、codex、cordis、decompiler、developer-tools、dsh、dsh-plugin、ghidra、hopper、大语言模型、mcp、model-context-protocol、rea、reverse-engineering、static-analysis、touhou。
 📄 英文原文: Reverse engineer anything with agents, from app behavior down to native binaries.
-⭐ 当日新增: +54679
-总 Stars: 216635
+⭐ 当日新增: +41034
+总 Stars: 249367
 语言: TypeScript
 https://github.com/morluto/rea
 
@@ -275,6 +275,16 @@ https://github.com/tt-a1i/archify
 https://github.com/boykopovar/AnyPS5
 
 
+## debpalash/VoiceStudio
+
+📝 中文简介: 使用 Python 开发；主要方向：ai、audiobook、cuda、dubbing、elevenlabs-alternative、huggingface、local-first、mlx、omnivoice-studio、speech-to-text、text-to-speech、transcription、translate、tts、voice-ai、voice-cloning、voice-generation、voicestudio、workflow。
+📄 英文原文: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+⭐ 当日新增: +3538
+总 Stars: 67020
+语言: Python
+https://github.com/debpalash/VoiceStudio
+
+
 ## vectorize-io/hindsight
 
 📝 中文简介: 使用 Python 开发；主要方向：agentic-ai、agents、ai-memory、memory。
@@ -303,6 +313,16 @@ https://github.com/paperclipai/paperclip
 总 Stars: 32464
 语言: Swift
 https://github.com/permissionlesstech/bitchat
+
+
+## ifixai-ai/iFixAi
+
+📝 中文简介: 使用 Python 开发；主要方向：agent-evaluation、ai、ai-alignment、ai-evaluation、ai-governance、ai-safety、命令行工具、diagnostic-tool、eu-ai-act、hallucination-detection、iso-42001、llm-evaluation、llm-security、nist-ai-rmf、owasp-llm、prompt-injection、Python、responsible-ai、risk-assessment、risk-management。
+📄 英文原文: Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.
+⭐ 当日新增: +2109
+总 Stars: 27744
+语言: Python
+https://github.com/ifixai-ai/iFixAi
 
 
 ## microsoft/markitdown
@@ -355,16 +375,6 @@ https://github.com/DietrichGebert/ponytail
 https://github.com/cathrynlavery/diagram-design
 
 
-## debpalash/VoiceStudio
-
-📝 中文简介: 使用 Python 开发；主要方向：ai、audiobook、cuda、dubbing、elevenlabs-alternative、huggingface、local-first、mlx、omnivoice-studio、speech-to-text、text-to-speech、transcription、translate、tts、voice-ai、voice-cloning、voice-generation、voicestudio、workflow。
-📄 英文原文: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-⭐ 当日新增: +1748
-总 Stars: 64042
-语言: Python
-https://github.com/debpalash/VoiceStudio
-
-
 ## mattpocock/skills
 
 📝 中文简介: 使用 Shell 脚本 开发。
@@ -373,6 +383,16 @@ https://github.com/debpalash/VoiceStudio
 总 Stars: 284900
 语言: Shell
 https://github.com/mattpocock/skills
+
+
+## xtool-org/xtool
+
+📝 中文简介: 使用 Swift 开发；主要方向：iOS、Linux、Swift、swift-package-manager、Windows、xcode。
+📄 英文原文: Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
+⭐ 当日新增: +1502
+总 Stars: 11102
+语言: Swift
+https://github.com/xtool-org/xtool
 
 
 ## DuarteSantos8/openGym
@@ -413,24 +433,4 @@ https://github.com/tester-army/e2e
 总 Stars: 11622
 语言: Go
 https://github.com/google/ax
-
-
-## Tencent/BrowserSkill
-
-📝 中文简介: 使用 TypeScript 开发；主要方向：智能体、browser-use、dsh-plugin。
-📄 英文原文: Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-⭐ 当日新增: +1306
-总 Stars: 5435
-语言: TypeScript
-https://github.com/Tencent/BrowserSkill
-
-
-## MadsLorentzen/ai-job-search
-
-📝 中文简介: 使用 Python 开发；主要方向：ai、ai-agents、career、claude-code、cover-letter、cv、interview-preparation、job-application、job-hunting、job-search、latex、resume。
-📄 英文原文: The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
-⭐ 当日新增: +1265
-总 Stars: 35389
-语言: Python
-https://github.com/MadsLorentzen/ai-job-search
 
