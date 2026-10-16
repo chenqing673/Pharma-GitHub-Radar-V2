@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 49594
-Score: 767.79
+⭐ Stars: 50728
+Score: 782.53
 
 ### deepchem/deepchem
 
-⭐ Stars: 7057
-Score: 238.07
+⭐ Stars: 7060
+Score: 238.25
 
 ### rdkit/rdkit
 
-⭐ Stars: 3622
-Score: 90.12
+⭐ Stars: 3626
+Score: 90.26
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2029
-Score: 32.84
+⭐ Stars: 2033
+Score: 32.93
 
 ### DeepGraphLearning/torchdrug
 
@@ -32,12 +32,12 @@ Score: 27.05
 ### molecularsets/moses
 
 ⭐ Stars: 993
-Score: 23.98
+Score: 24.03
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 953
-Score: 13.73
+⭐ Stars: 956
+Score: 13.76
 
 ### MolecularAI/REINVENT4
 
@@ -71,8 +71,8 @@ Score: 10.79
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 513
-Score: 8.33
+⭐ Stars: 514
+Score: 8.34
 
 ### oddt/oddt
 
@@ -96,107 +96,83 @@ Score: 8.45
 
 ### maabuu/posebusters
 
-⭐ Stars: 412
-Score: 5.52
+⭐ Stars: 413
+Score: 5.53
 
 ### jaechang-hits/SciAgent-Skills
 
 ⭐ Stars: 379
-Score: 5.99
+Score: 6.04
 
 
 
 # 🚀 Star快速增长榜
 
 
-## LeonChaoX/qinyan-academic-skills
+## ai4s-research/awesome-ai-for-science
 
-今日增长: +5
-当前Stars: 953
+今日增长: +4
+当前Stars: 2033
+
+
+## rdkit/rdkit
+
+今日增长: +4
+当前Stars: 3626
 
 
 ## deepchem/deepchem
 
 今日增长: +3
-当前Stars: 7057
+当前Stars: 7060
 
 
-## rdkit/rdkit
+## LeonChaoX/qinyan-academic-skills
 
 今日增长: +3
-当前Stars: 3622
+当前Stars: 956
 
 
-## NVIDIA-BioNeMo/bionemo-recipes
-
-今日增长: +2
-当前Stars: 870
-
-
-## argonne-lcf/ChemGraph
+## SimonsTang/feifei-companion
 
 今日增长: +2
-当前Stars: 166
+当前Stars: 108
+
+
+## microsoft/retrochimera
+
+今日增长: +2
+当前Stars: 84
 
 
 ## aurekaresearch/OpenDDE
 
 今日增长: +1
-当前Stars: 513
+当前Stars: 514
 
 
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +1
-当前Stars: 379
-
-
-## dockstring/dockstring
+## maabuu/posebusters
 
 今日增长: +1
-当前Stars: 193
-
-
-## MolecularAI/REINVENT4
-
-今日增长: +1
-当前Stars: 879
-
-
-## schwallergroup/ai4chem_course
-
-今日增长: +1
-当前Stars: 296
-
-
-## chemosim-lab/ProLIF
-
-今日增长: +1
-当前Stars: 549
-
-
-## NVIDIA-BioNeMo/genmol
-
-今日增长: +1
-当前Stars: 210
-
-
-## microsoft/retrochimera
-
-今日增长: +1
-当前Stars: 82
+当前Stars: 413
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 49594
+当前Stars: 50728
 
 
 ## DeepGraphLearning/torchdrug
 
 今日增长: +0
 当前Stars: 1590
+
+
+## NVIDIA-BioNeMo/bionemo-recipes
+
+今日增长: +0
+当前Stars: 870
 
 
 ## xjtulyc/MedgeClaw
@@ -229,6 +205,30 @@ Score: 5.99
 当前Stars: 329
 
 
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +0
+当前Stars: 379
+
+
+## AstraZeneca/awesome-drug-discovery-knowledge-graphs
+
+今日增长: +0
+当前Stars: 272
+
+
+## PatWalters/resources_2025
+
+今日增长: +0
+当前Stars: 271
+
+
+## benb111/awesome-small-molecule-ml
+
+今日增长: +0
+当前Stars: 245
+
+
 
 # 🔥 GitHub 真实热门榜（24h）
 
@@ -239,8 +239,8 @@ Score: 5.99
 
 📝 中文简介: 使用 TypeScript 开发；主要方向：agent-skills、ai-agents、binary-analysis、claude-code、命令行工具、codex、cordis、decompiler、developer-tools、dsh、dsh-plugin、ghidra、hopper、大语言模型、mcp、model-context-protocol、rea、reverse-engineering、static-analysis、touhou。
 📄 英文原文: Reverse engineer anything with agents, from app behavior down to native binaries.
-⭐ 当日新增: +41034
-总 Stars: 249367
+⭐ 当日新增: +32314
+总 Stars: 275922
 语言: TypeScript
 https://github.com/morluto/rea
 
@@ -279,8 +279,8 @@ https://github.com/boykopovar/AnyPS5
 
 📝 中文简介: 使用 Python 开发；主要方向：ai、audiobook、cuda、dubbing、elevenlabs-alternative、huggingface、local-first、mlx、omnivoice-studio、speech-to-text、text-to-speech、transcription、translate、tts、voice-ai、voice-cloning、voice-generation、voicestudio、workflow。
 📄 英文原文: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-⭐ 当日新增: +3538
-总 Stars: 67020
+⭐ 当日新增: +3024
+总 Stars: 69509
 语言: Python
 https://github.com/debpalash/VoiceStudio
 
