@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 51667
-Score: 795.42
+⭐ Stars: 52380
+Score: 805.7
 
 ### deepchem/deepchem
 
-⭐ Stars: 7063
-Score: 238.33
+⭐ Stars: 7066
+Score: 238.46
 
 ### rdkit/rdkit
 
-⭐ Stars: 3625
-Score: 90.25
+⭐ Stars: 3627
+Score: 90.27
 
 ### ai4s-research/awesome-ai-for-science
 
 ⭐ Stars: 2034
-Score: 32.94
+Score: 33.14
 
 ### DeepGraphLearning/torchdrug
 
@@ -31,13 +31,13 @@ Score: 27.04
 
 ### molecularsets/moses
 
-⭐ Stars: 994
-Score: 24.04
+⭐ Stars: 995
+Score: 24.05
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 957
-Score: 13.82
+⭐ Stars: 961
+Score: 13.86
 
 ### MolecularAI/REINVENT4
 
@@ -61,13 +61,13 @@ Score: 15.45
 
 ### datamol-io/datamol
 
-⭐ Stars: 553
-Score: 8.83
+⭐ Stars: 554
+Score: 8.84
 
 ### chemosim-lab/ProLIF
 
 ⭐ Stars: 549
-Score: 10.79
+Score: 10.84
 
 ### aurekaresearch/OpenDDE
 
@@ -76,8 +76,8 @@ Score: 8.35
 
 ### oddt/oddt
 
-⭐ Stars: 474
-Score: 11.14
+⭐ Stars: 475
+Score: 11.15
 
 ### wengong-jin/hgraph2graph
 
@@ -96,8 +96,8 @@ Score: 8.45
 
 ### maabuu/posebusters
 
-⭐ Stars: 414
-Score: 5.54
+⭐ Stars: 415
+Score: 5.55
 
 ### jaechang-hits/SciAgent-Skills
 
@@ -109,64 +109,88 @@ Score: 6.04
 # 🚀 Star快速增长榜
 
 
+## LeonChaoX/qinyan-academic-skills
+
+今日增长: +4
+当前Stars: 961
+
+
 ## deepchem/deepchem
 
 今日增长: +3
-当前Stars: 7063
+当前Stars: 7066
 
 
-## LeonChaoX/qinyan-academic-skills
+## rdkit/rdkit
 
-今日增长: +1
-当前Stars: 957
-
-
-## aurekaresearch/OpenDDE
-
-今日增长: +1
-当前Stars: 515
+今日增长: +2
+当前Stars: 3627
 
 
-## ai4s-research/awesome-ai-for-science
+## Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery
 
 今日增长: +1
-当前Stars: 2034
+当前Stars: 214
+
+
+## NVIDIA/MegaMolBART
+
+今日增长: +1
+当前Stars: 186
 
 
 ## NVIDIA/nvalchemi-toolkit
 
 今日增长: +1
-当前Stars: 191
+当前Stars: 192
+
+
+## datamol-io/datamol
+
+今日增长: +1
+当前Stars: 554
 
 
 ## maabuu/posebusters
 
 今日增长: +1
-当前Stars: 414
+当前Stars: 415
 
 
-## PatWalters/useful_rdkit_utils
+## rdkit/rdkit-js
 
 今日增长: +1
-当前Stars: 242
+当前Stars: 253
 
 
 ## molecularsets/moses
 
 今日增长: +1
-当前Stars: 994
+当前Stars: 995
+
+
+## NVIDIA-BioNeMo/nvMolKit
+
+今日增长: +1
+当前Stars: 280
 
 
 ## microsoft/retrochimera
 
 今日增长: +1
-当前Stars: 85
+当前Stars: 86
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 51667
+当前Stars: 52380
+
+
+## DeepGraphLearning/torchdrug
+
+今日增长: +0
+当前Stars: 1589
 
 
 ## NVIDIA-BioNeMo/bionemo-recipes
@@ -184,7 +208,13 @@ Score: 6.04
 ## oddt/oddt
 
 今日增长: +0
-当前Stars: 474
+当前Stars: 475
+
+
+## aurekaresearch/OpenDDE
+
+今日增长: +0
+当前Stars: 515
 
 
 ## DSPsleeporg/smiles-transformer
@@ -197,36 +227,6 @@ Score: 6.04
 
 今日增长: +0
 当前Stars: 339
-
-
-## DeepWism/DeepWism-miRNA
-
-今日增长: +0
-当前Stars: 329
-
-
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +0
-当前Stars: 379
-
-
-## AstraZeneca/awesome-drug-discovery-knowledge-graphs
-
-今日增长: +0
-当前Stars: 272
-
-
-## PatWalters/resources_2025
-
-今日增长: +0
-当前Stars: 271
-
-
-## benb111/awesome-small-molecule-ml
-
-今日增长: +0
-当前Stars: 245
 
 
 
@@ -309,8 +309,8 @@ https://github.com/permissionlesstech/bitchat
 
 📝 中文简介: 使用 Python 开发；主要方向：ai、audiobook、cuda、dubbing、elevenlabs-alternative、huggingface、local-first、mlx、omnivoice-studio、speech-to-text、text-to-speech、transcription、translate、tts、voice-ai、voice-cloning、voice-generation、voicestudio、workflow。
 📄 英文原文: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-⭐ 当日新增: +2301
-总 Stars: 71586
+⭐ 当日新增: +2125
+总 Stars: 73720
 语言: Python
 https://github.com/debpalash/VoiceStudio
 
@@ -385,26 +385,6 @@ https://github.com/cathrynlavery/diagram-design
 https://github.com/mattpocock/skills
 
 
-## xerj-org/xerj
-
-📝 中文简介: 使用 Rust 开发；主要方向：ai-search、ai-search-algorithms、ai-search-engine、ai-search-free、ai-search-module、ai-search-optimization、ai-searchengine、bm25-search、elastic-search、elasticsearch、elasticstack、graph-search、graph-semantic-search、hybrid-search、hybrid-semantic-search、search-api、search-engine、semantic-search、vector-database、vector-search。
-📄 英文原文: XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.
-⭐ 当日新增: +1648
-总 Stars: 7095
-语言: Rust
-https://github.com/xerj-org/xerj
-
-
-## anthropics/claude-plugins-official
-
-📝 中文简介: 使用 Python 开发；主要方向：claude-code、mcp、skills。
-📄 英文原文: Official, Anthropic-managed directory of high quality Claude Code Plugins.
-⭐ 当日新增: +1552
-总 Stars: 40799
-语言: Python
-https://github.com/anthropics/claude-plugins-official
-
-
 ## xtool-org/xtool
 
 📝 中文简介: 使用 Swift 开发；主要方向：iOS、Linux、Swift、swift-package-manager、Windows、xcode。
@@ -433,4 +413,24 @@ https://github.com/DuarteSantos8/openGym
 总 Stars: 4584
 语言: Rust
 https://github.com/amadeusprotocol/node
+
+
+## anthropics/claude-plugins-official
+
+📝 中文简介: 使用 Python 开发；主要方向：claude-code、mcp、skills。
+📄 英文原文: Official, Anthropic-managed directory of high quality Claude Code Plugins.
+⭐ 当日新增: +1397
+总 Stars: 41965
+语言: Python
+https://github.com/anthropics/claude-plugins-official
+
+
+## tester-army/e2e
+
+📝 中文简介: 使用 TypeScript 开发；主要方向：e2e、e2e-testing、end-to-end-testing、移动端、mobile-testing、playwright、Web。
+📄 英文原文: Next generation e2e testing framework for web and mobile apps.
+⭐ 当日新增: +1390
+总 Stars: 7792
+语言: TypeScript
+https://github.com/tester-army/e2e
 
