@@ -6,28 +6,28 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 52715
-Score: 810.8
+⭐ Stars: 53017
+Score: 814.77
 
 ### deepchem/deepchem
 
-⭐ Stars: 7069
-Score: 238.69
+⭐ Stars: 7072
+Score: 238.77
 
 ### rdkit/rdkit
 
-⭐ Stars: 3627
-Score: 90.27
+⭐ Stars: 3629
+Score: 90.29
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2033
-Score: 33.33
+⭐ Stars: 2035
+Score: 33.45
 
 ### DeepGraphLearning/torchdrug
 
-⭐ Stars: 1589
-Score: 27.04
+⭐ Stars: 1588
+Score: 27.03
 
 ### molecularsets/moses
 
@@ -36,13 +36,13 @@ Score: 24.05
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 966
-Score: 13.96
+⭐ Stars: 967
+Score: 14.02
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 878
-Score: 20.53
+⭐ Stars: 879
+Score: 20.59
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
@@ -66,8 +66,8 @@ Score: 8.84
 
 ### chemosim-lab/ProLIF
 
-⭐ Stars: 549
-Score: 10.84
+⭐ Stars: 550
+Score: 10.85
 
 ### aurekaresearch/OpenDDE
 
@@ -86,8 +86,8 @@ Score: 10.75
 
 ### kjappelbaum/awesome-chemistry-datasets
 
-⭐ Stars: 429
-Score: 7.24
+⭐ Stars: 430
+Score: 7.25
 
 ### MinkaiXu/GeoDiff
 
@@ -96,8 +96,8 @@ Score: 8.46
 
 ### maabuu/posebusters
 
-⭐ Stars: 415
-Score: 5.55
+⭐ Stars: 416
+Score: 5.56
 
 ### jaechang-hits/SciAgent-Skills
 
@@ -109,64 +109,76 @@ Score: 6.06
 # 🚀 Star快速增长榜
 
 
-## LeonChaoX/qinyan-academic-skills
-
-今日增长: +5
-当前Stars: 966
-
-
 ## deepchem/deepchem
 
 今日增长: +3
-当前Stars: 7069
+当前Stars: 7072
 
 
-## jaechang-hits/SciAgent-Skills
+## ai4s-research/awesome-ai-for-science
 
 今日增长: +2
-当前Stars: 381
+当前Stars: 2035
 
 
-## NVIDIA-BioNeMo/bionemo-recipes
+## rdkit/rdkit
 
-今日增长: +1
-当前Stars: 871
-
-
-## DSPsleeporg/smiles-transformer
-
-今日增长: +1
-当前Stars: 359
+今日增长: +2
+当前Stars: 3629
 
 
-## wengong-jin/hgraph2graph
+## LeonChaoX/qinyan-academic-skills
 
 今日增长: +1
-当前Stars: 445
+当前Stars: 967
 
 
-## MinkaiXu/GeoDiff
-
-今日增长: +1
-当前Stars: 421
-
-
-## Tyche-MKR/scientific-agent-skills
+## MolecularAI/REINVENT4
 
 今日增长: +1
-当前Stars: 81
+当前Stars: 879
+
+
+## kjappelbaum/awesome-chemistry-datasets
+
+今日增长: +1
+当前Stars: 430
+
+
+## chemosim-lab/ProLIF
+
+今日增长: +1
+当前Stars: 550
+
+
+## maabuu/posebusters
+
+今日增长: +1
+当前Stars: 416
+
+
+## RadonPy/RadonPy
+
+今日增长: +1
+当前Stars: 285
+
+
+## microsoft/retrochimera
+
+今日增长: +1
+当前Stars: 87
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 52715
+当前Stars: 53017
 
 
-## DeepGraphLearning/torchdrug
+## NVIDIA-BioNeMo/bionemo-recipes
 
 今日增长: +0
-当前Stars: 1589
+当前Stars: 871
 
 
 ## xjtulyc/MedgeClaw
@@ -187,6 +199,12 @@ Score: 6.06
 当前Stars: 515
 
 
+## DSPsleeporg/smiles-transformer
+
+今日增长: +0
+当前Stars: 359
+
+
 ## dengjianyuan/Survey_AI_Drug_Discovery
 
 今日增长: +0
@@ -199,34 +217,16 @@ Score: 6.06
 当前Stars: 329
 
 
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +0
+当前Stars: 381
+
+
 ## AstraZeneca/awesome-drug-discovery-knowledge-graphs
 
 今日增长: +0
 当前Stars: 272
-
-
-## PatWalters/resources_2025
-
-今日增长: +0
-当前Stars: 271
-
-
-## benb111/awesome-small-molecule-ml
-
-今日增长: +0
-当前Stars: 245
-
-
-## mattragoza/LiGAN
-
-今日增长: +0
-当前Stars: 238
-
-
-## Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery
-
-今日增长: +0
-当前Stars: 214
 
 
 
@@ -275,6 +275,16 @@ https://github.com/tt-a1i/archify
 https://github.com/boykopovar/AnyPS5
 
 
+## MadsLorentzen/ai-job-search
+
+📝 中文简介: 使用 Python 开发；主要方向：ai、ai-agents、career、claude-code、cover-letter、cv、interview-preparation、job-application、job-hunting、job-search、latex、resume。
+📄 英文原文: The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
+⭐ 当日新增: +3856
+总 Stars: 58025
+语言: Python
+https://github.com/MadsLorentzen/ai-job-search
+
+
 ## vectorize-io/hindsight
 
 📝 中文简介: 使用 Python 开发；主要方向：agentic-ai、agents、ai-memory、memory。
@@ -303,16 +313,6 @@ https://github.com/paperclipai/paperclip
 总 Stars: 32464
 语言: Swift
 https://github.com/permissionlesstech/bitchat
-
-
-## MadsLorentzen/ai-job-search
-
-📝 中文简介: 使用 Python 开发；主要方向：ai、ai-agents、career、claude-code、cover-letter、cv、interview-preparation、job-application、job-hunting、job-search、latex、resume。
-📄 英文原文: The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
-⭐ 当日新增: +2232
-总 Stars: 54086
-语言: Python
-https://github.com/MadsLorentzen/ai-job-search
 
 
 ## ifixai-ai/iFixAi
@@ -395,6 +395,16 @@ https://github.com/cathrynlavery/diagram-design
 https://github.com/mattpocock/skills
 
 
+## stablyai/orca
+
+📝 中文简介: 使用 TypeScript 开发；主要方向：ade、agent-ide、ai-agents、自动化、机器人、claude-code、codex、ghostty、grok-bot、hermes-agent、mobile-app、muse、openclaw、opencode、orchestration、pi、运行时、terminal、worktrees、yc-backed。
+📄 英文原文: Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+⭐ 当日新增: +1590
+总 Stars: 98587
+语言: TypeScript
+https://github.com/stablyai/orca
+
+
 ## xtool-org/xtool
 
 📝 中文简介: 使用 Swift 开发；主要方向：iOS、Linux、Swift、swift-package-manager、Windows、xcode。
@@ -413,16 +423,6 @@ https://github.com/xtool-org/xtool
 总 Stars: 7378
 语言: JavaScript
 https://github.com/DuarteSantos8/openGym
-
-
-## anomalyco/opencode
-
-📝 中文简介: 使用 TypeScript 开发。
-📄 英文原文: The open source coding agent.
-⭐ 当日新增: +1414
-总 Stars: 216850
-语言: TypeScript
-https://github.com/anomalyco/opencode
 
 
 ## amadeusprotocol/node
