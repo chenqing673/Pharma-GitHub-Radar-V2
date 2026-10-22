@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 53339
-Score: 818.99
+⭐ Stars: 53661
+Score: 823.31
 
 ### deepchem/deepchem
 
-⭐ Stars: 7073
-Score: 238.73
+⭐ Stars: 7075
+Score: 238.8
 
 ### rdkit/rdkit
 
-⭐ Stars: 3630
-Score: 90.35
+⭐ Stars: 3631
+Score: 90.36
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2036
-Score: 33.06
+⭐ Stars: 2039
+Score: 33.14
 
 ### DeepGraphLearning/torchdrug
 
@@ -36,18 +36,18 @@ Score: 24.05
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 968
-Score: 13.98
+⭐ Stars: 969
+Score: 13.99
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 879
-Score: 20.59
+⭐ Stars: 880
+Score: 20.6
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
-⭐ Stars: 870
-Score: 17.95
+⭐ Stars: 871
+Score: 17.96
 
 ### xjtulyc/MedgeClaw
 
@@ -61,8 +61,8 @@ Score: 15.45
 
 ### datamol-io/datamol
 
-⭐ Stars: 555
-Score: 8.85
+⭐ Stars: 556
+Score: 8.86
 
 ### chemosim-lab/ProLIF
 
@@ -109,76 +109,100 @@ Score: 6.06
 # 🚀 Star快速增长榜
 
 
-## NVIDIA/nvalchemi-toolkit
+## ai4s-research/awesome-ai-for-science
 
 今日增长: +3
-当前Stars: 195
-
-
-## maabuu/posebusters
-
-今日增长: +2
-当前Stars: 418
+当前Stars: 2039
 
 
 ## deepchem/deepchem
 
+今日增长: +2
+当前Stars: 7075
+
+
+## NVIDIA-BioNeMo/bionemo-recipes
+
 今日增长: +1
-当前Stars: 7073
+当前Stars: 871
 
 
 ## LeonChaoX/qinyan-academic-skills
 
 今日增长: +1
-当前Stars: 968
+当前Stars: 969
 
 
-## ai4s-research/awesome-ai-for-science
-
-今日增长: +1
-当前Stars: 2036
-
-
-## OSU-NLP-Group/ChemMCP
+## dengjianyuan/Survey_AI_Drug_Discovery
 
 今日增长: +1
-当前Stars: 74
+当前Stars: 340
+
+
+## AstraZeneca/awesome-drug-discovery-knowledge-graphs
+
+今日增长: +1
+当前Stars: 273
+
+
+## benb111/awesome-small-molecule-ml
+
+今日增长: +1
+当前Stars: 245
+
+
+## mattragoza/LiGAN
+
+今日增长: +1
+当前Stars: 239
+
+
+## MolecularAI/REINVENT4
+
+今日增长: +1
+当前Stars: 880
+
+
+## argonne-lcf/ChemGraph
+
+今日增长: +1
+当前Stars: 167
+
+
+## NVIDIA/nvalchemi-toolkit
+
+今日增长: +1
+当前Stars: 196
+
+
+## SimonsTang/feifei-companion
+
+今日增长: +1
+当前Stars: 109
 
 
 ## rdkit/rdkit
 
 今日增长: +1
-当前Stars: 3630
+当前Stars: 3631
 
 
 ## datamol-io/datamol
 
 今日增长: +1
-当前Stars: 555
+当前Stars: 556
 
 
-## RadonPy/RadonPy
-
-今日增长: +1
-当前Stars: 286
-
-
-## dreadlesss/rdkit_summary
+## microsoft/retrochimera
 
 今日增长: +1
-当前Stars: 255
-
-
-## wengong-jin/hgraph2graph
-
-今日增长: +1
-当前Stars: 446
+当前Stars: 88
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 53339
+当前Stars: 53661
 
 
 ## DeepGraphLearning/torchdrug
@@ -203,30 +227,6 @@ Score: 6.06
 
 今日增长: +0
 当前Stars: 515
-
-
-## DSPsleeporg/smiles-transformer
-
-今日增长: +0
-当前Stars: 359
-
-
-## dengjianyuan/Survey_AI_Drug_Discovery
-
-今日增长: +0
-当前Stars: 339
-
-
-## DeepWism/DeepWism-miRNA
-
-今日增长: +0
-当前Stars: 329
-
-
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +0
-当前Stars: 381
 
 
 
@@ -335,6 +335,16 @@ https://github.com/ifixai-ai/iFixAi
 https://github.com/debpalash/VoiceStudio
 
 
+## DietrichGebert/ponytail
+
+📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：agent-skills、ai-agents、claude、claude-code、claude-code-plugin、cursor-rules、developer-tools、大语言模型、prompt-engineering、yagni。
+📄 英文原文: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+⭐ 当日新增: +2079
+总 Stars: 172042
+语言: JavaScript
+https://github.com/DietrichGebert/ponytail
+
+
 ## microsoft/markitdown
 
 📝 中文简介: 使用 Python 开发；主要方向：autogen、autogen-extension、LangChain、markdown、microsoft-office、openai、pdf。
@@ -343,6 +353,16 @@ https://github.com/debpalash/VoiceStudio
 总 Stars: 181880
 语言: Python
 https://github.com/microsoft/markitdown
+
+
+## cloudflare/security-audit-skill
+
+📝 中文简介: 使用 JavaScript（前端/全栈） 开发。
+📄 英文原文: A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+⭐ 当日新增: +2012
+总 Stars: 37196
+语言: JavaScript
+https://github.com/cloudflare/security-audit-skill
 
 
 ## bilawalsidhu/gods-eye-view
@@ -385,22 +405,12 @@ https://github.com/cathrynlavery/diagram-design
 https://github.com/mattpocock/skills
 
 
-## cloudflare/security-audit-skill
-
-📝 中文简介: 使用 JavaScript（前端/全栈） 开发。
-📄 英文原文: A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-⭐ 当日新增: +1712
-总 Stars: 34626
-语言: JavaScript
-https://github.com/cloudflare/security-audit-skill
-
-
 ## stablyai/orca
 
 📝 中文简介: 使用 TypeScript 开发；主要方向：ade、agent-ide、ai-agents、自动化、机器人、claude-code、codex、ghostty、grok-bot、hermes-agent、mobile-app、muse、openclaw、opencode、orchestration、pi、运行时、terminal、worktrees、yc-backed。
 📄 英文原文: Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
-⭐ 当日新增: +1565
-总 Stars: 100071
+⭐ 当日新增: +1541
+总 Stars: 101673
 语言: TypeScript
 https://github.com/stablyai/orca
 
@@ -423,14 +433,4 @@ https://github.com/xtool-org/xtool
 总 Stars: 7378
 语言: JavaScript
 https://github.com/DuarteSantos8/openGym
-
-
-## amadeusprotocol/node
-
-📝 中文简介: 使用 Rust 开发。
-📄 英文原文: —
-⭐ 当日新增: +1397
-总 Stars: 4584
-语言: Rust
-https://github.com/amadeusprotocol/node
 
