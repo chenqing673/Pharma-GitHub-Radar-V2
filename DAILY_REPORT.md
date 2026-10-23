@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 53661
-Score: 823.31
+⭐ Stars: 53968
+Score: 827.78
 
 ### deepchem/deepchem
 
-⭐ Stars: 7075
-Score: 238.8
+⭐ Stars: 7081
+Score: 238.96
 
 ### rdkit/rdkit
 
-⭐ Stars: 3631
-Score: 90.36
+⭐ Stars: 3634
+Score: 90.49
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2039
-Score: 33.14
+⭐ Stars: 2042
+Score: 33.17
 
 ### DeepGraphLearning/torchdrug
 
@@ -31,13 +31,13 @@ Score: 27.03
 
 ### molecularsets/moses
 
-⭐ Stars: 995
-Score: 24.05
+⭐ Stars: 996
+Score: 24.11
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 969
-Score: 13.99
+⭐ Stars: 974
+Score: 14.04
 
 ### MolecularAI/REINVENT4
 
@@ -46,8 +46,8 @@ Score: 20.6
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
-⭐ Stars: 871
-Score: 17.96
+⭐ Stars: 874
+Score: 17.99
 
 ### xjtulyc/MedgeClaw
 
@@ -82,7 +82,7 @@ Score: 11.14
 ### wengong-jin/hgraph2graph
 
 ⭐ Stars: 446
-Score: 10.76
+Score: 10.71
 
 ### kjappelbaum/awesome-chemistry-datasets
 
@@ -109,61 +109,37 @@ Score: 6.06
 # 🚀 Star快速增长榜
 
 
-## ai4s-research/awesome-ai-for-science
-
-今日增长: +3
-当前Stars: 2039
-
-
 ## deepchem/deepchem
 
-今日增长: +2
-当前Stars: 7075
-
-
-## NVIDIA-BioNeMo/bionemo-recipes
-
-今日增长: +1
-当前Stars: 871
+今日增长: +6
+当前Stars: 7081
 
 
 ## LeonChaoX/qinyan-academic-skills
 
-今日增长: +1
-当前Stars: 969
+今日增长: +5
+当前Stars: 974
 
 
-## dengjianyuan/Survey_AI_Drug_Discovery
+## NVIDIA-BioNeMo/bionemo-recipes
 
-今日增长: +1
-当前Stars: 340
-
-
-## AstraZeneca/awesome-drug-discovery-knowledge-graphs
-
-今日增长: +1
-当前Stars: 273
+今日增长: +3
+当前Stars: 874
 
 
-## benb111/awesome-small-molecule-ml
+## ai4s-research/awesome-ai-for-science
 
-今日增长: +1
-当前Stars: 245
-
-
-## mattragoza/LiGAN
-
-今日增长: +1
-当前Stars: 239
+今日增长: +3
+当前Stars: 2042
 
 
-## MolecularAI/REINVENT4
+## rdkit/rdkit
 
-今日增长: +1
-当前Stars: 880
+今日增长: +3
+当前Stars: 3634
 
 
-## argonne-lcf/ChemGraph
+## dralgroup/mlatom
 
 今日增长: +1
 当前Stars: 167
@@ -172,37 +148,31 @@ Score: 6.06
 ## NVIDIA/nvalchemi-toolkit
 
 今日增长: +1
-当前Stars: 196
+当前Stars: 197
 
 
-## SimonsTang/feifei-companion
-
-今日增长: +1
-当前Stars: 109
-
-
-## rdkit/rdkit
+## RadonPy/RadonPy
 
 今日增长: +1
-当前Stars: 3631
+当前Stars: 287
 
 
-## datamol-io/datamol
-
-今日增长: +1
-当前Stars: 556
-
-
-## microsoft/retrochimera
+## molecularsets/moses
 
 今日增长: +1
-当前Stars: 88
+当前Stars: 996
+
+
+## Tyche-MKR/scientific-agent-skills
+
+今日增长: +1
+当前Stars: 82
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 53661
+当前Stars: 53968
 
 
 ## DeepGraphLearning/torchdrug
@@ -227,6 +197,36 @@ Score: 6.06
 
 今日增长: +0
 当前Stars: 515
+
+
+## DSPsleeporg/smiles-transformer
+
+今日增长: +0
+当前Stars: 359
+
+
+## dengjianyuan/Survey_AI_Drug_Discovery
+
+今日增长: +0
+当前Stars: 340
+
+
+## DeepWism/DeepWism-miRNA
+
+今日增长: +0
+当前Stars: 329
+
+
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +0
+当前Stars: 381
+
+
+## AstraZeneca/awesome-drug-discovery-knowledge-graphs
+
+今日增长: +0
+当前Stars: 273
 
 
 
@@ -285,6 +285,16 @@ https://github.com/boykopovar/AnyPS5
 https://github.com/MadsLorentzen/ai-job-search
 
 
+## cloudflare/security-audit-skill
+
+📝 中文简介: 使用 JavaScript（前端/全栈） 开发。
+📄 英文原文: A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+⭐ 当日新增: +2979
+总 Stars: 40009
+语言: JavaScript
+https://github.com/cloudflare/security-audit-skill
+
+
 ## vectorize-io/hindsight
 
 📝 中文简介: 使用 Python 开发；主要方向：agentic-ai、agents、ai-memory、memory。
@@ -335,16 +345,6 @@ https://github.com/ifixai-ai/iFixAi
 https://github.com/debpalash/VoiceStudio
 
 
-## DietrichGebert/ponytail
-
-📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：agent-skills、ai-agents、claude、claude-code、claude-code-plugin、cursor-rules、developer-tools、大语言模型、prompt-engineering、yagni。
-📄 英文原文: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-⭐ 当日新增: +2079
-总 Stars: 172042
-语言: JavaScript
-https://github.com/DietrichGebert/ponytail
-
-
 ## microsoft/markitdown
 
 📝 中文简介: 使用 Python 开发；主要方向：autogen、autogen-extension、LangChain、markdown、microsoft-office、openai、pdf。
@@ -355,16 +355,6 @@ https://github.com/DietrichGebert/ponytail
 https://github.com/microsoft/markitdown
 
 
-## cloudflare/security-audit-skill
-
-📝 中文简介: 使用 JavaScript（前端/全栈） 开发。
-📄 英文原文: A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-⭐ 当日新增: +2012
-总 Stars: 37196
-语言: JavaScript
-https://github.com/cloudflare/security-audit-skill
-
-
 ## bilawalsidhu/gods-eye-view
 
 📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：3d-globe、cesium、flight-tracking、geospatial、geospatial-intelligence、gis、osint、photogrammetry、satellite-tracking、spatial-intelligence、webgl、worldview。
@@ -373,6 +363,16 @@ https://github.com/cloudflare/security-audit-skill
 总 Stars: 55769
 语言: JavaScript
 https://github.com/bilawalsidhu/gods-eye-view
+
+
+## DietrichGebert/ponytail
+
+📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：agent-skills、ai-agents、claude、claude-code、claude-code-plugin、cursor-rules、developer-tools、大语言模型、prompt-engineering、yagni。
+📄 英文原文: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+⭐ 当日新增: +1948
+总 Stars: 173842
+语言: JavaScript
+https://github.com/DietrichGebert/ponytail
 
 
 ## microsoft/AI-For-Beginners
