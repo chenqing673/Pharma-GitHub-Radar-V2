@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 54284
-Score: 832.14
+⭐ Stars: 54464
+Score: 834.64
 
 ### deepchem/deepchem
 
-⭐ Stars: 7081
-Score: 239.11
+⭐ Stars: 7085
+Score: 239.25
 
 ### rdkit/rdkit
 
-⭐ Stars: 3635
-Score: 90.55
+⭐ Stars: 3637
+Score: 90.62
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2043
-Score: 33.18
+⭐ Stars: 2047
+Score: 33.22
 
 ### DeepGraphLearning/torchdrug
 
@@ -36,18 +36,18 @@ Score: 24.11
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 977
-Score: 14.07
+⭐ Stars: 980
+Score: 14.15
 
 ### MolecularAI/REINVENT4
 
 ⭐ Stars: 882
-Score: 20.62
+Score: 20.67
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
-⭐ Stars: 876
-Score: 18.01
+⭐ Stars: 877
+Score: 18.02
 
 ### xjtulyc/MedgeClaw
 
@@ -61,8 +61,8 @@ Score: 15.45
 
 ### datamol-io/datamol
 
-⭐ Stars: 556
-Score: 8.86
+⭐ Stars: 557
+Score: 8.87
 
 ### chemosim-lab/ProLIF
 
@@ -72,7 +72,7 @@ Score: 10.86
 ### aurekaresearch/OpenDDE
 
 ⭐ Stars: 516
-Score: 8.36
+Score: 8.41
 
 ### oddt/oddt
 
@@ -101,96 +101,78 @@ Score: 5.58
 
 ### jaechang-hits/SciAgent-Skills
 
-⭐ Stars: 382
-Score: 6.07
+⭐ Stars: 383
+Score: 6.08
 
 
 
 # 🚀 Star快速增长榜
 
 
+## deepchem/deepchem
+
+今日增长: +4
+当前Stars: 7085
+
+
+## ai4s-research/awesome-ai-for-science
+
+今日增长: +4
+当前Stars: 2047
+
+
 ## LeonChaoX/qinyan-academic-skills
 
 今日增长: +3
-当前Stars: 977
+当前Stars: 980
+
+
+## rdkit/rdkit
+
+今日增长: +2
+当前Stars: 3637
 
 
 ## NVIDIA-BioNeMo/bionemo-recipes
 
-今日增长: +2
-当前Stars: 876
-
-
-## MolecularAI/REINVENT4
-
-今日增长: +2
-当前Stars: 882
-
-
-## aurekaresearch/OpenDDE
-
 今日增长: +1
-当前Stars: 516
+当前Stars: 877
 
 
 ## jaechang-hits/SciAgent-Skills
 
 今日增长: +1
-当前Stars: 382
+当前Stars: 383
 
 
-## ai4s-research/awesome-ai-for-science
-
-今日增长: +1
-当前Stars: 2043
-
-
-## rdkit/rdkit
+## datamol-io/datamol
 
 今日增长: +1
-当前Stars: 3635
-
-
-## chemosim-lab/ProLIF
-
-今日增长: +1
-当前Stars: 551
+当前Stars: 557
 
 
 ## RadonPy/RadonPy
 
 今日增长: +1
-当前Stars: 288
+当前Stars: 289
 
 
-## thomas0809/MolScribe
-
-今日增长: +1
-当前Stars: 342
-
-
-## NVIDIA-BioNeMo/nvMolKit
+## kaist-amsg/LocalRetro
 
 今日增长: +1
-当前Stars: 281
+当前Stars: 123
 
 
-## NVIDIA-BioNeMo/genmol
+## Tyche-MKR/scientific-agent-skills
 
 今日增长: +1
-当前Stars: 210
+当前Stars: 83
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 54284
-
-
-## deepchem/deepchem
-
-今日增长: +0
-当前Stars: 7081
+当前Stars: 54464
 
 
 ## DeepGraphLearning/torchdrug
@@ -211,6 +193,12 @@ Score: 6.07
 当前Stars: 475
 
 
+## aurekaresearch/OpenDDE
+
+今日增长: +0
+当前Stars: 516
+
+
 ## DSPsleeporg/smiles-transformer
 
 今日增长: +0
@@ -227,6 +215,18 @@ Score: 6.07
 
 今日增长: +0
 当前Stars: 329
+
+
+## AstraZeneca/awesome-drug-discovery-knowledge-graphs
+
+今日增长: +0
+当前Stars: 273
+
+
+## benb111/awesome-small-molecule-ml
+
+今日增长: +0
+当前Stars: 245
 
 
 
@@ -285,16 +285,6 @@ https://github.com/boykopovar/AnyPS5
 https://github.com/MadsLorentzen/ai-job-search
 
 
-## cloudflare/security-audit-skill
-
-📝 中文简介: 使用 JavaScript（前端/全栈） 开发。
-📄 英文原文: A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-⭐ 当日新增: +2716
-总 Stars: 42499
-语言: JavaScript
-https://github.com/cloudflare/security-audit-skill
-
-
 ## vectorize-io/hindsight
 
 📝 中文简介: 使用 Python 开发；主要方向：agentic-ai、agents、ai-memory、memory。
@@ -323,6 +313,16 @@ https://github.com/paperclipai/paperclip
 总 Stars: 32464
 语言: Swift
 https://github.com/permissionlesstech/bitchat
+
+
+## cloudflare/security-audit-skill
+
+📝 中文简介: 使用 JavaScript（前端/全栈） 开发。
+📄 英文原文: A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+⭐ 当日新增: +2264
+总 Stars: 45086
+语言: JavaScript
+https://github.com/cloudflare/security-audit-skill
 
 
 ## ifixai-ai/iFixAi
