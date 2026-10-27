@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 54622
-Score: 837.12
+⭐ Stars: 54812
+Score: 839.67
 
 ### deepchem/deepchem
 
-⭐ Stars: 7089
-Score: 239.34
+⭐ Stars: 7094
+Score: 239.44
 
 ### rdkit/rdkit
 
-⭐ Stars: 3640
-Score: 90.65
+⭐ Stars: 3644
+Score: 90.74
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2052
-Score: 33.32
+⭐ Stars: 2057
+Score: 33.37
 
 ### DeepGraphLearning/torchdrug
 
@@ -36,13 +36,13 @@ Score: 24.11
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 979
-Score: 14.14
+⭐ Stars: 980
+Score: 14.15
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 883
-Score: 20.68
+⭐ Stars: 884
+Score: 20.74
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
@@ -66,13 +66,13 @@ Score: 8.87
 
 ### chemosim-lab/ProLIF
 
-⭐ Stars: 551
-Score: 10.86
+⭐ Stars: 552
+Score: 10.87
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 517
-Score: 8.42
+⭐ Stars: 521
+Score: 8.51
 
 ### oddt/oddt
 
@@ -109,58 +109,88 @@ Score: 6.08
 # 🚀 Star快速增长榜
 
 
+## deepchem/deepchem
+
+今日增长: +5
+当前Stars: 7094
+
+
 ## ai4s-research/awesome-ai-for-science
 
 今日增长: +5
-当前Stars: 2052
-
-
-## deepchem/deepchem
-
-今日增长: +4
-当前Stars: 7089
-
-
-## rdkit/rdkit
-
-今日增长: +3
-当前Stars: 3640
-
-
-## NVIDIA-BioNeMo/bionemo-recipes
-
-今日增长: +1
-当前Stars: 878
+当前Stars: 2057
 
 
 ## aurekaresearch/OpenDDE
 
+今日增长: +4
+当前Stars: 521
+
+
+## rdkit/rdkit
+
+今日增长: +4
+当前Stars: 3644
+
+
+## rdkit/rdkit-js
+
+今日增长: +2
+当前Stars: 255
+
+
+## LeonChaoX/qinyan-academic-skills
+
 今日增长: +1
-当前Stars: 517
+当前Stars: 980
 
 
 ## MolecularAI/REINVENT4
 
 今日增长: +1
-当前Stars: 883
+当前Stars: 884
 
 
-## MinkaiXu/GeoDiff
+## argonne-lcf/ChemGraph
 
 今日增长: +1
-当前Stars: 421
+当前Stars: 168
+
+
+## NVIDIA/nvalchemi-toolkit
+
+今日增长: +1
+当前Stars: 198
+
+
+## chemosim-lab/ProLIF
+
+今日增长: +1
+当前Stars: 552
+
+
+## zjunlp/MolGen
+
+今日增长: +1
+当前Stars: 194
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 54622
+当前Stars: 54812
 
 
 ## DeepGraphLearning/torchdrug
 
 今日增长: +0
 当前Stars: 1588
+
+
+## NVIDIA-BioNeMo/bionemo-recipes
+
+今日增长: +0
+当前Stars: 878
 
 
 ## xjtulyc/MedgeClaw
@@ -197,36 +227,6 @@ Score: 6.08
 
 今日增长: +0
 当前Stars: 383
-
-
-## AstraZeneca/awesome-drug-discovery-knowledge-graphs
-
-今日增长: +0
-当前Stars: 273
-
-
-## PatWalters/resources_2025
-
-今日增长: +0
-当前Stars: 270
-
-
-## benb111/awesome-small-molecule-ml
-
-今日增长: +0
-当前Stars: 245
-
-
-## mattragoza/LiGAN
-
-今日增长: +0
-当前Stars: 239
-
-
-## Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery
-
-今日增长: +0
-当前Stars: 214
 
 
 
@@ -325,6 +325,26 @@ https://github.com/paperclipai/paperclip
 https://github.com/permissionlesstech/bitchat
 
 
+## debpalash/VoiceStudio
+
+📝 中文简介: 使用 Python 开发；主要方向：ai、audiobook、cuda、dubbing、elevenlabs-alternative、huggingface、local-first、mlx、omnivoice-studio、speech-to-text、text-to-speech、transcription、translate、tts、voice-ai、voice-cloning、voice-generation、voicestudio、workflow。
+📄 英文原文: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+⭐ 当日新增: +2297
+总 Stars: 89778
+语言: Python
+https://github.com/debpalash/VoiceStudio
+
+
+## Nutlope/hallmark
+
+📝 中文简介: 使用 CSS 开发。
+📄 英文原文: Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+⭐ 当日新增: +2244
+总 Stars: 37018
+语言: CSS
+https://github.com/Nutlope/hallmark
+
+
 ## ifixai-ai/iFixAi
 
 📝 中文简介: 使用 Python 开发；主要方向：agent-evaluation、ai、ai-alignment、ai-evaluation、ai-governance、ai-safety、命令行工具、diagnostic-tool、eu-ai-act、hallucination-detection、iso-42001、llm-evaluation、llm-security、nist-ai-rmf、owasp-llm、prompt-injection、Python、responsible-ai、risk-assessment、risk-management。
@@ -395,16 +415,6 @@ https://github.com/cathrynlavery/diagram-design
 https://github.com/mattpocock/skills
 
 
-## debpalash/VoiceStudio
-
-📝 中文简介: 使用 Python 开发；主要方向：ai、audiobook、cuda、dubbing、elevenlabs-alternative、huggingface、local-first、mlx、omnivoice-studio、speech-to-text、text-to-speech、transcription、translate、tts、voice-ai、voice-cloning、voice-generation、voicestudio、workflow。
-📄 英文原文: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-⭐ 当日新增: +1592
-总 Stars: 87288
-语言: Python
-https://github.com/debpalash/VoiceStudio
-
-
 ## stablyai/orca
 
 📝 中文简介: 使用 TypeScript 开发；主要方向：ade、agent-ide、ai-agents、自动化、机器人、claude-code、codex、ghostty、grok-bot、hermes-agent、mobile-app、muse、openclaw、opencode、orchestration、pi、运行时、terminal、worktrees、yc-backed。
@@ -415,22 +425,12 @@ https://github.com/debpalash/VoiceStudio
 https://github.com/stablyai/orca
 
 
-## xtool-org/xtool
+## pbakaus/impeccable
 
-📝 中文简介: 使用 Swift 开发；主要方向：iOS、Linux、Swift、swift-package-manager、Windows、xcode。
-📄 英文原文: Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
-⭐ 当日新增: +1502
-总 Stars: 11102
-语言: Swift
-https://github.com/xtool-org/xtool
-
-
-## DuarteSantos8/openGym
-
-📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：bodyweight、Docker、fitness、fitness-tracker、gym、health、mcp、Node.js、passkeys、progressive-web-applications、pwa、React、自托管、self-hosting、vite、webauthn、weightlifting、workout-tracker。
-📄 英文原文: Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
-⭐ 当日新增: +1493
-总 Stars: 7378
-语言: JavaScript
-https://github.com/DuarteSantos8/openGym
+📝 中文简介: 使用 Rust 开发。
+📄 英文原文: The design language that makes your AI harness better at design.
+⭐ 当日新增: +1506
+总 Stars: 89486
+语言: Rust
+https://github.com/pbakaus/impeccable
 
