@@ -6,28 +6,28 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 55001
-Score: 842.46
+⭐ Stars: 55163
+Score: 844.63
 
 ### deepchem/deepchem
 
-⭐ Stars: 7097
-Score: 239.47
+⭐ Stars: 7104
+Score: 239.64
 
 ### rdkit/rdkit
 
-⭐ Stars: 3646
-Score: 90.86
+⭐ Stars: 3647
+Score: 90.87
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2057
-Score: 33.47
+⭐ Stars: 2059
+Score: 33.54
 
 ### DeepGraphLearning/torchdrug
 
-⭐ Stars: 1588
-Score: 27.03
+⭐ Stars: 1590
+Score: 27.05
 
 ### molecularsets/moses
 
@@ -36,13 +36,13 @@ Score: 24.11
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 984
-Score: 14.19
+⭐ Stars: 987
+Score: 14.27
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 887
-Score: 20.82
+⭐ Stars: 890
+Score: 20.85
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
@@ -51,8 +51,8 @@ Score: 18.03
 
 ### xjtulyc/MedgeClaw
 
-⭐ Stars: 618
-Score: 12.83
+⭐ Stars: 617
+Score: 12.82
 
 ### wengong-jin/icml18-jtnn
 
@@ -66,8 +66,8 @@ Score: 8.87
 
 ### chemosim-lab/ProLIF
 
-⭐ Stars: 552
-Score: 10.87
+⭐ Stars: 553
+Score: 10.88
 
 ### aurekaresearch/OpenDDE
 
@@ -87,7 +87,7 @@ Score: 10.71
 ### kjappelbaum/awesome-chemistry-datasets
 
 ⭐ Stars: 430
-Score: 7.25
+Score: 7.3
 
 ### MinkaiXu/GeoDiff
 
@@ -109,82 +109,70 @@ Score: 6.09
 # 🚀 Star快速增长榜
 
 
-## LeonChaoX/qinyan-academic-skills
-
-今日增长: +4
-当前Stars: 984
-
-
 ## deepchem/deepchem
 
+今日增长: +7
+当前Stars: 7104
+
+
+## LeonChaoX/qinyan-academic-skills
+
 今日增长: +3
-当前Stars: 7097
+当前Stars: 987
 
 
 ## MolecularAI/REINVENT4
 
 今日增长: +3
-当前Stars: 887
+当前Stars: 890
 
 
-## aurekaresearch/OpenDDE
+## DeepGraphLearning/torchdrug
 
 今日增长: +2
-当前Stars: 523
+当前Stars: 1590
+
+
+## ai4s-research/awesome-ai-for-science
+
+今日增长: +2
+当前Stars: 2059
+
+
+## thomas0809/MolScribe
+
+今日增长: +2
+当前Stars: 344
 
 
 ## rdkit/rdkit
 
-今日增长: +2
-当前Stars: 3646
+今日增长: +1
+当前Stars: 3647
 
 
-## jaechang-hits/SciAgent-Skills
+## chemosim-lab/ProLIF
 
 今日增长: +1
-当前Stars: 384
+当前Stars: 553
 
 
-## Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery
-
-今日增长: +1
-当前Stars: 215
-
-
-## dralgroup/mlatom
+## UCLCheminformatics/ScaffoldGraph
 
 今日增长: +1
-当前Stars: 168
+当前Stars: 204
 
 
-## NVIDIA/nvalchemi-toolkit
-
-今日增长: +1
-当前Stars: 199
-
-
-## SimonsTang/feifei-companion
+## microsoft/retrochimera
 
 今日增长: +1
-当前Stars: 110
-
-
-## Tyche-MKR/scientific-agent-skills
-
-今日增长: +1
-当前Stars: 84
+当前Stars: 89
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 55001
-
-
-## DeepGraphLearning/torchdrug
-
-今日增长: +0
-当前Stars: 1588
+当前Stars: 55163
 
 
 ## NVIDIA-BioNeMo/bionemo-recipes
@@ -193,16 +181,16 @@ Score: 6.09
 当前Stars: 878
 
 
-## xjtulyc/MedgeClaw
-
-今日增长: +0
-当前Stars: 618
-
-
 ## oddt/oddt
 
 今日增长: +0
 当前Stars: 476
+
+
+## aurekaresearch/OpenDDE
+
+今日增长: +0
+当前Stars: 523
 
 
 ## DSPsleeporg/smiles-transformer
@@ -223,10 +211,22 @@ Score: 6.09
 当前Stars: 329
 
 
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +0
+当前Stars: 384
+
+
 ## AstraZeneca/awesome-drug-discovery-knowledge-graphs
 
 今日增长: +0
 当前Stars: 273
+
+
+## PatWalters/resources_2025
+
+今日增长: +0
+当前Stars: 270
 
 
 
@@ -295,16 +295,6 @@ https://github.com/MadsLorentzen/ai-job-search
 https://github.com/cloudflare/security-audit-skill
 
 
-## Nutlope/hallmark
-
-📝 中文简介: 使用 CSS 开发。
-📄 英文原文: Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
-⭐ 当日新增: +2830
-总 Stars: 39454
-语言: CSS
-https://github.com/Nutlope/hallmark
-
-
 ## vectorize-io/hindsight
 
 📝 中文简介: 使用 Python 开发；主要方向：agentic-ai、agents、ai-memory、memory。
@@ -325,6 +315,16 @@ https://github.com/vectorize-io/hindsight
 https://github.com/paperclipai/paperclip
 
 
+## HKUDS/DeepTutor
+
+📝 中文简介: 使用 Python 开发；主要方向：ai-agents、ai-tutor、clawbot、cli-tool、deepresearch、interactive-learning、learning、multi-agent-systems、rag。
+📄 英文原文: DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
+⭐ 当日新增: +2371
+总 Stars: 48579
+语言: Python
+https://github.com/HKUDS/DeepTutor
+
+
 ## permissionlesstech/bitchat
 
 📝 中文简介: 使用 Swift 开发；主要方向：bluetooth、bluetooth-le、decentralized、e2e-encryption、iOS、macOS、mesh-network、messaging、nostr、Swift。
@@ -343,6 +343,26 @@ https://github.com/permissionlesstech/bitchat
 总 Stars: 89778
 语言: Python
 https://github.com/debpalash/VoiceStudio
+
+
+## elayadesign/ai-design-skills
+
+📝 中文简介: 开源项目（暂无语言与主题信息，建议直接访问仓库查看原文）。
+📄 英文原文: —
+⭐ 当日新增: +2139
+总 Stars: 11433
+语言: 
+https://github.com/elayadesign/ai-design-skills
+
+
+## Nutlope/hallmark
+
+📝 中文简介: 使用 CSS 开发。
+📄 英文原文: Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+⭐ 当日新增: +2110
+总 Stars: 41073
+语言: CSS
+https://github.com/Nutlope/hallmark
 
 
 ## ifixai-ai/iFixAi
@@ -413,24 +433,4 @@ https://github.com/cathrynlavery/diagram-design
 总 Stars: 284900
 语言: Shell
 https://github.com/mattpocock/skills
-
-
-## HKUDS/DeepTutor
-
-📝 中文简介: 使用 Python 开发；主要方向：ai-agents、ai-tutor、clawbot、cli-tool、deepresearch、interactive-learning、learning、multi-agent-systems、rag。
-📄 英文原文: DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
-⭐ 当日新增: +1598
-总 Stars: 46565
-语言: Python
-https://github.com/HKUDS/DeepTutor
-
-
-## stablyai/orca
-
-📝 中文简介: 使用 TypeScript 开发；主要方向：ade、agent-ide、ai-agents、自动化、机器人、claude-code、codex、ghostty、grok-bot、hermes-agent、mobile-app、muse、openclaw、opencode、orchestration、pi、运行时、terminal、worktrees、yc-backed。
-📄 英文原文: Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
-⭐ 当日新增: +1541
-总 Stars: 101673
-语言: TypeScript
-https://github.com/stablyai/orca
 
