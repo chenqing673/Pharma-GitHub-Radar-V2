@@ -6,43 +6,43 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 55163
-Score: 844.63
+⭐ Stars: 55318
+Score: 846.68
 
 ### deepchem/deepchem
 
-⭐ Stars: 7104
-Score: 239.64
+⭐ Stars: 7108
+Score: 239.83
 
 ### rdkit/rdkit
 
-⭐ Stars: 3647
-Score: 90.87
+⭐ Stars: 3651
+Score: 90.91
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2059
-Score: 33.54
+⭐ Stars: 2061
+Score: 33.56
 
 ### DeepGraphLearning/torchdrug
 
-⭐ Stars: 1590
-Score: 27.05
+⭐ Stars: 1589
+Score: 27.04
 
 ### molecularsets/moses
 
-⭐ Stars: 996
-Score: 24.11
+⭐ Stars: 997
+Score: 24.12
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 987
-Score: 14.27
+⭐ Stars: 991
+Score: 14.31
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 890
-Score: 20.85
+⭐ Stars: 891
+Score: 20.86
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
@@ -72,7 +72,7 @@ Score: 10.88
 ### aurekaresearch/OpenDDE
 
 ⭐ Stars: 523
-Score: 8.53
+Score: 8.58
 
 ### oddt/oddt
 
@@ -81,8 +81,8 @@ Score: 11.16
 
 ### wengong-jin/hgraph2graph
 
-⭐ Stars: 446
-Score: 10.71
+⭐ Stars: 447
+Score: 10.72
 
 ### kjappelbaum/awesome-chemistry-datasets
 
@@ -111,74 +111,104 @@ Score: 6.09
 
 ## deepchem/deepchem
 
-今日增长: +7
-当前Stars: 7104
+今日增长: +4
+当前Stars: 7108
 
 
 ## LeonChaoX/qinyan-academic-skills
 
+今日增长: +4
+当前Stars: 991
+
+
+## rdkit/rdkit
+
+今日增长: +4
+当前Stars: 3651
+
+
+## NVIDIA/nvalchemi-toolkit
+
 今日增长: +3
-当前Stars: 987
-
-
-## MolecularAI/REINVENT4
-
-今日增长: +3
-当前Stars: 890
-
-
-## DeepGraphLearning/torchdrug
-
-今日增长: +2
-当前Stars: 1590
+当前Stars: 202
 
 
 ## ai4s-research/awesome-ai-for-science
 
 今日增长: +2
-当前Stars: 2059
+当前Stars: 2061
 
 
-## thomas0809/MolScribe
-
-今日增长: +2
-当前Stars: 344
-
-
-## rdkit/rdkit
+## MolecularAI/REINVENT4
 
 今日增长: +1
-当前Stars: 3647
+当前Stars: 891
 
 
-## chemosim-lab/ProLIF
-
-今日增长: +1
-当前Stars: 553
-
-
-## UCLCheminformatics/ScaffoldGraph
+## rdkit/rdkit-tutorials
 
 今日增长: +1
-当前Stars: 204
+当前Stars: 315
 
 
-## microsoft/retrochimera
+## RadonPy/RadonPy
 
 今日增长: +1
-当前Stars: 89
+当前Stars: 290
+
+
+## rdkit/rdkit-js
+
+今日增长: +1
+当前Stars: 256
+
+
+## molecularsets/moses
+
+今日增长: +1
+当前Stars: 997
+
+
+## wengong-jin/hgraph2graph
+
+今日增长: +1
+当前Stars: 447
+
+
+## NVIDIA-BioNeMo/nvMolKit
+
+今日增长: +1
+当前Stars: 282
+
+
+## NVIDIA-BioNeMo/genmol
+
+今日增长: +1
+当前Stars: 211
+
+
+## connorcoley/rdchiral
+
+今日增长: +1
+当前Stars: 192
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 55163
+当前Stars: 55318
 
 
 ## NVIDIA-BioNeMo/bionemo-recipes
 
 今日增长: +0
 当前Stars: 878
+
+
+## xjtulyc/MedgeClaw
+
+今日增长: +0
+当前Stars: 617
 
 
 ## oddt/oddt
@@ -197,36 +227,6 @@ Score: 6.09
 
 今日增长: +0
 当前Stars: 359
-
-
-## dengjianyuan/Survey_AI_Drug_Discovery
-
-今日增长: +0
-当前Stars: 340
-
-
-## DeepWism/DeepWism-miRNA
-
-今日增长: +0
-当前Stars: 329
-
-
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +0
-当前Stars: 384
-
-
-## AstraZeneca/awesome-drug-discovery-knowledge-graphs
-
-今日增长: +0
-当前Stars: 273
-
-
-## PatWalters/resources_2025
-
-今日增长: +0
-当前Stars: 270
 
 
 
@@ -295,6 +295,16 @@ https://github.com/MadsLorentzen/ai-job-search
 https://github.com/cloudflare/security-audit-skill
 
 
+## pbakaus/impeccable
+
+📝 中文简介: 使用 Rust 开发；主要方向：agent-skills、ai、anti-slop、design、slop。
+📄 英文原文: The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
+⭐ 当日新增: +2870
+总 Stars: 95895
+语言: Rust
+https://github.com/pbakaus/impeccable
+
+
 ## vectorize-io/hindsight
 
 📝 中文简介: 使用 Python 开发；主要方向：agentic-ai、agents、ai-memory、memory。
@@ -315,16 +325,6 @@ https://github.com/vectorize-io/hindsight
 https://github.com/paperclipai/paperclip
 
 
-## HKUDS/DeepTutor
-
-📝 中文简介: 使用 Python 开发；主要方向：ai-agents、ai-tutor、clawbot、cli-tool、deepresearch、interactive-learning、learning、multi-agent-systems、rag。
-📄 英文原文: DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
-⭐ 当日新增: +2371
-总 Stars: 48579
-语言: Python
-https://github.com/HKUDS/DeepTutor
-
-
 ## permissionlesstech/bitchat
 
 📝 中文简介: 使用 Swift 开发；主要方向：bluetooth、bluetooth-le、decentralized、e2e-encryption、iOS、macOS、mesh-network、messaging、nostr、Swift。
@@ -343,16 +343,6 @@ https://github.com/permissionlesstech/bitchat
 总 Stars: 89778
 语言: Python
 https://github.com/debpalash/VoiceStudio
-
-
-## elayadesign/ai-design-skills
-
-📝 中文简介: 开源项目（暂无语言与主题信息，建议直接访问仓库查看原文）。
-📄 英文原文: —
-⭐ 当日新增: +2139
-总 Stars: 11433
-语言: 
-https://github.com/elayadesign/ai-design-skills
 
 
 ## Nutlope/hallmark
@@ -403,6 +393,16 @@ https://github.com/bilawalsidhu/gods-eye-view
 总 Stars: 173842
 语言: JavaScript
 https://github.com/DietrichGebert/ponytail
+
+
+## HKUDS/DeepTutor
+
+📝 中文简介: 使用 Python 开发；主要方向：ai-agents、ai-tutor、clawbot、cli-tool、deepresearch、interactive-learning、learning、multi-agent-systems、rag。
+📄 英文原文: DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
+⭐ 当日新增: +1930
+总 Stars: 50781
+语言: Python
+https://github.com/HKUDS/DeepTutor
 
 
 ## microsoft/AI-For-Beginners
