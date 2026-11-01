@@ -6,18 +6,18 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 55442
-Score: 848.37
+⭐ Stars: 55581
+Score: 850.51
 
 ### deepchem/deepchem
 
-⭐ Stars: 7112
-Score: 239.87
+⭐ Stars: 7113
+Score: 239.83
 
 ### rdkit/rdkit
 
-⭐ Stars: 3653
-Score: 90.98
+⭐ Stars: 3655
+Score: 90.95
 
 ### ai4s-research/awesome-ai-for-science
 
@@ -36,8 +36,8 @@ Score: 24.12
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 995
-Score: 14.45
+⭐ Stars: 996
+Score: 14.46
 
 ### MolecularAI/REINVENT4
 
@@ -47,7 +47,7 @@ Score: 20.86
 ### NVIDIA-BioNeMo/bionemo-recipes
 
 ⭐ Stars: 878
-Score: 18.08
+Score: 18.13
 
 ### xjtulyc/MedgeClaw
 
@@ -57,7 +57,7 @@ Score: 12.82
 ### wengong-jin/icml18-jtnn
 
 ⭐ Stars: 564
-Score: 15.44
+Score: 15.39
 
 ### datamol-io/datamol
 
@@ -71,8 +71,8 @@ Score: 10.89
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 523
-Score: 8.58
+⭐ Stars: 524
+Score: 8.59
 
 ### oddt/oddt
 
@@ -109,82 +109,46 @@ Score: 6.09
 # 🚀 Star快速增长榜
 
 
+## rdkit/rdkit
+
+今日增长: +2
+当前Stars: 3655
+
+
 ## deepchem/deepchem
 
-今日增长: +4
-当前Stars: 7112
+今日增长: +1
+当前Stars: 7113
 
 
 ## LeonChaoX/qinyan-academic-skills
 
-今日增长: +4
-当前Stars: 995
+今日增长: +1
+当前Stars: 996
 
 
-## ai4s-research/awesome-ai-for-science
+## aurekaresearch/OpenDDE
 
-今日增长: +2
-当前Stars: 2063
-
-
-## rdkit/rdkit
-
-今日增长: +2
-当前Stars: 3653
-
-
-## NVIDIA-BioNeMo/genmol
-
-今日增长: +2
-当前Stars: 213
+今日增长: +1
+当前Stars: 524
 
 
 ## AstraZeneca/awesome-drug-discovery-knowledge-graphs
 
 今日增长: +1
-当前Stars: 274
+当前Stars: 275
 
 
-## schwallergroup/ai4chem_course
-
-今日增长: +1
-当前Stars: 297
-
-
-## argonne-lcf/ChemGraph
+## PatWalters/useful_rdkit_utils
 
 今日增长: +1
-当前Stars: 169
-
-
-## chemosim-lab/ProLIF
-
-今日增长: +1
-当前Stars: 554
-
-
-## microsoft/molecule-generation
-
-今日增长: +1
-当前Stars: 327
-
-
-## liugangcode/Graph-DiT
-
-今日增长: +1
-当前Stars: 116
-
-
-## microsoft/retrochimera
-
-今日增长: +1
-当前Stars: 90
+当前Stars: 243
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 55442
+当前Stars: 55581
 
 
 ## DeepGraphLearning/torchdrug
@@ -211,12 +175,6 @@ Score: 6.09
 当前Stars: 476
 
 
-## aurekaresearch/OpenDDE
-
-今日增长: +0
-当前Stars: 523
-
-
 ## DSPsleeporg/smiles-transformer
 
 今日增长: +0
@@ -227,6 +185,48 @@ Score: 6.09
 
 今日增长: +0
 当前Stars: 340
+
+
+## DeepWism/DeepWism-miRNA
+
+今日增长: +0
+当前Stars: 329
+
+
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +0
+当前Stars: 384
+
+
+## PatWalters/resources_2025
+
+今日增长: +0
+当前Stars: 270
+
+
+## benb111/awesome-small-molecule-ml
+
+今日增长: +0
+当前Stars: 245
+
+
+## mattragoza/LiGAN
+
+今日增长: +0
+当前Stars: 239
+
+
+## Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery
+
+今日增长: +0
+当前Stars: 215
+
+
+## dockstring/dockstring
+
+今日增长: +0
+当前Stars: 193
 
 
 
@@ -325,16 +325,6 @@ https://github.com/paperclipai/paperclip
 https://github.com/permissionlesstech/bitchat
 
 
-## pbakaus/impeccable
-
-📝 中文简介: 使用 Rust 开发；主要方向：agent-skills、ai、anti-slop、design、slop。
-📄 英文原文: The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
-⭐ 当日新增: +2300
-总 Stars: 97382
-语言: Rust
-https://github.com/pbakaus/impeccable
-
-
 ## debpalash/VoiceStudio
 
 📝 中文简介: 使用 Python 开发；主要方向：ai、audiobook、cuda、dubbing、elevenlabs-alternative、huggingface、local-first、mlx、omnivoice-studio、speech-to-text、text-to-speech、transcription、translate、tts、voice-ai、voice-cloning、voice-generation、voicestudio、workflow。
@@ -343,16 +333,6 @@ https://github.com/pbakaus/impeccable
 总 Stars: 89778
 语言: Python
 https://github.com/debpalash/VoiceStudio
-
-
-## HKUDS/DeepTutor
-
-📝 中文简介: 使用 Python 开发；主要方向：ai-agents、ai-tutor、clawbot、cli-tool、deepresearch、interactive-learning、learning、multi-agent-systems、rag。
-📄 英文原文: DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
-⭐ 当日新增: +2282
-总 Stars: 51997
-语言: Python
-https://github.com/HKUDS/DeepTutor
 
 
 ## Nutlope/hallmark
@@ -433,4 +413,24 @@ https://github.com/microsoft/AI-For-Beginners
 总 Stars: 54544
 语言: HTML
 https://github.com/cathrynlavery/diagram-design
+
+
+## thedotmack/claude-mem
+
+📝 中文简介: 使用 TypeScript 开发；主要方向：ai、ai-agents、ai-memory、anthropic、人工智能、chromadb、claude、claude-agent-sdk、claude-agents、claude-code、claude-code-plugin、claude-skills、embeddings、long-term-memory、mem0、memory-engine、openmemory、rag、SQLite、supermemory。
+📄 英文原文: Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+⭐ 当日新增: +1723
+总 Stars: 108194
+语言: TypeScript
+https://github.com/thedotmack/claude-mem
+
+
+## hmjz100/LinkSwift
+
+📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：123pan、aliyun-drive、aliyunpan、aria2、baidu、baidu-netdisk、baidunetdisk、baidupan、baiduyun、guangya-netdisk、motrix、quark-netdisk、tampermonkey、tampermonkey-script、tampermonkey-userscript、tianyi-netdisk、uc-netdisk、userscript、xunlei-netdisk、yidong-netdisk。
+📄 英文原文: 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
+⭐ 当日新增: +1616
+总 Stars: 35509
+语言: JavaScript
+https://github.com/hmjz100/LinkSwift
 
