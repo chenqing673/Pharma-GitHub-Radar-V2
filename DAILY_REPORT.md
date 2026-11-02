@@ -6,43 +6,43 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 55581
-Score: 850.51
+⭐ Stars: 55726
+Score: 852.46
 
 ### deepchem/deepchem
 
-⭐ Stars: 7113
-Score: 239.83
+⭐ Stars: 7117
+Score: 240.17
 
 ### rdkit/rdkit
 
-⭐ Stars: 3655
-Score: 90.95
+⭐ Stars: 3660
+Score: 91.2
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2063
-Score: 33.63
+⭐ Stars: 2065
+Score: 33.65
 
 ### DeepGraphLearning/torchdrug
 
 ⭐ Stars: 1589
 Score: 27.04
 
+### LeonChaoX/qinyan-academic-skills
+
+⭐ Stars: 1001
+Score: 14.56
+
 ### molecularsets/moses
 
 ⭐ Stars: 997
 Score: 24.12
 
-### LeonChaoX/qinyan-academic-skills
-
-⭐ Stars: 996
-Score: 14.46
-
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 891
-Score: 20.86
+⭐ Stars: 892
+Score: 20.87
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
@@ -71,8 +71,8 @@ Score: 10.89
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 524
-Score: 8.59
+⭐ Stars: 525
+Score: 8.65
 
 ### oddt/oddt
 
@@ -109,46 +109,70 @@ Score: 6.09
 # 🚀 Star快速增长榜
 
 
+## LeonChaoX/qinyan-academic-skills
+
+今日增长: +5
+当前Stars: 1001
+
+
 ## rdkit/rdkit
 
-今日增长: +2
-当前Stars: 3655
+今日增长: +5
+当前Stars: 3660
 
 
 ## deepchem/deepchem
 
-今日增长: +1
-当前Stars: 7113
+今日增长: +4
+当前Stars: 7117
 
 
-## LeonChaoX/qinyan-academic-skills
+## thomas0809/MolScribe
 
-今日增长: +1
-当前Stars: 996
+今日增长: +3
+当前Stars: 347
+
+
+## ai4s-research/awesome-ai-for-science
+
+今日增长: +2
+当前Stars: 2065
+
+
+## NVIDIA/nvalchemi-toolkit
+
+今日增长: +2
+当前Stars: 204
 
 
 ## aurekaresearch/OpenDDE
 
 今日增长: +1
-当前Stars: 524
+当前Stars: 525
 
 
-## AstraZeneca/awesome-drug-discovery-knowledge-graphs
-
-今日增长: +1
-当前Stars: 275
-
-
-## PatWalters/useful_rdkit_utils
+## MolecularAI/REINVENT4
 
 今日增长: +1
-当前Stars: 243
+当前Stars: 892
+
+
+## rdkit/rdkit-tutorials
+
+今日增长: +1
+当前Stars: 316
+
+
+## bigchem/retrosynthesis
+
+今日增长: +1
+当前Stars: 38
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 55581
+当前Stars: 55726
 
 
 ## DeepGraphLearning/torchdrug
@@ -199,34 +223,10 @@ Score: 6.09
 当前Stars: 384
 
 
-## PatWalters/resources_2025
+## AstraZeneca/awesome-drug-discovery-knowledge-graphs
 
 今日增长: +0
-当前Stars: 270
-
-
-## benb111/awesome-small-molecule-ml
-
-今日增长: +0
-当前Stars: 245
-
-
-## mattragoza/LiGAN
-
-今日增长: +0
-当前Stars: 239
-
-
-## Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery
-
-今日增长: +0
-当前Stars: 215
-
-
-## dockstring/dockstring
-
-今日增长: +0
-当前Stars: 193
+当前Stars: 275
 
 
 
@@ -283,6 +283,16 @@ https://github.com/boykopovar/AnyPS5
 总 Stars: 61233
 语言: Python
 https://github.com/MadsLorentzen/ai-job-search
+
+
+## pingdotgg/t3code
+
+📝 中文简介: 使用 TypeScript 开发。
+📄 英文原文: —
+⭐ 当日新增: +3094
+总 Stars: 38852
+语言: TypeScript
+https://github.com/pingdotgg/t3code
 
 
 ## cloudflare/security-audit-skill
@@ -355,16 +365,6 @@ https://github.com/Nutlope/hallmark
 https://github.com/ifixai-ai/iFixAi
 
 
-## togg53192-cmd/jailbreaks
-
-📝 中文简介: 开源项目（暂无语言与主题信息，建议直接访问仓库查看原文）。
-📄 英文原文: LIST OF ALL MY JAILBREAKS
-⭐ 当日新增: +2055
-总 Stars: 11519
-语言: 
-https://github.com/togg53192-cmd/jailbreaks
-
-
 ## microsoft/markitdown
 
 📝 中文简介: 使用 Python 开发；主要方向：autogen、autogen-extension、LangChain、markdown、microsoft-office、openai、pdf。
@@ -415,16 +415,6 @@ https://github.com/microsoft/AI-For-Beginners
 https://github.com/cathrynlavery/diagram-design
 
 
-## thedotmack/claude-mem
-
-📝 中文简介: 使用 TypeScript 开发；主要方向：ai、ai-agents、ai-memory、anthropic、人工智能、chromadb、claude、claude-agent-sdk、claude-agents、claude-code、claude-code-plugin、claude-skills、embeddings、long-term-memory、mem0、memory-engine、openmemory、rag、SQLite、supermemory。
-📄 英文原文: Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-⭐ 当日新增: +1723
-总 Stars: 108194
-语言: TypeScript
-https://github.com/thedotmack/claude-mem
-
-
 ## hmjz100/LinkSwift
 
 📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：123pan、aliyun-drive、aliyunpan、aria2、baidu、baidu-netdisk、baidunetdisk、baidupan、baiduyun、guangya-netdisk、motrix、quark-netdisk、tampermonkey、tampermonkey-script、tampermonkey-userscript、tianyi-netdisk、uc-netdisk、userscript、xunlei-netdisk、yidong-netdisk。
@@ -433,4 +423,14 @@ https://github.com/thedotmack/claude-mem
 总 Stars: 35509
 语言: JavaScript
 https://github.com/hmjz100/LinkSwift
+
+
+## stablyai/orca
+
+📝 中文简介: 使用 TypeScript 开发；主要方向：ade、agent-ide、ai-agents、自动化、机器人、claude-code、codex、ghostty、grok-bot、hermes-agent、mobile-app、muse、openclaw、opencode、orchestration、pi、运行时、terminal、worktrees、yc-backed。
+📄 英文原文: Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+⭐ 当日新增: +1541
+总 Stars: 101673
+语言: TypeScript
+https://github.com/stablyai/orca
 
