@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 55726
-Score: 852.46
+⭐ Stars: 55885
+Score: 854.8
 
 ### deepchem/deepchem
 
-⭐ Stars: 7117
-Score: 240.17
+⭐ Stars: 7122
+Score: 240.27
 
 ### rdkit/rdkit
 
-⭐ Stars: 3660
-Score: 91.2
+⭐ Stars: 3663
+Score: 91.38
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2065
-Score: 33.65
+⭐ Stars: 2068
+Score: 33.68
 
 ### DeepGraphLearning/torchdrug
 
@@ -31,8 +31,8 @@ Score: 27.04
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 1001
-Score: 14.56
+⭐ Stars: 1004
+Score: 14.69
 
 ### molecularsets/moses
 
@@ -67,12 +67,12 @@ Score: 8.87
 ### chemosim-lab/ProLIF
 
 ⭐ Stars: 554
-Score: 10.89
+Score: 10.94
 
 ### aurekaresearch/OpenDDE
 
 ⭐ Stars: 525
-Score: 8.65
+Score: 8.7
 
 ### oddt/oddt
 
@@ -101,78 +101,78 @@ Score: 5.58
 
 ### jaechang-hits/SciAgent-Skills
 
-⭐ Stars: 384
-Score: 6.09
+⭐ Stars: 385
+Score: 6.1
 
 
 
 # 🚀 Star快速增长榜
 
 
-## LeonChaoX/qinyan-academic-skills
-
-今日增长: +5
-当前Stars: 1001
-
-
-## rdkit/rdkit
-
-今日增长: +5
-当前Stars: 3660
-
-
 ## deepchem/deepchem
 
-今日增长: +4
-当前Stars: 7117
+今日增长: +5
+当前Stars: 7122
 
 
-## thomas0809/MolScribe
+## LeonChaoX/qinyan-academic-skills
 
 今日增长: +3
-当前Stars: 347
+当前Stars: 1004
 
 
 ## ai4s-research/awesome-ai-for-science
 
-今日增长: +2
-当前Stars: 2065
+今日增长: +3
+当前Stars: 2068
 
 
-## NVIDIA/nvalchemi-toolkit
+## rdkit/rdkit
 
-今日增长: +2
-当前Stars: 204
-
-
-## aurekaresearch/OpenDDE
-
-今日增长: +1
-当前Stars: 525
+今日增长: +3
+当前Stars: 3663
 
 
-## MolecularAI/REINVENT4
+## jaechang-hits/SciAgent-Skills
 
 今日增长: +1
-当前Stars: 892
+当前Stars: 385
 
 
-## rdkit/rdkit-tutorials
-
-今日增长: +1
-当前Stars: 316
-
-
-## bigchem/retrosynthesis
+## SimonsTang/feifei-companion
 
 今日增长: +1
-当前Stars: 38
+当前Stars: 111
+
+
+## RadonPy/RadonPy
+
+今日增长: +1
+当前Stars: 291
+
+
+## amorehead/awesome-molecular-generation
+
+今日增长: +1
+当前Stars: 348
+
+
+## thomas0809/MolScribe
+
+今日增长: +1
+当前Stars: 348
+
+
+## deepforestsci/DeepRetro
+
+今日增长: +1
+当前Stars: 33
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 55726
+当前Stars: 55885
 
 
 ## DeepGraphLearning/torchdrug
@@ -199,6 +199,12 @@ Score: 6.09
 当前Stars: 476
 
 
+## aurekaresearch/OpenDDE
+
+今日增长: +0
+当前Stars: 525
+
+
 ## DSPsleeporg/smiles-transformer
 
 今日增长: +0
@@ -215,12 +221,6 @@ Score: 6.09
 
 今日增长: +0
 当前Stars: 329
-
-
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +0
-当前Stars: 384
 
 
 ## AstraZeneca/awesome-drug-discovery-knowledge-graphs
@@ -289,8 +289,8 @@ https://github.com/MadsLorentzen/ai-job-search
 
 📝 中文简介: 使用 TypeScript 开发。
 📄 英文原文: —
-⭐ 当日新增: +3094
-总 Stars: 38852
+⭐ 当日新增: +3229
+总 Stars: 42611
 语言: TypeScript
 https://github.com/pingdotgg/t3code
 
@@ -315,16 +315,6 @@ https://github.com/cloudflare/security-audit-skill
 https://github.com/vectorize-io/hindsight
 
 
-## paperclipai/paperclip
-
-📝 中文简介: 使用 TypeScript 开发。
-📄 英文原文: The open-source app everyone uses to manage agents at work
-⭐ 当日新增: +2458
-总 Stars: 94737
-语言: TypeScript
-https://github.com/paperclipai/paperclip
-
-
 ## permissionlesstech/bitchat
 
 📝 中文简介: 使用 Swift 开发；主要方向：bluetooth、bluetooth-le、decentralized、e2e-encryption、iOS、macOS、mesh-network、messaging、nostr、Swift。
@@ -343,6 +333,16 @@ https://github.com/permissionlesstech/bitchat
 总 Stars: 89778
 语言: Python
 https://github.com/debpalash/VoiceStudio
+
+
+## vercel-labs/agent-desktop
+
+📝 中文简介: 使用 Rust 开发；主要方向：accessibility、accessibility-api、ai-agents、自动化、命令行工具、computer-use、computer-use-agent、computer-use-agents、desktop-automation、macOS、mcp、Rust。
+📄 英文原文: Computer use CLI for AI agents
+⭐ 当日新增: +2275
+总 Stars: 10914
+语言: Rust
+https://github.com/vercel-labs/agent-desktop
 
 
 ## Nutlope/hallmark
@@ -415,6 +415,16 @@ https://github.com/microsoft/AI-For-Beginners
 https://github.com/cathrynlavery/diagram-design
 
 
+## thedotmack/claude-mem
+
+📝 中文简介: 使用 TypeScript 开发；主要方向：ai、ai-agents、ai-memory、anthropic、人工智能、chromadb、claude、claude-agent-sdk、claude-agents、claude-code、claude-code-plugin、claude-skills、embeddings、long-term-memory、mem0、memory-engine、openmemory、rag、SQLite、supermemory。
+📄 英文原文: Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+⭐ 当日新增: +1803
+总 Stars: 111090
+语言: TypeScript
+https://github.com/thedotmack/claude-mem
+
+
 ## hmjz100/LinkSwift
 
 📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：123pan、aliyun-drive、aliyunpan、aria2、baidu、baidu-netdisk、baidunetdisk、baidupan、baiduyun、guangya-netdisk、motrix、quark-netdisk、tampermonkey、tampermonkey-script、tampermonkey-userscript、tianyi-netdisk、uc-netdisk、userscript、xunlei-netdisk、yidong-netdisk。
@@ -423,14 +433,4 @@ https://github.com/cathrynlavery/diagram-design
 总 Stars: 35509
 语言: JavaScript
 https://github.com/hmjz100/LinkSwift
-
-
-## stablyai/orca
-
-📝 中文简介: 使用 TypeScript 开发；主要方向：ade、agent-ide、ai-agents、自动化、机器人、claude-code、codex、ghostty、grok-bot、hermes-agent、mobile-app、muse、openclaw、opencode、orchestration、pi、运行时、terminal、worktrees、yc-backed。
-📄 英文原文: Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
-⭐ 当日新增: +1541
-总 Stars: 101673
-语言: TypeScript
-https://github.com/stablyai/orca
 
