@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 55885
-Score: 854.8
+⭐ Stars: 56023
+Score: 856.53
 
 ### deepchem/deepchem
 
-⭐ Stars: 7122
-Score: 240.27
+⭐ Stars: 7123
+Score: 240.28
 
 ### rdkit/rdkit
 
-⭐ Stars: 3663
-Score: 91.38
+⭐ Stars: 3666
+Score: 91.51
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2068
-Score: 33.68
+⭐ Stars: 2072
+Score: 33.77
 
 ### DeepGraphLearning/torchdrug
 
@@ -31,8 +31,8 @@ Score: 27.04
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 1004
-Score: 14.69
+⭐ Stars: 1005
+Score: 14.7
 
 ### molecularsets/moses
 
@@ -41,13 +41,13 @@ Score: 24.12
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 892
-Score: 20.87
+⭐ Stars: 894
+Score: 20.94
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
 ⭐ Stars: 878
-Score: 18.13
+Score: 18.18
 
 ### xjtulyc/MedgeClaw
 
@@ -71,8 +71,8 @@ Score: 10.94
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 525
-Score: 8.7
+⭐ Stars: 527
+Score: 8.72
 
 ### oddt/oddt
 
@@ -109,70 +109,70 @@ Score: 6.1
 # 🚀 Star快速增长榜
 
 
-## deepchem/deepchem
-
-今日增长: +5
-当前Stars: 7122
-
-
-## LeonChaoX/qinyan-academic-skills
-
-今日增长: +3
-当前Stars: 1004
-
-
 ## ai4s-research/awesome-ai-for-science
 
-今日增长: +3
-当前Stars: 2068
+今日增长: +4
+当前Stars: 2072
 
 
 ## rdkit/rdkit
 
 今日增长: +3
-当前Stars: 3663
+当前Stars: 3666
 
 
-## jaechang-hits/SciAgent-Skills
+## aurekaresearch/OpenDDE
 
-今日增长: +1
-当前Stars: 385
-
-
-## SimonsTang/feifei-companion
-
-今日增长: +1
-当前Stars: 111
+今日增长: +2
+当前Stars: 527
 
 
-## RadonPy/RadonPy
+## MolecularAI/REINVENT4
 
-今日增长: +1
-当前Stars: 291
+今日增长: +2
+当前Stars: 894
 
 
-## amorehead/awesome-molecular-generation
+## deepchem/deepchem
 
 今日增长: +1
-当前Stars: 348
+当前Stars: 7123
 
 
-## thomas0809/MolScribe
-
-今日增长: +1
-当前Stars: 348
-
-
-## deepforestsci/DeepRetro
+## LeonChaoX/qinyan-academic-skills
 
 今日增长: +1
-当前Stars: 33
+当前Stars: 1005
+
+
+## argonne-lcf/ChemGraph
+
+今日增长: +1
+当前Stars: 170
+
+
+## rdkit/rdkit-js
+
+今日增长: +1
+当前Stars: 257
+
+
+## NVIDIA-BioNeMo/genmol
+
+今日增长: +1
+当前Stars: 214
+
+
+## OdinZhang/SurfGen
+
+今日增长: +1
+当前Stars: 78
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 55885
+当前Stars: 56023
 
 
 ## DeepGraphLearning/torchdrug
@@ -199,12 +199,6 @@ Score: 6.1
 当前Stars: 476
 
 
-## aurekaresearch/OpenDDE
-
-今日增长: +0
-当前Stars: 525
-
-
 ## DSPsleeporg/smiles-transformer
 
 今日增长: +0
@@ -221,6 +215,12 @@ Score: 6.1
 
 今日增长: +0
 当前Stars: 329
+
+
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +0
+当前Stars: 385
 
 
 ## AstraZeneca/awesome-drug-discovery-knowledge-graphs
@@ -285,6 +285,16 @@ https://github.com/boykopovar/AnyPS5
 https://github.com/MadsLorentzen/ai-job-search
 
 
+## vercel-labs/agent-desktop
+
+📝 中文简介: 使用 Rust 开发；主要方向：accessibility、accessibility-api、ai-agents、自动化、命令行工具、computer-use、computer-use-agent、computer-use-agents、desktop-automation、macOS、mcp、Rust。
+📄 英文原文: Computer use CLI for AI agents
+⭐ 当日新增: +3791
+总 Stars: 13461
+语言: Rust
+https://github.com/vercel-labs/agent-desktop
+
+
 ## pingdotgg/t3code
 
 📝 中文简介: 使用 TypeScript 开发。
@@ -333,16 +343,6 @@ https://github.com/permissionlesstech/bitchat
 总 Stars: 89778
 语言: Python
 https://github.com/debpalash/VoiceStudio
-
-
-## vercel-labs/agent-desktop
-
-📝 中文简介: 使用 Rust 开发；主要方向：accessibility、accessibility-api、ai-agents、自动化、命令行工具、computer-use、computer-use-agent、computer-use-agents、desktop-automation、macOS、mcp、Rust。
-📄 英文原文: Computer use CLI for AI agents
-⭐ 当日新增: +2275
-总 Stars: 10914
-语言: Rust
-https://github.com/vercel-labs/agent-desktop
 
 
 ## Nutlope/hallmark
@@ -415,14 +415,14 @@ https://github.com/microsoft/AI-For-Beginners
 https://github.com/cathrynlavery/diagram-design
 
 
-## thedotmack/claude-mem
+## D4Vinci/Scrapling
 
-📝 中文简介: 使用 TypeScript 开发；主要方向：ai、ai-agents、ai-memory、anthropic、人工智能、chromadb、claude、claude-agent-sdk、claude-agents、claude-code、claude-code-plugin、claude-skills、embeddings、long-term-memory、mem0、memory-engine、openmemory、rag、SQLite、supermemory。
-📄 英文原文: Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-⭐ 当日新增: +1803
-总 Stars: 111090
-语言: TypeScript
-https://github.com/thedotmack/claude-mem
+📝 中文简介: 使用 Python 开发；主要方向：ai、ai-scraping、自动化、爬虫、crawling、crawling-python、data、data-extraction、mcp、mcp-server、playwright、Python、scraping、selectors、stealth、web-scraper、web-scraping、web-scraping-python、webscraping、xpath。
+📄 英文原文: 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev
+⭐ 当日新增: +1658
+总 Stars: 95345
+语言: Python
+https://github.com/D4Vinci/Scrapling
 
 
 ## hmjz100/LinkSwift
