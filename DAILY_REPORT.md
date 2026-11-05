@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 56023
-Score: 856.53
+⭐ Stars: 56144
+Score: 858.44
 
 ### deepchem/deepchem
 
-⭐ Stars: 7123
-Score: 240.28
+⭐ Stars: 7124
+Score: 240.34
 
 ### rdkit/rdkit
 
-⭐ Stars: 3666
-Score: 91.51
+⭐ Stars: 3667
+Score: 91.57
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2072
-Score: 33.77
+⭐ Stars: 2074
+Score: 33.89
 
 ### DeepGraphLearning/torchdrug
 
@@ -31,18 +31,18 @@ Score: 27.04
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 1005
-Score: 14.7
+⭐ Stars: 1008
+Score: 14.78
 
 ### molecularsets/moses
 
-⭐ Stars: 997
-Score: 24.12
+⭐ Stars: 996
+Score: 24.11
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 894
-Score: 20.94
+⭐ Stars: 895
+Score: 21.0
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
@@ -51,8 +51,8 @@ Score: 18.18
 
 ### xjtulyc/MedgeClaw
 
-⭐ Stars: 617
-Score: 12.82
+⭐ Stars: 616
+Score: 12.81
 
 ### wengong-jin/icml18-jtnn
 
@@ -61,13 +61,13 @@ Score: 15.39
 
 ### datamol-io/datamol
 
-⭐ Stars: 557
-Score: 8.87
+⭐ Stars: 556
+Score: 8.86
 
 ### chemosim-lab/ProLIF
 
-⭐ Stars: 554
-Score: 10.94
+⭐ Stars: 553
+Score: 10.93
 
 ### aurekaresearch/OpenDDE
 
@@ -76,8 +76,8 @@ Score: 8.72
 
 ### oddt/oddt
 
-⭐ Stars: 476
-Score: 11.16
+⭐ Stars: 475
+Score: 11.15
 
 ### wengong-jin/hgraph2graph
 
@@ -101,78 +101,66 @@ Score: 5.58
 
 ### jaechang-hits/SciAgent-Skills
 
-⭐ Stars: 385
-Score: 6.1
+⭐ Stars: 384
+Score: 6.09
 
 
 
 # 🚀 Star快速增长榜
 
 
-## ai4s-research/awesome-ai-for-science
+## jgassens/ChemDraft
 
 今日增长: +4
-当前Stars: 2072
+当前Stars: 62
 
 
-## rdkit/rdkit
+## LeonChaoX/qinyan-academic-skills
 
 今日增长: +3
-当前Stars: 3666
+当前Stars: 1008
 
 
-## aurekaresearch/OpenDDE
-
-今日增长: +2
-当前Stars: 527
-
-
-## MolecularAI/REINVENT4
+## ai4s-research/awesome-ai-for-science
 
 今日增长: +2
-当前Stars: 894
+当前Stars: 2074
+
+
+## microsoft/retrochimera
+
+今日增长: +2
+当前Stars: 92
 
 
 ## deepchem/deepchem
 
 今日增长: +1
-当前Stars: 7123
+当前Stars: 7124
 
 
-## LeonChaoX/qinyan-academic-skills
-
-今日增长: +1
-当前Stars: 1005
-
-
-## argonne-lcf/ChemGraph
+## MolecularAI/REINVENT4
 
 今日增长: +1
-当前Stars: 170
+当前Stars: 895
 
 
-## rdkit/rdkit-js
+## rdkit/rdkit
 
 今日增长: +1
-当前Stars: 257
+当前Stars: 3667
 
 
 ## NVIDIA-BioNeMo/genmol
 
 今日增长: +1
-当前Stars: 214
-
-
-## OdinZhang/SurfGen
-
-今日增长: +1
-当前Stars: 78
+当前Stars: 215
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 56023
+当前Stars: 56144
 
 
 ## DeepGraphLearning/torchdrug
@@ -187,16 +175,16 @@ Score: 6.1
 当前Stars: 878
 
 
-## xjtulyc/MedgeClaw
-
-今日增长: +0
-当前Stars: 617
-
-
 ## oddt/oddt
 
 今日增长: +0
-当前Stars: 476
+当前Stars: 475
+
+
+## aurekaresearch/OpenDDE
+
+今日增长: +0
+当前Stars: 527
 
 
 ## DSPsleeporg/smiles-transformer
@@ -205,28 +193,40 @@ Score: 6.1
 当前Stars: 359
 
 
-## dengjianyuan/Survey_AI_Drug_Discovery
-
-今日增长: +0
-当前Stars: 340
-
-
 ## DeepWism/DeepWism-miRNA
 
 今日增长: +0
 当前Stars: 329
 
 
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +0
-当前Stars: 385
-
-
 ## AstraZeneca/awesome-drug-discovery-knowledge-graphs
 
 今日增长: +0
 当前Stars: 275
+
+
+## PatWalters/resources_2025
+
+今日增长: +0
+当前Stars: 270
+
+
+## benb111/awesome-small-molecule-ml
+
+今日增长: +0
+当前Stars: 245
+
+
+## mattragoza/LiGAN
+
+今日增长: +0
+当前Stars: 239
+
+
+## Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery
+
+今日增长: +0
+当前Stars: 215
 
 
 
@@ -285,16 +285,6 @@ https://github.com/boykopovar/AnyPS5
 https://github.com/MadsLorentzen/ai-job-search
 
 
-## vercel-labs/agent-desktop
-
-📝 中文简介: 使用 Rust 开发；主要方向：accessibility、accessibility-api、ai-agents、自动化、命令行工具、computer-use、computer-use-agent、computer-use-agents、desktop-automation、macOS、mcp、Rust。
-📄 英文原文: Computer use CLI for AI agents
-⭐ 当日新增: +3791
-总 Stars: 13461
-语言: Rust
-https://github.com/vercel-labs/agent-desktop
-
-
 ## pingdotgg/t3code
 
 📝 中文简介: 使用 TypeScript 开发。
@@ -323,6 +313,16 @@ https://github.com/cloudflare/security-audit-skill
 总 Stars: 43168
 语言: Python
 https://github.com/vectorize-io/hindsight
+
+
+## vercel-labs/agent-desktop
+
+📝 中文简介: 使用 Rust 开发；主要方向：accessibility、accessibility-api、ai-agents、自动化、命令行工具、computer-use、computer-use-agent、computer-use-agents、desktop-automation、macOS、mcp、Rust。
+📄 英文原文: Computer use CLI for AI agents
+⭐ 当日新增: +2470
+总 Stars: 15800
+语言: Rust
+https://github.com/vercel-labs/agent-desktop
 
 
 ## permissionlesstech/bitchat
@@ -365,6 +365,16 @@ https://github.com/Nutlope/hallmark
 https://github.com/ifixai-ai/iFixAi
 
 
+## NVIDIA/auto-ontology
+
+📝 中文简介: 使用 Python 开发。
+📄 英文原文: Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
+⭐ 当日新增: +2050
+总 Stars: 5868
+语言: Python
+https://github.com/NVIDIA/auto-ontology
+
+
 ## microsoft/markitdown
 
 📝 中文简介: 使用 Python 开发；主要方向：autogen、autogen-extension、LangChain、markdown、microsoft-office、openai、pdf。
@@ -373,6 +383,16 @@ https://github.com/ifixai-ai/iFixAi
 总 Stars: 181880
 语言: Python
 https://github.com/microsoft/markitdown
+
+
+## D4Vinci/Scrapling
+
+📝 中文简介: 使用 Python 开发；主要方向：ai、ai-scraping、自动化、爬虫、crawling、crawling-python、data、data-extraction、mcp、mcp-server、playwright、Python、scraping、selectors、stealth、web-scraper、web-scraping、web-scraping-python、webscraping、xpath。
+📄 英文原文: 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev
+⭐ 当日新增: +2005
+总 Stars: 97027
+语言: Python
+https://github.com/D4Vinci/Scrapling
 
 
 ## bilawalsidhu/gods-eye-view
@@ -413,24 +433,4 @@ https://github.com/microsoft/AI-For-Beginners
 总 Stars: 54544
 语言: HTML
 https://github.com/cathrynlavery/diagram-design
-
-
-## D4Vinci/Scrapling
-
-📝 中文简介: 使用 Python 开发；主要方向：ai、ai-scraping、自动化、爬虫、crawling、crawling-python、data、data-extraction、mcp、mcp-server、playwright、Python、scraping、selectors、stealth、web-scraper、web-scraping、web-scraping-python、webscraping、xpath。
-📄 英文原文: 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev
-⭐ 当日新增: +1658
-总 Stars: 95345
-语言: Python
-https://github.com/D4Vinci/Scrapling
-
-
-## hmjz100/LinkSwift
-
-📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：123pan、aliyun-drive、aliyunpan、aria2、baidu、baidu-netdisk、baidunetdisk、baidupan、baiduyun、guangya-netdisk、motrix、quark-netdisk、tampermonkey、tampermonkey-script、tampermonkey-userscript、tianyi-netdisk、uc-netdisk、userscript、xunlei-netdisk、yidong-netdisk。
-📄 英文原文: 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
-⭐ 当日新增: +1616
-总 Stars: 35509
-语言: JavaScript
-https://github.com/hmjz100/LinkSwift
 
