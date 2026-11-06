@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 56144
-Score: 858.44
+⭐ Stars: 56249
+Score: 860.09
 
 ### deepchem/deepchem
 
-⭐ Stars: 7124
-Score: 240.34
+⭐ Stars: 7125
+Score: 240.5
 
 ### rdkit/rdkit
 
-⭐ Stars: 3667
-Score: 91.57
+⭐ Stars: 3670
+Score: 91.7
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2074
-Score: 33.89
+⭐ Stars: 2076
+Score: 33.86
 
 ### DeepGraphLearning/torchdrug
 
@@ -31,18 +31,18 @@ Score: 27.04
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 1008
-Score: 14.78
+⭐ Stars: 1013
+Score: 14.88
 
 ### molecularsets/moses
 
-⭐ Stars: 996
-Score: 24.11
+⭐ Stars: 998
+Score: 24.13
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 895
-Score: 21.0
+⭐ Stars: 896
+Score: 21.01
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
@@ -61,23 +61,23 @@ Score: 15.39
 
 ### datamol-io/datamol
 
-⭐ Stars: 556
-Score: 8.86
+⭐ Stars: 557
+Score: 8.87
 
 ### chemosim-lab/ProLIF
 
-⭐ Stars: 553
-Score: 10.93
+⭐ Stars: 554
+Score: 10.94
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 527
-Score: 8.72
+⭐ Stars: 526
+Score: 8.71
 
 ### oddt/oddt
 
 ⭐ Stars: 475
-Score: 11.15
+Score: 11.1
 
 ### wengong-jin/hgraph2graph
 
@@ -87,7 +87,7 @@ Score: 10.72
 ### kjappelbaum/awesome-chemistry-datasets
 
 ⭐ Stars: 429
-Score: 7.39
+Score: 7.44
 
 ### MinkaiXu/GeoDiff
 
@@ -96,137 +96,137 @@ Score: 8.46
 
 ### maabuu/posebusters
 
-⭐ Stars: 418
-Score: 5.58
+⭐ Stars: 420
+Score: 5.6
 
 ### jaechang-hits/SciAgent-Skills
 
-⭐ Stars: 384
-Score: 6.09
+⭐ Stars: 385
+Score: 6.1
 
 
 
 # 🚀 Star快速增长榜
 
 
-## jgassens/ChemDraft
-
-今日增长: +4
-当前Stars: 62
-
-
 ## LeonChaoX/qinyan-academic-skills
 
+今日增长: +5
+当前Stars: 1013
+
+
+## rdkit/rdkit
+
 今日增长: +3
-当前Stars: 1008
+当前Stars: 3670
 
 
 ## ai4s-research/awesome-ai-for-science
 
 今日增长: +2
-当前Stars: 2074
+当前Stars: 2076
 
 
-## microsoft/retrochimera
+## maabuu/posebusters
 
 今日增长: +2
-当前Stars: 92
+当前Stars: 420
+
+
+## molecularsets/moses
+
+今日增长: +2
+当前Stars: 998
+
+
+## jgassens/ChemDraft
+
+今日增长: +2
+当前Stars: 64
 
 
 ## deepchem/deepchem
 
 今日增长: +1
-当前Stars: 7124
+当前Stars: 7125
+
+
+## dengjianyuan/Survey_AI_Drug_Discovery
+
+今日增长: +1
+当前Stars: 340
+
+
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +1
+当前Stars: 385
+
+
+## NVIDIA/MegaMolBART
+
+今日增长: +1
+当前Stars: 186
 
 
 ## MolecularAI/REINVENT4
 
 今日增长: +1
-当前Stars: 895
+当前Stars: 896
 
 
-## rdkit/rdkit
-
-今日增长: +1
-当前Stars: 3667
-
-
-## NVIDIA-BioNeMo/genmol
+## datamol-io/datamol
 
 今日增长: +1
-当前Stars: 215
+当前Stars: 557
+
+
+## chemosim-lab/ProLIF
+
+今日增长: +1
+当前Stars: 554
+
+
+## Mishima-syk/py4chemoinformatics
+
+今日增长: +1
+当前Stars: 236
+
+
+## kaist-amsg/LocalRetro
+
+今日增长: +1
+当前Stars: 123
+
+
+## otori-bird/retrosynthesis
+
+今日增长: +1
+当前Stars: 79
+
+
+## reymond-group/CASP-and-dataset-performance
+
+今日增长: +1
+当前Stars: 49
+
+
+## connorcoley/rdchiral
+
+今日增长: +1
+当前Stars: 192
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 56144
+当前Stars: 56249
 
 
 ## DeepGraphLearning/torchdrug
 
 今日增长: +0
 当前Stars: 1589
-
-
-## NVIDIA-BioNeMo/bionemo-recipes
-
-今日增长: +0
-当前Stars: 878
-
-
-## oddt/oddt
-
-今日增长: +0
-当前Stars: 475
-
-
-## aurekaresearch/OpenDDE
-
-今日增长: +0
-当前Stars: 527
-
-
-## DSPsleeporg/smiles-transformer
-
-今日增长: +0
-当前Stars: 359
-
-
-## DeepWism/DeepWism-miRNA
-
-今日增长: +0
-当前Stars: 329
-
-
-## AstraZeneca/awesome-drug-discovery-knowledge-graphs
-
-今日增长: +0
-当前Stars: 275
-
-
-## PatWalters/resources_2025
-
-今日增长: +0
-当前Stars: 270
-
-
-## benb111/awesome-small-molecule-ml
-
-今日增长: +0
-当前Stars: 245
-
-
-## mattragoza/LiGAN
-
-今日增长: +0
-当前Stars: 239
-
-
-## Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery
-
-今日增长: +0
-当前Stars: 215
 
 
 
@@ -305,6 +305,16 @@ https://github.com/pingdotgg/t3code
 https://github.com/cloudflare/security-audit-skill
 
 
+## NVIDIA/auto-ontology
+
+📝 中文简介: 使用 Python 开发。
+📄 英文原文: Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
+⭐ 当日新增: +2679
+总 Stars: 7941
+语言: Python
+https://github.com/NVIDIA/auto-ontology
+
+
 ## vectorize-io/hindsight
 
 📝 中文简介: 使用 Python 开发；主要方向：agentic-ai、agents、ai-memory、memory。
@@ -313,16 +323,6 @@ https://github.com/cloudflare/security-audit-skill
 总 Stars: 43168
 语言: Python
 https://github.com/vectorize-io/hindsight
-
-
-## vercel-labs/agent-desktop
-
-📝 中文简介: 使用 Rust 开发；主要方向：accessibility、accessibility-api、ai-agents、自动化、命令行工具、computer-use、computer-use-agent、computer-use-agents、desktop-automation、macOS、mcp、Rust。
-📄 英文原文: Computer use CLI for AI agents
-⭐ 当日新增: +2470
-总 Stars: 15800
-语言: Rust
-https://github.com/vercel-labs/agent-desktop
 
 
 ## permissionlesstech/bitchat
@@ -345,6 +345,16 @@ https://github.com/permissionlesstech/bitchat
 https://github.com/debpalash/VoiceStudio
 
 
+## vercel-labs/agent-desktop
+
+📝 中文简介: 使用 Rust 开发；主要方向：accessibility、accessibility-api、ai-agents、自动化、命令行工具、computer-use、computer-use-agent、computer-use-agents、desktop-automation、macOS、mcp、Rust。
+📄 英文原文: Computer use CLI for AI agents
+⭐ 当日新增: +2173
+总 Stars: 17384
+语言: Rust
+https://github.com/vercel-labs/agent-desktop
+
+
 ## Nutlope/hallmark
 
 📝 中文简介: 使用 CSS 开发。
@@ -365,14 +375,14 @@ https://github.com/Nutlope/hallmark
 https://github.com/ifixai-ai/iFixAi
 
 
-## NVIDIA/auto-ontology
+## mattpocock/skills
 
-📝 中文简介: 使用 Python 开发。
-📄 英文原文: Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
-⭐ 当日新增: +2050
-总 Stars: 5868
-语言: Python
-https://github.com/NVIDIA/auto-ontology
+📝 中文简介: 使用 Shell 脚本 开发。
+📄 英文原文: Skills for Real Engineers. Straight from my .agents directory.
+⭐ 当日新增: +2071
+总 Stars: 315787
+语言: Shell
+https://github.com/mattpocock/skills
 
 
 ## microsoft/markitdown
@@ -383,16 +393,6 @@ https://github.com/NVIDIA/auto-ontology
 总 Stars: 181880
 语言: Python
 https://github.com/microsoft/markitdown
-
-
-## D4Vinci/Scrapling
-
-📝 中文简介: 使用 Python 开发；主要方向：ai、ai-scraping、自动化、爬虫、crawling、crawling-python、data、data-extraction、mcp、mcp-server、playwright、Python、scraping、selectors、stealth、web-scraper、web-scraping、web-scraping-python、webscraping、xpath。
-📄 英文原文: 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev
-⭐ 当日新增: +2005
-总 Stars: 97027
-语言: Python
-https://github.com/D4Vinci/Scrapling
 
 
 ## bilawalsidhu/gods-eye-view
