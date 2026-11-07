@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 56249
-Score: 860.09
+⭐ Stars: 56344
+Score: 861.29
 
 ### deepchem/deepchem
 
-⭐ Stars: 7125
-Score: 240.5
+⭐ Stars: 7127
+Score: 240.67
 
 ### rdkit/rdkit
 
-⭐ Stars: 3670
-Score: 91.7
+⭐ Stars: 3672
+Score: 91.72
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2076
-Score: 33.86
+⭐ Stars: 2079
+Score: 33.99
 
 ### DeepGraphLearning/torchdrug
 
@@ -31,8 +31,8 @@ Score: 27.04
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 1013
-Score: 14.88
+⭐ Stars: 1016
+Score: 14.91
 
 ### molecularsets/moses
 
@@ -41,8 +41,8 @@ Score: 24.13
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 896
-Score: 21.01
+⭐ Stars: 897
+Score: 21.07
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
@@ -51,8 +51,8 @@ Score: 18.18
 
 ### xjtulyc/MedgeClaw
 
-⭐ Stars: 616
-Score: 12.81
+⭐ Stars: 617
+Score: 12.82
 
 ### wengong-jin/icml18-jtnn
 
@@ -67,7 +67,7 @@ Score: 8.87
 ### chemosim-lab/ProLIF
 
 ⭐ Stars: 554
-Score: 10.94
+Score: 10.99
 
 ### aurekaresearch/OpenDDE
 
@@ -76,8 +76,8 @@ Score: 8.71
 
 ### oddt/oddt
 
-⭐ Stars: 475
-Score: 11.1
+⭐ Stars: 476
+Score: 11.11
 
 ### wengong-jin/hgraph2graph
 
@@ -89,15 +89,15 @@ Score: 10.72
 ⭐ Stars: 429
 Score: 7.44
 
+### maabuu/posebusters
+
+⭐ Stars: 421
+Score: 5.61
+
 ### MinkaiXu/GeoDiff
 
 ⭐ Stars: 421
 Score: 8.46
-
-### maabuu/posebusters
-
-⭐ Stars: 420
-Score: 5.6
 
 ### jaechang-hits/SciAgent-Skills
 
@@ -111,122 +111,122 @@ Score: 6.1
 
 ## LeonChaoX/qinyan-academic-skills
 
-今日增长: +5
-当前Stars: 1013
-
-
-## rdkit/rdkit
-
 今日增长: +3
-当前Stars: 3670
+当前Stars: 1016
 
 
 ## ai4s-research/awesome-ai-for-science
 
-今日增长: +2
-当前Stars: 2076
-
-
-## maabuu/posebusters
-
-今日增长: +2
-当前Stars: 420
-
-
-## molecularsets/moses
-
-今日增长: +2
-当前Stars: 998
-
-
-## jgassens/ChemDraft
-
-今日增长: +2
-当前Stars: 64
+今日增长: +3
+当前Stars: 2079
 
 
 ## deepchem/deepchem
 
+今日增长: +2
+当前Stars: 7127
+
+
+## rdkit/rdkit
+
+今日增长: +2
+当前Stars: 3672
+
+
+## microsoft/retrochimera
+
+今日增长: +2
+当前Stars: 94
+
+
+## xjtulyc/MedgeClaw
+
 今日增长: +1
-当前Stars: 7125
-
-
-## dengjianyuan/Survey_AI_Drug_Discovery
-
-今日增长: +1
-当前Stars: 340
-
-
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +1
-当前Stars: 385
-
-
-## NVIDIA/MegaMolBART
-
-今日增长: +1
-当前Stars: 186
+当前Stars: 617
 
 
 ## MolecularAI/REINVENT4
 
 今日增长: +1
-当前Stars: 896
+当前Stars: 897
 
 
-## datamol-io/datamol
-
-今日增长: +1
-当前Stars: 557
-
-
-## chemosim-lab/ProLIF
+## argonne-lcf/ChemGraph
 
 今日增长: +1
-当前Stars: 554
+当前Stars: 171
 
 
-## Mishima-syk/py4chemoinformatics
-
-今日增长: +1
-当前Stars: 236
-
-
-## kaist-amsg/LocalRetro
+## maabuu/posebusters
 
 今日增长: +1
-当前Stars: 123
+当前Stars: 421
 
 
-## otori-bird/retrosynthesis
+## NVIDIA-BioNeMo/genmol
 
 今日增长: +1
-当前Stars: 79
+当前Stars: 215
 
 
 ## reymond-group/CASP-and-dataset-performance
 
 今日增长: +1
-当前Stars: 49
+当前Stars: 50
 
 
-## connorcoley/rdchiral
+## jgassens/ChemDraft
 
 今日增长: +1
-当前Stars: 192
+当前Stars: 65
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 56249
+当前Stars: 56344
 
 
 ## DeepGraphLearning/torchdrug
 
 今日增长: +0
 当前Stars: 1589
+
+
+## NVIDIA-BioNeMo/bionemo-recipes
+
+今日增长: +0
+当前Stars: 878
+
+
+## oddt/oddt
+
+今日增长: +0
+当前Stars: 476
+
+
+## aurekaresearch/OpenDDE
+
+今日增长: +0
+当前Stars: 526
+
+
+## DSPsleeporg/smiles-transformer
+
+今日增长: +0
+当前Stars: 359
+
+
+## dengjianyuan/Survey_AI_Drug_Discovery
+
+今日增长: +0
+当前Stars: 340
+
+
+## DeepWism/DeepWism-miRNA
+
+今日增长: +0
+当前Stars: 329
 
 
 
@@ -295,26 +295,6 @@ https://github.com/MadsLorentzen/ai-job-search
 https://github.com/pingdotgg/t3code
 
 
-## cloudflare/security-audit-skill
-
-📝 中文简介: 使用 JavaScript（前端/全栈） 开发。
-📄 英文原文: A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-⭐ 当日新增: +2878
-总 Stars: 47293
-语言: JavaScript
-https://github.com/cloudflare/security-audit-skill
-
-
-## NVIDIA/auto-ontology
-
-📝 中文简介: 使用 Python 开发。
-📄 英文原文: Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
-⭐ 当日新增: +2679
-总 Stars: 7941
-语言: Python
-https://github.com/NVIDIA/auto-ontology
-
-
 ## vectorize-io/hindsight
 
 📝 中文简介: 使用 Python 开发；主要方向：agentic-ai、agents、ai-memory、memory。
@@ -323,6 +303,16 @@ https://github.com/NVIDIA/auto-ontology
 总 Stars: 43168
 语言: Python
 https://github.com/vectorize-io/hindsight
+
+
+## cloudflare/security-audit-skill
+
+📝 中文简介: 使用 JavaScript（前端/全栈） 开发。
+📄 英文原文: A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+⭐ 当日新增: +2548
+总 Stars: 64448
+语言: JavaScript
+https://github.com/cloudflare/security-audit-skill
 
 
 ## permissionlesstech/bitchat
@@ -379,8 +369,8 @@ https://github.com/ifixai-ai/iFixAi
 
 📝 中文简介: 使用 Shell 脚本 开发。
 📄 英文原文: Skills for Real Engineers. Straight from my .agents directory.
-⭐ 当日新增: +2071
-总 Stars: 315787
+⭐ 当日新增: +2070
+总 Stars: 316942
 语言: Shell
 https://github.com/mattpocock/skills
 
@@ -393,6 +383,16 @@ https://github.com/mattpocock/skills
 总 Stars: 181880
 语言: Python
 https://github.com/microsoft/markitdown
+
+
+## NVIDIA/auto-ontology
+
+📝 中文简介: 使用 Python 开发。
+📄 英文原文: Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
+⭐ 当日新增: +2015
+总 Stars: 9337
+语言: Python
+https://github.com/NVIDIA/auto-ontology
 
 
 ## bilawalsidhu/gods-eye-view
