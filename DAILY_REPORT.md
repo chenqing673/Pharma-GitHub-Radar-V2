@@ -6,33 +6,33 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 56344
-Score: 861.29
+⭐ Stars: 56430
+Score: 862.6
 
 ### deepchem/deepchem
 
-⭐ Stars: 7127
-Score: 240.67
+⭐ Stars: 7131
+Score: 240.96
 
 ### rdkit/rdkit
 
-⭐ Stars: 3672
-Score: 91.72
+⭐ Stars: 3671
+Score: 91.71
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2079
-Score: 33.99
+⭐ Stars: 2080
+Score: 34.0
 
 ### DeepGraphLearning/torchdrug
 
-⭐ Stars: 1589
-Score: 27.04
+⭐ Stars: 1590
+Score: 27.05
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 1016
-Score: 14.91
+⭐ Stars: 1018
+Score: 14.93
 
 ### molecularsets/moses
 
@@ -41,8 +41,8 @@ Score: 24.13
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 897
-Score: 21.07
+⭐ Stars: 899
+Score: 21.09
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
@@ -71,8 +71,8 @@ Score: 10.99
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 526
-Score: 8.71
+⭐ Stars: 527
+Score: 8.72
 
 ### oddt/oddt
 
@@ -101,96 +101,90 @@ Score: 8.46
 
 ### jaechang-hits/SciAgent-Skills
 
-⭐ Stars: 385
-Score: 6.1
+⭐ Stars: 386
+Score: 6.16
 
 
 
 # 🚀 Star快速增长榜
 
 
-## LeonChaoX/qinyan-academic-skills
-
-今日增长: +3
-当前Stars: 1016
-
-
-## ai4s-research/awesome-ai-for-science
-
-今日增长: +3
-当前Stars: 2079
-
-
 ## deepchem/deepchem
 
-今日增长: +2
-当前Stars: 7127
+今日增长: +4
+当前Stars: 7131
 
 
-## rdkit/rdkit
-
-今日增长: +2
-当前Stars: 3672
-
-
-## microsoft/retrochimera
+## LeonChaoX/qinyan-academic-skills
 
 今日增长: +2
-当前Stars: 94
-
-
-## xjtulyc/MedgeClaw
-
-今日增长: +1
-当前Stars: 617
+当前Stars: 1018
 
 
 ## MolecularAI/REINVENT4
 
-今日增长: +1
-当前Stars: 897
+今日增长: +2
+当前Stars: 899
 
 
-## argonne-lcf/ChemGraph
-
-今日增长: +1
-当前Stars: 171
-
-
-## maabuu/posebusters
+## DeepGraphLearning/torchdrug
 
 今日增长: +1
-当前Stars: 421
+当前Stars: 1590
 
 
-## NVIDIA-BioNeMo/genmol
-
-今日增长: +1
-当前Stars: 215
-
-
-## reymond-group/CASP-and-dataset-performance
+## aurekaresearch/OpenDDE
 
 今日增长: +1
-当前Stars: 50
+当前Stars: 527
+
+
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +1
+当前Stars: 386
+
+
+## ai4s-research/awesome-ai-for-science
+
+今日增长: +1
+当前Stars: 2080
+
+
+## SimonsTang/feifei-companion
+
+今日增长: +1
+当前Stars: 112
+
+
+## igashov/RetroBridge
+
+今日增长: +1
+当前Stars: 37
+
+
+## Tyche-MKR/scientific-agent-skills
+
+今日增长: +1
+当前Stars: 85
+
+
+## microsoft/retrochimera
+
+今日增长: +1
+当前Stars: 95
 
 
 ## jgassens/ChemDraft
 
 今日增长: +1
-当前Stars: 65
+当前Stars: 66
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 56344
-
-
-## DeepGraphLearning/torchdrug
-
-今日增长: +0
-当前Stars: 1589
+当前Stars: 56430
 
 
 ## NVIDIA-BioNeMo/bionemo-recipes
@@ -199,16 +193,16 @@ Score: 6.1
 当前Stars: 878
 
 
+## xjtulyc/MedgeClaw
+
+今日增长: +0
+当前Stars: 617
+
+
 ## oddt/oddt
 
 今日增长: +0
 当前Stars: 476
-
-
-## aurekaresearch/OpenDDE
-
-今日增长: +0
-当前Stars: 526
 
 
 ## DSPsleeporg/smiles-transformer
@@ -227,6 +221,12 @@ Score: 6.1
 
 今日增长: +0
 当前Stars: 329
+
+
+## AstraZeneca/awesome-drug-discovery-knowledge-graphs
+
+今日增长: +0
+当前Stars: 275
 
 
 
@@ -305,16 +305,6 @@ https://github.com/pingdotgg/t3code
 https://github.com/vectorize-io/hindsight
 
 
-## cloudflare/security-audit-skill
-
-📝 中文简介: 使用 JavaScript（前端/全栈） 开发。
-📄 英文原文: A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-⭐ 当日新增: +2548
-总 Stars: 64448
-语言: JavaScript
-https://github.com/cloudflare/security-audit-skill
-
-
 ## permissionlesstech/bitchat
 
 📝 中文简介: 使用 Swift 开发；主要方向：bluetooth、bluetooth-le、decentralized、e2e-encryption、iOS、macOS、mesh-network、messaging、nostr、Swift。
@@ -365,14 +355,14 @@ https://github.com/Nutlope/hallmark
 https://github.com/ifixai-ai/iFixAi
 
 
-## mattpocock/skills
+## cloudflare/security-audit-skill
 
-📝 中文简介: 使用 Shell 脚本 开发。
-📄 英文原文: Skills for Real Engineers. Straight from my .agents directory.
-⭐ 当日新增: +2070
-总 Stars: 316942
-语言: Shell
-https://github.com/mattpocock/skills
+📝 中文简介: 使用 JavaScript（前端/全栈） 开发。
+📄 英文原文: A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+⭐ 当日新增: +2085
+总 Stars: 66056
+语言: JavaScript
+https://github.com/cloudflare/security-audit-skill
 
 
 ## microsoft/markitdown
@@ -403,6 +393,16 @@ https://github.com/NVIDIA/auto-ontology
 总 Stars: 55769
 语言: JavaScript
 https://github.com/bilawalsidhu/gods-eye-view
+
+
+## milind-soni/OpenMausBot
+
+📝 中文简介: 使用 TypeScript 开发；主要方向：ai-agents、claude-code、codex、computer-use、Docker、electron、expo、grok、grok-bot、grok-bot-alternative、自托管、TypeScript。
+📄 英文原文: Open-source Grok Bot alternative with a virtual machine that bots can use
+⭐ 当日新增: +1955
+总 Stars: 17329
+语言: TypeScript
+https://github.com/milind-soni/OpenMausBot
 
 
 ## DietrichGebert/ponytail
