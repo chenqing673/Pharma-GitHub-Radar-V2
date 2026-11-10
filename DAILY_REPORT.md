@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 56533
-Score: 863.88
+⭐ Stars: 56644
+Score: 865.04
 
 ### deepchem/deepchem
 
-⭐ Stars: 7133
-Score: 241.08
+⭐ Stars: 7135
+Score: 241.15
 
 ### rdkit/rdkit
 
-⭐ Stars: 3675
-Score: 91.85
+⭐ Stars: 3677
+Score: 91.87
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2081
-Score: 34.01
+⭐ Stars: 2085
+Score: 34.1
 
 ### DeepGraphLearning/torchdrug
 
@@ -31,8 +31,8 @@ Score: 27.05
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 1025
-Score: 15.0
+⭐ Stars: 1028
+Score: 15.03
 
 ### molecularsets/moses
 
@@ -41,8 +41,8 @@ Score: 24.13
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 900
-Score: 21.1
+⭐ Stars: 902
+Score: 21.12
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
@@ -51,8 +51,8 @@ Score: 18.18
 
 ### xjtulyc/MedgeClaw
 
-⭐ Stars: 618
-Score: 12.83
+⭐ Stars: 619
+Score: 12.84
 
 ### wengong-jin/icml18-jtnn
 
@@ -61,8 +61,8 @@ Score: 15.39
 
 ### datamol-io/datamol
 
-⭐ Stars: 557
-Score: 8.87
+⭐ Stars: 558
+Score: 8.88
 
 ### chemosim-lab/ProLIF
 
@@ -76,8 +76,8 @@ Score: 8.72
 
 ### oddt/oddt
 
-⭐ Stars: 476
-Score: 11.11
+⭐ Stars: 477
+Score: 11.12
 
 ### wengong-jin/hgraph2graph
 
@@ -101,60 +101,108 @@ Score: 8.46
 
 ### jaechang-hits/SciAgent-Skills
 
-⭐ Stars: 386
-Score: 6.16
+⭐ Stars: 387
+Score: 6.17
 
 
 
 # 🚀 Star快速增长榜
 
 
-## LeonChaoX/qinyan-academic-skills
+## NVIDIA/nvalchemi-toolkit
 
-今日增长: +7
-当前Stars: 1025
+今日增长: +10
+当前Stars: 214
 
 
-## rdkit/rdkit
+## ai4s-research/awesome-ai-for-science
 
 今日增长: +4
-当前Stars: 3675
+当前Stars: 2085
+
+
+## LeonChaoX/qinyan-academic-skills
+
+今日增长: +3
+当前Stars: 1028
 
 
 ## deepchem/deepchem
 
 今日增长: +2
-当前Stars: 7133
+当前Stars: 7135
+
+
+## DSPsleeporg/smiles-transformer
+
+今日增长: +2
+当前Stars: 361
+
+
+## MolecularAI/REINVENT4
+
+今日增长: +2
+当前Stars: 902
+
+
+## rdkit/rdkit
+
+今日增长: +2
+当前Stars: 3677
 
 
 ## xjtulyc/MedgeClaw
 
 今日增长: +1
-当前Stars: 618
+当前Stars: 619
 
 
-## ai4s-research/awesome-ai-for-science
-
-今日增长: +1
-当前Stars: 2081
-
-
-## MolecularAI/REINVENT4
+## jaechang-hits/SciAgent-Skills
 
 今日增长: +1
-当前Stars: 900
+当前Stars: 387
+
+
+## argonne-lcf/ChemGraph
+
+今日增长: +1
+当前Stars: 172
 
 
 ## SimonsTang/feifei-companion
 
 今日增长: +1
-当前Stars: 113
+当前Stars: 114
+
+
+## datamol-io/datamol
+
+今日增长: +1
+当前Stars: 558
+
+
+## PatWalters/useful_rdkit_utils
+
+今日增长: +1
+当前Stars: 244
+
+
+## NVIDIA-BioNeMo/nvMolKit
+
+今日增长: +1
+当前Stars: 283
+
+
+## jgassens/ChemDraft
+
+今日增长: +1
+当前Stars: 66
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 56533
+当前Stars: 56644
 
 
 ## DeepGraphLearning/torchdrug
@@ -172,61 +220,13 @@ Score: 6.16
 ## oddt/oddt
 
 今日增长: +0
-当前Stars: 476
+当前Stars: 477
 
 
 ## aurekaresearch/OpenDDE
 
 今日增长: +0
 当前Stars: 527
-
-
-## DSPsleeporg/smiles-transformer
-
-今日增长: +0
-当前Stars: 359
-
-
-## dengjianyuan/Survey_AI_Drug_Discovery
-
-今日增长: +0
-当前Stars: 340
-
-
-## DeepWism/DeepWism-miRNA
-
-今日增长: +0
-当前Stars: 329
-
-
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +0
-当前Stars: 386
-
-
-## AstraZeneca/awesome-drug-discovery-knowledge-graphs
-
-今日增长: +0
-当前Stars: 275
-
-
-## PatWalters/resources_2025
-
-今日增长: +0
-当前Stars: 270
-
-
-## benb111/awesome-small-molecule-ml
-
-今日增长: +0
-当前Stars: 245
-
-
-## mattragoza/LiGAN
-
-今日增长: +0
-当前Stars: 239
 
 
 
@@ -243,6 +243,16 @@ Score: 6.16
 总 Stars: 275922
 语言: TypeScript
 https://github.com/morluto/rea
+
+
+## sherlock-project/sherlock
+
+📝 中文简介: 使用 Python 开发；主要方向：命令行工具、cti、cybersecurity、forensics、hacktoberfest、information-gathering、infosec、Linux、osint、pentesting、Python、python3、reconnaissance、redteam、sherlock、tools。
+📄 英文原文: Hunt down social media accounts by username across social networks
+⭐ 当日新增: +4267
+总 Stars: 107852
+语言: Python
+https://github.com/sherlock-project/sherlock
 
 
 ## storytold/artcraft
@@ -283,6 +293,16 @@ https://github.com/boykopovar/AnyPS5
 总 Stars: 61233
 语言: Python
 https://github.com/MadsLorentzen/ai-job-search
+
+
+## meta/astryx
+
+📝 中文简介: 使用 TypeScript 开发。
+📄 英文原文: An open source design system that's fully customizable and agent ready
+⭐ 当日新增: +3278
+总 Stars: 20982
+语言: TypeScript
+https://github.com/meta/astryx
 
 
 ## pingdotgg/t3code
@@ -395,16 +415,6 @@ https://github.com/NVIDIA/auto-ontology
 https://github.com/bilawalsidhu/gods-eye-view
 
 
-## milind-soni/OpenMausBot
-
-📝 中文简介: 使用 TypeScript 开发；主要方向：ai-agents、claude-code、codex、computer-use、Docker、electron、expo、grok、grok-bot、grok-bot-alternative、自托管、TypeScript。
-📄 英文原文: Open-source Grok Bot alternative with a virtual machine that bots can use
-⭐ 当日新增: +1955
-总 Stars: 17329
-语言: TypeScript
-https://github.com/milind-soni/OpenMausBot
-
-
 ## DietrichGebert/ponytail
 
 📝 中文简介: 使用 JavaScript（前端/全栈） 开发；主要方向：agent-skills、ai-agents、claude、claude-code、claude-code-plugin、cursor-rules、developer-tools、大语言模型、prompt-engineering、yagni。
@@ -423,14 +433,4 @@ https://github.com/DietrichGebert/ponytail
 总 Stars: 60990
 语言: Jupyter Notebook
 https://github.com/microsoft/AI-For-Beginners
-
-
-## cathrynlavery/diagram-design
-
-📝 中文简介: 使用 HTML 开发；主要方向：agent-skills、claude-code、codex、data-visualization、diagrams、drawio、mermaid、svg。
-📄 英文原文: Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
-⭐ 当日新增: +1815
-总 Stars: 54544
-语言: HTML
-https://github.com/cathrynlavery/diagram-design
 
