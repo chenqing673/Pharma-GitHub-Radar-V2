@@ -6,43 +6,43 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 56644
-Score: 865.04
+⭐ Stars: 56771
+Score: 866.91
 
 ### deepchem/deepchem
 
-⭐ Stars: 7135
-Score: 241.15
+⭐ Stars: 7140
+Score: 241.3
 
 ### rdkit/rdkit
 
-⭐ Stars: 3677
-Score: 91.87
+⭐ Stars: 3682
+Score: 92.02
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2085
-Score: 34.1
+⭐ Stars: 2086
+Score: 34.16
 
 ### DeepGraphLearning/torchdrug
 
-⭐ Stars: 1590
-Score: 27.05
+⭐ Stars: 1591
+Score: 27.06
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 1028
-Score: 15.03
+⭐ Stars: 1033
+Score: 15.08
 
 ### molecularsets/moses
 
 ⭐ Stars: 998
-Score: 24.13
+Score: 24.18
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 902
-Score: 21.12
+⭐ Stars: 904
+Score: 21.14
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
@@ -61,18 +61,18 @@ Score: 15.39
 
 ### datamol-io/datamol
 
-⭐ Stars: 558
-Score: 8.88
+⭐ Stars: 559
+Score: 8.89
 
 ### chemosim-lab/ProLIF
 
-⭐ Stars: 554
-Score: 10.99
+⭐ Stars: 555
+Score: 11.0
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 527
-Score: 8.72
+⭐ Stars: 528
+Score: 8.73
 
 ### oddt/oddt
 
@@ -111,104 +111,68 @@ Score: 6.17
 
 ## NVIDIA/nvalchemi-toolkit
 
-今日增长: +10
-当前Stars: 214
-
-
-## ai4s-research/awesome-ai-for-science
-
-今日增长: +4
-当前Stars: 2085
-
-
-## LeonChaoX/qinyan-academic-skills
-
-今日增长: +3
-当前Stars: 1028
+今日增长: +15
+当前Stars: 229
 
 
 ## deepchem/deepchem
 
-今日增长: +2
-当前Stars: 7135
+今日增长: +5
+当前Stars: 7140
 
 
-## DSPsleeporg/smiles-transformer
+## LeonChaoX/qinyan-academic-skills
 
-今日增长: +2
-当前Stars: 361
+今日增长: +5
+当前Stars: 1033
+
+
+## rdkit/rdkit
+
+今日增长: +5
+当前Stars: 3682
 
 
 ## MolecularAI/REINVENT4
 
 今日增长: +2
-当前Stars: 902
+当前Stars: 904
 
 
-## rdkit/rdkit
-
-今日增长: +2
-当前Stars: 3677
-
-
-## xjtulyc/MedgeClaw
+## DeepGraphLearning/torchdrug
 
 今日增长: +1
-当前Stars: 619
+当前Stars: 1591
 
 
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +1
-当前Stars: 387
-
-
-## argonne-lcf/ChemGraph
+## aurekaresearch/OpenDDE
 
 今日增长: +1
-当前Stars: 172
+当前Stars: 528
 
 
-## SimonsTang/feifei-companion
+## ai4s-research/awesome-ai-for-science
 
 今日增长: +1
-当前Stars: 114
+当前Stars: 2086
 
 
 ## datamol-io/datamol
 
 今日增长: +1
-当前Stars: 558
+当前Stars: 559
 
 
-## PatWalters/useful_rdkit_utils
-
-今日增长: +1
-当前Stars: 244
-
-
-## NVIDIA-BioNeMo/nvMolKit
+## chemosim-lab/ProLIF
 
 今日增长: +1
-当前Stars: 283
-
-
-## jgassens/ChemDraft
-
-今日增长: +1
-当前Stars: 66
+当前Stars: 555
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 56644
-
-
-## DeepGraphLearning/torchdrug
-
-今日增长: +0
-当前Stars: 1590
+当前Stars: 56771
 
 
 ## NVIDIA-BioNeMo/bionemo-recipes
@@ -217,16 +181,52 @@ Score: 6.17
 当前Stars: 878
 
 
+## xjtulyc/MedgeClaw
+
+今日增长: +0
+当前Stars: 619
+
+
 ## oddt/oddt
 
 今日增长: +0
 当前Stars: 477
 
 
-## aurekaresearch/OpenDDE
+## DSPsleeporg/smiles-transformer
 
 今日增长: +0
-当前Stars: 527
+当前Stars: 361
+
+
+## dengjianyuan/Survey_AI_Drug_Discovery
+
+今日增长: +0
+当前Stars: 340
+
+
+## DeepWism/DeepWism-miRNA
+
+今日增长: +0
+当前Stars: 329
+
+
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +0
+当前Stars: 387
+
+
+## AstraZeneca/awesome-drug-discovery-knowledge-graphs
+
+今日增长: +0
+当前Stars: 275
+
+
+## PatWalters/resources_2025
+
+今日增长: +0
+当前Stars: 270
 
 
 
@@ -243,16 +243,6 @@ Score: 6.17
 总 Stars: 275922
 语言: TypeScript
 https://github.com/morluto/rea
-
-
-## sherlock-project/sherlock
-
-📝 中文简介: 使用 Python 开发；主要方向：命令行工具、cti、cybersecurity、forensics、hacktoberfest、information-gathering、infosec、Linux、osint、pentesting、Python、python3、reconnaissance、redteam、sherlock、tools。
-📄 英文原文: Hunt down social media accounts by username across social networks
-⭐ 当日新增: +4267
-总 Stars: 107852
-语言: Python
-https://github.com/sherlock-project/sherlock
 
 
 ## storytold/artcraft
@@ -295,16 +285,6 @@ https://github.com/boykopovar/AnyPS5
 https://github.com/MadsLorentzen/ai-job-search
 
 
-## meta/astryx
-
-📝 中文简介: 使用 TypeScript 开发。
-📄 英文原文: An open source design system that's fully customizable and agent ready
-⭐ 当日新增: +3278
-总 Stars: 20982
-语言: TypeScript
-https://github.com/meta/astryx
-
-
 ## pingdotgg/t3code
 
 📝 中文简介: 使用 TypeScript 开发。
@@ -315,6 +295,16 @@ https://github.com/meta/astryx
 https://github.com/pingdotgg/t3code
 
 
+## meta/astryx
+
+📝 中文简介: 使用 TypeScript 开发。
+📄 英文原文: An open source design system that's fully customizable and agent ready
+⭐ 当日新增: +3108
+总 Stars: 23686
+语言: TypeScript
+https://github.com/meta/astryx
+
+
 ## vectorize-io/hindsight
 
 📝 中文简介: 使用 Python 开发；主要方向：agentic-ai、agents、ai-memory、memory。
@@ -323,6 +313,16 @@ https://github.com/pingdotgg/t3code
 总 Stars: 43168
 语言: Python
 https://github.com/vectorize-io/hindsight
+
+
+## sherlock-project/sherlock
+
+📝 中文简介: 使用 Python 开发；主要方向：命令行工具、cti、cybersecurity、forensics、hacktoberfest、information-gathering、infosec、Linux、osint、pentesting、Python、python3、reconnaissance、redteam、sherlock、tools。
+📄 英文原文: Hunt down social media accounts by username across social networks
+⭐ 当日新增: +2393
+总 Stars: 109457
+语言: Python
+https://github.com/sherlock-project/sherlock
 
 
 ## permissionlesstech/bitchat
