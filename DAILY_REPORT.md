@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 56771
-Score: 866.91
+⭐ Stars: 56882
+Score: 868.42
 
 ### deepchem/deepchem
 
-⭐ Stars: 7140
-Score: 241.3
+⭐ Stars: 7145
+Score: 241.45
 
 ### rdkit/rdkit
 
-⭐ Stars: 3682
-Score: 92.02
+⭐ Stars: 3685
+Score: 92.0
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2086
-Score: 34.16
+⭐ Stars: 2089
+Score: 34.09
 
 ### DeepGraphLearning/torchdrug
 
@@ -31,8 +31,8 @@ Score: 27.06
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 1033
-Score: 15.08
+⭐ Stars: 1034
+Score: 15.14
 
 ### molecularsets/moses
 
@@ -71,8 +71,8 @@ Score: 11.0
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 528
-Score: 8.73
+⭐ Stars: 529
+Score: 8.74
 
 ### oddt/oddt
 
@@ -89,15 +89,15 @@ Score: 10.72
 ⭐ Stars: 429
 Score: 7.44
 
+### MinkaiXu/GeoDiff
+
+⭐ Stars: 422
+Score: 8.47
+
 ### maabuu/posebusters
 
 ⭐ Stars: 421
 Score: 5.61
-
-### MinkaiXu/GeoDiff
-
-⭐ Stars: 421
-Score: 8.46
 
 ### jaechang-hits/SciAgent-Skills
 
@@ -109,70 +109,88 @@ Score: 6.17
 # 🚀 Star快速增长榜
 
 
-## NVIDIA/nvalchemi-toolkit
-
-今日增长: +15
-当前Stars: 229
-
-
 ## deepchem/deepchem
 
 今日增长: +5
-当前Stars: 7140
+当前Stars: 7145
 
 
-## LeonChaoX/qinyan-academic-skills
+## NVIDIA/nvalchemi-toolkit
 
-今日增长: +5
-当前Stars: 1033
+今日增长: +4
+当前Stars: 233
+
+
+## ai4s-research/awesome-ai-for-science
+
+今日增长: +3
+当前Stars: 2089
 
 
 ## rdkit/rdkit
 
-今日增长: +5
-当前Stars: 3682
+今日增长: +3
+当前Stars: 3685
 
 
-## MolecularAI/REINVENT4
-
-今日增长: +2
-当前Stars: 904
-
-
-## DeepGraphLearning/torchdrug
+## LeonChaoX/qinyan-academic-skills
 
 今日增长: +1
-当前Stars: 1591
+当前Stars: 1034
 
 
 ## aurekaresearch/OpenDDE
 
 今日增长: +1
-当前Stars: 528
+当前Stars: 529
 
 
-## ai4s-research/awesome-ai-for-science
-
-今日增长: +1
-当前Stars: 2086
-
-
-## datamol-io/datamol
+## dockstring/dockstring
 
 今日增长: +1
-当前Stars: 559
+当前Stars: 191
 
 
-## chemosim-lab/ProLIF
+## SimonsTang/feifei-companion
 
 今日增长: +1
-当前Stars: 555
+当前Stars: 115
+
+
+## RadonPy/RadonPy
+
+今日增长: +1
+当前Stars: 292
+
+
+## MinkaiXu/GeoDiff
+
+今日增长: +1
+当前Stars: 422
+
+
+## microsoft/retrochimera
+
+今日增长: +1
+当前Stars: 96
+
+
+## jgassens/ChemDraft
+
+今日增长: +1
+当前Stars: 67
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 56771
+当前Stars: 56882
+
+
+## DeepGraphLearning/torchdrug
+
+今日增长: +0
+当前Stars: 1591
 
 
 ## NVIDIA-BioNeMo/bionemo-recipes
@@ -209,24 +227,6 @@ Score: 6.17
 
 今日增长: +0
 当前Stars: 329
-
-
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +0
-当前Stars: 387
-
-
-## AstraZeneca/awesome-drug-discovery-knowledge-graphs
-
-今日增长: +0
-当前Stars: 275
-
-
-## PatWalters/resources_2025
-
-今日增长: +0
-当前Stars: 270
 
 
 
@@ -299,8 +299,8 @@ https://github.com/pingdotgg/t3code
 
 📝 中文简介: 使用 TypeScript 开发。
 📄 英文原文: An open source design system that's fully customizable and agent ready
-⭐ 当日新增: +3108
-总 Stars: 23686
+⭐ 当日新增: +2776
+总 Stars: 25609
 语言: TypeScript
 https://github.com/meta/astryx
 
