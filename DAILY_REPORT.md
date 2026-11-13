@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 56882
-Score: 868.42
+⭐ Stars: 57006
+Score: 870.26
 
 ### deepchem/deepchem
 
-⭐ Stars: 7145
-Score: 241.45
+⭐ Stars: 7146
+Score: 241.56
 
 ### rdkit/rdkit
 
-⭐ Stars: 3685
-Score: 92.0
+⭐ Stars: 3686
+Score: 92.06
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2089
-Score: 34.09
+⭐ Stars: 2092
+Score: 34.17
 
 ### DeepGraphLearning/torchdrug
 
@@ -31,8 +31,8 @@ Score: 27.06
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 1034
-Score: 15.14
+⭐ Stars: 1039
+Score: 15.19
 
 ### molecularsets/moses
 
@@ -46,8 +46,8 @@ Score: 21.14
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
-⭐ Stars: 878
-Score: 18.18
+⭐ Stars: 877
+Score: 18.12
 
 ### xjtulyc/MedgeClaw
 
@@ -61,8 +61,8 @@ Score: 15.39
 
 ### datamol-io/datamol
 
-⭐ Stars: 559
-Score: 8.89
+⭐ Stars: 560
+Score: 8.9
 
 ### chemosim-lab/ProLIF
 
@@ -71,13 +71,13 @@ Score: 11.0
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 529
-Score: 8.74
+⭐ Stars: 530
+Score: 8.75
 
 ### oddt/oddt
 
-⭐ Stars: 477
-Score: 11.12
+⭐ Stars: 478
+Score: 11.18
 
 ### wengong-jin/hgraph2graph
 
@@ -101,132 +101,132 @@ Score: 5.61
 
 ### jaechang-hits/SciAgent-Skills
 
-⭐ Stars: 387
-Score: 6.17
+⭐ Stars: 388
+Score: 6.18
 
 
 
 # 🚀 Star快速增长榜
 
 
-## deepchem/deepchem
+## LeonChaoX/qinyan-academic-skills
 
 今日增长: +5
-当前Stars: 7145
+当前Stars: 1039
 
 
 ## NVIDIA/nvalchemi-toolkit
 
-今日增长: +4
-当前Stars: 233
+今日增长: +5
+当前Stars: 238
 
 
 ## ai4s-research/awesome-ai-for-science
 
 今日增长: +3
-当前Stars: 2089
+当前Stars: 2092
 
 
-## rdkit/rdkit
-
-今日增长: +3
-当前Stars: 3685
-
-
-## LeonChaoX/qinyan-academic-skills
+## deepchem/deepchem
 
 今日增长: +1
-当前Stars: 1034
+当前Stars: 7146
 
 
 ## aurekaresearch/OpenDDE
 
 今日增长: +1
-当前Stars: 529
+当前Stars: 530
+
+
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +1
+当前Stars: 388
 
 
 ## dockstring/dockstring
 
 今日增长: +1
-当前Stars: 191
+当前Stars: 192
 
 
-## SimonsTang/feifei-companion
-
-今日增长: +1
-当前Stars: 115
-
-
-## RadonPy/RadonPy
+## schwallergroup/ai4chem_course
 
 今日增长: +1
-当前Stars: 292
+当前Stars: 297
 
 
-## MinkaiXu/GeoDiff
+## rdkit/rdkit
 
 今日增长: +1
-当前Stars: 422
+当前Stars: 3686
+
+
+## datamol-io/datamol
+
+今日增长: +1
+当前Stars: 560
+
+
+## AngelRuizMoreno/Jupyter_Dock
+
+今日增长: +1
+当前Stars: 289
+
+
+## wjm41/molplotly
+
+今日增长: +1
+当前Stars: 266
+
+
+## cbouy/mols2grid
+
+今日增长: +1
+当前Stars: 258
+
+
+## hesther/espsim
+
+今日增长: +1
+当前Stars: 237
+
+
+## basf/MolPipeline
+
+今日增长: +1
+当前Stars: 230
+
+
+## NVIDIA-BioNeMo/nvMolKit
+
+今日增长: +1
+当前Stars: 284
+
+
+## NVIDIA-BioNeMo/genmol
+
+今日增长: +1
+当前Stars: 216
+
+
+## Laboratoire-de-Chemoinformatique/SynPlanner
+
+今日增长: +1
+当前Stars: 61
+
+
+## Tyche-MKR/scientific-agent-skills
+
+今日增长: +1
+当前Stars: 86
 
 
 ## microsoft/retrochimera
 
 今日增长: +1
-当前Stars: 96
-
-
-## jgassens/ChemDraft
-
-今日增长: +1
-当前Stars: 67
-
-
-## K-Dense-AI/scientific-agent-skills
-
-今日增长: +0
-当前Stars: 56882
-
-
-## DeepGraphLearning/torchdrug
-
-今日增长: +0
-当前Stars: 1591
-
-
-## NVIDIA-BioNeMo/bionemo-recipes
-
-今日增长: +0
-当前Stars: 878
-
-
-## xjtulyc/MedgeClaw
-
-今日增长: +0
-当前Stars: 619
-
-
-## oddt/oddt
-
-今日增长: +0
-当前Stars: 477
-
-
-## DSPsleeporg/smiles-transformer
-
-今日增长: +0
-当前Stars: 361
-
-
-## dengjianyuan/Survey_AI_Drug_Discovery
-
-今日增长: +0
-当前Stars: 340
-
-
-## DeepWism/DeepWism-miRNA
-
-今日增长: +0
-当前Stars: 329
+当前Stars: 97
 
 
 
@@ -293,16 +293,6 @@ https://github.com/MadsLorentzen/ai-job-search
 总 Stars: 42611
 语言: TypeScript
 https://github.com/pingdotgg/t3code
-
-
-## meta/astryx
-
-📝 中文简介: 使用 TypeScript 开发。
-📄 英文原文: An open source design system that's fully customizable and agent ready
-⭐ 当日新增: +2776
-总 Stars: 25609
-语言: TypeScript
-https://github.com/meta/astryx
 
 
 ## vectorize-io/hindsight
@@ -433,4 +423,14 @@ https://github.com/DietrichGebert/ponytail
 总 Stars: 60990
 语言: Jupyter Notebook
 https://github.com/microsoft/AI-For-Beginners
+
+
+## meta/astryx
+
+📝 中文简介: 使用 TypeScript 开发。
+📄 英文原文: An open source design system that's fully customizable and agent ready
+⭐ 当日新增: +1830
+总 Stars: 26918
+语言: TypeScript
+https://github.com/meta/astryx
 
