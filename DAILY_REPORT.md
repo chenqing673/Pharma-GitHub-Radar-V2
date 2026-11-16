@@ -6,13 +6,13 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 57250
-Score: 873.85
+⭐ Stars: 57367
+Score: 875.82
 
 ### deepchem/deepchem
 
-⭐ Stars: 7146
-Score: 241.71
+⭐ Stars: 7147
+Score: 241.67
 
 ### rdkit/rdkit
 
@@ -21,18 +21,18 @@ Score: 92.13
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2093
-Score: 34.38
+⭐ Stars: 2096
+Score: 34.56
 
 ### DeepGraphLearning/torchdrug
 
-⭐ Stars: 1591
-Score: 27.06
+⭐ Stars: 1590
+Score: 27.05
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 1041
-Score: 15.21
+⭐ Stars: 1043
+Score: 15.23
 
 ### molecularsets/moses
 
@@ -41,13 +41,13 @@ Score: 24.24
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 904
-Score: 21.24
+⭐ Stars: 905
+Score: 21.25
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
 ⭐ Stars: 877
-Score: 18.12
+Score: 18.17
 
 ### xjtulyc/MedgeClaw
 
@@ -89,15 +89,15 @@ Score: 10.72
 ⭐ Stars: 429
 Score: 7.44
 
+### maabuu/posebusters
+
+⭐ Stars: 422
+Score: 5.62
+
 ### MinkaiXu/GeoDiff
 
 ⭐ Stars: 422
 Score: 8.47
-
-### maabuu/posebusters
-
-⭐ Stars: 421
-Score: 5.61
 
 ### jaechang-hits/SciAgent-Skills
 
@@ -109,70 +109,70 @@ Score: 6.25
 # 🚀 Star快速增长榜
 
 
+## ai4s-research/awesome-ai-for-science
+
+今日增长: +3
+当前Stars: 2096
+
+
 ## LeonChaoX/qinyan-academic-skills
 
 今日增长: +2
-当前Stars: 1041
+当前Stars: 1043
 
 
-## jgassens/ChemDraft
-
-今日增长: +2
-当前Stars: 69
-
-
-## aurekaresearch/OpenDDE
+## deepchem/deepchem
 
 今日增长: +1
-当前Stars: 533
+当前Stars: 7147
 
 
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +1
-当前Stars: 390
-
-
-## rdkit/rdkit
+## MolecularAI/REINVENT4
 
 今日增长: +1
-当前Stars: 3688
+当前Stars: 905
 
 
-## chemosim-lab/ProLIF
-
-今日增长: +1
-当前Stars: 556
-
-
-## AngelRuizMoreno/Jupyter_Dock
+## dralgroup/mlatom
 
 今日增长: +1
-当前Stars: 291
+当前Stars: 169
 
 
-## molecularsets/moses
+## argonne-lcf/ChemGraph
 
 今日增长: +1
-当前Stars: 999
+当前Stars: 173
+
+
+## NVIDIA/nvalchemi-toolkit
+
+今日增长: +1
+当前Stars: 241
+
+
+## maabuu/posebusters
+
+今日增长: +1
+当前Stars: 422
+
+
+## NVIDIA-BioNeMo/genmol
+
+今日增长: +1
+当前Stars: 218
+
+
+## MolecularAI/PaRoutes
+
+今日增长: +1
+当前Stars: 95
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 57250
-
-
-## deepchem/deepchem
-
-今日增长: +0
-当前Stars: 7146
-
-
-## DeepGraphLearning/torchdrug
-
-今日增长: +0
-当前Stars: 1591
+当前Stars: 57367
 
 
 ## NVIDIA-BioNeMo/bionemo-recipes
@@ -193,6 +193,12 @@ Score: 6.25
 当前Stars: 478
 
 
+## aurekaresearch/OpenDDE
+
+今日增长: +0
+当前Stars: 533
+
+
 ## DSPsleeporg/smiles-transformer
 
 今日增长: +0
@@ -211,22 +217,16 @@ Score: 6.25
 当前Stars: 329
 
 
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +0
+当前Stars: 390
+
+
 ## AstraZeneca/awesome-drug-discovery-knowledge-graphs
 
 今日增长: +0
 当前Stars: 275
-
-
-## PatWalters/resources_2025
-
-今日增长: +0
-当前Stars: 271
-
-
-## benb111/awesome-small-molecule-ml
-
-今日增长: +0
-当前Stars: 245
 
 
 
