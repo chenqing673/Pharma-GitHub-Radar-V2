@@ -6,13 +6,13 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 57773
-Score: 881.38
+⭐ Stars: 57887
+Score: 882.87
 
 ### deepchem/deepchem
 
-⭐ Stars: 7154
-Score: 241.99
+⭐ Stars: 7152
+Score: 242.12
 
 ### rdkit/rdkit
 
@@ -21,13 +21,13 @@ Score: 92.46
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2105
-Score: 34.75
+⭐ Stars: 2109
+Score: 34.94
 
 ### DeepGraphLearning/torchdrug
 
-⭐ Stars: 1591
-Score: 27.06
+⭐ Stars: 1590
+Score: 27.05
 
 ### LeonChaoX/qinyan-academic-skills
 
@@ -36,18 +36,18 @@ Score: 15.39
 
 ### molecularsets/moses
 
-⭐ Stars: 999
-Score: 24.24
+⭐ Stars: 998
+Score: 24.23
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 907
-Score: 21.27
+⭐ Stars: 909
+Score: 21.29
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
 ⭐ Stars: 877
-Score: 18.27
+Score: 18.32
 
 ### xjtulyc/MedgeClaw
 
@@ -61,8 +61,8 @@ Score: 15.4
 
 ### datamol-io/datamol
 
-⭐ Stars: 560
-Score: 8.9
+⭐ Stars: 559
+Score: 8.89
 
 ### chemosim-lab/ProLIF
 
@@ -71,13 +71,13 @@ Score: 11.07
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 537
-Score: 8.87
+⭐ Stars: 539
+Score: 8.89
 
 ### oddt/oddt
 
-⭐ Stars: 478
-Score: 11.23
+⭐ Stars: 477
+Score: 11.22
 
 ### wengong-jin/hgraph2graph
 
@@ -101,108 +101,66 @@ Score: 5.62
 
 ### jaechang-hits/SciAgent-Skills
 
-⭐ Stars: 394
-Score: 6.29
+⭐ Stars: 395
+Score: 6.3
 
 
 
 # 🚀 Star快速增长榜
 
 
-## LeonChaoX/qinyan-academic-skills
-
-今日增长: +4
-当前Stars: 1054
-
-
 ## ai4s-research/awesome-ai-for-science
 
 今日增长: +4
-当前Stars: 2105
+当前Stars: 2109
 
 
-## rdkit/rdkit
+## Tyche-MKR/scientific-agent-skills
 
 今日增长: +3
-当前Stars: 3701
+当前Stars: 89
 
 
 ## aurekaresearch/OpenDDE
 
 今日增长: +2
-当前Stars: 537
+当前Stars: 539
 
 
-## K-Dense-AI/scientific-agent-skills
+## MolecularAI/REINVENT4
 
-今日增长: +1
-当前Stars: 57773
-
-
-## deepchem/deepchem
-
-今日增长: +1
-当前Stars: 7154
-
-
-## DeepGraphLearning/torchdrug
-
-今日增长: +1
-当前Stars: 1591
+今日增长: +2
+当前Stars: 909
 
 
 ## jaechang-hits/SciAgent-Skills
 
 今日增长: +1
-当前Stars: 394
+当前Stars: 395
 
 
-## AstraZeneca/awesome-drug-discovery-knowledge-graphs
-
-今日增长: +1
-当前Stars: 276
-
-
-## PatWalters/resources_2025
+## NVIDIA/MegaMolBART
 
 今日增长: +1
-当前Stars: 273
+当前Stars: 188
 
 
-## MolecularAI/REINVENT4
+## K-Dense-AI/scientific-agent-skills
 
-今日增长: +1
-当前Stars: 907
-
-
-## NVIDIA/nvalchemi-toolkit
-
-今日增长: +1
-当前Stars: 244
-
-
-## wjm41/molplotly
-
-今日增长: +1
-当前Stars: 267
-
-
-## gcorso/torsional-diffusion
-
-今日增长: +1
-当前Stars: 290
-
-
-## microsoft/retrochimera
-
-今日增长: +1
-当前Stars: 100
+今日增长: +0
+当前Stars: 57887
 
 
 ## NVIDIA-BioNeMo/bionemo-recipes
 
 今日增长: +0
 当前Stars: 877
+
+
+## LeonChaoX/qinyan-academic-skills
+
+今日增长: +0
+当前Stars: 1054
 
 
 ## xjtulyc/MedgeClaw
@@ -214,19 +172,61 @@ Score: 6.29
 ## oddt/oddt
 
 今日增长: +0
-当前Stars: 478
-
-
-## DSPsleeporg/smiles-transformer
-
-今日增长: +0
-当前Stars: 361
+当前Stars: 477
 
 
 ## dengjianyuan/Survey_AI_Drug_Discovery
 
 今日增长: +0
 当前Stars: 340
+
+
+## DeepWism/DeepWism-miRNA
+
+今日增长: +0
+当前Stars: 330
+
+
+## AstraZeneca/awesome-drug-discovery-knowledge-graphs
+
+今日增长: +0
+当前Stars: 276
+
+
+## PatWalters/resources_2025
+
+今日增长: +0
+当前Stars: 273
+
+
+## benb111/awesome-small-molecule-ml
+
+今日增长: +0
+当前Stars: 245
+
+
+## mattragoza/LiGAN
+
+今日增长: +0
+当前Stars: 239
+
+
+## Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery
+
+今日增长: +0
+当前Stars: 214
+
+
+## dockstring/dockstring
+
+今日增长: +0
+当前Stars: 192
+
+
+## tencent-ailab/DrugOOD
+
+今日增长: +0
+当前Stars: 173
 
 
 
@@ -385,6 +385,16 @@ https://github.com/cloudflare/security-audit-skill
 https://github.com/microsoft/markitdown
 
 
+## obra/superpowers
+
+📝 中文简介: 使用 Shell 脚本 开发；主要方向：ai、brainstorming、coding、obra、sdlc、skills、subagent-driven-development、superpowers。
+📄 英文原文: An agentic skills framework & software development methodology that works.
+⭐ 当日新增: +2028
+总 Stars: 322348
+语言: Shell
+https://github.com/obra/superpowers
+
+
 ## NVIDIA/auto-ontology
 
 📝 中文简介: 使用 Python 开发。
@@ -423,14 +433,4 @@ https://github.com/DietrichGebert/ponytail
 总 Stars: 60990
 语言: Jupyter Notebook
 https://github.com/microsoft/AI-For-Beginners
-
-
-## meta/astryx
-
-📝 中文简介: 使用 TypeScript 开发。
-📄 英文原文: An open source design system that's fully customizable and agent ready
-⭐ 当日新增: +1830
-总 Stars: 26918
-语言: TypeScript
-https://github.com/meta/astryx
 
