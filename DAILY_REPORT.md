@@ -6,33 +6,33 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 57887
-Score: 882.87
+⭐ Stars: 57967
+Score: 883.82
 
 ### deepchem/deepchem
 
-⭐ Stars: 7152
-Score: 242.12
+⭐ Stars: 7153
+Score: 242.18
 
 ### rdkit/rdkit
 
 ⭐ Stars: 3701
-Score: 92.46
+Score: 92.56
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2109
-Score: 34.94
+⭐ Stars: 2112
+Score: 35.02
 
 ### DeepGraphLearning/torchdrug
 
-⭐ Stars: 1590
-Score: 27.05
+⭐ Stars: 1591
+Score: 27.06
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 1054
-Score: 15.39
+⭐ Stars: 1055
+Score: 15.35
 
 ### molecularsets/moses
 
@@ -41,8 +41,8 @@ Score: 24.23
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 909
-Score: 21.29
+⭐ Stars: 910
+Score: 21.3
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
@@ -61,18 +61,18 @@ Score: 15.4
 
 ### datamol-io/datamol
 
-⭐ Stars: 559
-Score: 8.89
+⭐ Stars: 560
+Score: 8.9
 
 ### chemosim-lab/ProLIF
 
-⭐ Stars: 557
-Score: 11.07
+⭐ Stars: 558
+Score: 11.08
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 539
-Score: 8.89
+⭐ Stars: 540
+Score: 8.9
 
 ### oddt/oddt
 
@@ -96,8 +96,8 @@ Score: 8.49
 
 ### maabuu/posebusters
 
-⭐ Stars: 422
-Score: 5.62
+⭐ Stars: 423
+Score: 5.63
 
 ### jaechang-hits/SciAgent-Skills
 
@@ -111,56 +111,104 @@ Score: 6.3
 
 ## ai4s-research/awesome-ai-for-science
 
-今日增长: +4
-当前Stars: 2109
-
-
-## Tyche-MKR/scientific-agent-skills
-
 今日增长: +3
-当前Stars: 89
+当前Stars: 2112
+
+
+## deepchem/deepchem
+
+今日增长: +1
+当前Stars: 7153
+
+
+## DeepGraphLearning/torchdrug
+
+今日增长: +1
+当前Stars: 1591
+
+
+## LeonChaoX/qinyan-academic-skills
+
+今日增长: +1
+当前Stars: 1055
 
 
 ## aurekaresearch/OpenDDE
 
-今日增长: +2
-当前Stars: 539
+今日增长: +1
+当前Stars: 540
 
 
 ## MolecularAI/REINVENT4
 
-今日增长: +2
-当前Stars: 909
+今日增长: +1
+当前Stars: 910
 
 
-## jaechang-hits/SciAgent-Skills
+## dralgroup/mlatom
 
 今日增长: +1
-当前Stars: 395
+当前Stars: 171
 
 
-## NVIDIA/MegaMolBART
+## datamol-io/datamol
 
 今日增长: +1
-当前Stars: 188
+当前Stars: 560
+
+
+## chemosim-lab/ProLIF
+
+今日增长: +1
+当前Stars: 558
+
+
+## maabuu/posebusters
+
+今日增长: +1
+当前Stars: 423
+
+
+## RadonPy/RadonPy
+
+今日增长: +1
+当前Stars: 294
+
+
+## thomas0809/MolScribe
+
+今日增长: +1
+当前Stars: 349
+
+
+## NVIDIA-BioNeMo/nvMolKit
+
+今日增长: +1
+当前Stars: 285
+
+
+## microsoft/retrochimera
+
+今日增长: +1
+当前Stars: 101
+
+
+## jgassens/ChemDraft
+
+今日增长: +1
+当前Stars: 72
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 57887
+当前Stars: 57967
 
 
 ## NVIDIA-BioNeMo/bionemo-recipes
 
 今日增长: +0
 当前Stars: 877
-
-
-## LeonChaoX/qinyan-academic-skills
-
-今日增长: +0
-当前Stars: 1054
 
 
 ## xjtulyc/MedgeClaw
@@ -175,58 +223,10 @@ Score: 6.3
 当前Stars: 477
 
 
-## dengjianyuan/Survey_AI_Drug_Discovery
+## DSPsleeporg/smiles-transformer
 
 今日增长: +0
-当前Stars: 340
-
-
-## DeepWism/DeepWism-miRNA
-
-今日增长: +0
-当前Stars: 330
-
-
-## AstraZeneca/awesome-drug-discovery-knowledge-graphs
-
-今日增长: +0
-当前Stars: 276
-
-
-## PatWalters/resources_2025
-
-今日增长: +0
-当前Stars: 273
-
-
-## benb111/awesome-small-molecule-ml
-
-今日增长: +0
-当前Stars: 245
-
-
-## mattragoza/LiGAN
-
-今日增长: +0
-当前Stars: 239
-
-
-## Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery
-
-今日增长: +0
-当前Stars: 214
-
-
-## dockstring/dockstring
-
-今日增长: +0
-当前Stars: 192
-
-
-## tencent-ailab/DrugOOD
-
-今日增长: +0
-当前Stars: 173
+当前Stars: 359
 
 
 
@@ -385,16 +385,6 @@ https://github.com/cloudflare/security-audit-skill
 https://github.com/microsoft/markitdown
 
 
-## obra/superpowers
-
-📝 中文简介: 使用 Shell 脚本 开发；主要方向：ai、brainstorming、coding、obra、sdlc、skills、subagent-driven-development、superpowers。
-📄 英文原文: An agentic skills framework & software development methodology that works.
-⭐ 当日新增: +2028
-总 Stars: 322348
-语言: Shell
-https://github.com/obra/superpowers
-
-
 ## NVIDIA/auto-ontology
 
 📝 中文简介: 使用 Python 开发。
@@ -433,4 +423,14 @@ https://github.com/DietrichGebert/ponytail
 总 Stars: 60990
 语言: Jupyter Notebook
 https://github.com/microsoft/AI-For-Beginners
+
+
+## meta/astryx
+
+📝 中文简介: 使用 TypeScript 开发。
+📄 英文原文: An open source design system that's fully customizable and agent ready
+⭐ 当日新增: +1830
+总 Stars: 26918
+语言: TypeScript
+https://github.com/meta/astryx
 
