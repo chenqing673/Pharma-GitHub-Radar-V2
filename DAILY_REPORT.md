@@ -6,13 +6,13 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 58058
-Score: 884.83
+⭐ Stars: 58154
+Score: 886.29
 
 ### deepchem/deepchem
 
-⭐ Stars: 7153
-Score: 242.23
+⭐ Stars: 7155
+Score: 242.3
 
 ### rdkit/rdkit
 
@@ -21,8 +21,8 @@ Score: 92.58
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2113
-Score: 35.03
+⭐ Stars: 2114
+Score: 35.04
 
 ### DeepGraphLearning/torchdrug
 
@@ -31,8 +31,8 @@ Score: 27.07
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 1057
-Score: 15.37
+⭐ Stars: 1061
+Score: 15.41
 
 ### molecularsets/moses
 
@@ -42,7 +42,7 @@ Score: 24.23
 ### MolecularAI/REINVENT4
 
 ⭐ Stars: 910
-Score: 21.3
+Score: 21.35
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
@@ -57,7 +57,7 @@ Score: 12.85
 ### wengong-jin/icml18-jtnn
 
 ⭐ Stars: 565
-Score: 15.4
+Score: 15.35
 
 ### datamol-io/datamol
 
@@ -67,7 +67,7 @@ Score: 8.9
 ### chemosim-lab/ProLIF
 
 ⭐ Stars: 558
-Score: 11.08
+Score: 11.13
 
 ### aurekaresearch/OpenDDE
 
@@ -102,7 +102,7 @@ Score: 5.63
 ### jaechang-hits/SciAgent-Skills
 
 ⭐ Stars: 395
-Score: 6.3
+Score: 6.35
 
 
 
@@ -111,38 +111,62 @@ Score: 6.3
 
 ## LeonChaoX/qinyan-academic-skills
 
+今日增长: +4
+当前Stars: 1061
+
+
+## Tyche-MKR/scientific-agent-skills
+
+今日增长: +3
+当前Stars: 92
+
+
+## deepchem/deepchem
+
 今日增长: +2
-当前Stars: 1057
-
-
-## rdkit/rdkit
-
-今日增长: +2
-当前Stars: 3703
-
-
-## DeepGraphLearning/torchdrug
-
-今日增长: +1
-当前Stars: 1592
+当前Stars: 7155
 
 
 ## ai4s-research/awesome-ai-for-science
 
 今日增长: +1
-当前Stars: 2113
+当前Stars: 2114
+
+
+## argonne-lcf/ChemGraph
+
+今日增长: +1
+当前Stars: 172
+
+
+## microsoft/retrochimera
+
+今日增长: +1
+当前Stars: 102
+
+
+## jgassens/ChemDraft
+
+今日增长: +1
+当前Stars: 73
+
+
+## dogusariturk/PhaseForge
+
+今日增长: +1
+当前Stars: 78
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 58058
+当前Stars: 58154
 
 
-## deepchem/deepchem
+## DeepGraphLearning/torchdrug
 
 今日增长: +0
-当前Stars: 7153
+当前Stars: 1592
 
 
 ## NVIDIA-BioNeMo/bionemo-recipes
@@ -203,30 +227,6 @@ Score: 6.3
 
 今日增长: +0
 当前Stars: 273
-
-
-## benb111/awesome-small-molecule-ml
-
-今日增长: +0
-当前Stars: 245
-
-
-## mattragoza/LiGAN
-
-今日增长: +0
-当前Stars: 239
-
-
-## Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery
-
-今日增长: +0
-当前Stars: 214
-
-
-## dockstring/dockstring
-
-今日增长: +0
-当前Stars: 192
 
 
 
