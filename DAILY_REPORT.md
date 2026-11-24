@@ -6,33 +6,33 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 58154
-Score: 886.29
+⭐ Stars: 58306
+Score: 888.36
 
 ### deepchem/deepchem
 
-⭐ Stars: 7155
-Score: 242.3
+⭐ Stars: 7156
+Score: 242.41
 
 ### rdkit/rdkit
 
 ⭐ Stars: 3703
-Score: 92.58
+Score: 92.63
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2114
-Score: 35.04
+⭐ Stars: 2116
+Score: 35.06
 
 ### DeepGraphLearning/torchdrug
 
-⭐ Stars: 1592
-Score: 27.07
+⭐ Stars: 1593
+Score: 27.08
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 1061
-Score: 15.41
+⭐ Stars: 1065
+Score: 15.45
 
 ### molecularsets/moses
 
@@ -41,13 +41,13 @@ Score: 24.23
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 910
-Score: 21.35
+⭐ Stars: 911
+Score: 21.36
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
 ⭐ Stars: 877
-Score: 18.32
+Score: 18.42
 
 ### xjtulyc/MedgeClaw
 
@@ -76,8 +76,8 @@ Score: 8.9
 
 ### oddt/oddt
 
-⭐ Stars: 477
-Score: 11.22
+⭐ Stars: 478
+Score: 11.23
 
 ### wengong-jin/hgraph2graph
 
@@ -86,18 +86,18 @@ Score: 10.72
 
 ### kjappelbaum/awesome-chemistry-datasets
 
-⭐ Stars: 430
-Score: 7.45
+⭐ Stars: 431
+Score: 7.46
+
+### maabuu/posebusters
+
+⭐ Stars: 424
+Score: 5.64
 
 ### MinkaiXu/GeoDiff
 
 ⭐ Stars: 424
 Score: 8.49
-
-### maabuu/posebusters
-
-⭐ Stars: 423
-Score: 5.63
 
 ### jaechang-hits/SciAgent-Skills
 
@@ -112,61 +112,85 @@ Score: 6.35
 ## LeonChaoX/qinyan-academic-skills
 
 今日增长: +4
-当前Stars: 1061
-
-
-## Tyche-MKR/scientific-agent-skills
-
-今日增长: +3
-当前Stars: 92
-
-
-## deepchem/deepchem
-
-今日增长: +2
-当前Stars: 7155
+当前Stars: 1065
 
 
 ## ai4s-research/awesome-ai-for-science
 
+今日增长: +2
+当前Stars: 2116
+
+
+## PatWalters/useful_rdkit_utils
+
+今日增长: +2
+当前Stars: 246
+
+
+## deepchem/deepchem
+
 今日增长: +1
-当前Stars: 2114
+当前Stars: 7156
 
 
-## argonne-lcf/ChemGraph
+## DeepGraphLearning/torchdrug
+
+今日增长: +1
+当前Stars: 1593
+
+
+## MolecularAI/REINVENT4
+
+今日增长: +1
+当前Stars: 911
+
+
+## kjappelbaum/awesome-chemistry-datasets
+
+今日增长: +1
+当前Stars: 431
+
+
+## dralgroup/mlatom
 
 今日增长: +1
 当前Stars: 172
 
 
-## microsoft/retrochimera
+## argonne-lcf/ChemGraph
 
 今日增长: +1
-当前Stars: 102
+当前Stars: 173
 
 
-## jgassens/ChemDraft
-
-今日增长: +1
-当前Stars: 73
-
-
-## dogusariturk/PhaseForge
+## maabuu/posebusters
 
 今日增长: +1
-当前Stars: 78
+当前Stars: 424
+
+
+## gcorso/torsional-diffusion
+
+今日增长: +1
+当前Stars: 291
+
+
+## Tyche-MKR/scientific-agent-skills
+
+今日增长: +1
+当前Stars: 93
+
+
+## connorcoley/rdchiral
+
+今日增长: +1
+当前Stars: 194
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 58154
-
-
-## DeepGraphLearning/torchdrug
-
-今日增长: +0
-当前Stars: 1592
+当前Stars: 58306
 
 
 ## NVIDIA-BioNeMo/bionemo-recipes
@@ -184,7 +208,7 @@ Score: 6.35
 ## oddt/oddt
 
 今日增长: +0
-当前Stars: 477
+当前Stars: 478
 
 
 ## aurekaresearch/OpenDDE
@@ -203,30 +227,6 @@ Score: 6.35
 
 今日增长: +0
 当前Stars: 340
-
-
-## DeepWism/DeepWism-miRNA
-
-今日增长: +0
-当前Stars: 330
-
-
-## jaechang-hits/SciAgent-Skills
-
-今日增长: +0
-当前Stars: 395
-
-
-## AstraZeneca/awesome-drug-discovery-knowledge-graphs
-
-今日增长: +0
-当前Stars: 276
-
-
-## PatWalters/resources_2025
-
-今日增长: +0
-当前Stars: 273
 
 
 
@@ -385,6 +385,16 @@ https://github.com/cloudflare/security-audit-skill
 https://github.com/microsoft/markitdown
 
 
+## elementalsouls/Claude-BugHunter
+
+📝 中文简介: 使用 Python 开发；主要方向：ai-security、anthropic、application-security、bug-bounty、bugbounty、bugcrowd、claude、claude-code、claude-skills、ethical-hacking、hackerone、offensive-security、pentesting、red-team、security-tools、web-security。
+📄 英文原文: A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
+⭐ 当日新增: +2029
+总 Stars: 20510
+语言: Python
+https://github.com/elementalsouls/Claude-BugHunter
+
+
 ## NVIDIA/auto-ontology
 
 📝 中文简介: 使用 Python 开发。
@@ -423,14 +433,4 @@ https://github.com/DietrichGebert/ponytail
 总 Stars: 60990
 语言: Jupyter Notebook
 https://github.com/microsoft/AI-For-Beginners
-
-
-## meta/astryx
-
-📝 中文简介: 使用 TypeScript 开发。
-📄 英文原文: An open source design system that's fully customizable and agent ready
-⭐ 当日新增: +1830
-总 Stars: 26918
-语言: TypeScript
-https://github.com/meta/astryx
 
