@@ -6,33 +6,33 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 58306
-Score: 888.36
+⭐ Stars: 58422
+Score: 890.27
 
 ### deepchem/deepchem
 
-⭐ Stars: 7156
-Score: 242.41
+⭐ Stars: 7160
+Score: 242.45
 
 ### rdkit/rdkit
 
-⭐ Stars: 3703
-Score: 92.63
+⭐ Stars: 3705
+Score: 92.7
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2116
-Score: 35.06
+⭐ Stars: 2119
+Score: 35.14
 
 ### DeepGraphLearning/torchdrug
 
-⭐ Stars: 1593
-Score: 27.08
+⭐ Stars: 1594
+Score: 27.09
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 1065
-Score: 15.45
+⭐ Stars: 1066
+Score: 15.46
 
 ### molecularsets/moses
 
@@ -41,13 +41,13 @@ Score: 24.23
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 911
-Score: 21.36
+⭐ Stars: 913
+Score: 21.43
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
-⭐ Stars: 877
-Score: 18.42
+⭐ Stars: 878
+Score: 18.43
 
 ### xjtulyc/MedgeClaw
 
@@ -91,8 +91,8 @@ Score: 7.46
 
 ### maabuu/posebusters
 
-⭐ Stars: 424
-Score: 5.64
+⭐ Stars: 425
+Score: 5.65
 
 ### MinkaiXu/GeoDiff
 
@@ -109,55 +109,55 @@ Score: 6.35
 # 🚀 Star快速增长榜
 
 
-## LeonChaoX/qinyan-academic-skills
+## deepchem/deepchem
 
 今日增长: +4
-当前Stars: 1065
+当前Stars: 7160
 
 
 ## ai4s-research/awesome-ai-for-science
 
+今日增长: +3
+当前Stars: 2119
+
+
+## MolecularAI/REINVENT4
+
 今日增长: +2
-当前Stars: 2116
+当前Stars: 913
 
 
-## PatWalters/useful_rdkit_utils
+## NVIDIA/nvalchemi-toolkit
 
 今日增长: +2
 当前Stars: 246
 
 
-## deepchem/deepchem
+## rdkit/rdkit
 
-今日增长: +1
-当前Stars: 7156
+今日增长: +2
+当前Stars: 3705
 
 
 ## DeepGraphLearning/torchdrug
 
 今日增长: +1
-当前Stars: 1593
+当前Stars: 1594
 
 
-## MolecularAI/REINVENT4
-
-今日增长: +1
-当前Stars: 911
-
-
-## kjappelbaum/awesome-chemistry-datasets
+## NVIDIA-BioNeMo/bionemo-recipes
 
 今日增长: +1
-当前Stars: 431
+当前Stars: 878
+
+
+## LeonChaoX/qinyan-academic-skills
+
+今日增长: +1
+当前Stars: 1066
 
 
 ## dralgroup/mlatom
-
-今日增长: +1
-当前Stars: 172
-
-
-## argonne-lcf/ChemGraph
 
 今日增长: +1
 当前Stars: 173
@@ -166,37 +166,37 @@ Score: 6.35
 ## maabuu/posebusters
 
 今日增长: +1
-当前Stars: 424
+当前Stars: 425
 
 
-## gcorso/torsional-diffusion
-
-今日增长: +1
-当前Stars: 291
-
-
-## Tyche-MKR/scientific-agent-skills
+## RadonPy/RadonPy
 
 今日增长: +1
-当前Stars: 93
+当前Stars: 295
 
 
-## connorcoley/rdchiral
+## dreadlesss/rdkit_summary
 
 今日增长: +1
-当前Stars: 194
+当前Stars: 256
+
+
+## thomas0809/MolScribe
+
+今日增长: +1
+当前Stars: 350
+
+
+## NVIDIA-BioNeMo/genmol
+
+今日增长: +1
+当前Stars: 219
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 58306
-
-
-## NVIDIA-BioNeMo/bionemo-recipes
-
-今日增长: +0
-当前Stars: 877
+当前Stars: 58422
 
 
 ## xjtulyc/MedgeClaw
@@ -385,16 +385,6 @@ https://github.com/cloudflare/security-audit-skill
 https://github.com/microsoft/markitdown
 
 
-## elementalsouls/Claude-BugHunter
-
-📝 中文简介: 使用 Python 开发；主要方向：ai-security、anthropic、application-security、bug-bounty、bugbounty、bugcrowd、claude、claude-code、claude-skills、ethical-hacking、hackerone、offensive-security、pentesting、red-team、security-tools、web-security。
-📄 英文原文: A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
-⭐ 当日新增: +2029
-总 Stars: 20510
-语言: Python
-https://github.com/elementalsouls/Claude-BugHunter
-
-
 ## NVIDIA/auto-ontology
 
 📝 中文简介: 使用 Python 开发。
@@ -433,4 +423,14 @@ https://github.com/DietrichGebert/ponytail
 总 Stars: 60990
 语言: Jupyter Notebook
 https://github.com/microsoft/AI-For-Beginners
+
+
+## meta/astryx
+
+📝 中文简介: 使用 TypeScript 开发。
+📄 英文原文: An open source design system that's fully customizable and agent ready
+⭐ 当日新增: +1830
+总 Stars: 26918
+语言: TypeScript
+https://github.com/meta/astryx
 
