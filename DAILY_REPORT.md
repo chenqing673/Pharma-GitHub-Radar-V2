@@ -6,23 +6,23 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 58422
-Score: 890.27
+⭐ Stars: 58519
+Score: 891.39
 
 ### deepchem/deepchem
 
-⭐ Stars: 7160
-Score: 242.45
+⭐ Stars: 7162
+Score: 242.52
 
 ### rdkit/rdkit
 
-⭐ Stars: 3705
-Score: 92.7
+⭐ Stars: 3706
+Score: 92.66
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2119
-Score: 35.14
+⭐ Stars: 2121
+Score: 35.21
 
 ### DeepGraphLearning/torchdrug
 
@@ -31,8 +31,8 @@ Score: 27.09
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 1066
-Score: 15.46
+⭐ Stars: 1070
+Score: 15.55
 
 ### molecularsets/moses
 
@@ -41,8 +41,8 @@ Score: 24.23
 
 ### MolecularAI/REINVENT4
 
-⭐ Stars: 913
-Score: 21.43
+⭐ Stars: 915
+Score: 21.45
 
 ### NVIDIA-BioNeMo/bionemo-recipes
 
@@ -51,8 +51,8 @@ Score: 18.43
 
 ### xjtulyc/MedgeClaw
 
-⭐ Stars: 620
-Score: 12.85
+⭐ Stars: 619
+Score: 12.84
 
 ### wengong-jin/icml18-jtnn
 
@@ -62,7 +62,7 @@ Score: 15.35
 ### datamol-io/datamol
 
 ⭐ Stars: 560
-Score: 8.9
+Score: 8.85
 
 ### chemosim-lab/ProLIF
 
@@ -71,8 +71,8 @@ Score: 11.13
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 540
-Score: 8.9
+⭐ Stars: 541
+Score: 8.86
 
 ### oddt/oddt
 
@@ -101,120 +101,114 @@ Score: 8.49
 
 ### jaechang-hits/SciAgent-Skills
 
-⭐ Stars: 395
-Score: 6.35
+⭐ Stars: 396
+Score: 6.36
 
 
 
 # 🚀 Star快速增长榜
 
 
-## deepchem/deepchem
+## LeonChaoX/qinyan-academic-skills
 
 今日增长: +4
-当前Stars: 7160
+当前Stars: 1070
+
+
+## jgassens/ChemDraft
+
+今日增长: +4
+当前Stars: 77
+
+
+## deepchem/deepchem
+
+今日增长: +2
+当前Stars: 7162
 
 
 ## ai4s-research/awesome-ai-for-science
 
-今日增长: +3
-当前Stars: 2119
+今日增长: +2
+当前Stars: 2121
 
 
 ## MolecularAI/REINVENT4
 
 今日增长: +2
-当前Stars: 913
+当前Stars: 915
 
 
 ## NVIDIA/nvalchemi-toolkit
 
 今日增长: +2
-当前Stars: 246
+当前Stars: 248
+
+
+## ZiChenWang114514/chemdraw-skill
+
+今日增长: +2
+当前Stars: 58
+
+
+## aurekaresearch/OpenDDE
+
+今日增长: +1
+当前Stars: 541
+
+
+## jaechang-hits/SciAgent-Skills
+
+今日增长: +1
+当前Stars: 396
+
+
+## argonne-lcf/ChemGraph
+
+今日增长: +1
+当前Stars: 174
 
 
 ## rdkit/rdkit
 
-今日增长: +2
-当前Stars: 3705
+今日增长: +1
+当前Stars: 3706
 
 
-## DeepGraphLearning/torchdrug
+## NVIDIA-BioNeMo/nvMolKit
 
 今日增长: +1
-当前Stars: 1594
-
-
-## NVIDIA-BioNeMo/bionemo-recipes
-
-今日增长: +1
-当前Stars: 878
-
-
-## LeonChaoX/qinyan-academic-skills
-
-今日增长: +1
-当前Stars: 1066
-
-
-## dralgroup/mlatom
-
-今日增长: +1
-当前Stars: 173
-
-
-## maabuu/posebusters
-
-今日增长: +1
-当前Stars: 425
-
-
-## RadonPy/RadonPy
-
-今日增长: +1
-当前Stars: 295
-
-
-## dreadlesss/rdkit_summary
-
-今日增长: +1
-当前Stars: 256
-
-
-## thomas0809/MolScribe
-
-今日增长: +1
-当前Stars: 350
+当前Stars: 286
 
 
 ## NVIDIA-BioNeMo/genmol
 
 今日增长: +1
-当前Stars: 219
+当前Stars: 220
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 58422
+当前Stars: 58519
 
 
-## xjtulyc/MedgeClaw
+## DeepGraphLearning/torchdrug
 
 今日增长: +0
-当前Stars: 620
+当前Stars: 1594
+
+
+## NVIDIA-BioNeMo/bionemo-recipes
+
+今日增长: +0
+当前Stars: 878
 
 
 ## oddt/oddt
 
 今日增长: +0
 当前Stars: 478
-
-
-## aurekaresearch/OpenDDE
-
-今日增长: +0
-当前Stars: 540
 
 
 ## DSPsleeporg/smiles-transformer
@@ -227,6 +221,12 @@ Score: 6.35
 
 今日增长: +0
 当前Stars: 340
+
+
+## DeepWism/DeepWism-miRNA
+
+今日增长: +0
+当前Stars: 330
 
 
 
