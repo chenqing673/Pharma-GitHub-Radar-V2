@@ -6,33 +6,33 @@
 
 ### K-Dense-AI/scientific-agent-skills
 
-⭐ Stars: 58641
-Score: 892.81
+⭐ Stars: 58735
+Score: 894.15
 
 ### deepchem/deepchem
 
-⭐ Stars: 7162
-Score: 242.62
+⭐ Stars: 7166
+Score: 242.76
 
 ### rdkit/rdkit
 
-⭐ Stars: 3706
-Score: 92.71
+⭐ Stars: 3708
+Score: 92.88
 
 ### ai4s-research/awesome-ai-for-science
 
-⭐ Stars: 2124
-Score: 35.29
+⭐ Stars: 2125
+Score: 35.4
 
 ### DeepGraphLearning/torchdrug
 
-⭐ Stars: 1594
-Score: 27.09
+⭐ Stars: 1593
+Score: 27.08
 
 ### LeonChaoX/qinyan-academic-skills
 
-⭐ Stars: 1073
-Score: 15.58
+⭐ Stars: 1075
+Score: 15.6
 
 ### molecularsets/moses
 
@@ -51,8 +51,8 @@ Score: 18.42
 
 ### xjtulyc/MedgeClaw
 
-⭐ Stars: 620
-Score: 12.85
+⭐ Stars: 621
+Score: 12.86
 
 ### wengong-jin/icml18-jtnn
 
@@ -71,13 +71,13 @@ Score: 11.14
 
 ### aurekaresearch/OpenDDE
 
-⭐ Stars: 543
-Score: 8.93
+⭐ Stars: 544
+Score: 8.94
 
 ### oddt/oddt
 
 ⭐ Stars: 478
-Score: 11.23
+Score: 11.28
 
 ### wengong-jin/hgraph2graph
 
@@ -109,70 +109,100 @@ Score: 6.38
 # 🚀 Star快速增长榜
 
 
+## deepchem/deepchem
+
+今日增长: +4
+当前Stars: 7166
+
+
 ## LeonChaoX/qinyan-academic-skills
 
-今日增长: +3
-当前Stars: 1073
+今日增长: +2
+当前Stars: 1075
 
 
-## ai4s-research/awesome-ai-for-science
-
-今日增长: +3
-当前Stars: 2124
-
-
-## aurekaresearch/OpenDDE
+## rdkit/rdkit
 
 今日增长: +2
-当前Stars: 543
+当前Stars: 3708
 
 
-## jaechang-hits/SciAgent-Skills
+## jgassens/ChemDraft
 
 今日增长: +2
-当前Stars: 398
+当前Stars: 79
 
 
 ## xjtulyc/MedgeClaw
 
 今日增长: +1
-当前Stars: 620
+当前Stars: 621
 
 
-## chemosim-lab/ProLIF
-
-今日增长: +1
-当前Stars: 559
-
-
-## Mishima-syk/py4chemoinformatics
+## aurekaresearch/OpenDDE
 
 今日增长: +1
-当前Stars: 237
+当前Stars: 544
 
 
-## deepforestsci/DeepRetro
+## AstraZeneca/awesome-drug-discovery-knowledge-graphs
 
 今日增长: +1
-当前Stars: 35
+当前Stars: 277
+
+
+## ai4s-research/awesome-ai-for-science
+
+今日增长: +1
+当前Stars: 2125
+
+
+## argonne-lcf/ChemGraph
+
+今日增长: +1
+当前Stars: 175
+
+
+## SimonsTang/feifei-companion
+
+今日增长: +1
+当前Stars: 117
+
+
+## RadonPy/RadonPy
+
+今日增长: +1
+当前Stars: 296
+
+
+## gmh14/data_efficient_grammar
+
+今日增长: +1
+当前Stars: 103
+
+
+## otori-bird/retrosynthesis
+
+今日增长: +1
+当前Stars: 81
+
+
+## ZiChenWang114514/chemdraw-skill
+
+今日增长: +1
+当前Stars: 59
 
 
 ## K-Dense-AI/scientific-agent-skills
 
 今日增长: +0
-当前Stars: 58641
+当前Stars: 58735
 
 
-## deepchem/deepchem
-
-今日增长: +0
-当前Stars: 7162
-
-
-## DeepGraphLearning/torchdrug
+## NVIDIA-BioNeMo/bionemo-recipes
 
 今日增长: +0
-当前Stars: 1594
+当前Stars: 877
 
 
 ## oddt/oddt
@@ -197,36 +227,6 @@ Score: 6.38
 
 今日增长: +0
 当前Stars: 330
-
-
-## AstraZeneca/awesome-drug-discovery-knowledge-graphs
-
-今日增长: +0
-当前Stars: 276
-
-
-## PatWalters/resources_2025
-
-今日增长: +0
-当前Stars: 273
-
-
-## benb111/awesome-small-molecule-ml
-
-今日增长: +0
-当前Stars: 245
-
-
-## mattragoza/LiGAN
-
-今日增长: +0
-当前Stars: 239
-
-
-## Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery
-
-今日增长: +0
-当前Stars: 214
 
 
 
